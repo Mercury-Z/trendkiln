@@ -22,12 +22,12 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "topics": [],
-      "stars": 30616,
-      "stars_delta": 320,
-      "forks": 3294,
-      "forks_delta": 15,
+      "stars": 31628,
+      "stars_delta": 1012,
+      "forks": 3356,
+      "forks_delta": 62,
       "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
         "zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
         "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model."
@@ -50,246 +50,232 @@
     },
     {
       "rank": 2,
-      "full_name": "ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
+      "full_name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
       "topics": [
-        "accounting",
-        "billing",
-        "bookkeeping",
-        "crm",
-        "crm-platform",
-        "erp",
-        "expenses",
-        "hr",
-        "human-resources",
-        "invoices",
-        "invoicing",
-        "issue-tracker",
-        "payroll",
-        "productivity",
-        "project-management",
-        "salary",
-        "team-management",
-        "time-tracker",
-        "time-tracking",
-        "timetracking"
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
       ],
-      "stars": 5500,
-      "stars_delta": 142,
-      "forks": 959,
-      "forks_delta": 3,
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 25234,
+      "stars_delta": 1252,
+      "forks": 1843,
+      "forks_delta": 75,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
-        "en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
       },
       "strengths": {
-        "zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
-        "en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)"
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
       },
       "innovations": {
-        "zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
-        "en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…"
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
       },
-      "purpose_zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
-      "purpose_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "strengths_zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
-      "strengths_en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)",
-      "innovations_zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
-      "innovations_en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…",
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
       "insights_source": "readme"
     },
     {
       "rank": 3,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
+      "full_name": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
       "topics": [
-        "3d-globe",
-        "cesium",
-        "flight-tracking",
-        "geospatial",
-        "geospatial-intelligence",
-        "gis",
-        "osint",
-        "photogrammetry",
-        "satellite-tracking",
-        "spatial-intelligence",
-        "webgl",
-        "worldview"
+        "ai",
+        "audio-generation",
+        "deep-learning",
+        "foundation-models",
+        "gpt",
+        "huggingface",
+        "llama",
+        "llms",
+        "music-generation",
+        "style-transfers",
+        "voice-cloning"
       ],
-      "stars": 32599,
-      "stars_delta": 255,
-      "forks": 6510,
-      "forks_delta": 36,
-      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 8227,
+      "stars_delta": 253,
+      "forks": 898,
+      "forks_delta": 18,
+      "html_url": "https://github.com/multimodal-art-projection/YuE",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
-        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+        "zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
+        "en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
       },
       "strengths": {
-        "zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
-        "en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…"
+        "zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
+        "en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound."
       },
       "innovations": {
-        "zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
-        "en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…"
+        "zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
+        "en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**."
       },
-      "purpose_zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
-      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "strengths_zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
-      "strengths_en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…",
-      "innovations_zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
-      "innovations_en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…",
+      "purpose_zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
+      "purpose_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "strengths_zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
+      "strengths_en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound.",
+      "innovations_zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
+      "innovations_en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.",
       "insights_source": "readme"
     },
     {
       "rank": 4,
-      "full_name": "tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
       "topics": [
-        "agent",
         "ai",
-        "antigravity",
-        "claude-code",
-        "copilot",
-        "cursor",
-        "skills"
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
       ],
-      "stars": 5836,
-      "stars_delta": 52,
-      "forks": 504,
-      "forks_delta": 1,
-      "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 28785,
+      "stars_delta": 1044,
+      "forks": 3517,
+      "forks_delta": 100,
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
-        "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
       },
       "strengths": {
-        "zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
-        "en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,"
+        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
+        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
       },
       "innovations": {
-        "zh": "代理技能",
-        "en": "Agent Skills"
+        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
+        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
       },
-      "purpose_zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
-      "purpose_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "strengths_zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
-      "strengths_en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,",
-      "innovations_zh": "代理技能",
-      "innovations_en": "Agent Skills",
+      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
+      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
+      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
+      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
       "insights_source": "readme"
     },
     {
       "rank": 5,
-      "full_name": "melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
+      "full_name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
       "topics": [
-        "ai",
-        "ai-agents",
-        "chatbot",
-        "crm",
-        "customer-support",
-        "ecommerce",
-        "lgpd",
-        "mcp",
-        "multi-tenant",
-        "nextjs",
-        "nuvemshop",
-        "open-source",
-        "rag",
-        "sales-automation",
-        "self-hosted",
-        "supabase",
-        "typescript",
-        "waha",
-        "whatsapp",
-        "whatsapp-api"
+        "agent-memory",
+        "financial-forecasting",
+        "future-prediction",
+        "knowledge-graph",
+        "llms",
+        "multi-agent-simulation",
+        "public-opinion-analysis",
+        "python3",
+        "social-prediction",
+        "swarm-intelligence"
       ],
-      "stars": 2372,
-      "stars_delta": 47,
-      "forks": 608,
-      "forks_delta": 1,
-      "html_url": "https://github.com/melgarafael/DeskcommCRM",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 73016,
+      "stars_delta": 524,
+      "forks": 11278,
+      "forks_delta": 0,
+      "html_url": "https://github.com/666ghj/MiroFish",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "melgarafael/DeskcommCRM：开源AI销售操作系统—使用本地AI代理+ WhatsApp (WAHA)的自托管CRM。对于任何通过聊天销售的企业， Kommo、Octadesk和Intercom的替代方案都是开放的。MCP就绪、多租户、LGPD。",
-        "en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+        "zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
       },
       "strengths": {
-        "zh": "使用⟦TypeScript构建⟧；焦点： ai、ai-agents、chatbot、crm、客户支持、电子商务； Português · English · Español ； Agentes de IA que atendem、qualificam e vendem no WhatsApp — dentro de um CRM开源rodando no seu servidor。* *; Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom. * *",
-        "en": "Built with TypeScript; Focus: ai, ai-agents, chatbot, crm, customer-support, ecommerce; Português · English · Español; Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no seu servidor.**; Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom.**"
+        "zh": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
+        "en": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…"
       },
       "innovations": {
-        "zh": "葡萄牙语·英语·西班牙语",
-        "en": "Português · English · Español"
+        "zh": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
+        "en": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…"
       },
-      "purpose_zh": "melgarafael/DeskcommCRM：开源AI销售操作系统—使用本地AI代理+ WhatsApp (WAHA)的自托管CRM。对于任何通过聊天销售的企业， Kommo、Octadesk和Intercom的替代方案都是开放的。MCP就绪、多租户、LGPD。",
-      "purpose_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "strengths_zh": "使用⟦TypeScript构建⟧；焦点： ai、ai-agents、chatbot、crm、客户支持、电子商务； Português · English · Español ； Agentes de IA que atendem、qualificam e vendem no WhatsApp — dentro de um CRM开源rodando no seu servidor。* *; Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom. * *",
-      "strengths_en": "Built with TypeScript; Focus: ai, ai-agents, chatbot, crm, customer-support, ecommerce; Português · English · Español; Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no seu servidor.**; Sem mensalidade, sem feature travada, seus dados com você. A alternativa aberta a Kommo, Octadesk e Intercom.**",
-      "innovations_zh": "葡萄牙语·英语·西班牙语",
-      "innovations_en": "Português · English · Español",
-      "insights_source": "readme"
+      "purpose_zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "purpose_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "strengths_zh": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
+      "strengths_en": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
+      "innovations_zh": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
+      "innovations_en": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 6,
-      "full_name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "claude",
-        "copilot",
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
         "cursor",
-        "elevenlabs",
-        "ffmpeg",
-        "flux",
-        "image-generation",
-        "open-source",
-        "openai",
+        "free-api",
+        "llm-tools",
+        "mcp",
         "python",
-        "remotion",
-        "stable-diffusion",
-        "text-to-speech",
-        "text-to-video",
-        "video-generation",
-        "video-production"
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
       ],
-      "stars": 58810,
-      "stars_delta": 129,
-      "forks": 7385,
-      "forks_delta": 12,
-      "html_url": "https://github.com/calesthio/OpenMontage",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 81048,
+      "stars_delta": 640,
+      "forks": 7058,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "calesthio/OpenMontage：全球首个开源代理视频制作系统。12个制作管道、100多个工具、700多个代理技能和生产知识文件。将您的AI编码助手变成一个完整的视频制作工作室。",
-        "en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： agent、agentic-ai、ai、claude、copilot、cursor ； Monty the Clapper — OpenMontage的官方吉祥物；第一个开源代理视频制作系统。;粘贴视频·",
-        "en": "Built with Python; Focus: agent, agentic-ai, ai, claude, copilot, cursor; Monty the Clapper — the official mascot of OpenMontage; The first open-source, agentic video production system.; Paste A Video &nbsp;·&nbsp;"
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
       },
       "innovations": {
-        "zh": "世界上第一个开源代理视频制作系统。; Monty the Clapper — OpenMontage的官方吉祥物第一个开源代理视频制作系统。",
-        "en": "World's first open-source, agentic video production system.; Monty the Clapper — the official mascot of OpenMontage The first open-source, agentic video production system."
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
       },
-      "purpose_zh": "calesthio/OpenMontage：全球首个开源代理视频制作系统。12个制作管道、100多个工具、700多个代理技能和生产知识文件。将您的AI编码助手变成一个完整的视频制作工作室。",
-      "purpose_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： agent、agentic-ai、ai、claude、copilot、cursor ； Monty the Clapper — OpenMontage的官方吉祥物；第一个开源代理视频制作系统。;粘贴视频·",
-      "strengths_en": "Built with Python; Focus: agent, agentic-ai, ai, claude, copilot, cursor; Monty the Clapper — the official mascot of OpenMontage; The first open-source, agentic video production system.; Paste A Video &nbsp;·&nbsp;",
-      "innovations_zh": "世界上第一个开源代理视频制作系统。; Monty the Clapper — OpenMontage的官方吉祥物第一个开源代理视频制作系统。",
-      "innovations_en": "World's first open-source, agentic video production system.; Monty the Clapper — the official mascot of OpenMontage The first open-source, agentic video production system.",
-      "insights_source": "readme"
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
@@ -318,12 +304,12 @@
         "system-prompt",
         "system-prompts"
       ],
-      "stars": 66341,
-      "stars_delta": 99,
-      "forks": 10830,
-      "forks_delta": 8,
+      "stars": 66648,
+      "stars_delta": 307,
+      "forks": 10858,
+      "forks_delta": 28,
       "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
         "zh": "asgeirtj/system_prompts_leaks：从Anthropic - ⟦Claude表5.1、Opus⟧ 5、Claude设计、Claude代码中提取系统提示。OpenAI - ChatGPT GPT-6 -Astra, Codex. Google - Gemini 3.8 Flash、3.1 Pro、反重力。xAI - Grok、Grok Bot⟦、⟧Cursor、Kimi等！更新……",
         "en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated…"
@@ -346,465 +332,302 @@
     },
     {
       "rank": 8,
-      "full_name": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
+      "full_name": "rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
       "topics": [
-        "ai-agents",
-        "ai-security-tool",
-        "anthropic",
-        "autonomous-agents",
-        "golang",
-        "gpt",
-        "graphql",
-        "multi-agent-system",
-        "offensive-security",
-        "open-source",
-        "openai",
-        "penetration-testing",
-        "penetration-testing-tools",
-        "react",
-        "security-automation",
-        "security-testing",
-        "security-tools",
-        "self-hosted"
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "hermes-agent",
+        "hermes-skill",
+        "skills"
       ],
-      "stars": 24235,
-      "stars_delta": 107,
-      "forks": 3115,
-      "forks_delta": 9,
-      "html_url": "https://github.com/vxcontrol/pentagi",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 1920,
+      "stars_delta": 52,
+      "forks": 155,
+      "forks_delta": 0,
+      "html_url": "https://github.com/rlaope/oh-my-hermes",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "vxcontrol/pentagi：完全自主的AI Agents系统，能够执行复杂的渗透测试任务",
-        "en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+        "zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
       },
       "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： ai-agents、ai-security-tool⟧、⟦anthropic、autonomous-agents⟧、⟦golang、gpt ； P enetration testing A rtificial G eneral I ntelligence ；加入社区！ * *与安全研究人员、人工智能爱好者和其他道德黑客建立联系。获取支持…;架构",
-        "en": "Built with Go; Focus: ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt; P enetration testing A rtificial G eneral I ntelligence; Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support…; Architecture"
+        "zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+        "en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…"
       },
       "innovations": {
-        "zh": "【创新点】P enetration testing A rtificial G eneral I ntelligence",
-        "en": "P enetration testing A rtificial G eneral I ntelligence"
+        "zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+        "en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…"
       },
-      "purpose_zh": "vxcontrol/pentagi：完全自主的AI Agents系统，能够执行复杂的渗透测试任务",
-      "purpose_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： ai-agents、ai-security-tool⟧、⟦anthropic、autonomous-agents⟧、⟦golang、gpt ； P enetration testing A rtificial G eneral I ntelligence ；加入社区！ * *与安全研究人员、人工智能爱好者和其他道德黑客建立联系。获取支持…;架构",
-      "strengths_en": "Built with Go; Focus: ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt; P enetration testing A rtificial G eneral I ntelligence; Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support…; Architecture",
-      "innovations_zh": "【创新点】P enetration testing A rtificial G eneral I ntelligence",
-      "innovations_en": "P enetration testing A rtificial G eneral I ntelligence",
-      "insights_source": "readme"
+      "purpose_zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "purpose_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "strengths_zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+      "strengths_en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+      "innovations_zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+      "innovations_en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
+      "full_name": "localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
       "topics": [
-        "ai",
-        "audio-generation",
-        "deep-learning",
-        "foundation-models",
-        "gpt",
-        "huggingface",
-        "llama",
-        "llms",
-        "music-generation",
-        "style-transfers",
-        "voice-cloning"
+        "dart",
+        "file-sharing",
+        "flutter",
+        "flutter-apps"
       ],
-      "stars": 7974,
-      "stars_delta": 77,
-      "forks": 880,
-      "forks_delta": 6,
-      "html_url": "https://github.com/multimodal-art-projection/YuE",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 91177,
+      "stars_delta": 311,
+      "forks": 5090,
+      "forks_delta": 0,
+      "html_url": "https://github.com/localsend/localsend",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
-        "en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+        "zh": "An open-source cross-platform alternative to AirDrop",
+        "en": "An open-source cross-platform alternative to AirDrop"
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
-        "en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound."
+        "zh": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
+        "en": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…"
       },
       "innovations": {
-        "zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
-        "en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**."
+        "zh": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
+        "en": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…"
       },
-      "purpose_zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
-      "purpose_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
-      "strengths_en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound.",
-      "innovations_zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
-      "innovations_en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.",
-      "insights_source": "readme"
+      "purpose_zh": "An open-source cross-platform alternative to AirDrop",
+      "purpose_en": "An open-source cross-platform alternative to AirDrop",
+      "strengths_zh": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
+      "strengths_en": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
+      "innovations_zh": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
+      "innovations_en": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 10,
-      "full_name": "yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
+      "full_name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
       "topics": [
-        "android",
-        "android-tv",
-        "android-tv-box",
-        "java",
-        "kotlin",
-        "retrofit2",
-        "rxjava-android"
+        "bitwarden",
+        "bitwarden-rs",
+        "docker",
+        "rocket",
+        "rust",
+        "vaultwarden"
       ],
-      "stars": 33552,
-      "stars_delta": 39,
-      "forks": 2039,
-      "forks_delta": 2,
-      "html_url": "https://github.com/yuliskov/SmartTube",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 67473,
+      "stars_delta": 110,
+      "forks": 3207,
+      "forks_delta": 0,
+      "html_url": "https://github.com/dani-garcia/vaultwarden",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "yuliskov/SmartTube：在Android电视上使用您自己的规则浏览媒体内容",
-        "en": "Browse media content with your own rules on Android TV"
+        "zh": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
       },
       "strengths": {
-        "zh": "使用Java构建；焦点： android、android -tv⟧、⟦android -tv-box、java⟧、⟦kotlin、retrofit2 ；我的开发环境受到未知恶意软件的感染，因此一些构建可能已被感染…… ；公钥可能已被泄露，这就是我分享此问题的原因。您可以下载新版本和…;无需额外操作，因为应用程序使用* *一次性连接",
-        "en": "Built with Java; Focus: android, android-tv, android-tv-box, java, kotlin, retrofit2; My development environment was infected by unknown malicious software, as a result of which a few builds may have been…; Public keys may have been compromised, which is why I am sharing this issue. You can download the new version and the…; No extra actions are required since the app uses **one-time connection co"
+        "zh": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
+        "en": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…"
       },
       "innovations": {
-        "zh": "您可以在下面下载新版本和新公钥，并提供恢复备份的说明。",
-        "en": "You can download the new version and the new public key below, and instructions for restoring backups are provided."
+        "zh": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
+        "en": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…"
       },
-      "purpose_zh": "yuliskov/SmartTube：在Android电视上使用您自己的规则浏览媒体内容",
-      "purpose_en": "Browse media content with your own rules on Android TV",
-      "strengths_zh": "使用Java构建；焦点： android、android -tv⟧、⟦android -tv-box、java⟧、⟦kotlin、retrofit2 ；我的开发环境受到未知恶意软件的感染，因此一些构建可能已被感染…… ；公钥可能已被泄露，这就是我分享此问题的原因。您可以下载新版本和…;无需额外操作，因为应用程序使用* *一次性连接",
-      "strengths_en": "Built with Java; Focus: android, android-tv, android-tv-box, java, kotlin, retrofit2; My development environment was infected by unknown malicious software, as a result of which a few builds may have been…; Public keys may have been compromised, which is why I am sharing this issue. You can download the new version and the…; No extra actions are required since the app uses **one-time connection co",
-      "innovations_zh": "您可以在下面下载新版本和新公钥，并提供恢复备份的说明。",
-      "innovations_en": "You can download the new version and the new public key below, and instructions for restoring backups are provided.",
-      "insights_source": "readme"
+      "purpose_zh": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "purpose_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "strengths_zh": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
+      "strengths_en": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
+      "innovations_zh": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
+      "innovations_en": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 11,
-      "full_name": "alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "topics": [],
-      "stars": 2292,
-      "stars_delta": 62,
-      "forks": 152,
-      "forks_delta": 1,
-      "html_url": "https://github.com/alphaXiv/OpenResearch",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "stars": 105910,
+      "stars_delta": 756,
+      "forks": 20286,
+      "forks_delta": 0,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "alphaXiv/OpenResearch：将您的编码代理转变为研究代理",
-        "en": "Turn your coding agents into research agents"
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
       },
       "strengths": {
-        "zh": "使用⟦Rust构建⟧； OpenResearch ；研究代理和自动搜索的本地首选工作区。* *; Turn Claude Code,",
-        "en": "Built with Rust; OpenResearch; The local-first workspace for research agents and autoresearch.**; Turn Claude Code,"
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…"
       },
       "innovations": {
-        "zh": "将您的编码代理转变为研究代理* *研究代理和自动搜索的本地首选工作区。",
-        "en": "Turn your coding agents into research agents **The local-first workspace for research agents and autoresearch."
+        "zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+        "en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…"
       },
-      "purpose_zh": "alphaXiv/OpenResearch：将您的编码代理转变为研究代理",
-      "purpose_en": "Turn your coding agents into research agents",
-      "strengths_zh": "使用⟦Rust构建⟧； OpenResearch ；研究代理和自动搜索的本地首选工作区。* *; Turn Claude Code,",
-      "strengths_en": "Built with Rust; OpenResearch; The local-first workspace for research agents and autoresearch.**; Turn Claude Code,",
-      "innovations_zh": "将您的编码代理转变为研究代理* *研究代理和自动搜索的本地首选工作区。",
-      "innovations_en": "Turn your coding agents into research agents **The local-first workspace for research agents and autoresearch.",
-      "insights_source": "readme"
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+      "innovations_zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+      "innovations_en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
       "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
+        "awesome",
+        "claude",
+        "densepose",
+        "esp32",
+        "firmware",
+        "home-assistant",
+        "home-automation",
+        "iot",
+        "monitoring",
+        "networking",
+        "npm",
+        "pose-estimation",
+        "react",
+        "rf",
+        "self-learning",
+        "skills",
+        "spatial-intelligence",
+        "typescript",
+        "wifi",
+        "wifi-security"
       ],
-      "stars": 27741,
-      "stars_delta": 314,
-      "forks": 3417,
-      "forks_delta": 39,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 93741,
+      "stars_delta": 370,
+      "forks": 12423,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ruvnet/RuView",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        "zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
+        "zh": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
+        "en": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…"
       },
       "innovations": {
-        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
+        "zh": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
+        "en": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…"
       },
-      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
-      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
-      "insights_source": "readme"
+      "purpose_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "purpose_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "strengths_zh": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
+      "strengths_en": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
+      "innovations_zh": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
+      "innovations_en": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
+      "full_name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
       "topics": [
-        "claude-ai",
-        "claude-pt",
-        "claude-skills",
-        "redteam",
-        "redteam-tools",
+        "agent",
+        "ai",
+        "antigravity",
+        "claude-code",
+        "copilot",
+        "cursor",
         "skills"
       ],
-      "stars": 4348,
-      "stars_delta": 71,
-      "forks": 606,
-      "forks_delta": 6,
-      "html_url": "https://github.com/SnailSploit/Claude-Red",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 5971,
+      "stars_delta": 135,
+      "forks": 512,
+      "forks_delta": 8,
+      "html_url": "https://github.com/tech-leads-club/agent-skills",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
-        "en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…"
+        "zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
+        "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
-        "en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system."
+        "zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
+        "en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,"
       },
       "innovations": {
-        "zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
-        "en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…"
+        "zh": "代理技能",
+        "en": "Agent Skills"
       },
-      "purpose_zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
-      "purpose_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
-      "strengths_en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system.",
-      "innovations_zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
-      "innovations_en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…",
+      "purpose_zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
+      "purpose_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "strengths_zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
+      "strengths_en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,",
+      "innovations_zh": "代理技能",
+      "innovations_en": "Agent Skills",
       "insights_source": "readme"
     },
     {
       "rank": 14,
-      "full_name": "alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
+      "full_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
       "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
       ],
-      "stars": 23982,
-      "stars_delta": 178,
-      "forks": 1768,
-      "forks_delta": 9,
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "stars": 37291,
+      "stars_delta": 204,
+      "forks": 4237,
+      "forks_delta": 0,
+      "html_url": "https://github.com/OpenBMB/VoxCPM",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
-        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
+        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
       },
       "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
+        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…"
       },
       "innovations": {
-        "zh": "【创新点】OpenCodeReview",
-        "en": "OpenCodeReview"
+        "zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
+        "en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…"
       },
-      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
-      "innovations_zh": "【创新点】OpenCodeReview",
-      "innovations_en": "OpenCodeReview",
-      "insights_source": "readme"
+      "purpose_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "purpose_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "strengths_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+      "strengths_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+      "innovations_zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
+      "innovations_en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 15,
-      "full_name": "jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "llm",
-        "mathmodel",
-        "skills"
-      ],
-      "stars": 5482,
-      "stars_delta": 41,
-      "forks": 414,
-      "forks_delta": 2,
-      "html_url": "https://github.com/jihe520/MathModelAgent",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
-      "purpose": {
-        "zh": "专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-        "en": "专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；关注：agent, llm, mathmodel, skills；专为数学建模设计的 Agent；自动完成数学建模，生成一份完整的可以直接提交的论文。；⬇️ 下载最新桌面版（推荐）",
-        "en": "Built with Python; Focus: agent, llm, mathmodel, skills; 专为数学建模设计的 Agent; 自动完成数学建模，生成一份完整的可以直接提交的论文。; ⬇️ 下载最新桌面版（推荐）"
-      },
-      "innovations": {
-        "zh": "专为数学建模设计的 Agent",
-        "en": "专为数学建模设计的 Agent"
-      },
-      "purpose_zh": "专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "purpose_en": "专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "strengths_zh": "基于 Python 构建；关注：agent, llm, mathmodel, skills；专为数学建模设计的 Agent；自动完成数学建模，生成一份完整的可以直接提交的论文。；⬇️ 下载最新桌面版（推荐）",
-      "strengths_en": "Built with Python; Focus: agent, llm, mathmodel, skills; 专为数学建模设计的 Agent; 自动完成数学建模，生成一份完整的可以直接提交的论文。; ⬇️ 下载最新桌面版（推荐）",
-      "innovations_zh": "专为数学建模设计的 Agent",
-      "innovations_en": "专为数学建模设计的 Agent",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 16,
-      "full_name": "tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "topics": [
-        "bilibili-downloader",
-        "course-downloader",
-        "download-manager",
-        "downloader",
-        "epub-reader",
-        "hotmart-downloader",
-        "instagram-downloader",
-        "media-downloader",
-        "reddit-downloader",
-        "spaced-repetition",
-        "subtitle-downloader",
-        "telegram-downloader",
-        "tiktok-downloader",
-        "twitch-downloader",
-        "twitter-downloader",
-        "udemy-downloader",
-        "video-downloader",
-        "youtube-downloader",
-        "yt-dlp",
-        "yt-dlp-gui"
-      ],
-      "stars": 12067,
-      "stars_delta": 139,
-      "forks": 1043,
-      "forks_delta": 5,
-      "html_url": "https://github.com/tonhowtf/omniget",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
-      "purpose": {
-        "zh": "tonhowtf/omniget：下载Udemy和Hotmart课程、YouTube视频、音乐和书籍—超过1800个网站，无终端。适用于Windows、macOS和⟦Linux的免费开源桌面应用程序⟧，内置课程播放器、PDF/EPUB阅读器和音乐库。由…",
-        "en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by…"
-      },
-      "strengths": {
-        "zh": "使用⟦Rust构建⟧；焦点： bilibili-downloader、course-downloader、download-manager、downloader、epub-reader、hotmart-downloader ； GitHub允许20个主题。存储库正好使用这20个：; ·葡萄牙语（ BR ）;下载Udemy和Hotmart课程， YouTube ， Instagram ， X ， Pinterest ， TikTok和1800多个其他网站。然后转录...",
-        "en": "Built with Rust; Focus: bilibili-downloader, course-downloader, download-manager, downloader, epub-reader, hotmart-downloader; GitHub allows 20 topics. The repository uses exactly these 20:; · Português (BR); Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe…"
-      },
-      "innovations": {
-        "zh": "GitHub允许20个主题。存储库正好使用这20个：",
-        "en": "GitHub allows 20 topics. The repository uses exactly these 20:"
-      },
-      "purpose_zh": "tonhowtf/omniget：下载Udemy和Hotmart课程、YouTube视频、音乐和书籍—超过1800个网站，无终端。适用于Windows、macOS和⟦Linux的免费开源桌面应用程序⟧，内置课程播放器、PDF/EPUB阅读器和音乐库。由…",
-      "purpose_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by…",
-      "strengths_zh": "使用⟦Rust构建⟧；焦点： bilibili-downloader、course-downloader、download-manager、downloader、epub-reader、hotmart-downloader ； GitHub允许20个主题。存储库正好使用这20个：; ·葡萄牙语（ BR ）;下载Udemy和Hotmart课程， YouTube ， Instagram ， X ， Pinterest ， TikTok和1800多个其他网站。然后转录...",
-      "strengths_en": "Built with Rust; Focus: bilibili-downloader, course-downloader, download-manager, downloader, epub-reader, hotmart-downloader; GitHub allows 20 topics. The repository uses exactly these 20:; · Português (BR); Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe…",
-      "innovations_zh": "GitHub允许20个主题。存储库正好使用这20个：",
-      "innovations_en": "GitHub allows 20 topics. The repository uses exactly these 20:",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 17,
-      "full_name": "jiji262/douyin-downloader",
-      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "language": "Python",
-      "topics": [],
-      "stars": 11610,
-      "stars_delta": 85,
-      "forks": 1768,
-      "forks_delta": 5,
-      "html_url": "https://github.com/jiji262/douyin-downloader",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
-      "purpose": {
-        "zh": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-        "en": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
-      },
-      "strengths": {
-        "zh": "使用⟦Python构建⟧；实用的抖音下载器，支持视频、图像笔记、集合、音乐、收藏夹集合和个人资料…… ；基于同一后端构建的桌面GUI ，具有适用于抖音、TikTok和YouTube的专用工作区。粘贴链接到… ；三个平台： * *抖音视频、画廊、个人资料和收藏；抖音视频、照片和个人资料； YouTube…",
-        "en": "Built with Python; A practical Douyin downloader supporting videos, image-notes, collections, music, favorites collections, and profile…; A desktop GUI built on the same backend, with dedicated workspaces for Douyin, TikTok, and YouTube. Paste a link to…; Three platforms:** Douyin videos, galleries, profiles, and collections; TikTok videos, photos, and profiles; YouTube…"
-      },
-      "innovations": {
-        "zh": "一个实用的抖音下载器，支持视频、图片注释、收藏、音乐、收藏夹和个人资料……",
-        "en": "A practical Douyin downloader supporting videos, image-notes, collections, music, favorites collections, and profile…"
-      },
-      "purpose_zh": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "purpose_en": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "strengths_zh": "使用⟦Python构建⟧；实用的抖音下载器，支持视频、图像笔记、集合、音乐、收藏夹集合和个人资料…… ；基于同一后端构建的桌面GUI ，具有适用于抖音、TikTok和YouTube的专用工作区。粘贴链接到… ；三个平台： * *抖音视频、画廊、个人资料和收藏；抖音视频、照片和个人资料； YouTube…",
-      "strengths_en": "Built with Python; A practical Douyin downloader supporting videos, image-notes, collections, music, favorites collections, and profile…; A desktop GUI built on the same backend, with dedicated workspaces for Douyin, TikTok, and YouTube. Paste a link to…; Three platforms:** Douyin videos, galleries, profiles, and collections; TikTok videos, photos, and profiles; YouTube…",
-      "innovations_zh": "一个实用的抖音下载器，支持视频、图片注释、收藏、音乐、收藏夹和个人资料……",
-      "innovations_en": "A practical Douyin downloader supporting videos, image-notes, collections, music, favorites collections, and profile…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 18,
-      "full_name": "Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "language": "QML",
-      "topics": [
-        "linux",
-        "macos",
-        "qml",
-        "qt",
-        "retro",
-        "terminal"
-      ],
-      "stars": 26322,
-      "stars_delta": 34,
-      "forks": 1020,
-      "forks_delta": 2,
-      "html_url": "https://github.com/Swordfish90/cool-retro-term",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
-      "purpose": {
-        "zh": "Swordfish90/cool-retro-term：一个好看的终端模拟器，模仿旧的阴极显示器...",
-        "en": "A good looking terminal emulator which mimics the old cathode display..."
-      },
-      "strengths": {
-        "zh": "使用QML构建；焦点： linux、macos、qml、qt、retro、terminal ；此终端模拟器在Linux ⟧和⟦macOS下工作，需要Qt6。;可以通过上下文菜单访问颜色、字体和效果等设置。;如果您想获取最新版本，只需⟧将⟦go转到Releases页面并获取最新的AppImage (Linux)或…",
-        "en": "Built with QML; Focus: linux, macos, qml, qt, retro, terminal; This terminal emulator works under Linux and macOS and requires Qt6.; Settings such as colors, fonts, and effects can be accessed via context menu.; If you want to get a hold of the latest version, just go to the Releases page and grab the latest AppImage (Linux) or…"
-      },
-      "innovations": {
-        "zh": "此终端模拟器在Linux ⟧和⟦macOS下工作，需要Qt6。",
-        "en": "This terminal emulator works under Linux and macOS and requires Qt6."
-      },
-      "purpose_zh": "Swordfish90/cool-retro-term：一个好看的终端模拟器，模仿旧的阴极显示器...",
-      "purpose_en": "A good looking terminal emulator which mimics the old cathode display...",
-      "strengths_zh": "使用QML构建；焦点： linux、macos、qml、qt、retro、terminal ；此终端模拟器在Linux ⟧和⟦macOS下工作，需要Qt6。;可以通过上下文菜单访问颜色、字体和效果等设置。;如果您想获取最新版本，只需⟧将⟦go转到Releases页面并获取最新的AppImage (Linux)或…",
-      "strengths_en": "Built with QML; Focus: linux, macos, qml, qt, retro, terminal; This terminal emulator works under Linux and macOS and requires Qt6.; Settings such as colors, fonts, and effects can be accessed via context menu.; If you want to get a hold of the latest version, just go to the Releases page and grab the latest AppImage (Linux) or…",
-      "innovations_zh": "此终端模拟器在Linux ⟧和⟦macOS下工作，需要Qt6。",
-      "innovations_en": "This terminal emulator works under Linux and macOS and requires Qt6.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 19,
       "full_name": "huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "language": "Python",
@@ -829,12 +652,12 @@
         "transformer",
         "vlm"
       ],
-      "stars": 165731,
-      "stars_delta": 72,
-      "forks": 34567,
-      "forks_delta": 5,
+      "stars": 165890,
+      "stars_delta": 159,
+      "forks": 34573,
+      "forks_delta": 6,
       "html_url": "https://github.com/huggingface/transformers",
-      "snapshot_at": "2026-09-14T08:18:25.633Z",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
       "purpose": {
         "zh": "huggingface/transformers：Transformers ：用于推理和训练的文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架。",
         "en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
@@ -853,6 +676,212 @@
       "strengths_en": "Built with Python; Focus: audio, deep-learning, deepseek, gemma, glm, hacktoberfest; Unless required by applicable law or agreed to in writing, software; Tiếng Việt |; State-of-the-art pretrained models for inference and training",
       "innovations_zh": "Transformers ：文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理…; -- >用于推理和训练的最先进的预训练模型",
       "innovations_en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference…; --> State-of-the-art pretrained models for inference and training",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 16,
+      "full_name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "topics": [
+        "accounting",
+        "billing",
+        "bookkeeping",
+        "crm",
+        "crm-platform",
+        "erp",
+        "expenses",
+        "hr",
+        "human-resources",
+        "invoices",
+        "invoicing",
+        "issue-tracker",
+        "payroll",
+        "productivity",
+        "project-management",
+        "salary",
+        "team-management",
+        "time-tracker",
+        "time-tracking",
+        "timetracking"
+      ],
+      "stars": 5830,
+      "stars_delta": 330,
+      "forks": 978,
+      "forks_delta": 19,
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
+      "purpose": {
+        "zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
+        "en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+      },
+      "strengths": {
+        "zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
+        "en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)"
+      },
+      "innovations": {
+        "zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
+        "en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…"
+      },
+      "purpose_zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
+      "purpose_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "strengths_zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
+      "strengths_en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)",
+      "innovations_zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
+      "innovations_en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 17,
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 36817,
+      "stars_delta": 26,
+      "forks": 3680,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
+      "purpose": {
+        "zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
+      },
+      "strengths": {
+        "zh": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
+        "en": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…"
+      },
+      "innovations": {
+        "zh": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
+        "en": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…"
+      },
+      "purpose_zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "purpose_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "strengths_zh": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
+      "strengths_en": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
+      "innovations_zh": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
+      "innovations_en": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "topics": [
+        "investigation",
+        "osint",
+        "python",
+        "recon"
+      ],
+      "stars": 8259,
+      "stars_delta": 279,
+      "forks": 1024,
+      "forks_delta": 0,
+      "html_url": "https://github.com/reconurge/flowsint",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
+      "purpose": {
+        "zh": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+        "en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+      },
+      "strengths": {
+        "zh": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
+        "en": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…"
+      },
+      "innovations": {
+        "zh": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
+        "en": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…"
+      },
+      "purpose_zh": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "purpose_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "strengths_zh": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
+      "strengths_en": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
+      "innovations_zh": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
+      "innovations_en": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
+      "full_name": "peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "topics": [
+        "duet-display",
+        "external-display",
+        "ipad",
+        "iphone",
+        "macos",
+        "screen-extension",
+        "screencapturekit",
+        "second-monitor",
+        "sidecar",
+        "swift",
+        "videotoolbox",
+        "virtual-display"
+      ],
+      "stars": 3473,
+      "stars_delta": 258,
+      "forks": 245,
+      "forks_delta": 0,
+      "html_url": "https://github.com/peetzweg/opendisplay",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
+      "purpose": {
+        "zh": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+        "en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
+      },
+      "strengths": {
+        "zh": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
+        "en": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…"
+      },
+      "innovations": {
+        "zh": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
+        "en": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…"
+      },
+      "purpose_zh": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "purpose_en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "strengths_zh": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
+      "strengths_en": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
+      "innovations_zh": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
+      "innovations_en": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 20,
+      "full_name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "stars": 4601,
+      "stars_delta": 253,
+      "forks": 621,
+      "forks_delta": 15,
+      "html_url": "https://github.com/SnailSploit/Claude-Red",
+      "snapshot_at": "2026-09-14T18:06:27.244Z",
+      "purpose": {
+        "zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
+        "en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…"
+      },
+      "strengths": {
+        "zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
+        "en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system."
+      },
+      "innovations": {
+        "zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
+        "en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…"
+      },
+      "purpose_zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
+      "purpose_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…",
+      "strengths_zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
+      "strengths_en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system.",
+      "innovations_zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
+      "innovations_en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…",
       "insights_source": "readme"
     }
   ]
