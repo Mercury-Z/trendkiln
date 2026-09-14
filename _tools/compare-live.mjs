@@ -2,14 +2,21 @@
  * Live A/B harness: renders the same route on the original site and on the
  * build under test, then compares the #__nuxt markup.
  *
- * Usage: node _tools/compare-live.mjs [localOrigin] [originalOrigin] [localBase]
- *   localBase — optional path prefix the build is mounted under, e.g. /trendkiln/.
- *               It is stripped from the local HTML before comparing so a project
- *               page can be diffed against the original root deployment.
+ * Usage: node _tools/compare-live.mjs [localOrigin] [originalOrigin] [localBase] [--structure]
+ *   localBase    — optional path prefix the build is mounted under, e.g. /trendkiln/.
+ *                  Stripped from the local HTML so a project page can be diffed
+ *                  against the original root deployment.
+ *   --structure  — compare only the element/class skeleton, ignoring text and
+ *                  non-class attributes. Data is refreshed on a schedule, so a
+ *                  full comparison only holds for a frozen snapshot; the
+ *                  skeleton stays valid across refreshes.
  */
-const LOCAL = process.argv[2] || 'http://127.0.0.1:3000'
-const ORIGINAL = process.argv[3] || 'https://trendkiln.pages.dev'
-const LOCAL_BASE = process.argv[4] || '/'
+const argv = process.argv.slice(2)
+const STRUCTURE = argv.includes('--structure')
+const positional = argv.filter((a) => !a.startsWith('--'))
+const LOCAL = positional[0] || 'http://127.0.0.1:3000'
+const ORIGINAL = positional[1] || 'https://trendkiln.pages.dev'
+const LOCAL_BASE = positional[2] || '/'
 
 const ROUTES = [
   '/',
@@ -52,6 +59,23 @@ function tokenize(html) {
   return html.match(/<[^>]+>|[^<]+/g) ?? []
 }
 
+/**
+ * Reduces markup to an element + class skeleton so the comparison survives a
+ * data refresh: text content and data-driven attributes are dropped.
+ */
+function skeleton(html) {
+  return tokenize(html)
+    .map((token) => {
+      if (!token.startsWith('<')) return token.trim() ? '\u0001' : ''
+      if (token.startsWith('</')) return token.replace(/\s+/g, '')
+      const name = token.match(/^<([a-zA-Z0-9-]+)/)?.[1] ?? ''
+      const cls = token.match(/\bclass="([^"]*)"/)?.[1]
+      return cls ? `<${name} class="${cls}">` : `<${name}>`
+    })
+    .filter(Boolean)
+    .join('')
+}
+
 async function grab(origin, route) {
   const res = await fetch(origin + route, { headers: { 'accept-language': 'zh-CN,zh;q=0.9' } })
   const html = await res.text()
@@ -76,8 +100,8 @@ for (const route of ROUTES) {
     }
     const na = normalize(a.nuxt)
     const nb = normalize(stripBase(b.nuxt))
-    const ta = tokenize(na)
-    const tb = tokenize(nb)
+    const ta = tokenize(STRUCTURE ? skeleton(na) : na)
+    const tb = tokenize(STRUCTURE ? skeleton(nb) : nb)
     const counts = new Map()
     tb.forEach((t) => counts.set(t, (counts.get(t) ?? 0) + 1))
     let matched = 0

@@ -1,0 +1,85 @@
+name: Refresh data and deploy
+
+# Refreshes the hard data (GitHub Trending / Artificial Analysis / RSS), rebuilds
+# the static site and republishes it to GitHub Pages.
+#
+# No text generation happens here: the "用途 / 优势 / 创新点" blocks are carried
+# over from the frozen snapshot for repos we already cover, and fall back to the
+# repo description plus README excerpts for anything new.
+on:
+  schedule:
+    # Every 6 hours. The digest's star and rank deltas are measured against the
+    # previous snapshot, so this interval is what makes them meaningful.
+    - cron: '23 */6 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    # A data-only push must not retrigger itself.
+    paths-ignore: ['demo/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Resolve the Pages base path
+        run: |
+          if [[ "${GITHUB_REPOSITORY#*/}" == *.github.io ]]; then
+            echo "BASE_PATH=/" >> "$GITHUB_ENV"
+          else
+            echo "BASE_PATH=/${GITHUB_REPOSITORY#*/}/" >> "$GITHUB_ENV"
+          fi
+
+      - run: npm ci
+
+      - name: Collect upstream data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node collector/collect.mjs
+
+      - name: Validate the generated fixtures
+        run: node collector/validate.mjs
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  'trendkiln-bot'
+          git config user.email 'actions@github.com'
+          git add demo
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): refresh snapshot ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
+
+      - name: Build the static site
+        env:
+          NUXT_APP_BASE_URL: ${{ env.BASE_PATH }}
+        run: npm run generate
+
+      - name: Publish to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node _tools/deploy-gh-pages.mjs "$BASE_PATH" origin
+
+      - name: Summary
+        run: |
+          echo "### Trendkiln refresh" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          cat demo/collect-meta.json >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

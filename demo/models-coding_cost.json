@@ -1,1 +1,175 @@
-{"source":"db","kind":"coding_cost","kindMeta":{"id":"coding_cost","labelKey":"models.kinds.coding_cost","higherIsBetter":false,"unit":"usd","sourceUrl":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},"kinds":[{"id":"intelligence","labelKey":"models.kinds.intelligence","higherIsBetter":true,"unit":"index","sourceUrl":"https://artificialanalysis.ai/zh/models#intelligence","hasData":true},{"id":"coding_index","labelKey":"models.kinds.coding_index","higherIsBetter":true,"unit":"ratio","sourceUrl":"https://artificialanalysis.ai/zh/agents/coding-agents#coding-agents-index","hasData":true},{"id":"coding_cost","labelKey":"models.kinds.coding_cost","higherIsBetter":false,"unit":"usd","sourceUrl":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run","hasData":true},{"id":"text_to_image","labelKey":"models.kinds.text_to_image","higherIsBetter":true,"unit":"elo","sourceUrl":"https://artificialanalysis.ai/zh/image/leaderboard/text-to-image","hasData":true},{"id":"image_to_video","labelKey":"models.kinds.image_to_video","higherIsBetter":true,"unit":"elo","sourceUrl":"https://artificialanalysis.ai/zh/video/leaderboard/image-to-video","hasData":true}],"items":[{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":1,"rank_delta":0,"model_name":"Codex - DeepSeek V4 Pro 0813 (max) (DeepSeek)","org":"DeepSeek","score":0.23807687,"score_delta":-8.483498e-9,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":2,"rank_delta":0,"model_name":"Antigravity SDK - Gemini 3.8 Flash (high) (Google)","org":"Google","score":2.4673922,"score_delta":4.1254378e-10,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":3,"rank_delta":0,"model_name":"Claude Code - Qwen3.8 Max (Alibaba Cloud)","org":"Alibaba","score":3.4884424,"score_delta":-1.9387318e-8,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":4,"rank_delta":0,"model_name":"Grok Build - Grok 4.6 (xhigh) (SpaceXAI)","org":"xAI","score":3.5701432,"score_delta":8.0528054e-8,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":5,"rank_delta":0,"model_name":"Muse Code - Muse Spark 1.3 (max) (Meta)","org":"Meta","score":3.977504,"score_delta":9.6947204e-8,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":6,"rank_delta":0,"model_name":"Opencode - GLM-5.3 ({'reasoning_effort': 'max'}) (Z.ai)","org":"Zhipu","score":4.241386,"score_delta":-1.6624863e-7,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":7,"rank_delta":0,"model_name":"Kimi Code CLI - Kimi K3 (Moonshot AI)","org":"Moonshot","score":5.0471954,"score_delta":4.3300332e-8,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":8,"rank_delta":0,"model_name":"Codex - GPT-6 Astra (max) ({'reasoning_effort': 'max'}) (OpenAI)","org":"OpenAI","score":7.4744267,"score_delta":-7.8753445e-8,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":9,"rank_delta":0,"model_name":"Claude Code - Opus 5 (max) (Anthropic)","org":"Anthropic","score":10.789155,"score_delta":-3.0074258e-7,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"},{"source":"artificial_analysis","leaderboard_kind":"coding_cost","rank":10,"rank_delta":0,"model_name":"Claude Code - Fable 5.1 (max) (with fallback) (Anthropic)","org":"Anthropic","score":12.388092,"score_delta":3.7513755e-7,"snapshot_at":"2026-09-14T06:01:00.539Z","source_url":"https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"}]}
+{
+  "source": "db",
+  "kind": "coding_cost",
+  "kindMeta": {
+    "id": "coding_cost",
+    "labelKey": "models.kinds.coding_cost",
+    "higherIsBetter": false,
+    "unit": "usd",
+    "sourceUrl": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+  },
+  "kinds": [
+    {
+      "id": "intelligence",
+      "labelKey": "models.kinds.intelligence",
+      "higherIsBetter": true,
+      "unit": "index",
+      "sourceUrl": "https://artificialanalysis.ai/zh/models#intelligence",
+      "hasData": true
+    },
+    {
+      "id": "coding_index",
+      "labelKey": "models.kinds.coding_index",
+      "higherIsBetter": true,
+      "unit": "ratio",
+      "sourceUrl": "https://artificialanalysis.ai/zh/agents/coding-agents#coding-agents-index",
+      "hasData": true
+    },
+    {
+      "id": "coding_cost",
+      "labelKey": "models.kinds.coding_cost",
+      "higherIsBetter": false,
+      "unit": "usd",
+      "sourceUrl": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run",
+      "hasData": true
+    },
+    {
+      "id": "text_to_image",
+      "labelKey": "models.kinds.text_to_image",
+      "higherIsBetter": true,
+      "unit": "elo",
+      "sourceUrl": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "hasData": true
+    },
+    {
+      "id": "image_to_video",
+      "labelKey": "models.kinds.image_to_video",
+      "higherIsBetter": true,
+      "unit": "elo",
+      "sourceUrl": "https://artificialanalysis.ai/zh/video/leaderboard/image-to-video",
+      "hasData": true
+    }
+  ],
+  "items": [
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 1,
+      "rank_delta": 0,
+      "model_name": "Codex - DeepSeek V4 Pro 0813 (max) (DeepSeek)",
+      "org": "DeepSeek",
+      "score": 0.23807686151650143,
+      "score_delta": -8.48349857029973e-9,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 2,
+      "rank_delta": 0,
+      "model_name": "Antigravity SDK - Gemini 3.8 Flash (high) (Google)",
+      "org": "Google",
+      "score": 2.4673922004125437,
+      "score_delta": 4.1254377691757327e-10,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 3,
+      "rank_delta": 0,
+      "model_name": "Claude Code - Qwen3.8 Max (Alibaba Cloud)",
+      "org": "Alibaba",
+      "score": 3.4884423806126805,
+      "score_delta": -1.93873193055083e-8,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 4,
+      "rank_delta": 0,
+      "model_name": "Grok Build - Grok 4.6 (xhigh) (SpaceXAI)",
+      "org": "xAI",
+      "score": 3.5701432805280535,
+      "score_delta": 8.052805355873716e-8,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 5,
+      "rank_delta": 0,
+      "model_name": "Muse Code - Muse Spark 1.3 (max) (Meta)",
+      "org": "Meta",
+      "score": 3.977504096947204,
+      "score_delta": 9.694720404240798e-8,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 6,
+      "rank_delta": 0,
+      "model_name": "Opencode - GLM-5.3 ({'reasoning_effort': 'max'}) (Z.ai)",
+      "org": "Zhipu",
+      "score": 4.241385833751375,
+      "score_delta": -1.662486255327167e-7,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 7,
+      "rank_delta": 0,
+      "model_name": "Kimi Code CLI - Kimi K3 (Moonshot AI)",
+      "org": "Moonshot",
+      "score": 5.047195443300332,
+      "score_delta": 4.330033220867335e-8,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 8,
+      "rank_delta": 0,
+      "model_name": "Codex - GPT-6 Astra (max) ({'reasoning_effort': 'max'}) (OpenAI)",
+      "org": "OpenAI",
+      "score": 7.474426621246558,
+      "score_delta": -7.875344198993162e-8,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 9,
+      "rank_delta": 0,
+      "model_name": "Claude Code - Opus 5 (max) (Anthropic)",
+      "org": "Anthropic",
+      "score": 10.789154699257413,
+      "score_delta": -3.007425863899016e-7,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    },
+    {
+      "source": "artificial_analysis",
+      "leaderboard_kind": "coding_cost",
+      "rank": 10,
+      "rank_delta": 0,
+      "model_name": "Claude Code - Fable 5.1 (max) (with fallback) (Anthropic)",
+      "org": "Anthropic",
+      "score": 12.388092375137534,
+      "score_delta": 3.751375334815066e-7,
+      "snapshot_at": "2026-09-14T08:08:09.025Z",
+      "source_url": "https://artificialanalysis.ai/zh/agents/coding-agents#cost-to-run"
+    }
+  ]
+}

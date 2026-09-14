@@ -38,7 +38,15 @@ if (!indexHtml.includes(`"${expectedPrefix}_nuxt/`)) {
   process.exit(1)
 }
 
-const remoteUrl = execFileSync('git', ['remote', 'get-url', REMOTE], { cwd: PROJECT, encoding: 'utf8' }).trim()
+const remoteUrl = (() => {
+  // In Actions the checkout action authenticates through a git config header,
+  // which a throwaway repo in the temp dir does not inherit — so build an
+  // authenticated URL from the job token instead.
+  if (process.env.GITHUB_ACTIONS && process.env.GITHUB_TOKEN && process.env.GITHUB_REPOSITORY) {
+    return `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`
+  }
+  return execFileSync('git', ['remote', 'get-url', REMOTE], { cwd: PROJECT, encoding: 'utf8' }).trim()
+})()
 
 const work = join(tmpdir(), `tk-ghpages-${Date.now()}`)
 mkdirSync(work, { recursive: true })

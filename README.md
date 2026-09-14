@@ -72,10 +72,55 @@ node _tools/smoke.mjs        http://localhost:3000   # 终端 B：交互冒烟
 同样能在 Artificial Analysis 公开榜上查到。原站设置页的 `演示数据` 徽标与 `source: "db"`
 描述的是它自己的演示部署形态，**并不代表内容是被编造的**。
 
-因此复刻站的问题是**时效性**而非真实性：它是采集时刻的**冻结快照**，
-没有任何爬虫或定时任务，站点内容不会随时间变化。
-`_tools/check-reality.mjs` 可以随时把快照与 GitHub / Artificial Analysis 现况做对比，
-`_tools/check-drift.mjs` 则用来确认快照与原站当前接口是否已经产生偏差。
+`_tools/check-reality.mjs` 可以随时把快照与 GitHub / Artificial Analysis 现况做对比。
+
+---
+
+## 自动更新
+
+数据由 `collector/` 定时重新采集，**只更新硬数据**：GitHub Trending、Artificial Analysis
+五个分榜、精选 RSS。`.github/workflows/update.yml` 每 6 小时跑一次
+（也可手动 `workflow_dispatch`），流程是：采集 → 校验产物契约 → 提交 `demo/` → 重新构建 → 发布 `gh-pages`。
+
+```bash
+node collector/collect.mjs               # 全量采集
+node collector/collect.mjs --only=models # 只刷模型榜（避免把刚算好的 star 增量抹平）
+node collector/collect.mjs --dry-run     # 只打印，不落盘
+node collector/validate.mjs              # 校验 demo/*.json 是否满足页面契约
+```
+
+### 采集来源
+
+| 数据 | 来源 | 提取方式 |
+| --- | --- | --- |
+| GitHub 天/周/月榜 | `github.com/trending?since=…` | 解析榜单（名次与「stars today/week/month」），再用 REST API 补全 star/fork/topics/language |
+| 智能指数 / 编程智能体指数 / 编程成本 | `artificialanalysis.ai` | 页面内嵌的 schema.org `Dataset` JSON-LD（`artificialAnalysisIntelligenceIndex`、`codingAgentsIndex`、`codingAgentsMeanCostUsd`） |
+| 文生图 / 图生视频 | 同上（竞技场） | Next.js RSC 流里的榜单数组；页面还内嵌各分类子榜，只取第一个（总榜） |
+| 资讯时间线 | 10 个公开 RSS / Atom | 自带的轻量解析器（无第三方依赖） |
+
+### 增量与「为何出现」
+
+- `stars_delta` / `rank_delta` 与 `score_delta` 都是**相对上一份快照**的差，
+  所以数值大小取决于更新频率（6 小时一次即 6 小时的增量）。首次见到某个仓库时，
+  回退到 Trending 自己给出的「stars today/week/month」。
+- 首页摘要由三类信号轮转交织生成：星标异动最多的仓库、名次变动最大的模型、最新资讯。
+
+### 有意不做的事
+
+原站的「用途 / 优势 / 创新点」三段解读是从 README 经**语言模型**生成的
+（响应里标着 `insights_source: "readme"`），资讯标题也做了中英翻译。本管线**不做任何文本生成**：
+
+- 冻结快照里已覆盖的仓库，原样沿用它的解读（`insights_source: "readme"`）；
+- 新出现的仓库，降级为「仓库描述 + README 截断」（`insights_source: "readme-excerpt"`）；
+- 资讯标题/摘要两种语言都使用发布方原文，因此中文界面下新条目会显示英文标题。
+
+要做到和原站一样，需要接入一个 LLM 接口，那不属于「只更新硬数据」。
+
+### 上游解析的脆弱点
+
+几个上游没有公开 API，解析依赖页面结构，发生变化时对应榜单会**保留上一次的数据并打印告警**
+（每次采集都是逐源容错，单源失败不会让整批数据变空）。校验步骤 `collector/validate.mjs`
+会在产物不满足页面契约时让 CI 失败，避免把坏数据发上线。
 
 ---
 

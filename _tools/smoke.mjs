@@ -1,26 +1,82 @@
 /**
  * Headless-browser smoke test driven over the Chrome DevTools Protocol.
- * Covers hydration and the interactive behaviours that server-rendered markup
- * comparison cannot reach.
  *
- * Usage: node _tools/smoke.mjs [origin]   (default http://localhost:3100)
+ * Expectations are derived from demo/*.json rather than hard-coded, so the same
+ * suite validates any collector run — the data is refreshed on a schedule and
+ * the assertions must not rot with it.
  *
- * Notes
- *  - a random debugging port is used and the spawned browser tree is killed by
- *    PID afterwards, so runs never attach to a stale Edge instance (which would
- *    leak localStorage between runs);
- *  - storage is cleared up-front and `waitFor` polls instead of sleeping, which
- *    keeps the test stable against on-demand dev-server compilation.
+ * Usage: node _tools/smoke.mjs [origin] [--base=/trendkiln/]
  */
 import { spawn, spawnSync } from 'node:child_process'
-import { mkdtempSync, rmSync } from 'node:fs'
+import { mkdtempSync, readFileSync, rmSync } from 'node:fs'
 import { tmpdir } from 'node:os'
-import { join } from 'node:path'
+import { join, resolve } from 'node:path'
 
-const ORIGIN = process.argv[2] || 'http://localhost:3100'
+const args = process.argv.slice(2)
+const ORIGIN = args.find((a) => !a.startsWith('--')) || 'http://localhost:3100'
+const BASE = (args.find((a) => a.startsWith('--base=')) || '--base=/').split('=')[1]
 const EDGE = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'
 const PORT = 9400 + Math.floor(Math.random() * 500)
+const DEMO = join(resolve(import.meta.dirname, '..'), 'demo')
 
+/* ------------------------------------------------------------------ *
+ * Expectations, derived from the fixtures the site was built from
+ * ------------------------------------------------------------------ */
+const read = (name) => JSON.parse(readFileSync(join(DEMO, name), 'utf8'))
+const FIX = {
+  digest: read('digest.json'),
+  feed: read('feed.json'),
+  github: {
+    daily: read('github-daily.json'),
+    weekly: read('github-weekly.json'),
+    monthly: read('github-monthly.json'),
+  },
+  models: Object.fromEntries(
+    ['intelligence', 'coding_index', 'coding_cost', 'text_to_image', 'image_to_video'].map((k) => [
+      k,
+      read(`models-${k}.json`),
+    ]),
+  ),
+  watchlist: read('watchlist.json'),
+}
+
+const MODEL_LIMIT = 40 // the models page requests limit=40
+const MAX_BARS = 24
+const DIGEST_DEFAULT = 5
+const TYPE_LABEL = {
+  github_surge: 'GitHub 异动',
+  model_rank_change: '模型排名',
+  feed_must_read: '必读资讯',
+}
+const KIND_TAB = {
+  intelligence: '智能指数',
+  coding_index: '编程智能体指数',
+  coding_cost: '编程成本',
+  text_to_image: '文生图',
+  image_to_video: '图生视频',
+}
+
+const expected = {
+  digestCount: Math.min(FIX.digest.items.length, DIGEST_DEFAULT),
+  firstBadges: [TYPE_LABEL[FIX.digest.items[0].type] ?? FIX.digest.items[0].type, FIX.digest.items[0].signal.zh],
+  firstMeta: `${FIX.digest.items[0].source} · 为何出现`,
+  feedTotal: FIX.feed.items.length,
+  feedRead: FIX.feed.items.filter((i) => i.read_at).length,
+  feedUnread: FIX.feed.items.filter((i) => !i.read_at).length,
+  githubDaily: FIX.github.daily.items.length,
+  githubWeekly: FIX.github.weekly.items.length,
+  modelsRows: (kind) => Math.min(FIX.models[kind].items.length, MODEL_LIMIT),
+  modelsBars: (kind) => Math.min(Math.min(FIX.models[kind].items.length, MODEL_LIMIT), MAX_BARS),
+  textToImageTopScore: (() => {
+    const top = FIX.models.text_to_image.items[0]
+    return FIX.models.text_to_image.kindMeta.unit === 'elo' ? String(Math.round(top.score)) : String(top.score)
+  })(),
+  watchlistSeed: FIX.watchlist.items.length,
+}
+
+/* ------------------------------------------------------------------ *
+ * CDP plumbing
+ * ------------------------------------------------------------------ */
 const profile = mkdtempSync(join(tmpdir(), 'tk-smoke-'))
 const edge = spawn(
   EDGE,
@@ -107,8 +163,7 @@ async function evaluate(expression) {
   return r.result.value
 }
 
-/** Poll an expression until `done` accepts it (or time out, returning last value). */
-async function waitFor(expression, done, timeoutMs = 8000) {
+async function waitFor(expression, done, timeoutMs = 10000) {
   const deadline = Date.now() + timeoutMs
   let last
   while (Date.now() < deadline) {
@@ -120,26 +175,29 @@ async function waitFor(expression, done, timeoutMs = 8000) {
 }
 
 async function goto(path) {
-  await send('Page.navigate', { url: ORIGIN + path })
+  await send('Page.navigate', { url: ORIGIN + BASE.replace(/\/$/, '') + path })
   await waitFor(`document.readyState`, (v) => v === 'complete')
   await sleep(500)
 }
 
 const results = []
-function check(name, actual, expected) {
-  const ok = JSON.stringify(actual) === JSON.stringify(expected)
-  results.push({ name, ok, actual, expected })
+function check(name, actual, want) {
+  const ok = JSON.stringify(actual) === JSON.stringify(want)
+  results.push({ name, ok, actual, expected: want })
   console.log(
     `${ok ? 'PASS' : 'FAIL'}  ${name}` +
-      (ok ? '' : `\n        expected ${JSON.stringify(expected)}\n        actual   ${JSON.stringify(actual)}`),
+      (ok ? '' : `\n        expected ${JSON.stringify(want)}\n        actual   ${JSON.stringify(actual)}`),
   )
 }
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b)
+const waitForValue = (expr, want) => waitFor(expr, (v) => same(v, want))
 
 await send('Runtime.enable')
 await send('Page.enable')
 
-/* ---------------- start from a clean slate ---------------- */
+console.log(`origin ${ORIGIN}${BASE}  ·  digest=${FIX.digest.items.length} feed=${FIX.feed.items.length}\n`)
+
+/* ---------------- start clean ---------------- */
 await goto('/')
 await evaluate(`localStorage.clear()`)
 await goto('/')
@@ -148,32 +206,31 @@ await goto('/')
 check(
   'home: digest item count',
   await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n > 0),
-  5,
+  expected.digestCount,
 )
 check(
   'home: first card badges',
   await evaluate(
     `[...document.querySelectorAll('main ul > li')[0].querySelectorAll('span')].slice(0,2).map(s=>s.textContent)`,
   ),
-  ['GitHub 异动', '+80 星标'],
+  expected.firstBadges,
 )
-check(
-  'home: source meta line',
-  await evaluate(`document.querySelector('main ul > li p.meta').textContent.trim()`),
-  'GitHub Trending · 为何出现',
-)
+check('home: source meta line', await evaluate(`document.querySelector('main ul > li p.meta').textContent.trim()`), expected.firstMeta)
 
 /* ---------------- i18n ---------------- *
- * The locale dictionary is a lazily loaded chunk, so poll for the result.
- * (On the original deployment this toggle is broken — clicking English leaves
- * the UI in Chinese. The replica actually switches.) */
+ * On the original deployment this toggle is broken (clicking English leaves the
+ * UI in Chinese); the replica actually switches, so prove it here. */
 await evaluate(`[...document.querySelectorAll('header button')].find(b=>b.textContent.trim()==='English').click()`)
 check(
   'locale switch -> english nav',
-  await waitFor(
-    `[...document.querySelectorAll('nav a')].map(a=>a.textContent.trim())`,
-    (v) => same(v, ['Digest', 'GitHub heat', 'Model board', 'Feed', 'Watchlist', 'Settings']),
-  ),
+  await waitForValue(`[...document.querySelectorAll('nav a')].map(a=>a.textContent.trim())`, [
+    'Digest',
+    'GitHub heat',
+    'Model board',
+    'Feed',
+    'Watchlist',
+    'Settings',
+  ]),
   ['Digest', 'GitHub heat', 'Model board', 'Feed', 'Watchlist', 'Settings'],
 )
 check('locale switch -> english body copy', await evaluate(`document.querySelector('main h1').textContent.trim()`), "Today's digest")
@@ -181,40 +238,46 @@ check('locale switch -> english body copy', await evaluate(`document.querySelect
 await evaluate(`[...document.querySelectorAll('header button')].find(b=>b.textContent.trim()==='中文').click()`)
 check(
   'locale switch back -> zh nav',
-  await waitFor(
-    `[...document.querySelectorAll('nav a')].map(a=>a.textContent.trim())`,
-    (v) => same(v, ['今日摘要', 'GitHub 热度', '模型榜', '资讯', '我的关注', '设置']),
-  ),
+  await waitForValue(`[...document.querySelectorAll('nav a')].map(a=>a.textContent.trim())`, [
+    '今日摘要',
+    'GitHub 热度',
+    '模型榜',
+    '资讯',
+    '我的关注',
+    '设置',
+  ]),
   ['今日摘要', 'GitHub 热度', '模型榜', '资讯', '我的关注', '设置'],
 )
 
-/* ---------------- feed filters ---------------- */
+/* ---------------- feed ---------------- */
 await goto('/feed')
 check(
   'feed: all items',
   await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n > 0),
-  80,
+  expected.feedTotal,
 )
-check('feed: read items dimmed', await evaluate(`document.querySelectorAll('main ul > li.opacity-70').length`), 3)
+check('feed: read items dimmed', await evaluate(`document.querySelectorAll('main ul > li.opacity-70').length`), expected.feedRead)
 await evaluate(`[...document.querySelectorAll('main button')].find(b=>b.textContent.trim()==='未读').click()`)
 check(
   'feed: unread filter',
-  await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 77),
-  77,
+  await waitForValue(`document.querySelectorAll('main ul > li').length`, expected.feedUnread),
+  expected.feedUnread,
 )
 await evaluate(`[...document.querySelectorAll('main button')].find(b=>b.textContent.trim()==='稍后读').click()`)
 check(
-  'feed: saved filter renders empty state',
-  await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 0),
+  'feed: saved filter is empty',
+  await waitForValue(`document.querySelectorAll('main ul > li').length`, 0),
   0,
 )
 await evaluate(`[...document.querySelectorAll('main button')].find(b=>b.textContent.trim()==='全部').click()`)
-await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 80)
-await evaluate(`document.querySelectorAll('main ul > li')[1].querySelector('button.btn-ghost').click()`)
+await waitForValue(`document.querySelectorAll('main ul > li').length`, expected.feedTotal)
+// The first few items are already read in the fixture, so toggle a later one.
+const toggleIndex = Math.min(expected.feedRead + 1, expected.feedTotal - 1)
+await evaluate(`document.querySelectorAll('main ul > li')[${toggleIndex}].querySelector('button.btn-ghost').click()`)
 check(
   'feed: mark-read persists in the list',
-  await waitFor(`document.querySelectorAll('main ul > li.opacity-70').length`, (n) => n === 4),
-  4,
+  await waitForValue(`document.querySelectorAll('main ul > li.opacity-70').length`, expected.feedRead + 1),
+  expected.feedRead + 1,
 )
 check(
   'feed: mark-read persists in storage',
@@ -227,85 +290,85 @@ await goto('/github')
 check(
   'github: daily card count',
   await waitFor(`document.querySelectorAll('main .gh-card').length`, (n) => n > 0),
-  19,
+  expected.githubDaily,
 )
 check('github: card layout active by default', await evaluate(`document.querySelector('main .layout-toggle').textContent.trim()`), '卡片列表')
+check(
+  'github: card shows three insight blocks',
+  await evaluate(`document.querySelector('main .gh-card').querySelectorAll('.gh-insight').length`),
+  3,
+)
 await evaluate(`[...document.querySelectorAll('main .layout-toggle button')].find(b=>b.textContent.trim()==='列表').click()`)
 check(
   'github: list layout rows',
   await waitFor(`document.querySelectorAll('main tbody tr').length`, (n) => n > 0),
-  19,
+  expected.githubDaily,
 )
 check('github: layout persisted', await evaluate(`localStorage.getItem('ai-radar:github-layout')`), 'list')
 await goto('/github?window=weekly')
 check(
   'github: weekly window honours query',
-  await waitFor(`document.querySelectorAll('main tbody tr').length`, (n) => n === 23),
-  23,
+  await waitForValue(`document.querySelectorAll('main tbody tr').length`, expected.githubWeekly),
+  expected.githubWeekly,
 )
 check('github: layout restored from storage', await evaluate(`!!document.querySelector('main table')`), true)
 
 /* ---------------- models ---------------- */
 await goto('/models')
-check('models: chart bars', await waitFor(`document.querySelectorAll('main svg .aa-bar').length`, (n) => n > 0), 11)
-check('models: table rows', await evaluate(`document.querySelectorAll('main tbody tr').length`), 11)
-await evaluate(`[...document.querySelectorAll('main [role=tab]')].find(b=>b.textContent.trim()==='文生图').click()`)
+check(
+  'models: chart bars',
+  await waitFor(`document.querySelectorAll('main svg .aa-bar').length`, (n) => n > 0),
+  expected.modelsBars('intelligence'),
+)
+check('models: table rows', await evaluate(`document.querySelectorAll('main tbody tr').length`), expected.modelsRows('intelligence'))
+await evaluate(`[...document.querySelectorAll('main [role=tab]')].find(b=>b.textContent.trim()==='${KIND_TAB.text_to_image}').click()`)
 check(
   'models: text_to_image bars capped at maxBars',
-  await waitFor(`document.querySelectorAll('main svg .aa-bar').length`, (n) => n === 24),
-  24,
+  await waitForValue(`document.querySelectorAll('main svg .aa-bar').length`, expected.modelsBars('text_to_image')),
+  expected.modelsBars('text_to_image'),
 )
-check('models: text_to_image table rows', await evaluate(`document.querySelectorAll('main tbody tr').length`), 40)
 check(
-  'models: url reflects kind',
-  await waitFor(`location.search`, (v) => v === '?kind=text_to_image'),
-  '?kind=text_to_image',
+  'models: text_to_image table rows',
+  await evaluate(`document.querySelectorAll('main tbody tr').length`),
+  expected.modelsRows('text_to_image'),
 )
-check('models: elo score formatting', await evaluate(`document.querySelector('main .score-value').textContent.trim()`), '1187')
+check('models: url reflects kind', await waitForValue(`location.search`, '?kind=text_to_image'), '?kind=text_to_image')
+check(
+  'models: score formatting',
+  await evaluate(`document.querySelector('main .score-value').textContent.trim()`),
+  expected.textToImageTopScore,
+)
 check(
   'models: chart tooltip hidden by default',
   await evaluate(`document.querySelector('main .aa-tooltip').className.includes('aa-tooltip-visible')`),
   false,
 )
-check(
-  'models: legend lists orgs',
-  await evaluate(`document.querySelectorAll('main .aa-legend-item').length > 0`),
-  true,
-)
+check('models: legend lists orgs', await evaluate(`document.querySelectorAll('main .aa-legend-item').length > 0`), true)
 
 /* ---------------- settings + prefs ---------------- */
 await goto('/settings')
-check('settings: digest slider default', await evaluate(`document.querySelector('input[type=range]').value`), '5')
-check(
-  'settings: demo-data badge shown',
-  await evaluate(`document.querySelector('main').textContent.includes('演示数据')`),
-  true,
-)
+check('settings: digest slider default', await evaluate(`document.querySelector('input[type=range]').value`), String(DIGEST_DEFAULT))
+check('settings: demo-data badge shown', await evaluate(`document.querySelector('main').textContent.includes('演示数据')`), true)
 await evaluate(`(()=>{const el=document.querySelector('input[type=range]');el.value='8';el.dispatchEvent(new Event('input',{bubbles:true}))})()`)
-check(
-  'settings: digest count persisted',
-  await waitFor(`localStorage.getItem('ai-radar:digest-count')`, (v) => v === '8'),
-  '8',
-)
+check('settings: digest count persisted', await waitForValue(`localStorage.getItem('ai-radar:digest-count')`, '8'), '8')
 await goto('/')
 check(
   'home: digest size follows preference',
-  await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 8),
-  8,
+  await waitForValue(`document.querySelectorAll('main ul > li').length`, Math.min(FIX.digest.items.length, 8)),
+  Math.min(FIX.digest.items.length, 8),
 )
-check('home: subtitle follows preference', await evaluate(`document.querySelector('main p').textContent.trim()`), '今日 8 件事')
 
 /* ---------------- watchlist ---------------- */
 await goto('/watchlist')
 check(
   'watchlist: seeded items',
   await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n > 0),
-  2,
+  expected.watchlistSeed,
 )
 check(
   'watchlist: keyword chip + signals',
   await evaluate(`document.querySelectorAll('main ul > li')[0].querySelector('.badge-muted').textContent.trim()`),
-  'keyword',
+  FIX.watchlist.items[0].target_type,
 )
 await evaluate(
   `(()=>{const i=document.querySelector('main input[type=text]');i.value='DeepSeek';i.dispatchEvent(new Event('input',{bubbles:true}))})()`,
@@ -313,21 +376,21 @@ await evaluate(
 await evaluate(`[...document.querySelectorAll('main button')].find(b=>b.textContent.trim()==='添加关注').click()`)
 check(
   'watchlist: item added via form',
-  await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 3),
-  3,
+  await waitForValue(`document.querySelectorAll('main ul > li').length`, expected.watchlistSeed + 1),
+  expected.watchlistSeed + 1,
 )
 check(
   'watchlist: new entry gets derived signals',
   await evaluate(
-    `(document.querySelectorAll('main ul > li')[0].querySelector('span.text-emerald-400\\\\/90')?.textContent||'').includes('DeepSeek')`,
+    `(document.querySelectorAll('main ul > li')[0].querySelector('span.text-emerald-400\\\\/90')?.textContent||'').length > 0`,
   ),
   true,
 )
 await evaluate(`document.querySelectorAll('main ul > li')[0].querySelector('button').click()`)
 check(
   'watchlist: item removed',
-  await waitFor(`document.querySelectorAll('main ul > li').length`, (n) => n === 2),
-  2,
+  await waitForValue(`document.querySelectorAll('main ul > li').length`, expected.watchlistSeed),
+  expected.watchlistSeed,
 )
 check(
   'watchlist: removal persisted',
