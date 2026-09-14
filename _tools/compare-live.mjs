@@ -1,11 +1,15 @@
 /**
  * Live A/B harness: renders the same route on the original site and on the
- * local SSR build and compares the #__nuxt markup.
+ * build under test, then compares the #__nuxt markup.
  *
- * Usage: node _tools/compare-live.mjs [localOrigin] [originalOrigin]
+ * Usage: node _tools/compare-live.mjs [localOrigin] [originalOrigin] [localBase]
+ *   localBase — optional path prefix the build is mounted under, e.g. /trendkiln/.
+ *               It is stripped from the local HTML before comparing so a project
+ *               page can be diffed against the original root deployment.
  */
 const LOCAL = process.argv[2] || 'http://127.0.0.1:3000'
 const ORIGINAL = process.argv[3] || 'https://trendkiln.pages.dev'
+const LOCAL_BASE = process.argv[4] || '/'
 
 const ROUTES = [
   '/',
@@ -54,17 +58,24 @@ async function grab(origin, route) {
   return { status: res.status, nuxt: extractNuxt(html) }
 }
 
+/** Local build may live under a sub-path; strip it so both sides are comparable. */
+function stripBase(html) {
+  if (!html || LOCAL_BASE === '/') return html
+  const prefix = LOCAL_BASE.replace(/\/$/, '')
+  return html.split(prefix).join('')
+}
+
 let sum = 0
 let n = 0
 for (const route of ROUTES) {
   try {
-    const [a, b] = await Promise.all([grab(ORIGINAL, route), grab(LOCAL, route)])
+    const [a, b] = await Promise.all([grab(ORIGINAL, route), grab(LOCAL, LOCAL_BASE.replace(/\/$/, '') + route)])
     if (!a.nuxt || !b.nuxt) {
       console.log(`${route.padEnd(32)} EXTRACT FAIL o=${!!a.nuxt} l=${!!b.nuxt} (status ${a.status}/${b.status})`)
       continue
     }
     const na = normalize(a.nuxt)
-    const nb = normalize(b.nuxt)
+    const nb = normalize(stripBase(b.nuxt))
     const ta = tokenize(na)
     const tb = tokenize(nb)
     const counts = new Map()

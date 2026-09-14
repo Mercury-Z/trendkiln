@@ -111,6 +111,15 @@ node _tools/serve-static.mjs 4175 .output/public /trendkiln/
 `npm run generate` 默认 `baseURL=/`；部署到项目页时用环境变量注入子路径
 （本仓库线上使用 `/trendkiln/`），脚本会同步前缀化资源、导航链接与组织 logo。
 
+```bash
+# 一键发布（构建产物 -> gh-pages 分支，不污染工作区）
+NUXT_APP_BASE_URL=/trendkiln/ npm run generate
+node _tools/deploy-gh-pages.mjs /trendkiln/ origin
+```
+
+`_tools/deploy-gh-pages.mjs` 会在临时目录里提交并强推 `gh-pages`，
+并在推送前校验产物确实是用对应 base 构建的（避免推错前缀把线上资源打挂）。
+
 ---
 
 ## 与原站的已知差异

@@ -256,7 +256,11 @@ check(
   24,
 )
 check('models: text_to_image table rows', await evaluate(`document.querySelectorAll('main tbody tr').length`), 40)
-check('models: url reflects kind', await evaluate(`location.search`), '?kind=text_to_image')
+check(
+  'models: url reflects kind',
+  await waitFor(`location.search`, (v) => v === '?kind=text_to_image'),
+  '?kind=text_to_image',
+)
 check('models: elo score formatting', await evaluate(`document.querySelector('main .score-value').textContent.trim()`), '1187')
 check(
   'models: chart tooltip hidden by default',
