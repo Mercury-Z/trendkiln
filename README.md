@@ -120,6 +120,20 @@ node _tools/deploy-gh-pages.mjs /trendkiln/ origin
 `_tools/deploy-gh-pages.mjs` 会在临时目录里提交并强推 `gh-pages`，
 并在推送前校验产物确实是用对应 base 构建的（避免推错前缀把线上资源打挂）。
 
+### 旧部署已归档为跳转
+
+仓库早期的另一版实现 `trendkiln-clone` 是手写原生 JS 静态站（自有 CSS、客户端渲染，
+与原站 DOM 结构不一致），现已退役：
+
+- 线上 <https://mercury-z.github.io/trendkiln-clone/> 只保留静态跳转页，
+  `/`、`/github/`、`/models/`、`/feed/`、`/watchlist/`、`/settings/`
+  分别跳转到新站点的对应页面，404 兜底会把其余深层链接映射到最接近的页面；
+- 旧实现代码与其历史完整保留在该仓库的 `legacy` 分支；
+- 旧的每日 `update.yml` 工作流已移除，不会再产生提交。
+
+迁移脚本：`_tools/retire-old-clone.mjs`；跳转验证：`_tools/verify-redirect.mjs`
+（真实浏览器，7/7 通过）。
+
 ---
 
 ## 与原站的已知差异
