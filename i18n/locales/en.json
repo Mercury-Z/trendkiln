@@ -1,0 +1,113 @@
+{
+  "app": {
+    "name": "Trendkiln",
+    "tagline": "Ten minutes a day, caught up on AI coding"
+  },
+  "nav": {
+    "digest": "Digest",
+    "github": "GitHub heat",
+    "models": "Model board",
+    "feed": "Feed",
+    "watchlist": "Watchlist",
+    "settings": "Settings"
+  },
+  "common": {
+    "language": "Language",
+    "loading": "Loading…",
+    "empty": "No data yet",
+    "mockBadge": "Demo data",
+    "rank": "Rank",
+    "stars": "Stars",
+    "delta": "Delta"
+  },
+  "actions": {
+    "watch": "Watch",
+    "watching": "Watching"
+  },
+  "digest": {
+    "title": "Today's digest",
+    "subtitle": "{n} things today",
+    "why": "why it's here",
+    "empty": "No digest for today yet",
+    "types": {
+      "github_surge": "GitHub surge",
+      "model_rank_change": "Model rank",
+      "feed_must_read": "Must read"
+    }
+  },
+  "github": {
+    "title": "GitHub heat",
+    "subtitle": "Trending first, showing delta against the previous snapshot",
+    "layout": "Layout",
+    "viewCard": "Cards",
+    "viewList": "List",
+    "windowLabel": "Time window",
+    "windowDaily": "Daily",
+    "windowWeekly": "Weekly",
+    "windowMonthly": "Monthly",
+    "purpose": "Purpose",
+    "strengths": "Strengths",
+    "innovations": "Innovations",
+    "noInsight": "No insight yet"
+  },
+  "models": {
+    "title": "Model capability board",
+    "methodology": "Snapshot from the public Artificial Analysis leaderboards",
+    "higherBetter": "higher is better",
+    "lowerBetter": "lower is better (cost)",
+    "kindLabel": "Leaderboard",
+    "chartHint": "Click a bar or label to open the Artificial Analysis source page",
+    "axisCostNote": "Bar height shows the cost value; ranked ascending by cost (lower is better)",
+    "topN": "Top {n} shown",
+    "colRankDelta": "Rank Δ",
+    "colModel": "Model",
+    "colOrg": "Developer",
+    "colScore": "Score",
+    "kinds": {
+      "intelligence": "Intelligence index",
+      "coding_index": "Coding agent index",
+      "coding_cost": "Coding cost",
+      "text_to_image": "Text to image",
+      "image_to_video": "Image to video"
+    }
+  },
+  "feed": {
+    "title": "Feed timeline",
+    "subtitle": "Curated RSS / official updates",
+    "filterLabel": "Filter",
+    "filterAll": "All",
+    "filterUnread": "Unread",
+    "filterSaved": "Saved",
+    "read": "Read",
+    "saved": "Saved",
+    "markRead": "Mark read",
+    "markUnread": "Mark unread",
+    "saveLater": "Save for later",
+    "unsave": "Remove from saved",
+    "empty": "Nothing here yet"
+  },
+  "watchlist": {
+    "title": "Watchlist",
+    "subtitle": "Pin repos / models / keywords",
+    "type": "Type",
+    "key": "Target",
+    "keyPlaceholder": "owner/repo, model name or keyword",
+    "add": "Add to watchlist",
+    "typeKeyword": "Keyword",
+    "typeRepo": "Repo",
+    "typeModel": "Model",
+    "signals": "Recent signals",
+    "remove": "Remove",
+    "emptyHint": "You are not watching anything yet",
+    "emptyHint2": "Add a repo, model or keyword above"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Personal preferences (stored on this device)",
+    "language": "Interface language",
+    "digestCount": "Digest size",
+    "digestCountHint": "How many items the home digest shows (default 5)",
+    "githubLayout": "Default GitHub layout",
+    "githubLayoutHint": "Shares localStorage with the layout toggle on /github"
+  }
+}

@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+.pnpm-store
+
+# nuxt build output
+.nuxt
+.output
+.nitro
+.cache
+dist
+
+# local env / editor
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# test artefacts
+_recon
+_recon/**

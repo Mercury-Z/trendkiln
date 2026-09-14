@@ -1,0 +1,4 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "exclude": ["_tools", "_recon", "node_modules", "dist", ".output"]
+}

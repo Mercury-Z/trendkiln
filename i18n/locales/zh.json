@@ -1,0 +1,113 @@
+{
+  "app": {
+    "name": "Trendkiln",
+    "tagline": "每天十分钟，扫完 AI 编程该看什么"
+  },
+  "nav": {
+    "digest": "今日摘要",
+    "github": "GitHub 热度",
+    "models": "模型榜",
+    "feed": "资讯",
+    "watchlist": "我的关注",
+    "settings": "设置"
+  },
+  "common": {
+    "language": "语言",
+    "loading": "加载中…",
+    "empty": "暂无数据",
+    "mockBadge": "演示数据",
+    "rank": "名次",
+    "stars": "星标",
+    "delta": "增量"
+  },
+  "actions": {
+    "watch": "关注",
+    "watching": "已关注"
+  },
+  "digest": {
+    "title": "今日摘要",
+    "subtitle": "今日 {n} 件事",
+    "why": "为何出现",
+    "empty": "今天还没有摘要",
+    "types": {
+      "github_surge": "GitHub 异动",
+      "model_rank_change": "模型排名",
+      "feed_must_read": "必读资讯"
+    }
+  },
+  "github": {
+    "title": "GitHub 热度榜",
+    "subtitle": "以 Trending 为主，展示相对快照增量",
+    "layout": "布局",
+    "viewCard": "卡片",
+    "viewList": "列表",
+    "windowLabel": "时间窗口",
+    "windowDaily": "天榜",
+    "windowWeekly": "周榜",
+    "windowMonthly": "月榜",
+    "purpose": "用途",
+    "strengths": "优势",
+    "innovations": "创新点",
+    "noInsight": "暂无解读"
+  },
+  "models": {
+    "title": "模型能力榜",
+    "methodology": "来自 Artificial Analysis 公开榜快照",
+    "higherBetter": "越高越好",
+    "lowerBetter": "越低越好（成本）",
+    "kindLabel": "榜单",
+    "chartHint": "点击柱或标签打开 Artificial Analysis 来源页",
+    "axisCostNote": "柱高表示成本数值；排名按成本升序（越低越好）",
+    "topN": "展示前 {n} 名",
+    "colRankDelta": "名次 Δ",
+    "colModel": "模型",
+    "colOrg": "开发商",
+    "colScore": "分数",
+    "kinds": {
+      "intelligence": "智能指数",
+      "coding_index": "编程智能体指数",
+      "coding_cost": "编程成本",
+      "text_to_image": "文生图",
+      "image_to_video": "图生视频"
+    }
+  },
+  "feed": {
+    "title": "资讯时间线",
+    "subtitle": "精选 RSS / 官方动态",
+    "filterLabel": "筛选",
+    "filterAll": "全部",
+    "filterUnread": "未读",
+    "filterSaved": "稍后读",
+    "read": "已读",
+    "saved": "稍后读",
+    "markRead": "标为已读",
+    "markUnread": "标为未读",
+    "saveLater": "稍后读",
+    "unsave": "取消稍后读",
+    "empty": "这里还没有内容"
+  },
+  "watchlist": {
+    "title": "我的关注",
+    "subtitle": "钉住 repo / 模型 / 关键词",
+    "type": "类型",
+    "key": "目标",
+    "keyPlaceholder": "owner/repo、模型名或关键词",
+    "add": "添加关注",
+    "typeKeyword": "关键词",
+    "typeRepo": "Repo",
+    "typeModel": "模型",
+    "signals": "近期信号",
+    "remove": "移除",
+    "emptyHint": "还没有关注任何目标",
+    "emptyHint2": "在上方添加 repo、模型或关键词"
+  },
+  "settings": {
+    "title": "设置",
+    "subtitle": "个人偏好（保存在本机）",
+    "language": "界面语言",
+    "digestCount": "摘要条数",
+    "digestCountHint": "首页今日摘要显示条数（默认 5）",
+    "githubLayout": "GitHub 默认布局",
+    "githubLayoutHint": "与 /github 页布局切换共用 localStorage"
+  }
+}
