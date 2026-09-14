@@ -21,8 +21,19 @@ import { buildDigest } from './lib/digest.mjs'
 const ROOT = resolve(import.meta.dirname, '..')
 const DEMO = join(ROOT, 'demo')
 const DRY_RUN = process.argv.includes('--dry-run')
+const FORCE = process.argv.includes('--force')
 const ONLY = (process.argv.find((a) => a.startsWith('--only=')) || '').split('=')[1] || ''
-const wants = (name) => !ONLY || ONLY.split(',').includes(name)
+
+/**
+ * `stars_delta` / `rank_delta` are measured against the previous snapshot, so a
+ * run that lands shortly after the last one would publish near-zero deltas —
+ * which is what happens whenever a code push triggers the workflow right after
+ * a scheduled refresh. Below this interval the previous snapshot is reused
+ * instead; `--force` overrides.
+ */
+const MIN_INTERVAL_MS = Number(process.env.COLLECT_MIN_INTERVAL_MS ?? 90 * 60 * 1000)
+
+const META_FILE = 'collect-meta.json'
 
 const GITHUB_WINDOWS = ['daily', 'weekly', 'monthly']
 const FILE = {
@@ -142,7 +153,22 @@ async function main() {
     models: Object.fromEntries(KIND_META.map((k) => [k.id, readJson(FILE.models(k.id))])),
     feed: readJson(FILE.feed),
     watchlist: readJson(FILE.watchlist),
+    meta: readJson(META_FILE),
   }
+
+  // Freshness guard: reuse the previous snapshot when this run lands too soon
+  // after the last real collection, otherwise the deltas collapse to ~0.
+  const previousCollectedAt = previous.meta?.collected_at ? Date.parse(previous.meta.collected_at) : NaN
+  const ageMs = Number.isNaN(previousCollectedAt) ? Infinity : startedAt.getTime() - previousCollectedAt
+  const tooSoon = !FORCE && !ONLY && ageMs < MIN_INTERVAL_MS
+  if (tooSoon) {
+    console.log(
+      `  last collection was ${Math.round(ageMs / 60000)} min ago (< ${Math.round(
+        MIN_INTERVAL_MS / 60000,
+      )} min) — reusing the previous snapshot; pass --force to collect anyway`,
+    )
+  }
+  const wants = (name) => !tooSoon && (!ONLY || ONLY.split(',').includes(name))
 
   const frozenInsights = frozenInsightMap(previous.github)
   const orgContext = frozenOrgMap(previous.models)
@@ -155,7 +181,7 @@ async function main() {
   for (const window of GITHUB_WINDOWS) {
     if (!wants('github')) {
       github[window] = previous.github[window]
-      console.log(`  github/${window} … skipped (--only)`)
+      console.log(`  github/${window} … reused${tooSoon ? ' (freshness guard)' : ' (--only)'}`)
       continue
     }
     process.stdout.write(`  github/${window} … `)
@@ -174,7 +200,7 @@ async function main() {
   for (const meta of KIND_META) {
     if (!wants('models')) {
       models[meta.id] = previous.models[meta.id]
-      console.log(`  models/${meta.id} … skipped (--only)`)
+      console.log(`  models/${meta.id} … reused${tooSoon ? ' (freshness guard)' : ' (--only)'}`)
       continue
     }
     process.stdout.write(`  models/${meta.id} … `)
@@ -192,7 +218,7 @@ async function main() {
   let feed
   if (!wants('feed')) {
     feed = previous.feed
-    console.log('  feed … skipped (--only)')
+    console.log(`  feed … reused${tooSoon ? ' (freshness guard)' : ' (--only)'}`)
   } else {
     process.stdout.write('  feed … ')
     try {
@@ -225,8 +251,12 @@ async function main() {
   for (const meta of KIND_META) writeJson(FILE.models(meta.id), models[meta.id])
   writeJson(FILE.feed, feed)
   writeJson(FILE.watchlist, watchlist)
-  writeJson('collect-meta.json', {
-    collected_at: startedAt.toISOString(),
+  writeJson(META_FILE, {
+    // kept as the last time data was actually fetched, so the freshness guard
+    // still applies after a run that only reused the previous snapshot.
+    collected_at: tooSoon ? previous.meta?.collected_at : startedAt.toISOString(),
+    last_run_at: startedAt.toISOString(),
+    last_run_collected: !tooSoon,
     duration_ms: Date.now() - startedAt.getTime(),
     counts: {
       github: Object.fromEntries(GITHUB_WINDOWS.map((w) => [w, github[w].items.length])),

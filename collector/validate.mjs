@@ -95,6 +95,7 @@ for (const meta of KIND_META) {
     expect(item.org === null || item.org === undefined || nonEmptyString(item.org), `${at}: org must be a string or null`)
     expect(Number.isFinite(item.score), `${at}: score must be a number`)
     expect(Number.isFinite(item.rank_delta), `${at}: rank_delta must be a number`)
+    expect(item.is_new === undefined || item.is_new === true, `${at}: is_new, when present, must be true`)
     expect(item.leaderboard_kind === meta.id, `${at}: leaderboard_kind mismatch`)
     if (nonEmptyString(item.org)) orgCounts.set(item.org, (orgCounts.get(item.org) ?? 0) + 1)
     if (item.org === null || item.org === undefined) missingOrg++

@@ -49,14 +49,17 @@ function modelCandidates(modelsByKind) {
   const out = []
   for (const [kind, payload] of Object.entries(modelsByKind)) {
     for (const item of payload?.items ?? []) {
-      if (!item.rank_delta) continue
+      // A model that is new to the board is a signal in its own right, and keeps
+      // the digest varied on runs where no existing rank moved.
+      if (!item.rank_delta && !item.is_new) continue
+      const isNew = !item.rank_delta && item.is_new
       const up = item.rank_delta > 0
       const magnitude = Math.abs(item.rank_delta)
       const titleZh = `${item.model_name} 排名变化`
       const titleEn = `${item.model_name} rank change`
       const subtitle = item.org ? `#${item.rank} · ${item.org}` : `#${item.rank}`
-      const signalZh = `排名 ${up ? '↑' : '↓'}${magnitude}`
-      const signalEn = `rank ${up ? '↑' : '↓'}${magnitude}`
+      const signalZh = isNew ? '新上榜' : `排名 ${up ? '↑' : '↓'}${magnitude}`
+      const signalEn = isNew ? 'new entry' : `rank ${up ? '↑' : '↓'}${magnitude}`
       out.push({
         type: 'model_rank_change',
         title: { zh: titleZh, en: titleEn },
@@ -72,7 +75,7 @@ function modelCandidates(modelsByKind) {
         url: payload.kindMeta?.sourceUrl ?? 'https://artificialanalysis.ai/zh/models',
         occurred_at: item.snapshot_at,
         entity_id: `model:${item.model_name}`,
-        _weight: magnitude,
+        _weight: isNew ? magnitude + 1 : magnitude,
         _kind: kind,
       })
     }

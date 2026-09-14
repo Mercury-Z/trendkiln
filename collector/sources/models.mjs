@@ -251,7 +251,7 @@ async function collectKind(meta, previous, context) {
         slugOrg,
       )
       const rank = index + 1
-      return {
+      const item = {
         source: 'artificial_analysis',
         leaderboard_kind: meta.id,
         rank,
@@ -264,6 +264,10 @@ async function collectKind(meta, previous, context) {
         snapshot_at: snapshotAt,
         source_url: row.slug ? `https://artificialanalysis.ai/zh/models/${row.slug}` : meta.sourceUrl,
       }
+      // Flagged so the digest still has a model signal on runs where no rank
+      // moved but a board gained entries.
+      if (!prev) item.is_new = true
+      return item
     })
 
   return {
