@@ -18,38 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "topics": [],
-      "stars": 32400,
-      "stars_delta": 487,
-      "forks": 3410,
-      "forks_delta": 31,
-      "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model."
-      },
-      "strengths": {
-        "zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
-        "en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and"
-      },
-      "innovations": {
-        "zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
-        "en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T"
-      },
-      "purpose_zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
-      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
-      "strengths_zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
-      "strengths_en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and",
-      "innovations_zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
-      "innovations_en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 2,
       "full_name": "alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
@@ -61,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 26235,
-      "stars_delta": 732,
-      "forks": 1892,
-      "forks_delta": 39,
+      "stars": 27096,
+      "stars_delta": 861,
+      "forks": 1941,
+      "forks_delta": 49,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -88,47 +56,88 @@
       "insights_source": "readme"
     },
     {
-      "rank": 3,
-      "full_name": "multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audio-generation",
-        "deep-learning",
-        "foundation-models",
-        "gpt",
-        "huggingface",
-        "llama",
-        "llms",
-        "music-generation",
-        "style-transfers",
-        "voice-cloning"
-      ],
-      "stars": 8557,
-      "stars_delta": 272,
-      "forks": 918,
-      "forks_delta": 17,
-      "html_url": "https://github.com/multimodal-art-projection/YuE",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "rank": 2,
+      "full_name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "topics": [],
+      "stars": 33019,
+      "stars_delta": 619,
+      "forks": 3464,
+      "forks_delta": 54,
+      "html_url": "https://github.com/JustVugg/colibri",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
-        "en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+        "zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
+        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model."
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
-        "en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound."
+        "zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
+        "en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and"
       },
       "innovations": {
-        "zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
-        "en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**."
+        "zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
+        "en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T"
       },
-      "purpose_zh": "multimodal-art-projection/YuE：YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。",
-      "purpose_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点：人工智能、音频生成、深度学习、基础模型⟧、⟦gpt、huggingface ；寻找原始的YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。; YuE2 ：统一前沿质量的符号和音频音乐生成;用符号作曲。在声音中创作。",
-      "strengths_en": "Built with Python; Focus: ai, audio-generation, deep-learning, foundation-models, gpt, huggingface; Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.; YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality; Compose in symbols. Create in sound.",
-      "innovations_zh": "寻找原版YuE ？其代码、文档和许可证保存在* * YuE-v1分支* *上。",
-      "innovations_en": "Looking for the original YuE? Its code, documentation, and license are preserved on the **YuE-v1 branch**.",
+      "purpose_zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
+      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
+      "strengths_zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
+      "strengths_en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and",
+      "innovations_zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
+      "innovations_en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 3,
+      "full_name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "topics": [
+        "accounting",
+        "billing",
+        "bookkeeping",
+        "crm",
+        "crm-platform",
+        "erp",
+        "expenses",
+        "hr",
+        "human-resources",
+        "invoices",
+        "invoicing",
+        "issue-tracker",
+        "payroll",
+        "productivity",
+        "project-management",
+        "salary",
+        "team-management",
+        "time-tracker",
+        "time-tracking",
+        "timetracking"
+      ],
+      "stars": 6289,
+      "stars_delta": 181,
+      "forks": 1006,
+      "forks_delta": 14,
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
+      "purpose": {
+        "zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
+        "en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+      },
+      "strengths": {
+        "zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
+        "en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)"
+      },
+      "innovations": {
+        "zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
+        "en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…"
+      },
+      "purpose_zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
+      "purpose_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "strengths_zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
+      "strengths_en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)",
+      "innovations_zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
+      "innovations_en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…",
       "insights_source": "readme"
     },
     {
@@ -158,12 +167,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 29630,
-      "stars_delta": 619,
-      "forks": 3587,
-      "forks_delta": 49,
+      "stars": 30186,
+      "stars_delta": 556,
+      "forks": 3642,
+      "forks_delta": 55,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -186,703 +195,423 @@
     },
     {
       "rank": 5,
-      "full_name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "topics": [
-        "agent-memory",
-        "financial-forecasting",
-        "future-prediction",
-        "knowledge-graph",
-        "llms",
-        "multi-agent-simulation",
-        "public-opinion-analysis",
-        "python3",
-        "social-prediction",
-        "swarm-intelligence"
-      ],
-      "stars": 73361,
-      "stars_delta": 275,
-      "forks": 11295,
-      "forks_delta": 11,
-      "html_url": "https://github.com/666ghj/MiroFish",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "full_name": "Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "topics": [],
+      "stars": 1028,
+      "stars_delta": 388,
+      "forks": 21,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Homebrew/BrewUI",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+        "zh": "📺 Homebrew's official macOS GUI",
+        "en": "📺 Homebrew's official macOS GUI"
       },
       "strengths": {
-        "zh": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
-        "en": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…"
+        "zh": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
+        "en": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…"
       },
       "innovations": {
-        "zh": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
-        "en": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…"
+        "zh": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
+        "en": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…"
       },
-      "purpose_zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "purpose_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "strengths_zh": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
-      "strengths_en": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information fr…",
-      "innovations_zh": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
-      "innovations_en": "…usands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a \"God's-eye view\" to precisely deduce fut…",
+      "purpose_zh": "📺 Homebrew's official macOS GUI",
+      "purpose_en": "📺 Homebrew's official macOS GUI",
+      "strengths_zh": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
+      "strengths_en": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
+      "innovations_zh": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
+      "innovations_en": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 6,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
+      "full_name": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
       "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
+        "ai",
+        "ai-agents",
+        "chatbot",
+        "crm",
+        "customer-support",
+        "ecommerce",
+        "lgpd",
         "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
+        "multi-tenant",
+        "nextjs",
+        "nuvemshop",
+        "open-source",
+        "rag",
+        "sales-automation",
+        "self-hosted",
+        "supabase",
+        "typescript",
+        "waha",
+        "whatsapp",
+        "whatsapp-api"
       ],
-      "stars": 81535,
-      "stars_delta": 378,
-      "forks": 7095,
-      "forks_delta": 28,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 2593,
+      "stars_delta": 408,
+      "forks": 651,
+      "forks_delta": 0,
+      "html_url": "https://github.com/melgarafael/DeskcommCRM",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        "zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
       },
       "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
+        "zh": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
+        "en": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…"
       },
       "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
+        "zh": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
+        "en": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…"
       },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "purpose_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "purpose_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "strengths_zh": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
+      "strengths_en": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
+      "innovations_zh": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
+      "innovations_en": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
-      "full_name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-prompts",
-        "anthropic",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "gemini",
-        "generative-ai",
-        "google",
-        "grok",
-        "llm",
-        "openai",
-        "prompt",
-        "prompt-engineering",
-        "system-prompt",
-        "system-prompts"
-      ],
-      "stars": 66928,
-      "stars_delta": 215,
-      "forks": 10881,
-      "forks_delta": 16,
-      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "full_name": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "topics": [],
+      "stars": 2885,
+      "stars_delta": 568,
+      "forks": 198,
+      "forks_delta": 0,
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "asgeirtj/system_prompts_leaks：从Anthropic - ⟦Claude表5.1、Opus⟧ 5、Claude设计、Claude代码中提取系统提示。OpenAI - ChatGPT GPT-6 -Astra, Codex. Google - Gemini 3.8 Flash、3.1 Pro、反重力。xAI - Grok、Grok Bot⟦、⟧Cursor、Kimi等！更新……",
-        "en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated…"
+        "zh": "Turn your coding agents into research agents",
+        "en": "Turn your coding agents into research agents"
       },
       "strengths": {
-        "zh": "使用⟦JavaScript构建⟧；焦点： ai、ai-agents、ai-prompts、anthropic、chatbot、chatgpt ；《华盛顿邮报》* *根据此存储库的提示构建其交互式故事：查看人工智能背后的隐藏规则。然后使用…; CEPS的AI World * *根据此存储库的文件构建了一个实时数据仪表板：系统提示以及它们告诉我们的有关…",
-        "en": "Built with JavaScript; Focus: ai, ai-agents, ai-prompts, anthropic, chatbot, chatgpt; The Washington Post** built its interactive story on prompts from this repo: See the hidden rules behind AI. Then use…; CEPS' AI World** built a live data dashboard from this repo's files: System prompts and what they tell us about the…"
+        "zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+        "en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…"
       },
       "innovations": {
-        "zh": "（ 2026年5月11日） > > * * CEPS 'AI World * *根据此存储库的文件构建了一个实时数据仪表板：系统提示以及他们在聊天前告诉我们的聊天内容……",
-        "en": "(May 11, 2026) > > **CEPS' AI World** built a live data dashboard from this repo's files: System prompts and what they tell us about the chat before the chat…"
+        "zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+        "en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…"
       },
-      "purpose_zh": "asgeirtj/system_prompts_leaks：从Anthropic - ⟦Claude表5.1、Opus⟧ 5、Claude设计、Claude代码中提取系统提示。OpenAI - ChatGPT GPT-6 -Astra, Codex. Google - Gemini 3.8 Flash、3.1 Pro、反重力。xAI - Grok、Grok Bot⟦、⟧Cursor、Kimi等！更新……",
-      "purpose_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated…",
-      "strengths_zh": "使用⟦JavaScript构建⟧；焦点： ai、ai-agents、ai-prompts、anthropic、chatbot、chatgpt ；《华盛顿邮报》* *根据此存储库的提示构建其交互式故事：查看人工智能背后的隐藏规则。然后使用…; CEPS的AI World * *根据此存储库的文件构建了一个实时数据仪表板：系统提示以及它们告诉我们的有关…",
-      "strengths_en": "Built with JavaScript; Focus: ai, ai-agents, ai-prompts, anthropic, chatbot, chatgpt; The Washington Post** built its interactive story on prompts from this repo: See the hidden rules behind AI. Then use…; CEPS' AI World** built a live data dashboard from this repo's files: System prompts and what they tell us about the…",
-      "innovations_zh": "（ 2026年5月11日） > > * * CEPS 'AI World * *根据此存储库的文件构建了一个实时数据仪表板：系统提示以及他们在聊天前告诉我们的聊天内容……",
-      "innovations_en": "(May 11, 2026) > > **CEPS' AI World** built a live data dashboard from this repo's files: System prompts and what they tell us about the chat before the chat…",
-      "insights_source": "readme"
+      "purpose_zh": "Turn your coding agents into research agents",
+      "purpose_en": "Turn your coding agents into research agents",
+      "strengths_zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+      "strengths_en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+      "innovations_zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+      "innovations_en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "language": "Python",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
       "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-tools",
-        "claude-code",
-        "codex",
-        "hermes-agent",
-        "hermes-skill",
-        "skills"
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
       ],
-      "stars": 2179,
-      "stars_delta": 189,
-      "forks": 168,
-      "forks_delta": 9,
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 76243,
+      "stars_delta": 700,
+      "forks": 8405,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-        "en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
       },
       "strengths": {
-        "zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
-        "en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…"
+        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
       },
       "innovations": {
-        "zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
-        "en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…"
+        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
       },
-      "purpose_zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "purpose_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "strengths_zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
-      "strengths_en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
-      "innovations_zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
-      "innovations_en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
+      "full_name": "danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
       "topics": [
-        "dart",
-        "file-sharing",
-        "flutter",
-        "flutter-apps"
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
       ],
-      "stars": 91438,
-      "stars_delta": 177,
-      "forks": 5102,
-      "forks_delta": 8,
-      "html_url": "https://github.com/localsend/localsend",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 43622,
+      "stars_delta": 286,
+      "forks": 9009,
+      "forks_delta": 0,
+      "html_url": "https://github.com/danny-avila/LibreChat",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "An open-source cross-platform alternative to AirDrop",
-        "en": "An open-source cross-platform alternative to AirDrop"
+        "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
       },
       "strengths": {
-        "zh": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
-        "en": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…"
+        "zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+        "en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…"
       },
       "innovations": {
-        "zh": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
-        "en": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…"
+        "zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
+        "en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…"
       },
-      "purpose_zh": "An open-source cross-platform alternative to AirDrop",
-      "purpose_en": "An open-source cross-platform alternative to AirDrop",
-      "strengths_zh": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
-      "strengths_en": "LocalSend [![CI status][ci-badge]][ci-workflow] [![Translations][translate-badge]][translate-link] [![Packaging status][packaging-badge]][packaging-link] [ci-badge]: https://github.com/localsend/localsend/actions/workflows/ci.yml/…",
-      "innovations_zh": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
-      "innovations_en": "…[translate-link]: https://hosted.weblate.org/engage/localsend/ [packaging-badge]: https://repology.org/badge/tiny-repos/localsend.svg [packaging-link]: https://repology.org/project/localsend/versions [Homepage][homepage] • [Discor…",
+      "purpose_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "purpose_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "strengths_zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+      "strengths_en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+      "innovations_zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
+      "innovations_en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 10,
-      "full_name": "dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "full_name": "pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "topics": [
-        "bitwarden",
-        "bitwarden-rs",
-        "docker",
-        "rocket",
-        "rust",
-        "vaultwarden"
+        "ai",
+        "ai-coding-assistant",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "git",
+        "gitops",
+        "kilo-code",
+        "mcp",
+        "mcp-client",
+        "opencode",
+        "opencode-ai",
+        "opencode-skills",
+        "self-hosted",
+        "skills"
       ],
-      "stars": 67588,
-      "stars_delta": 76,
-      "forks": 3213,
-      "forks_delta": 4,
-      "html_url": "https://github.com/dani-garcia/vaultwarden",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 4455,
+      "stars_delta": 1091,
+      "forks": 274,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pacifio/atlas",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+        "zh": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
       },
       "strengths": {
-        "zh": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
-        "en": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…"
+        "zh": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
+        "en": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…"
       },
       "innovations": {
-        "zh": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
-        "en": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…"
+        "zh": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
+        "en": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…"
       },
-      "purpose_zh": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "purpose_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "strengths_zh": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
-      "strengths_en": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [disclaimer], perfect for self-hosted deployment where running the official resource-heavy service mi…",
-      "innovations_zh": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
-      "innovations_en": "…PORTANT] When using this server, please report any bugs or suggestions directly to us (see Get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channe…",
+      "purpose_zh": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "purpose_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "strengths_zh": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
+      "strengths_en": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
+      "innovations_zh": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
+      "innovations_en": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 11,
-      "full_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "full_name": "MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
       "language": "Python",
       "topics": [
         "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
+        "agentic-ai",
+        "android",
+        "decompilation",
+        "decompile",
+        "decompiler",
+        "mobile",
+        "reverse",
+        "reverse-engineering"
       ],
-      "stars": 106300,
-      "stars_delta": 259,
-      "forks": 20324,
-      "forks_delta": 28,
-      "html_url": "https://github.com/TauricResearch/TradingAgents",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 1009,
+      "stars_delta": 122,
+      "forks": 182,
+      "forks_delta": 0,
+      "html_url": "https://github.com/MG1937/ASC",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+        "zh": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
       },
       "strengths": {
-        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…"
+        "zh": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
+        "en": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…"
       },
       "innovations": {
-        "zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
-        "en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…"
+        "zh": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
+        "en": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…"
       },
-      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-      "innovations_zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
-      "innovations_en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+      "purpose_zh": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "purpose_en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "strengths_zh": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
+      "strengths_en": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
+      "innovations_zh": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
+      "innovations_en": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
-      "full_name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
       "topics": [
-        "awesome",
-        "claude",
-        "densepose",
-        "esp32",
-        "firmware",
-        "home-assistant",
-        "home-automation",
-        "iot",
-        "monitoring",
-        "networking",
-        "npm",
-        "pose-estimation",
-        "react",
-        "rf",
-        "self-learning",
-        "skills",
-        "spatial-intelligence",
-        "typescript",
-        "wifi",
-        "wifi-security"
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
       ],
-      "stars": 93952,
-      "stars_delta": 154,
-      "forks": 12437,
-      "forks_delta": 9,
-      "html_url": "https://github.com/ruvnet/RuView",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 94489,
+      "stars_delta": 354,
+      "forks": 10040,
+      "forks_delta": 0,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
       },
       "strengths": {
-        "zh": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
-        "en": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…"
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
       },
       "innovations": {
-        "zh": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
-        "en": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…"
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
       },
-      "purpose_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "purpose_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "strengths_zh": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
-      "strengths_en": "π RuView See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no came…",
-      "innovations_zh": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
-      "innovations_en": "…erable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install w…",
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
+      "full_name": "tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
       "topics": [
-        "agent",
-        "ai",
-        "antigravity",
-        "claude-code",
-        "copilot",
-        "cursor",
-        "skills"
+        "bilibili-downloader",
+        "course-downloader",
+        "download-manager",
+        "downloader",
+        "epub-reader",
+        "hotmart-downloader",
+        "instagram-downloader",
+        "media-downloader",
+        "reddit-downloader",
+        "spaced-repetition",
+        "subtitle-downloader",
+        "telegram-downloader",
+        "tiktok-downloader",
+        "twitch-downloader",
+        "twitter-downloader",
+        "udemy-downloader",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp",
+        "yt-dlp-gui"
       ],
-      "stars": 6151,
-      "stars_delta": 126,
-      "forks": 520,
-      "forks_delta": 7,
-      "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 12432,
+      "stars_delta": 1018,
+      "forks": 1076,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tonhowtf/omniget",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
-        "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+        "zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
       },
       "strengths": {
-        "zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
-        "en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,"
+        "zh": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
+        "en": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…"
       },
       "innovations": {
-        "zh": "代理技能",
-        "en": "Agent Skills"
+        "zh": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
+        "en": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…"
       },
-      "purpose_zh": "tech-leads-club/agent-skills：专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展⟦Antigravity⟧、Claude Code、Cursor、Copilot等。",
-      "purpose_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "strengths_zh": "使用⟦TypeScript构建⟧；焦点： agent、ai、antigravity、claude -code、copilot、cursor ； Agent Skills ；专业AI编码代理的安全、经过验证的技能注册表；在超过13%的市场技能包含关键漏洞的生态系统中，",
-      "strengths_en": "Built with TypeScript; Focus: agent, ai, antigravity, claude-code, copilot, cursor; Agent Skills; The secure, validated skill registry for professional AI coding agents; In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities ,",
-      "innovations_zh": "代理技能",
-      "innovations_en": "Agent Skills",
-      "insights_source": "readme"
+      "purpose_zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "purpose_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "strengths_zh": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
+      "strengths_en": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
+      "innovations_zh": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
+      "innovations_en": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 14,
-      "full_name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "topics": [
-        "audio",
-        "deeplearning",
-        "minicpm",
-        "multilingual",
-        "python",
-        "pytorch",
-        "speech",
-        "speech-synthesis",
-        "text-to-speech",
-        "tts",
-        "tts-model",
-        "voice-cloning",
-        "voice-design",
-        "voxcpm"
-      ],
-      "stars": 37453,
-      "stars_delta": 121,
-      "forks": 4253,
-      "forks_delta": 13,
-      "html_url": "https://github.com/OpenBMB/VoxCPM",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
-      },
-      "strengths": {
-        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
-        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…"
-      },
-      "innovations": {
-        "zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
-        "en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…"
-      },
-      "purpose_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "purpose_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "strengths_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
-      "strengths_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
-      "innovations_zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
-      "innovations_en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "language": "Python",
-      "topics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
-      ],
-      "stars": 166077,
-      "stars_delta": 136,
-      "forks": 34580,
-      "forks_delta": 2,
-      "html_url": "https://github.com/huggingface/transformers",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "huggingface/transformers：Transformers ：用于推理和训练的文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架。",
-        "en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-      },
-      "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点：音频、深度学习、deepseek、gemma、glm、hacktoberfest ；除非适用法律要求或书面同意，否则使用软件； Tiąng Việt | ；最先进的预训练推理和训练模型",
-        "en": "Built with Python; Focus: audio, deep-learning, deepseek, gemma, glm, hacktoberfest; Unless required by applicable law or agreed to in writing, software; Tiếng Việt |; State-of-the-art pretrained models for inference and training"
-      },
-      "innovations": {
-        "zh": "Transformers ：文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理…; -- >用于推理和训练的最先进的预训练模型",
-        "en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference…; --> State-of-the-art pretrained models for inference and training"
-      },
-      "purpose_zh": "huggingface/transformers：Transformers ：用于推理和训练的文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架。",
-      "purpose_en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点：音频、深度学习、deepseek、gemma、glm、hacktoberfest ；除非适用法律要求或书面同意，否则使用软件； Tiąng Việt | ；最先进的预训练推理和训练模型",
-      "strengths_en": "Built with Python; Focus: audio, deep-learning, deepseek, gemma, glm, hacktoberfest; Unless required by applicable law or agreed to in writing, software; Tiếng Việt |; State-of-the-art pretrained models for inference and training",
-      "innovations_zh": "Transformers ：文本、视觉、音频和多模态模型中最先进的机器学习模型的模型定义框架，用于推理…; -- >用于推理和训练的最先进的预训练模型",
-      "innovations_en": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference…; --> State-of-the-art pretrained models for inference and training",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 16,
-      "full_name": "ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
-      "topics": [
-        "accounting",
-        "billing",
-        "bookkeeping",
-        "crm",
-        "crm-platform",
-        "erp",
-        "expenses",
-        "hr",
-        "human-resources",
-        "invoices",
-        "invoicing",
-        "issue-tracker",
-        "payroll",
-        "productivity",
-        "project-management",
-        "salary",
-        "team-management",
-        "time-tracker",
-        "time-tracking",
-        "timetracking"
-      ],
-      "stars": 6108,
-      "stars_delta": 201,
-      "forks": 992,
-      "forks_delta": 10,
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
-        "en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-      },
-      "strengths": {
-        "zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
-        "en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)"
-      },
-      "innovations": {
-        "zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
-        "en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…"
-      },
-      "purpose_zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
-      "purpose_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "strengths_zh": "使用⟦TypeScript构建⟧；重点：会计、计费、簿记、CRM、CRM平台、ERP ；我们刚刚发布了Ever Works -一个自主研究、发货和维护整个的开放代理运行时... ；如果您喜欢Gauzy ，您也应该喜欢Ever Teams -开放工作和生产力平台。请检查并⭐填写…;企业资源规划* * （ ERP ）",
-      "strengths_en": "Built with TypeScript; Focus: accounting, billing, bookkeeping, crm, crm-platform, erp; we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…; if you like Gauzy, you should also like Ever Teams - Open Work & Productivity Platform. Please check and make it ⭐ on…; Enterprise Resource Planning** (ERP)",
-      "innovations_zh": "我们刚刚发布了Ever Works -一个开放的代理运行时，可以自主研究、发布和维护整个...",
-      "innovations_en": "we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 17,
-      "full_name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "full_name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 36996,
-      "stars_delta": 123,
-      "forks": 3691,
-      "forks_delta": 7,
-      "html_url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
+      "stars": 105413,
+      "stars_delta": 437,
+      "forks": 13254,
+      "forks_delta": 0,
+      "html_url": "https://github.com/earendil-works/pi",
+      "snapshot_at": "2026-09-15T11:53:01.570Z",
       "purpose": {
-        "zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-        "en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
+        "zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
       },
       "strengths": {
-        "zh": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
-        "en": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…"
+        "zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+        "en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…"
       },
       "innovations": {
-        "zh": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
-        "en": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…"
+        "zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
+        "en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…"
       },
-      "purpose_zh": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "purpose_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "strengths_zh": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
-      "strengths_en": "Project NOMAD Knowledge That Never Goes Offline --- Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered — anytime, anywhe…",
-      "innovations_zh": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
-      "innovations_en": "…ed). Installation is completely terminal-based, and all tools and resources are designed to be accessed through the browser, so there's no need for a desktop environment if you'd rather setup NOMAD as a \"server\" and access it thro…",
+      "purpose_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "purpose_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "strengths_zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+      "strengths_en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+      "innovations_zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
+      "innovations_en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
       "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 18,
-      "full_name": "reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "language": "TypeScript",
-      "topics": [
-        "investigation",
-        "osint",
-        "python",
-        "recon"
-      ],
-      "stars": 8430,
-      "stars_delta": 122,
-      "forks": 1031,
-      "forks_delta": 7,
-      "html_url": "https://github.com/reconurge/flowsint",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-        "en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
-      },
-      "strengths": {
-        "zh": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
-        "en": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…"
-      },
-      "innovations": {
-        "zh": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
-        "en": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…"
-      },
-      "purpose_zh": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "purpose_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "strengths_zh": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
-      "strengths_en": "Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments…",
-      "innovations_zh": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
-      "innovations_en": "…c3f26e-7132-4853-be45-21b8933688bd Contributing Flowsint is still in early development and definetly needs the help of the community! Feel free to raise issues, propose features, etc. Get started Don't want to read ? Got it. Here'…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 19,
-      "full_name": "peetzweg/opendisplay",
-      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-      "language": "Swift",
-      "topics": [
-        "duet-display",
-        "external-display",
-        "ipad",
-        "iphone",
-        "macos",
-        "screen-extension",
-        "screencapturekit",
-        "second-monitor",
-        "sidecar",
-        "swift",
-        "videotoolbox",
-        "virtual-display"
-      ],
-      "stars": 3678,
-      "stars_delta": 157,
-      "forks": 252,
-      "forks_delta": 6,
-      "html_url": "https://github.com/peetzweg/opendisplay",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-        "en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
-      },
-      "strengths": {
-        "zh": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
-        "en": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…"
-      },
-      "innovations": {
-        "zh": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
-        "en": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…"
-      },
-      "purpose_zh": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-      "purpose_en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-      "strengths_zh": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
-      "strengths_en": "OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and Luna Display: true exten…",
-      "innovations_zh": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
-      "innovations_en": "…ay exists Turning an iPhone or iPad into an external display for a Mac is a solved problem — but every existing option has a catch: - Apple Sidecar is free but requires both devices on the same Apple ID, doesn't support iPhones at…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 20,
-      "full_name": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "topics": [
-        "claude-ai",
-        "claude-pt",
-        "claude-skills",
-        "redteam",
-        "redteam-tools",
-        "skills"
-      ],
-      "stars": 4886,
-      "stars_delta": 213,
-      "forks": 638,
-      "forks_delta": 13,
-      "html_url": "https://github.com/SnailSploit/Claude-Red",
-      "snapshot_at": "2026-09-15T05:02:23.049Z",
-      "purpose": {
-        "zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
-        "en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…"
-      },
-      "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
-        "en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system."
-      },
-      "innovations": {
-        "zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
-        "en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…"
-      },
-      "purpose_zh": "SnailSploit/Claude-Red：claude -red是为⟦Claude技能系统设计的攻击性安全技能精心策划的⟧库。每个技能都是一个结构化的SKILL.md文件，它为Claude提供了针对特定攻击面的专家级方法--从SQLi到……",
-      "purpose_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to…",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ⟦⟧claude -ai、claude -pt、claude -skills、redteam、redteam-tools、skills ； ⟦Claude的攻击性安全技能⟧--放入“SKILL.md”文件，将Claude变⟦⟧成上下文感知的红队…… ；概述•快速入门•类别•技能索引•路线图•⟧贡献； “⟦claude -red”是Claude技能系统的攻击性安全⟦⟧技能精选库。",
-      "strengths_en": "Built with Python; Focus: claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills; Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…; Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing; `claude-red` is a curated library of offensive security skills for the Claude Skills system.",
-      "innovations_zh": "⟦Claude的攻击性安全技能⟧—插入“SKILL.md”文件，⟧将⟦Claude转变为上下文感知的红色团队……",
-      "innovations_en": "Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team…",
-      "insights_source": "readme"
     }
   ]
 }
