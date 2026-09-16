@@ -29,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 29141,
-      "stars_delta": 840,
-      "forks": 2072,
-      "forks_delta": 37,
+      "stars": 30260,
+      "stars_delta": 1119,
+      "forks": 2154,
+      "forks_delta": 82,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -57,16 +57,48 @@
     },
     {
       "rank": 2,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 5459,
+      "stars_delta": 1434,
+      "forks": 335,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "topics": [],
-      "stars": 34082,
-      "stars_delta": 425,
-      "forks": 3566,
-      "forks_delta": 35,
+      "stars": 34546,
+      "stars_delta": 464,
+      "forks": 3619,
+      "forks_delta": 53,
       "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
         "zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
         "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model."
@@ -88,7 +120,144 @@
       "insights_source": "readme"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "full_name": "abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "topics": [],
+      "stars": 5181,
+      "stars_delta": 1076,
+      "forks": 241,
+      "forks_delta": 0,
+      "html_url": "https://github.com/abue-ammar/tinycast",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+      },
+      "strengths": {
+        "zh": "Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies, no Electron and no telemetry. It also runs real Raycast extensions…",
+        "en": "Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies, no Electron and no telemetry. It also runs real Raycast extensions…"
+      },
+      "innovations": {
+        "zh": "…If it earns a place in your daily flow, a one-off tip helps keep it actively maintained. GitHub Sponsors isn't available in my country, so please support here: Payments are handled securely by Polar.sh . Features - App launcher —…",
+        "en": "…If it earns a place in your daily flow, a one-off tip helps keep it actively maintained. GitHub Sponsors isn't available in my country, so please support here: Payments are handled securely by Polar.sh . Features - App launcher —…"
+      },
+      "purpose_zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "purpose_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "strengths_zh": "Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies, no Electron and no telemetry. It also runs real Raycast extensions…",
+      "strengths_en": "Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies, no Electron and no telemetry. It also runs real Raycast extensions…",
+      "innovations_zh": "…If it earns a place in your daily flow, a one-off tip helps keep it actively maintained. GitHub Sponsors isn't available in my country, so please support here: Payments are handled securely by Polar.sh . Features - App launcher —…",
+      "innovations_en": "…If it earns a place in your daily flow, a one-off tip helps keep it actively maintained. GitHub Sponsors isn't available in my country, so please support here: Payments are handled securely by Polar.sh . Features - App launcher —…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cuda",
+        "mlx",
+        "qwen3-tts",
+        "qwen3-tts-ui",
+        "voice-ai",
+        "voice-clone",
+        "whisper"
+      ],
+      "stars": 54063,
+      "stars_delta": 409,
+      "forks": 6771,
+      "forks_delta": 0,
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "The open-source AI voice studio. Clone, dictate, create.",
+        "en": "The open-source AI voice studio. Clone, dictate, create."
+      },
+      "strengths": {
+        "zh": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Feature…",
+        "en": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Feature…"
+      },
+      "innovations": {
+        "zh": "…e alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agen…",
+        "en": "…e alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agen…"
+      },
+      "purpose_zh": "The open-source AI voice studio. Clone, dictate, create.",
+      "purpose_en": "The open-source AI voice studio. Clone, dictate, create.",
+      "strengths_zh": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Feature…",
+      "strengths_en": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Feature…",
+      "innovations_zh": "…e alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agen…",
+      "innovations_en": "…e alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agen…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "topics": [],
+      "stars": 13128,
+      "stars_delta": 907,
+      "forks": 1574,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Lakr233/vphone-cli",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "【用途】开源项目 Lakr233/vphone-cli（主要语言：Swift）：Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
+        "en": "Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure."
+      },
+      "strengths": {
+        "zh": "基于 Swift 构建；核心能力：Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
+        "en": "Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)"
+      },
+      "innovations": {
+        "zh": "【创新点】- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
+        "en": "- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…"
+      },
+      "purpose_zh": "【用途】开源项目 Lakr233/vphone-cli（主要语言：Swift）：Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
+      "purpose_en": "Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
+      "strengths_zh": "基于 Swift 构建；核心能力：Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
+      "strengths_en": "Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
+      "innovations_zh": "【创新点】- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
+      "innovations_en": "- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 7,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 24139,
+      "stars_delta": 96,
+      "forks": 2914,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
       "full_name": "ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
@@ -114,12 +283,12 @@
         "time-tracking",
         "timetracking"
       ],
-      "stars": 6795,
-      "stars_delta": 250,
-      "forks": 1045,
-      "forks_delta": 24,
+      "stars": 7058,
+      "stars_delta": 263,
+      "forks": 1074,
+      "forks_delta": 29,
       "html_url": "https://github.com/ever-co/ever-gauzy",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
         "zh": "ever-co/ever-gauzy：Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co",
         "en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
@@ -141,177 +310,39 @@
       "insights_source": "readme"
     },
     {
-      "rank": 4,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "stars": 31239,
-      "stars_delta": 446,
-      "forks": 3715,
-      "forks_delta": 27,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
-      "purpose": {
-        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-      },
-      "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
-      },
-      "innovations": {
-        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
-      },
-      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
-      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 5,
-      "full_name": "Homebrew/BrewUI",
-      "description": "📺 Homebrew's official macOS GUI",
-      "language": "Swift",
-      "topics": [],
-      "stars": 1516,
-      "stars_delta": 230,
-      "forks": 35,
-      "forks_delta": 7,
-      "html_url": "https://github.com/Homebrew/BrewUI",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
-      "purpose": {
-        "zh": "📺 Homebrew's official macOS GUI",
-        "en": "📺 Homebrew's official macOS GUI"
-      },
-      "strengths": {
-        "zh": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
-        "en": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…"
-      },
-      "innovations": {
-        "zh": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
-        "en": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…"
-      },
-      "purpose_zh": "📺 Homebrew's official macOS GUI",
-      "purpose_en": "📺 Homebrew's official macOS GUI",
-      "strengths_zh": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
-      "strengths_en": "🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivatio…",
-      "innovations_zh": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
-      "innovations_en": "…Tech - Swift 6.0 with strict concurrency · SwiftUI · Swift Package Manager - macOS Tahoe 26+ - Data from the brew CLI and the Homebrew JSON API 📦 Installation 🛠️ Development After cloning: This installs Mint from Brewfile, runs…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "chatbot",
-        "crm",
-        "customer-support",
-        "ecommerce",
-        "lgpd",
-        "mcp",
-        "multi-tenant",
-        "nextjs",
-        "nuvemshop",
-        "open-source",
-        "rag",
-        "sales-automation",
-        "self-hosted",
-        "supabase",
-        "typescript",
-        "waha",
-        "whatsapp",
-        "whatsapp-api"
-      ],
-      "stars": 2926,
-      "stars_delta": 164,
-      "forks": 690,
-      "forks_delta": 15,
-      "html_url": "https://github.com/melgarafael/DeskcommCRM",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
-      "purpose": {
-        "zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
-      },
-      "strengths": {
-        "zh": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
-        "en": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…"
-      },
-      "innovations": {
-        "zh": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
-        "en": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…"
-      },
-      "purpose_zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "purpose_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "strengths_zh": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
-      "strengths_en": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
-      "innovations_zh": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
-      "innovations_en": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
+      "rank": 9,
+      "full_name": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "topics": [],
-      "stars": 3541,
-      "stars_delta": 286,
-      "forks": 234,
-      "forks_delta": 13,
-      "html_url": "https://github.com/alphaXiv/OpenResearch",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "stars": 30623,
+      "stars_delta": 50,
+      "forks": 3203,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ankitects/anki",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
-        "zh": "Turn your coding agents into research agents",
-        "en": "Turn your coding agents into research agents"
+        "zh": "Anki is a smart spaced repetition flashcard program",
+        "en": "Anki is a smart spaced repetition flashcard program"
       },
       "strengths": {
-        "zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
-        "en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…"
+        "zh": "Anki This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more. Getting Started Contributing Want to contribute to Anki? Check out the Cont…",
+        "en": "Anki This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more. Getting Started Contributing Want to contribute to Anki? Check out the Cont…"
       },
       "innovations": {
-        "zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
-        "en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…"
+        "zh": "…i Betas If you'd like to try development builds of Anki but don't feel comfortable building the code, please see Anki betas. License Anki's license: LICENSE",
+        "en": "…i Betas If you'd like to try development builds of Anki but don't feel comfortable building the code, please see Anki betas. License Anki's license: LICENSE"
       },
-      "purpose_zh": "Turn your coding agents into research agents",
-      "purpose_en": "Turn your coding agents into research agents",
-      "strengths_zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
-      "strengths_en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
-      "innovations_zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
-      "innovations_en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+      "purpose_zh": "Anki is a smart spaced repetition flashcard program",
+      "purpose_en": "Anki is a smart spaced repetition flashcard program",
+      "strengths_zh": "Anki This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more. Getting Started Contributing Want to contribute to Anki? Check out the Cont…",
+      "strengths_en": "Anki This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more. Getting Started Contributing Want to contribute to Anki? Check out the Cont…",
+      "innovations_zh": "…i Betas If you'd like to try development builds of Anki but don't feel comfortable building the code, please see Anki betas. License Anki's license: LICENSE",
+      "innovations_en": "…i Betas If you'd like to try development builds of Anki but don't feel comfortable building the code, please see Anki betas. License Anki's license: LICENSE",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
@@ -320,12 +351,12 @@
         "reverse-engineering",
         "software-analysis"
       ],
-      "stars": 76886,
-      "stars_delta": 258,
-      "forks": 8482,
-      "forks_delta": 38,
+      "stars": 77281,
+      "stars_delta": 395,
+      "forks": 8539,
+      "forks_delta": 57,
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
         "zh": "Ghidra is a software reverse engineering (SRE) framework",
         "en": "Ghidra is a software reverse engineering (SRE) framework"
@@ -347,150 +378,353 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "anthropic",
-        "artifacts",
-        "aws",
-        "azure",
-        "chatgpt",
-        "chatgpt-clone",
-        "claude",
-        "clone",
-        "deepseek",
-        "gemini",
-        "google",
-        "gpt-5",
-        "librechat",
-        "mcp",
-        "o1",
-        "openai",
-        "responses-api",
-        "vision",
-        "webui"
-      ],
-      "stars": 43936,
-      "stars_delta": 175,
-      "forks": 9037,
-      "forks_delta": 15,
-      "html_url": "https://github.com/danny-avila/LibreChat",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
-      "purpose": {
-        "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-        "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
-      },
-      "strengths": {
-        "zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
-        "en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…"
-      },
-      "innovations": {
-        "zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
-        "en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…"
-      },
-      "purpose_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "purpose_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "strengths_zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
-      "strengths_en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
-      "innovations_zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
-      "innovations_en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "ai-coding-assistant",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "git",
-        "gitops",
-        "kilo-code",
-        "mcp",
-        "mcp-client",
-        "opencode",
-        "opencode-ai",
-        "opencode-skills",
-        "self-hosted",
-        "skills"
-      ],
-      "stars": 4703,
-      "stars_delta": 137,
-      "forks": 282,
-      "forks_delta": 4,
-      "html_url": "https://github.com/pacifio/atlas",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
-      "purpose": {
-        "zh": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-        "en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
-      },
-      "strengths": {
-        "zh": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
-        "en": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…"
-      },
-      "innovations": {
-        "zh": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
-        "en": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…"
-      },
-      "purpose_zh": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "purpose_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "strengths_zh": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
-      "strengths_en": "Atlas Source control for coding agents. Download · Docs · Website · Contributing · Issues Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongsi…",
-      "innovations_zh": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
-      "innovations_en": "…by side against the same codebase, with shared memory so switching agents mid-task doesn't mean starting over. - Every commit, explained. A checkpoint links a commit back to the session that produced it: prompts, tool calls, and…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 11,
-      "full_name": "MG1937/ASC",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "android",
-        "decompilation",
-        "decompile",
-        "decompiler",
-        "mobile",
-        "reverse",
-        "reverse-engineering"
-      ],
-      "stars": 1278,
-      "stars_delta": 169,
-      "forks": 205,
-      "forks_delta": 14,
-      "html_url": "https://github.com/MG1937/ASC",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 145257,
+      "stars_delta": 155,
+      "forks": 23392,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/claude-code",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
-        "zh": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-        "en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
+        "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
       },
       "strengths": {
-        "zh": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
-        "en": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…"
+        "zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
+        "en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…"
       },
       "innovations": {
-        "zh": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
-        "en": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…"
+        "zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
+        "en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…"
       },
-      "purpose_zh": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "purpose_en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "strengths_zh": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
-      "strengths_en": "Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the st…",
-      "innovations_zh": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
-      "innovations_en": "…erences... All of this is just to guarantee fast code searches later, but here is the contradiction. A compiled artifact is already highly structured, modern decompilers never utilize this, they waste massive amounts of time and m…",
+      "purpose_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "purpose_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "strengths_zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
+      "strengths_en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
+      "innovations_zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
+      "innovations_en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "topics": [
+        "classification",
+        "coco",
+        "computer-vision",
+        "deep-learning",
+        "hacktoberfest",
+        "image-processing",
+        "instance-segmentation",
+        "low-code",
+        "machine-learning",
+        "metrics",
+        "object-detection",
+        "oriented-bounding-box",
+        "pascal-voc",
+        "python",
+        "pytorch",
+        "tensorflow",
+        "tracking",
+        "video-processing",
+        "yolo"
+      ],
+      "stars": 50411,
+      "stars_delta": 217,
+      "forks": 4804,
+      "forks_delta": 0,
+      "html_url": "https://github.com/roboflow/supervision",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "We write your reusable computer vision tools. 💜",
+        "en": "We write your reusable computer vision tools. 💜"
+      },
+      "strengths": {
+        "zh": "notebooks inference autodistill maestro 📑 Table of Contents - 👋 Hello - 💻 Install - 🔥 Quickstart - Models - Annotators - Datasets - 🎬 Tutorials - 💜 Built with Supervision - 📚 Documentation - 🏆 Contribution 👋 Hello We are…",
+        "en": "notebooks inference autodistill maestro 📑 Table of Contents - 👋 Hello - 💻 Install - 🔥 Quickstart - Models - Annotators - Datasets - 🎬 Tutorials - 💜 Built with Supervision - 📚 Documentation - 🏆 Contribution 👋 Hello We are…"
+      },
+      "innovations": {
+        "zh": "…your models. 🤝 💻 Install Pip install the supervision package in a Python=3.10 environment. Read more about conda, mamba, and installing from source in our guide. 🔥 Quickstart Models Supervision was designed to be model agnostic…",
+        "en": "…your models. 🤝 💻 Install Pip install the supervision package in a Python=3.10 environment. Read more about conda, mamba, and installing from source in our guide. 🔥 Quickstart Models Supervision was designed to be model agnostic…"
+      },
+      "purpose_zh": "We write your reusable computer vision tools. 💜",
+      "purpose_en": "We write your reusable computer vision tools. 💜",
+      "strengths_zh": "notebooks inference autodistill maestro 📑 Table of Contents - 👋 Hello - 💻 Install - 🔥 Quickstart - Models - Annotators - Datasets - 🎬 Tutorials - 💜 Built with Supervision - 📚 Documentation - 🏆 Contribution 👋 Hello We are…",
+      "strengths_en": "notebooks inference autodistill maestro 📑 Table of Contents - 👋 Hello - 💻 Install - 🔥 Quickstart - Models - Annotators - Datasets - 🎬 Tutorials - 💜 Built with Supervision - 📚 Documentation - 🏆 Contribution 👋 Hello We are…",
+      "innovations_zh": "…your models. 🤝 💻 Install Pip install the supervision package in a Python=3.10 environment. Read more about conda, mamba, and installing from source in our guide. 🔥 Quickstart Models Supervision was designed to be model agnostic…",
+      "innovations_en": "…your models. 🤝 💻 Install Pip install the supervision package in a Python=3.10 environment. Read more about conda, mamba, and installing from source in our guide. 🔥 Quickstart Models Supervision was designed to be model agnostic…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "topics": [],
+      "stars": 3886,
+      "stars_delta": 345,
+      "forks": 247,
+      "forks_delta": 13,
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "Turn your coding agents into research agents",
+        "en": "Turn your coding agents into research agents"
+      },
+      "strengths": {
+        "zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+        "en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…"
+      },
+      "innovations": {
+        "zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+        "en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…"
+      },
+      "purpose_zh": "Turn your coding agents into research agents",
+      "purpose_en": "Turn your coding agents into research agents",
+      "strengths_zh": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+      "strengths_en": "OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research a…",
+      "innovations_zh": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+      "innovations_en": "…ve after installing Git for Windows. orx up opens the local dashboard at http://127.0.0.1:4791. Connect a local model to use LM Studio, oMLX, Ollama, or a custom endpoint with OpenCode. Create an account at openresearch.sh to rece…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "alternative",
+        "auth",
+        "database",
+        "deno",
+        "embeddings",
+        "example",
+        "firebase",
+        "nextjs",
+        "oauth2",
+        "pgvector",
+        "postgis",
+        "postgres",
+        "postgresql",
+        "postgrest",
+        "realtime",
+        "supabase",
+        "vectors",
+        "websockets"
+      ],
+      "stars": 109384,
+      "stars_delta": 118,
+      "forks": 13964,
+      "forks_delta": 0,
+      "html_url": "https://github.com/supabase/supabase",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+      },
+      "strengths": {
+        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
+      },
+      "innovations": {
+        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
+      },
+      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "hermes-agent",
+        "hermes-skill",
+        "skills"
+      ],
+      "stars": 2406,
+      "stars_delta": 74,
+      "forks": 176,
+      "forks_delta": 0,
+      "html_url": "https://github.com/rlaope/oh-my-hermes",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+      },
+      "strengths": {
+        "zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+        "en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…"
+      },
+      "innovations": {
+        "zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+        "en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…"
+      },
+      "purpose_zh": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "purpose_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "strengths_zh": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+      "strengths_en": "oh-my-hermes English 한국어 日本語 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns a…",
+      "innovations_zh": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+      "innovations_en": "…er replacing Hermes or hiding a coding executor behind it. OMH is the operating layer above Hermes-native skills: it frames the problem, picks the workflow and evidence gates, and runs native skills as capabilities inside that gov…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "stars": 24828,
+      "stars_delta": 696,
+      "forks": 3439,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+      },
+      "strengths": {
+        "zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+        "en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*"
+      },
+      "innovations": {
+        "zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+        "en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide"
+      },
+      "purpose_zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+      "purpose_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "strengths_zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "strengths_en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "innovations_zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "innovations_en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 17,
+      "full_name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "stars": 5514,
+      "stars_delta": 699,
+      "forks": 714,
+      "forks_delta": 0,
+      "html_url": "https://github.com/SnailSploit/Claude-Red",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+      },
+      "strengths": {
+        "zh": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+        "en": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…"
+      },
+      "innovations": {
+        "zh": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
+        "en": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…"
+      },
+      "purpose_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "purpose_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "strengths_zh": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+      "strengths_en": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+      "innovations_zh": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
+      "innovations_en": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audio-generation",
+        "deep-learning",
+        "foundation-models",
+        "gpt",
+        "huggingface",
+        "llama",
+        "llms",
+        "music-generation",
+        "style-transfers",
+        "voice-cloning"
+      ],
+      "stars": 9142,
+      "stars_delta": 701,
+      "forks": 993,
+      "forks_delta": 0,
+      "html_url": "https://github.com/multimodal-art-projection/YuE",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
+      "purpose": {
+        "zh": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+      },
+      "strengths": {
+        "zh": "Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch. YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🗳️ Musi…",
+        "en": "Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch. YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🗳️ Musi…"
+      },
+      "innovations": {
+        "zh": "…on with an editable composition. Give it lyrics and a style prompt: it writes a melody-and-chord plan, then realizes that plan as a complete song with vocals and accompaniment. 🎧 YuE2 needs your ears We're running a public listen…",
+        "en": "…on with an editable composition. Give it lyrics and a style prompt: it writes a melody-and-chord plan, then realizes that plan as a complete song with vocals and accompaniment. 🎧 YuE2 needs your ears We're running a public listen…"
+      },
+      "purpose_zh": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "purpose_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "strengths_zh": "Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch. YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🗳️ Musi…",
+      "strengths_en": "Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch. YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🗳️ Musi…",
+      "innovations_zh": "…on with an editable composition. Give it lyrics and a style prompt: it writes a melody-and-chord plan, then realizes that plan as a complete song with vocals and accompaniment. 🎧 YuE2 needs your ears We're running a public listen…",
+      "innovations_en": "…on with an editable composition. Give it lyrics and a style prompt: it writes a melody-and-chord plan, then realizes that plan as a complete song with vocals and accompaniment. 🎧 YuE2 needs your ears We're running a public listen…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
@@ -502,12 +736,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 94925,
-      "stars_delta": 223,
-      "forks": 10069,
-      "forks_delta": 12,
+      "stars": 95120,
+      "stars_delta": 195,
+      "forks": 10087,
+      "forks_delta": 18,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -529,89 +763,77 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "topics": [
-        "bilibili-downloader",
-        "course-downloader",
-        "download-manager",
-        "downloader",
-        "epub-reader",
-        "hotmart-downloader",
-        "instagram-downloader",
-        "media-downloader",
-        "reddit-downloader",
-        "spaced-repetition",
-        "subtitle-downloader",
-        "telegram-downloader",
-        "tiktok-downloader",
-        "twitch-downloader",
-        "twitter-downloader",
-        "udemy-downloader",
-        "video-downloader",
-        "youtube-downloader",
-        "yt-dlp",
-        "yt-dlp-gui"
-      ],
-      "stars": 13105,
-      "stars_delta": 305,
-      "forks": 1114,
-      "forks_delta": 19,
-      "html_url": "https://github.com/tonhowtf/omniget",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "rank": 20,
+      "full_name": "cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 68170,
+      "stars_delta": 102,
+      "forks": 7372,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cline/cline",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
-        "zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-        "en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+        "zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
       },
       "strengths": {
-        "zh": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
-        "en": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…"
+        "zh": "Cline The open source coding agent in your IDE, terminal, and desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop A…",
+        "en": "Cline The open source coding agent in your IDE, terminal, and desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop A…"
       },
       "innovations": {
-        "zh": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
-        "en": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…"
+        "zh": "…indows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Inte…",
+        "en": "…indows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Inte…"
       },
-      "purpose_zh": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "purpose_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "strengths_zh": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
-      "strengths_en": "OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X, Pinterest, TikTok and 1,800+ other sites. Then transcribe, convert, read and study what you saved. One free desktop app,…",
-      "innovations_zh": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
-      "innovations_en": "…t starred repository in the udemy-downloader , hotmart-downloader and course-downloader topics. --- Contents - Why OmniGet - Download and install - Your first download in one minute - What OmniGet downloads - The browser extension…",
+      "purpose_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "purpose_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "strengths_zh": "Cline The open source coding agent in your IDE, terminal, and desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop A…",
+      "strengths_en": "Cline The open source coding agent in your IDE, terminal, and desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop A…",
+      "innovations_zh": "…indows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Inte…",
+      "innovations_en": "…indows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Inte…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 105879,
-      "stars_delta": 255,
-      "forks": 13307,
-      "forks_delta": 28,
-      "html_url": "https://github.com/earendil-works/pi",
-      "snapshot_at": "2026-09-16T04:57:17.120Z",
+      "rank": 21,
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "stars": 259703,
+      "stars_delta": 1046,
+      "forks": 38855,
+      "forks_delta": 0,
+      "html_url": "https://github.com/affaan-m/ECC",
+      "snapshot_at": "2026-09-16T11:47:35.215Z",
       "purpose": {
-        "zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+        "zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
       },
       "strengths": {
-        "zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-        "en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…"
+        "zh": "基于 JavaScript 构建；关注领域：ai-agents, anthropic, claude, claude-code, developer-tools, llm；核心能力：Built with JavaScript; Focus: ai-agents, anthropic, claude, claude-code, developer-tools, llm; Português (Brasil) |; Tiếng Việt |; Official sources only.** Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC, the…",
+        "en": "Built with JavaScript; Focus: ai-agents, anthropic, claude, claude-code, developer-tools, llm; Português (Brasil) |; Tiếng Việt |; Official sources only.** Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC, the…"
       },
       "innovations": {
-        "zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-        "en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…"
+        "zh": "Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
+        "en": "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
       },
-      "purpose_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "purpose_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "strengths_zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-      "strengths_en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-      "innovations_zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-      "innovations_en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-      "insights_source": "readme-excerpt"
+      "purpose_zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
+      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths_zh": "基于 JavaScript 构建；关注领域：ai-agents, anthropic, claude, claude-code, developer-tools, llm；核心能力：Built with JavaScript; Focus: ai-agents, anthropic, claude, claude-code, developer-tools, llm; Português (Brasil) |; Tiếng Việt |; Official sources only.** Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC, the…",
+      "strengths_en": "Built with JavaScript; Focus: ai-agents, anthropic, claude, claude-code, developer-tools, llm; Português (Brasil) |; Tiếng Việt |; Official sources only.** Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC, the…",
+      "innovations_zh": "Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
+      "innovations_en": "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "insights_source": "readme"
     }
   ]
 }

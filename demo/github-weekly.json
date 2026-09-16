@@ -29,12 +29,12 @@
         "developer-tools",
         "productivity"
       ],
-      "stars": 46384,
-      "stars_delta": 188,
-      "forks": 2694,
-      "forks_delta": 8,
+      "stars": 46609,
+      "stars_delta": 225,
+      "forks": 2713,
+      "forks_delta": 19,
       "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
         "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
@@ -74,12 +74,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 35021,
-      "stars_delta": 318,
-      "forks": 6999,
-      "forks_delta": 65,
+      "stars": 35281,
+      "stars_delta": 260,
+      "forks": 7059,
+      "forks_delta": 60,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -102,34 +102,41 @@
     },
     {
       "rank": 3,
-      "full_name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 6800,
-      "stars_delta": 23,
-      "forks": 889,
-      "forks_delta": 2,
-      "html_url": "https://github.com/openai/plugins",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "full_name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "stars": 30260,
+      "stars_delta": 1119,
+      "forks": 2154,
+      "forks_delta": 82,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
-        "zh": "openai/plugins：OpenAI插件",
-        "en": "OpenAI Plugins"
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
       },
       "strengths": {
-        "zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-        "en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points"
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
       },
       "innovations": {
-        "zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
-        "en": "This repository contains a curated collection of Codex plugin examples."
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
       },
-      "purpose_zh": "openai/plugins：OpenAI插件",
-      "purpose_en": "OpenAI Plugins",
-      "strengths_zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-      "strengths_en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-      "innovations_zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
-      "innovations_en": "This repository contains a curated collection of Codex plugin examples.",
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
       "insights_source": "readme"
     },
     {
@@ -147,12 +154,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 259464,
-      "stars_delta": 244,
-      "forks": 38812,
-      "forks_delta": 38,
+      "stars": 259703,
+      "stars_delta": 239,
+      "forks": 38855,
+      "forks_delta": 43,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -175,6 +182,38 @@
     },
     {
       "rank": 5,
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 6821,
+      "stars_delta": 21,
+      "forks": 892,
+      "forks_delta": 3,
+      "html_url": "https://github.com/openai/plugins",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "openai/plugins：OpenAI插件",
+        "en": "OpenAI Plugins"
+      },
+      "strengths": {
+        "zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
+        "en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points"
+      },
+      "innovations": {
+        "zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
+        "en": "This repository contains a curated collection of Codex plugin examples."
+      },
+      "purpose_zh": "openai/plugins：OpenAI插件",
+      "purpose_en": "OpenAI Plugins",
+      "strengths_zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
+      "strengths_en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
+      "innovations_zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
+      "innovations_en": "This repository contains a curated collection of Codex plugin examples.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 6,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -200,12 +239,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 23116,
-      "stars_delta": 61,
-      "forks": 1670,
-      "forks_delta": 5,
+      "stars": 23169,
+      "stars_delta": 53,
+      "forks": 1674,
+      "forks_delta": 4,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "mksglu/context-mode：人工智能编码代理的上下文窗口优化。沙盒工具输出（减少98 ％ ） ，保持会话内存，并通过MCP +钩子在17个平台上强制路由。",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
@@ -227,480 +266,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 6,
-      "full_name": "alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "stars": 29141,
-      "stars_delta": 839,
-      "forks": 2072,
-      "forks_delta": 37,
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
-      },
-      "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
-      },
-      "innovations": {
-        "zh": "【创新点】OpenCodeReview",
-        "en": "OpenCodeReview"
-      },
-      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
-      "innovations_zh": "【创新点】OpenCodeReview",
-      "innovations_en": "OpenCodeReview",
-      "insights_source": "readme"
-    },
-    {
       "rank": 7,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 139560,
-      "stars_delta": 249,
-      "forks": 7497,
-      "forks_delta": 10,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "DietrichGebert/ponytail：让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-      },
-      "strengths": {
-        "zh": "基于 JavaScript 构建；关注领域：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules；核心能力：Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing",
-        "en": "Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with…"
-      },
-      "innovations": {
-        "zh": "【创新点】He says nothing. He writes one line. It works.",
-        "en": "He says nothing. He writes one line. It works."
-      },
-      "purpose_zh": "DietrichGebert/ponytail：让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules；核心能力：Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing",
-      "strengths_en": "Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with…",
-      "innovations_zh": "【创新点】He says nothing. He writes one line. It works.",
-      "innovations_en": "He says nothing. He writes one line. It works.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 8,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "stars": 287249,
-      "stars_delta": 123,
-      "forks": 25684,
-      "forks_delta": 7,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "obra/superpowers：有效的代理技能框架和软件开发方法。",
-        "en": "An agentic skills framework & software development methodology that works."
-      },
-      "strengths": {
-        "zh": "基于 Shell 构建；关注领域：ai, brainstorming, coding, obra, sdlc, skills；核心能力：Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
-        "en": "Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services"
-      },
-      "innovations": {
-        "zh": "【创新点】Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
-        "en": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…"
-      },
-      "purpose_zh": "obra/superpowers：有效的代理技能框架和软件开发方法。",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "基于 Shell 构建；关注领域：ai, brainstorming, coding, obra, sdlc, skills；核心能力：Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
-      "strengths_en": "Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
-      "innovations_zh": "【创新点】Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
-      "innovations_en": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 9,
-      "full_name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "stars": 7850,
-      "stars_delta": 80,
-      "forks": 272,
-      "forks_delta": 0,
-      "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "max-sixty/worktrunk：Worktrunk是⟧用于Git工作树管理的⟦CLI ，专为并行AI代理工作流程而设计",
-        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "strengths": {
-        "zh": "基于 Rust 构建；关注领域：agents, claude-code, codex, developer-tools, git, worktrees；核心能力：Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
-        "en": "Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…"
-      },
-      "innovations": {
-        "zh": "【创新点】&nbsp;&nbsp;Worktrunk",
-        "en": "&nbsp;&nbsp;Worktrunk"
-      },
-      "purpose_zh": "max-sixty/worktrunk：Worktrunk是⟧用于Git工作树管理的⟦CLI ，专为并行AI代理工作流程而设计",
-      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "strengths_zh": "基于 Rust 构建；关注领域：agents, claude-code, codex, developer-tools, git, worktrees；核心能力：Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
-      "strengths_en": "Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
-      "innovations_zh": "【创新点】&nbsp;&nbsp;Worktrunk",
-      "innovations_en": "&nbsp;&nbsp;Worktrunk",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 10,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 50466,
-      "stars_delta": 111,
-      "forks": 4605,
-      "forks_delta": 10,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "heygen-com/hyperframes：编写HTML。渲染视频。专为客服代表打造。",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；关注领域：ai, animation, ffmpeg, framework, gsap, html；核心能力：Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
-        "en": "Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |"
-      },
-      "innovations": {
-        "zh": "编写HTML。渲染视频。专为客服代表打造。",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "purpose_zh": "heygen-com/hyperframes：编写HTML。渲染视频。专为客服代表打造。",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "基于 TypeScript 构建；关注领域：ai, animation, ffmpeg, framework, gsap, html；核心能力：Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
-      "strengths_en": "Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
-      "innovations_zh": "编写HTML。渲染视频。专为客服代表打造。",
-      "innovations_en": "Write HTML. Render video. Built for agents.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 11,
-      "full_name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "stars": 184500,
-      "stars_delta": 134,
-      "forks": 13596,
-      "forks_delta": 14,
-      "html_url": "https://github.com/microsoft/markitdown",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
-        "en": "Python tool for converting files and office documents to Markdown."
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
-        "en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:"
-      },
-      "innovations": {
-        "zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-        "en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…"
-      },
-      "purpose_zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
-      "purpose_en": "Python tool for converting files and office documents to Markdown.",
-      "strengths_zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
-      "strengths_en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:",
-      "innovations_zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-      "innovations_en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 12,
-      "full_name": "blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "claude-code",
-        "codex",
-        "cursor",
-        "prompt-engineering",
-        "writing-tools"
-      ],
-      "stars": 48716,
-      "stars_delta": 188,
-      "forks": 3956,
-      "forks_delta": 17,
-      "html_url": "https://github.com/blader/humanizer",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "blader/humanizer：从文本中删除人工智能生成文字的迹象的代理技能",
-        "en": "Agent skill that removes signs of AI-generated writing from text"
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；关注领域：agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering；核心能力：Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent `",
-        "en": "Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent ` or `--agent '*'` to choose which…; Claude Code 2.1.142 or newer can install the plugin instead:"
-      },
-      "innovations": {
-        "zh": "【创新点】Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
-        "en": "Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…"
-      },
-      "purpose_zh": "blader/humanizer：从文本中删除人工智能生成文字的迹象的代理技能",
-      "purpose_en": "Agent skill that removes signs of AI-generated writing from text",
-      "strengths_zh": "基于 Python 构建；关注领域：agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering；核心能力：Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent `",
-      "strengths_en": "Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent ` or `--agent '*'` to choose which…; Claude Code 2.1.142 or newer can install the plugin instead:",
-      "innovations_zh": "【创新点】Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
-      "innovations_en": "Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 13,
-      "full_name": "openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "topics": [],
-      "stars": 27300,
-      "stars_delta": 30,
-      "forks": 1823,
-      "forks_delta": 0,
-      "html_url": "https://github.com/openai/skills",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "openai/skills：⟦Codex的技能目录⟧",
-        "en": "Skills Catalog for Codex"
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；核心能力：Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
-        "en": "Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…"
-      },
-      "innovations": {
-        "zh": "【创新点】This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
-        "en": "This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…"
-      },
-      "purpose_zh": "openai/skills：⟦Codex的技能目录⟧",
-      "purpose_en": "Skills Catalog for Codex",
-      "strengths_zh": "基于 Python 构建；核心能力：Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
-      "strengths_en": "Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
-      "innovations_zh": "【创新点】This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
-      "innovations_en": "This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 14,
-      "full_name": "JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "topics": [],
-      "stars": 34082,
-      "stars_delta": 425,
-      "forks": 3566,
-      "forks_delta": 35,
-      "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model."
-      },
-      "strengths": {
-        "zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
-        "en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and"
-      },
-      "innovations": {
-        "zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
-        "en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T"
-      },
-      "purpose_zh": "JustVugg/colibri：在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。",
-      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
-      "strengths_zh": "采用C语言打造；微型发动机，超大型号。* *运行* * FRONTIER MOE型号— 744B至2.8T ；今天运行九个系列： * * GLM-5.2/5 .3 * * （ 744B ） ， * * GLM-5.3-Flash * * （ 321B ，带； Qwen3.8-Flash-Next * * （ 125B + 51B n-gram ） ， * * Qwen3.6 * * （ 35B-A3B ）和",
-      "strengths_en": "Built with C; Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T; Nine families run today: **GLM-5.2/5.3** (744B), **GLM-5.3-Flash** (321B, with; Qwen3.8-Flash-Next** (125B + 51B n-gram), **Qwen3.6** (35B-A3B) and",
-      "innovations_zh": "微型引擎，超大型号。* * RUN * * FRONTIER MOE型号— 744B至2.8T",
-      "innovations_en": "Tiny engine, immense model.** Run **frontier MoE models — 744B to 2.8T",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 15,
-      "full_name": "tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "stars": 63847,
-      "stars_delta": 420,
-      "forks": 4236,
-      "forks_delta": 25,
-      "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-        "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
-      },
-      "strengths": {
-        "zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-        "en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p"
-      },
-      "innovations": {
-        "zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-        "en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**"
-      },
-      "purpose_zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-      "purpose_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-      "strengths_en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p",
-      "innovations_zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "innovations_en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 16,
-      "full_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "stars": 106776,
-      "stars_delta": 147,
-      "forks": 20398,
-      "forks_delta": 10,
-      "html_url": "https://github.com/TauricResearch/TradingAgents",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
-      },
-      "strengths": {
-        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…"
-      },
-      "innovations": {
-        "zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
-        "en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…"
-      },
-      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
-      "innovations_zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
-      "innovations_en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 37168,
-      "stars_delta": 80,
-      "forks": 5864,
-      "forks_delta": 15,
-      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
-      "purpose": {
-        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
-      },
-      "innovations": {
-        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
-      },
-      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 18,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -726,12 +292,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 24479,
-      "stars_delta": 441,
-      "forks": 3408,
-      "forks_delta": 40,
+      "stars": 24828,
+      "stars_delta": 349,
+      "forks": 3439,
+      "forks_delta": 31,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -753,17 +319,212 @@
       "insights_source": "readme"
     },
     {
-      "rank": 19,
+      "rank": 8,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 287426,
+      "stars_delta": 177,
+      "forks": 25704,
+      "forks_delta": 20,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "obra/superpowers：有效的代理技能框架和软件开发方法。",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "基于 Shell 构建；关注领域：ai, brainstorming, coding, obra, sdlc, skills；核心能力：Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
+        "en": "Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services"
+      },
+      "innovations": {
+        "zh": "【创新点】Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
+        "en": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…"
+      },
+      "purpose_zh": "obra/superpowers：有效的代理技能框架和软件开发方法。",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "基于 Shell 构建；关注领域：ai, brainstorming, coding, obra, sdlc, skills；核心能力：Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
+      "strengths_en": "Built with Shell; Focus: ai, brainstorming, coding, obra, sdlc, skills; Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…; How it works; Commercial Services",
+      "innovations_zh": "【创新点】Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
+      "innovations_en": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 9,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 139903,
+      "stars_delta": 343,
+      "forks": 7518,
+      "forks_delta": 21,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "DietrichGebert/ponytail：让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "基于 JavaScript 构建；关注领域：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules；核心能力：Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing",
+        "en": "Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with…"
+      },
+      "innovations": {
+        "zh": "【创新点】He says nothing. He writes one line. It works.",
+        "en": "He says nothing. He writes one line. It works."
+      },
+      "purpose_zh": "DietrichGebert/ponytail：让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules；核心能力：Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing",
+      "strengths_en": "Built with JavaScript; Focus: agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules; He says nothing. He writes one line. It works.; ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe; Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with…",
+      "innovations_zh": "【创新点】He says nothing. He writes one line. It works.",
+      "innovations_en": "He says nothing. He writes one line. It works.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 10,
+      "full_name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
+      "stars": 7884,
+      "stars_delta": 34,
+      "forks": 272,
+      "forks_delta": 0,
+      "html_url": "https://github.com/max-sixty/worktrunk",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "max-sixty/worktrunk：Worktrunk是⟧用于Git工作树管理的⟦CLI ，专为并行AI代理工作流程而设计",
+        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "strengths": {
+        "zh": "基于 Rust 构建；关注领域：agents, claude-code, codex, developer-tools, git, worktrees；核心能力：Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
+        "en": "Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…"
+      },
+      "innovations": {
+        "zh": "【创新点】&nbsp;&nbsp;Worktrunk",
+        "en": "&nbsp;&nbsp;Worktrunk"
+      },
+      "purpose_zh": "max-sixty/worktrunk：Worktrunk是⟧用于Git工作树管理的⟦CLI ，专为并行AI代理工作流程而设计",
+      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "strengths_zh": "基于 Rust 构建；关注领域：agents, claude-code, codex, developer-tools, git, worktrees；核心能力：Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
+      "strengths_en": "Built with Rust; Focus: agents, claude-code, codex, developer-tools, git, worktrees; &nbsp;&nbsp;Worktrunk; (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed.; September 2026**: Worktrunk was released at the start of the year, and has quickly become the most popular git…",
+      "innovations_zh": "【创新点】&nbsp;&nbsp;Worktrunk",
+      "innovations_en": "&nbsp;&nbsp;Worktrunk",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 11,
+      "full_name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "stars": 48927,
+      "stars_delta": 211,
+      "forks": 3972,
+      "forks_delta": 16,
+      "html_url": "https://github.com/blader/humanizer",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "blader/humanizer：从文本中删除人工智能生成文字的迹象的代理技能",
+        "en": "Agent skill that removes signs of AI-generated writing from text"
+      },
+      "strengths": {
+        "zh": "基于 Python 构建；关注领域：agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering；核心能力：Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent `",
+        "en": "Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent ` or `--agent '*'` to choose which…; Claude Code 2.1.142 or newer can install the plugin instead:"
+      },
+      "innovations": {
+        "zh": "【创新点】Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
+        "en": "Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…"
+      },
+      "purpose_zh": "blader/humanizer：从文本中删除人工智能生成文字的迹象的代理技能",
+      "purpose_en": "Agent skill that removes signs of AI-generated writing from text",
+      "strengths_zh": "基于 Python 构建；关注领域：agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering；核心能力：Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent `",
+      "strengths_en": "Built with Python; Focus: agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering; Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…; Leave off `--global` to install Humanizer only in the current project. Add `--agent ` or `--agent '*'` to choose which…; Claude Code 2.1.142 or newer can install the plugin instead:",
+      "innovations_zh": "【创新点】Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
+      "innovations_en": "Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 12,
+      "full_name": "kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 6114,
+      "stars_delta": 1056,
+      "forks": 1898,
+      "forks_delta": 0,
+      "html_url": "https://github.com/kunchenguid/firstmate",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "Talk to one agent. Ship with a crew.",
+        "en": "Talk to one agent. Ship with a crew."
+      },
+      "strengths": {
+        "zh": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
+        "en": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…"
+      },
+      "innovations": {
+        "zh": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
+        "en": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…"
+      },
+      "purpose_zh": "Talk to one agent. Ship with a crew.",
+      "purpose_en": "Talk to one agent. Ship with a crew.",
+      "strengths_zh": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
+      "strengths_en": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
+      "innovations_zh": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
+      "innovations_en": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "petergyang/no-ai-slop",
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "topics": [],
-      "stars": 9921,
-      "stars_delta": 82,
-      "forks": 700,
-      "forks_delta": 3,
+      "stars": 10006,
+      "stars_delta": 85,
+      "forks": 705,
+      "forks_delta": 5,
       "html_url": "https://github.com/petergyang/no-ai-slop",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "petergyang/no-ai-slop：从任何文字中删除20多种AI斜坡图案。",
         "en": "Removes 20+ patterns of AI slop from any piece of writing."
@@ -785,102 +546,244 @@
       "insights_source": "readme"
     },
     {
-      "rank": 20,
-      "full_name": "earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
+      "rank": 14,
+      "full_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
       ],
-      "stars": 15923,
-      "stars_delta": 36,
-      "forks": 1654,
-      "forks_delta": 3,
-      "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "stars": 184645,
+      "stars_delta": 145,
+      "forks": 13604,
+      "forks_delta": 8,
+      "html_url": "https://github.com/microsoft/markitdown",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
-        "zh": "earthtojake/text-to-cad：CAD、CAE和CAM的代理技能库",
-        "en": "A library of agent skills for CAD, CAE and CAM"
+        "zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
+        "en": "Python tool for converting files and office documents to Markdown."
       },
       "strengths": {
-        "zh": "基于 Python 构建；关注：agents, ai-agents, cad, mechanical-engineering, robotics, step；██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║；██║ ██╔══╝ ██╔██╗ ██║ ██╔═══╝ ██║ ██╔══██║██║ ██║；██║ ███████╗██╔╝ ██╗ ██║ ███████╗╚██████╗██║ ██║██████╔╝",
-        "en": "Built with Python; Focus: agents, ai-agents, cad, mechanical-engineering, robotics, step; ██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║; ██║ ██╔══╝ ██╔██╗ ██║ ██╔═══╝ ██║ ██╔══██║██║ ██║; ██║ ███████╗██╔╝ ██╗ ██║ ███████╗╚██████╗██║ ██║██████╔╝"
+        "zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
+        "en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:"
       },
       "innovations": {
-        "zh": "██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║",
-        "en": "██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║"
+        "zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
+        "en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…"
       },
-      "purpose_zh": "earthtojake/text-to-cad：CAD、CAE和CAM的代理技能库",
-      "purpose_en": "A library of agent skills for CAD, CAE and CAM",
-      "strengths_zh": "基于 Python 构建；关注：agents, ai-agents, cad, mechanical-engineering, robotics, step；██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║；██║ ██╔══╝ ██╔██╗ ██║ ██╔═══╝ ██║ ██╔══██║██║ ██║；██║ ███████╗██╔╝ ██╗ ██║ ███████╗╚██████╗██║ ██║██████╔╝",
-      "strengths_en": "Built with Python; Focus: agents, ai-agents, cad, mechanical-engineering, robotics, step; ██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║; ██║ ██╔══╝ ██╔██╗ ██║ ██╔═══╝ ██║ ██╔══██║██║ ██║; ██║ ███████╗██╔╝ ██╗ ██║ ███████╗╚██████╗██║ ██║██████╔╝",
-      "innovations_zh": "██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║",
-      "innovations_en": "██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║",
+      "purpose_zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
+      "purpose_en": "Python tool for converting files and office documents to Markdown.",
+      "strengths_zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
+      "strengths_en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:",
+      "innovations_zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
+      "innovations_en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
       "insights_source": "readme"
     },
     {
-      "rank": 21,
-      "full_name": "decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "rank": 15,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "topics": [
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "chatgpt",
-        "claude",
+        "agent-skills",
+        "antigravity",
         "claude-code",
-        "cline",
         "codex",
-        "copilot",
         "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "gemini-cli",
-        "llm",
-        "llm-gateway",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
+        "skills"
       ],
-      "stars": 28933,
-      "stars_delta": 49,
-      "forks": 5312,
-      "forks_delta": 6,
-      "html_url": "https://github.com/decolua/9router",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "stars": 95120,
+      "stars_delta": 1766,
+      "forks": 10087,
+      "forks_delta": 0,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
-        "zh": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
       },
       "strengths": {
-        "zh": "9Router - FREE AI Router & Token Saver Never stop coding. Save 20-40% tokens with RTK + auto-fallback to FREE & cheap AI models. Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline,…",
-        "en": "9Router - FREE AI Router & Token Saver Never stop coding. Save 20-40% tokens with RTK + auto-fallback to FREE & cheap AI models. Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline,…"
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
       },
       "innovations": {
-        "zh": "…\uddfa Русский • 🇹🇭 ไทย • 🇮🇷 فارسی • 🇮🇩 Indonesia • 🇪🇸 Español • 🇫🇷 Français --- 🤔 Why 9Router? Stop wasting money, tokens and hitting limits: - ❌ Subscription quota expires unused every month - ❌ Rate limits stop you mid-co…",
-        "en": "…\uddfa Русский • 🇹🇭 ไทย • 🇮🇷 فارسی • 🇮🇩 Indonesia • 🇪🇸 Español • 🇫🇷 Français --- 🤔 Why 9Router? Stop wasting money, tokens and hitting limits: - ❌ Subscription quota expires unused every month - ❌ Rate limits stop you mid-co…"
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
       },
-      "purpose_zh": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "purpose_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "strengths_zh": "9Router - FREE AI Router & Token Saver Never stop coding. Save 20-40% tokens with RTK + auto-fallback to FREE & cheap AI models. Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline,…",
-      "strengths_en": "9Router - FREE AI Router & Token Saver Never stop coding. Save 20-40% tokens with RTK + auto-fallback to FREE & cheap AI models. Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline,…",
-      "innovations_zh": "…\uddfa Русский • 🇹🇭 ไทย • 🇮🇷 فارسی • 🇮🇩 Indonesia • 🇪🇸 Español • 🇫🇷 Français --- 🤔 Why 9Router? Stop wasting money, tokens and hitting limits: - ❌ Subscription quota expires unused every month - ❌ Rate limits stop you mid-co…",
-      "innovations_en": "…\uddfa Русский • 🇹🇭 ไทย • 🇮🇷 فارسی • 🇮🇩 Indonesia • 🇪🇸 Español • 🇫🇷 Français --- 🤔 Why 9Router? Stop wasting money, tokens and hitting limits: - ❌ Subscription quota expires unused every month - ❌ Rate limits stop you mid-co…",
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 22,
+      "rank": 16,
+      "full_name": "home-assistant/core",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "stars": 90535,
+      "stars_delta": 228,
+      "forks": 38628,
+      "forks_delta": 0,
+      "html_url": "https://github.com/home-assistant/core",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "en": ":house_with_garden: Open source home automation that puts local control and privacy first."
+      },
+      "strengths": {
+        "zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+        "en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…"
+      },
+      "innovations": {
+        "zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+        "en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…"
+      },
+      "purpose_zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "purpose_en": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "strengths_zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+      "strengths_en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+      "innovations_zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+      "innovations_en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 37278,
+      "stars_delta": 110,
+      "forks": 5877,
+      "forks_delta": 13,
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
+      },
+      "innovations": {
+        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
+      },
+      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 18,
+      "full_name": "danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
+      ],
+      "stars": 44061,
+      "stars_delta": 809,
+      "forks": 9046,
+      "forks_delta": 0,
+      "html_url": "https://github.com/danny-avila/LibreChat",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+      },
+      "strengths": {
+        "zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+        "en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…"
+      },
+      "innovations": {
+        "zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
+        "en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…"
+      },
+      "purpose_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "purpose_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "strengths_zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+      "strengths_en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc3 - Agent Management API (beta): Create, discover, update, and delete Agents; manage Agent files and Skills; and authenticate machine clients through deployment-bound OIDC identitie…",
+      "innovations_zh": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
+      "innovations_en": "…personal code worker, then let Agents inspect trees, read and search files, author changes, and run Bash with bounded timeouts. Personal workers support bounded self-service enrollment, readiness status, and per-Agent Git identity…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
+      "full_name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "topics": [],
+      "stars": 27332,
+      "stars_delta": 32,
+      "forks": 1828,
+      "forks_delta": 5,
+      "html_url": "https://github.com/openai/skills",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "openai/skills：⟦Codex的技能目录⟧",
+        "en": "Skills Catalog for Codex"
+      },
+      "strengths": {
+        "zh": "基于 Python 构建；核心能力：Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
+        "en": "Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…"
+      },
+      "innovations": {
+        "zh": "【创新点】This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
+        "en": "This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…"
+      },
+      "purpose_zh": "openai/skills：⟦Codex的技能目录⟧",
+      "purpose_en": "Skills Catalog for Codex",
+      "strengths_zh": "基于 Python 构建；核心能力：Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
+      "strengths_en": "Built with Python; This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…; Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at…; Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a…",
+      "innovations_zh": "【创新点】This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
+      "innovations_en": "This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository. If…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 20,
       "full_name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
@@ -893,12 +796,12 @@
         "spec",
         "spec-driven"
       ],
-      "stars": 137101,
-      "stars_delta": 69,
-      "forks": 12278,
-      "forks_delta": 3,
+      "stars": 137219,
+      "stars_delta": 118,
+      "forks": 12286,
+      "forks_delta": 8,
       "html_url": "https://github.com/github/spec-kit",
-      "snapshot_at": "2026-09-16T04:57:19.303Z",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
       "purpose": {
         "zh": "github/spec-kit：帮助您开始规格驱动开发的工具包",
         "en": "Toolkit to help you get started with Spec-Driven Development"
@@ -918,6 +821,88 @@
       "innovations_zh": "【创新点】0** > > One year after the first commit, Spec Kit has reached 1.",
       "innovations_en": "0** > > One year after the first commit, Spec Kit has reached 1.",
       "insights_source": "readme"
+    },
+    {
+      "rank": 21,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 50559,
+      "stars_delta": 93,
+      "forks": 4610,
+      "forks_delta": 5,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "heygen-com/hyperframes：编写HTML。渲染视频。专为客服代表打造。",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；关注领域：ai, animation, ffmpeg, framework, gsap, html；核心能力：Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
+        "en": "Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |"
+      },
+      "innovations": {
+        "zh": "编写HTML。渲染视频。专为客服代表打造。",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "purpose_zh": "heygen-com/hyperframes：编写HTML。渲染视频。专为客服代表打造。",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "基于 TypeScript 构建；关注领域：ai, animation, ffmpeg, framework, gsap, html；核心能力：Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
+      "strengths_en": "Built with TypeScript; Focus: ai, animation, ffmpeg, framework, gsap, html; Write HTML. Render video. Built for agents.; Quickstart |; Playground |",
+      "innovations_zh": "编写HTML。渲染视频。专为客服代表打造。",
+      "innovations_en": "Write HTML. Render video. Built for agents.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 22,
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "stars": 106879,
+      "stars_delta": 103,
+      "forks": 20414,
+      "forks_delta": 16,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-09-16T11:47:40.662Z",
+      "purpose": {
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "strengths": {
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…"
+      },
+      "innovations": {
+        "zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+        "en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…"
+      },
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social s…",
+      "innovations_zh": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+      "innovations_en": "…md for the full list. - [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto sentiment sou…",
+      "insights_source": "readme-excerpt"
     }
   ]
 }
