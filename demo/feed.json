@@ -26,6 +26,30 @@
       "saved": false
     },
     {
+      "id": "384",
+      "title": {
+        "zh": "Hobby projects now retain fewer deployments to free up storage",
+        "en": "Hobby projects now retain fewer deployments to free up storage"
+      },
+      "summary": {
+        "zh": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so…",
+        "en": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so…"
+      },
+      "title_zh": "Hobby projects now retain fewer deployments to free up storage",
+      "title_en": "Hobby projects now retain fewer deployments to free up storage",
+      "summary_zh": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so…",
+      "summary_en": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so…",
+      "title_text": "Hobby projects now retain fewer deployments to free up storage",
+      "summary_text": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+      "published_at": "2026-09-16T18:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1",
       "title": {
         "zh": "Visual Studio Code 1.138",
@@ -47,6 +71,229 @@
       "published_at": "2026-09-16T17:00:00.000Z",
       "tags": [],
       "read_at": "2026-09-12T08:57:21.118Z",
+      "saved": false
+    },
+    {
+      "id": "385",
+      "title": {
+        "zh": "Secure Compute and Static IP builds start 64% faster",
+        "en": "Secure Compute and Static IP builds start 64% faster"
+      },
+      "summary": {
+        "zh": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with y…",
+        "en": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with y…"
+      },
+      "title_zh": "Secure Compute and Static IP builds start 64% faster",
+      "title_en": "Secure Compute and Static IP builds start 64% faster",
+      "summary_zh": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with y…",
+      "summary_en": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with y…",
+      "title_text": "Secure Compute and Static IP builds start 64% faster",
+      "summary_text": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with y…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+      "published_at": "2026-09-16T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "386",
+      "title": {
+        "zh": "Mem0 joins the Vercel Marketplace",
+        "en": "Mem0 joins the Vercel Marketplace"
+      },
+      "summary": {
+        "zh": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separa…",
+        "en": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separa…"
+      },
+      "title_zh": "Mem0 joins the Vercel Marketplace",
+      "title_en": "Mem0 joins the Vercel Marketplace",
+      "summary_zh": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separa…",
+      "summary_en": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separa…",
+      "title_text": "Mem0 joins the Vercel Marketplace",
+      "summary_text": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separa…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+      "published_at": "2026-09-16T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "387",
+      "title": {
+        "zh": "Quoting Mustafa Suleyman",
+        "en": "Quoting Mustafa Suleyman"
+      },
+      "summary": {
+        "zh": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment an…",
+        "en": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment an…"
+      },
+      "title_zh": "Quoting Mustafa Suleyman",
+      "title_en": "Quoting Mustafa Suleyman",
+      "summary_zh": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment an…",
+      "summary_en": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment an…",
+      "title_text": "Quoting Mustafa Suleyman",
+      "summary_text": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment an…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "published_at": "2026-09-16T16:00:54.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "388",
+      "title": {
+        "zh": "Helping older adults use AI in everyday life",
+        "en": "Helping older adults use AI in everyday life"
+      },
+      "summary": {
+        "zh": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+        "en": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+      },
+      "title_zh": "Helping older adults use AI in everyday life",
+      "title_en": "Helping older adults use AI in everyday life",
+      "summary_zh": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "summary_en": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "title_text": "Helping older adults use AI in everyday life",
+      "summary_text": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published_at": "2026-09-16T16:00:00.000Z",
+      "tags": [
+        "Global Affairs"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "389",
+      "title": {
+        "zh": "rust-v0.155.0-alpha.11",
+        "en": "rust-v0.155.0-alpha.11"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.11",
+        "en": "Release 0.155.0-alpha.11"
+      },
+      "title_zh": "rust-v0.155.0-alpha.11",
+      "title_en": "rust-v0.155.0-alpha.11",
+      "summary_zh": "Release 0.155.0-alpha.11",
+      "summary_en": "Release 0.155.0-alpha.11",
+      "title_text": "rust-v0.155.0-alpha.11",
+      "summary_text": "Release 0.155.0-alpha.11",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.11",
+      "published_at": "2026-09-16T15:13:12.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "390",
+      "title": {
+        "zh": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "en": "Code scanning AI Scan no longer requires CodeQL default setup"
+      },
+      "summary": {
+        "zh": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .",
+        "en": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "summary_zh": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .",
+      "summary_en": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .",
+      "title_text": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "summary_text": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "published_at": "2026-09-16T13:26:06.000Z",
+      "tags": [
+        "Improvement",
+        "application security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "383",
+      "title": {
+        "zh": "0.155.0-alpha.2.5",
+        "en": "0.155.0-alpha.2.5"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.2.5",
+        "en": "Release 0.155.0-alpha.2.5"
+      },
+      "title_zh": "0.155.0-alpha.2.5",
+      "title_en": "0.155.0-alpha.2.5",
+      "summary_zh": "Release 0.155.0-alpha.2.5",
+      "summary_en": "Release 0.155.0-alpha.2.5",
+      "title_text": "0.155.0-alpha.2.5",
+      "summary_text": "Release 0.155.0-alpha.2.5",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.2.5",
+      "published_at": "2026-09-16T13:19:19.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "391",
+      "title": {
+        "zh": "Reimagining advertising with AI",
+        "en": "Reimagining advertising with AI"
+      },
+      "summary": {
+        "zh": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+        "en": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      },
+      "title_zh": "Reimagining advertising with AI",
+      "title_en": "Reimagining advertising with AI",
+      "summary_zh": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "summary_en": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "title_text": "Reimagining advertising with AI",
+      "summary_text": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published_at": "2026-09-16T13:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "382",
+      "title": {
+        "zh": "rusty-v8-v152.2.0",
+        "en": "rusty-v8-v152.2.0"
+      },
+      "summary": {
+        "zh": "No content.",
+        "en": "No content."
+      },
+      "title_zh": "rusty-v8-v152.2.0",
+      "title_en": "rusty-v8-v152.2.0",
+      "summary_zh": "No content.",
+      "summary_en": "No content.",
+      "title_text": "rusty-v8-v152.2.0",
+      "summary_text": "No content.",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rusty-v8-v152.2.0",
+      "published_at": "2026-09-16T12:58:44.000Z",
+      "tags": [],
+      "read_at": null,
       "saved": false
     },
     {
@@ -74,50 +321,28 @@
       "saved": false
     },
     {
-      "id": "382",
+      "id": "392",
       "title": {
-        "zh": "rusty-v8-v152.2.0",
-        "en": "rusty-v8-v152.2.0"
+        "zh": "How workers are unlocking new ways of working",
+        "en": "How workers are unlocking new ways of working"
       },
       "summary": {
-        "zh": "Codex rusty_v8 152.2.0",
-        "en": "Codex rusty_v8 152.2.0"
+        "zh": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+        "en": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
       },
-      "title_zh": "rusty-v8-v152.2.0",
-      "title_en": "rusty-v8-v152.2.0",
-      "summary_zh": "Codex rusty_v8 152.2.0",
-      "summary_en": "Codex rusty_v8 152.2.0",
-      "title_text": "rusty-v8-v152.2.0",
-      "summary_text": "Codex rusty_v8 152.2.0",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rusty-v8-v152.2.0",
-      "published_at": "2026-09-16T10:13:25.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "383",
-      "title": {
-        "zh": "rust-v0.155.0-alpha.2.5",
-        "en": "rust-v0.155.0-alpha.2.5"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.2.5",
-        "en": "Release 0.155.0-alpha.2.5"
-      },
-      "title_zh": "rust-v0.155.0-alpha.2.5",
-      "title_en": "rust-v0.155.0-alpha.2.5",
-      "summary_zh": "Release 0.155.0-alpha.2.5",
-      "summary_en": "Release 0.155.0-alpha.2.5",
-      "title_text": "rust-v0.155.0-alpha.2.5",
-      "summary_text": "Release 0.155.0-alpha.2.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.2.5",
-      "published_at": "2026-09-16T07:04:30.000Z",
-      "tags": [],
+      "title_zh": "How workers are unlocking new ways of working",
+      "title_en": "How workers are unlocking new ways of working",
+      "summary_zh": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "summary_en": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "title_text": "How workers are unlocking new ways of working",
+      "summary_text": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published_at": "2026-09-16T09:00:00.000Z",
+      "tags": [
+        "Global Affairs"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -619,30 +844,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
       "published_at": "2026-09-15T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "360",
-      "title": {
-        "zh": "0.155.0-alpha.2.4",
-        "en": "0.155.0-alpha.2.4"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.2.4",
-        "en": "Release 0.155.0-alpha.2.4"
-      },
-      "title_zh": "0.155.0-alpha.2.4",
-      "title_en": "0.155.0-alpha.2.4",
-      "summary_zh": "Release 0.155.0-alpha.2.4",
-      "summary_en": "Release 0.155.0-alpha.2.4",
-      "title_text": "0.155.0-alpha.2.4",
-      "summary_text": "Release 0.155.0-alpha.2.4",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.2.4",
-      "published_at": "2026-09-14T23:05:41.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1769,33 +1970,6 @@
       "saved": false
     },
     {
-      "id": "20",
-      "title": {
-        "zh": "AI Scan for pull request APIs in public preview",
-        "en": "AI Scan for pull request APIs in public preview"
-      },
-      "summary": {
-        "zh": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog .",
-        "en": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog ."
-      },
-      "title_zh": "AI Scan for pull request APIs in public preview",
-      "title_en": "AI Scan for pull request APIs in public preview",
-      "summary_zh": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog .",
-      "summary_en": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog .",
-      "title_text": "AI Scan for pull request APIs in public preview",
-      "summary_text": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "published_at": "2026-09-10T20:20:58.000Z",
-      "tags": [
-        "Improvement",
-        "application security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "122",
       "title": {
         "zh": "GitHub Copilot is now available in the AI SDK harness layer",
@@ -1815,186 +1989,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
       "published_at": "2026-09-10T17:39:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "123",
-      "title": {
-        "zh": "FastAPI frontends and static files served from the CDN",
-        "en": "FastAPI frontends and static files served from the CDN"
-      },
-      "summary": {
-        "zh": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount …",
-        "en": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount …"
-      },
-      "title_zh": "FastAPI frontends and static files served from the CDN",
-      "title_en": "FastAPI frontends and static files served from the CDN",
-      "summary_zh": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount …",
-      "summary_en": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount …",
-      "title_text": "FastAPI frontends and static files served from the CDN",
-      "summary_text": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
-      "published_at": "2026-09-10T17:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "39",
-      "title": {
-        "zh": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-      },
-      "summary": {
-        "zh": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-        "en": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-      },
-      "title_zh": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary_zh": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "summary_en": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "title_text": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary_text": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published_at": "2026-09-10T16:00:00.000Z",
-      "tags": [
-        "Applied AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "66",
-      "title": {
-        "zh": "3 ways to prep for your next big race with Search",
-        "en": "3 ways to prep for your next big race with Search"
-      },
-      "summary": {
-        "zh": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-        "en": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
-      },
-      "title_zh": "3 ways to prep for your next big race with Search",
-      "title_en": "3 ways to prep for your next big race with Search",
-      "summary_zh": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "summary_en": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "title_text": "3 ways to prep for your next big race with Search",
-      "summary_text": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "published_at": "2026-09-10T16:00:00.000Z",
-      "tags": [
-        "Search",
-        "Shopping",
-        "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "40",
-      "title": {
-        "zh": "Now everyone can put data to work",
-        "en": "Now everyone can put data to work"
-      },
-      "summary": {
-        "zh": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-        "en": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-      },
-      "title_zh": "Now everyone can put data to work",
-      "title_en": "Now everyone can put data to work",
-      "summary_zh": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "summary_en": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "title_text": "Now everyone can put data to work",
-      "summary_text": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/put-data-to-work",
-      "published_at": "2026-09-10T15:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "41",
-      "title": {
-        "zh": "Introducing ChatGPT for Financial Services",
-        "en": "Introducing ChatGPT for Financial Services"
-      },
-      "summary": {
-        "zh": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-        "en": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-      },
-      "title_zh": "Introducing ChatGPT for Financial Services",
-      "title_en": "Introducing ChatGPT for Financial Services",
-      "summary_zh": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "summary_en": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "title_text": "Introducing ChatGPT for Financial Services",
-      "summary_text": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published_at": "2026-09-10T07:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "42",
-      "title": {
-        "zh": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-        "en": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-      },
-      "summary": {
-        "zh": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-        "en": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-      },
-      "title_zh": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "title_en": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary_zh": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "summary_en": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "title_text": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary_text": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published_at": "2026-09-10T07:00:00.000Z",
-      "tags": [
-        "Global Affairs"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "134",
-      "title": {
-        "zh": "[AINews] not much happened today",
-        "en": "[AINews] not much happened today"
-      },
-      "summary": {
-        "zh": "a quiet day",
-        "en": "a quiet day"
-      },
-      "title_zh": "[AINews] not much happened today",
-      "title_en": "[AINews] not much happened today",
-      "summary_zh": "a quiet day",
-      "summary_en": "a quiet day",
-      "title_text": "[AINews] not much happened today",
-      "summary_text": "a quiet day",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "published_at": "2026-09-10T03:33:12.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
