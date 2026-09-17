@@ -26,26 +26,203 @@
       "saved": false
     },
     {
+      "id": "401",
+      "title": {
+        "zh": "0.155.0-alpha.16",
+        "en": "0.155.0-alpha.16"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.16",
+        "en": "Release 0.155.0-alpha.16"
+      },
+      "title_zh": "0.155.0-alpha.16",
+      "title_en": "0.155.0-alpha.16",
+      "summary_zh": "Release 0.155.0-alpha.16",
+      "summary_en": "Release 0.155.0-alpha.16",
+      "title_text": "0.155.0-alpha.16",
+      "summary_text": "Release 0.155.0-alpha.16",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.16",
+      "published_at": "2026-09-17T04:37:58.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "402",
+      "title": {
+        "zh": "0.155.0-alpha.15",
+        "en": "0.155.0-alpha.15"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.15",
+        "en": "Release 0.155.0-alpha.15"
+      },
+      "title_zh": "0.155.0-alpha.15",
+      "title_en": "0.155.0-alpha.15",
+      "summary_zh": "Release 0.155.0-alpha.15",
+      "summary_en": "Release 0.155.0-alpha.15",
+      "title_text": "0.155.0-alpha.15",
+      "summary_text": "Release 0.155.0-alpha.15",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.15",
+      "published_at": "2026-09-17T01:24:19.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "403",
+      "title": {
+        "zh": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "en": "Migrating the GitHub Copilot runtime to Rust, using Copilot"
+      },
+      "summary": {
+        "zh": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+        "en": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "summary_zh": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "summary_en": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "title_text": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "summary_text": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "source_id": "5",
+      "source_name": "GitHub AI & ML",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "published_at": "2026-09-17T00:26:43.000Z",
+      "tags": [
+        "AI & ML",
+        "Generative AI",
+        "GitHub Copilot",
+        "AI agents"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "404",
+      "title": {
+        "zh": "datasette 1.0a40",
+        "en": "datasette 1.0a40"
+      },
+      "summary": {
+        "zh": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() metho…",
+        "en": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() metho…"
+      },
+      "title_zh": "datasette 1.0a40",
+      "title_en": "datasette 1.0a40",
+      "summary_zh": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() metho…",
+      "summary_en": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() metho…",
+      "title_text": "datasette 1.0a40",
+      "summary_text": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() metho…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "published_at": "2026-09-16T23:51:43.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "405",
+      "title": {
+        "zh": "datasette 0.65.5",
+        "en": "datasette 0.65.5"
+      },
+      "summary": {
+        "zh": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+        "en": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette"
+      },
+      "title_zh": "datasette 0.65.5",
+      "title_en": "datasette 0.65.5",
+      "summary_zh": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+      "summary_en": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+      "title_text": "datasette 0.65.5",
+      "summary_text": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "published_at": "2026-09-16T23:51:08.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "406",
+      "title": {
+        "zh": "0.155.0-alpha.14",
+        "en": "0.155.0-alpha.14"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.14",
+        "en": "Release 0.155.0-alpha.14"
+      },
+      "title_zh": "0.155.0-alpha.14",
+      "title_en": "0.155.0-alpha.14",
+      "summary_zh": "Release 0.155.0-alpha.14",
+      "summary_en": "Release 0.155.0-alpha.14",
+      "title_text": "0.155.0-alpha.14",
+      "summary_text": "Release 0.155.0-alpha.14",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.14",
+      "published_at": "2026-09-16T23:09:36.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "393",
       "title": {
-        "zh": "rust-v0.155.0-alpha.13",
-        "en": "rust-v0.155.0-alpha.13"
+        "zh": "0.155.0-alpha.13",
+        "en": "0.155.0-alpha.13"
       },
       "summary": {
         "zh": "Release 0.155.0-alpha.13",
         "en": "Release 0.155.0-alpha.13"
       },
-      "title_zh": "rust-v0.155.0-alpha.13",
-      "title_en": "rust-v0.155.0-alpha.13",
+      "title_zh": "0.155.0-alpha.13",
+      "title_en": "0.155.0-alpha.13",
       "summary_zh": "Release 0.155.0-alpha.13",
       "summary_en": "Release 0.155.0-alpha.13",
-      "title_text": "rust-v0.155.0-alpha.13",
+      "title_text": "0.155.0-alpha.13",
       "summary_text": "Release 0.155.0-alpha.13",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.13",
-      "published_at": "2026-09-16T20:50:52.000Z",
+      "published_at": "2026-09-16T21:46:27.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "407",
+      "title": {
+        "zh": "Automate SSO authorization for classic PATs and SSH keys",
+        "en": "Automate SSO authorization for classic PATs and SSH keys"
+      },
+      "summary": {
+        "zh": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The…",
+        "en": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The…"
+      },
+      "title_zh": "Automate SSO authorization for classic PATs and SSH keys",
+      "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+      "summary_zh": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The…",
+      "summary_en": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The…",
+      "title_text": "Automate SSO authorization for classic PATs and SSH keys",
+      "summary_text": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The…",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "published_at": "2026-09-16T20:20:16.000Z",
+      "tags": [
+        "Release",
+        "account management",
+        "enterprise management tools"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -272,6 +449,32 @@
       "saved": false
     },
     {
+      "id": "408",
+      "title": {
+        "zh": "Our framework for reporting model misalignment",
+        "en": "Our framework for reporting model misalignment"
+      },
+      "summary": {
+        "zh": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "en": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      },
+      "title_zh": "Our framework for reporting model misalignment",
+      "title_en": "Our framework for reporting model misalignment",
+      "summary_zh": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "summary_en": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "title_text": "Our framework for reporting model misalignment",
+      "summary_text": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published_at": "2026-09-16T17:00:00.000Z",
+      "tags": [
+        "Research"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "385",
       "title": {
         "zh": "Secure Compute and Static IP builds start 64% faster",
@@ -393,30 +596,6 @@
         "Improvement",
         "application security"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "383",
-      "title": {
-        "zh": "0.155.0-alpha.2.5",
-        "en": "0.155.0-alpha.2.5"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.2.5",
-        "en": "Release 0.155.0-alpha.2.5"
-      },
-      "title_zh": "0.155.0-alpha.2.5",
-      "title_en": "0.155.0-alpha.2.5",
-      "summary_zh": "Release 0.155.0-alpha.2.5",
-      "summary_en": "Release 0.155.0-alpha.2.5",
-      "title_text": "0.155.0-alpha.2.5",
-      "summary_text": "Release 0.155.0-alpha.2.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.2.5",
-      "published_at": "2026-09-16T13:19:19.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -595,6 +774,54 @@
       "saved": false
     },
     {
+      "id": "409",
+      "title": {
+        "zh": "Building the new GitHub Copilot Inline Suggestions Model: Part One",
+        "en": "Building the new GitHub Copilot Inline Suggestions Model: Part One"
+      },
+      "summary": {
+        "zh": "Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience. Read the full article",
+        "en": "Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience. Read the full article"
+      },
+      "title_zh": "Building the new GitHub Copilot Inline Suggestions Model: Part One",
+      "title_en": "Building the new GitHub Copilot Inline Suggestions Model: Part One",
+      "summary_zh": "Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience. Read the full article",
+      "summary_en": "Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience. Read the full article",
+      "title_text": "Building the new GitHub Copilot Inline Suggestions Model: Part One",
+      "summary_text": "Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience. Read the full article",
+      "source_id": "1",
+      "source_name": "VS Code Blog",
+      "url": "https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one",
+      "published_at": "2026-09-16T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "410",
+      "title": {
+        "zh": "TypeSafe AI's Jev now available on AI Gateway",
+        "en": "TypeSafe AI's Jev now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+        "en": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …"
+      },
+      "title_zh": "TypeSafe AI's Jev now available on AI Gateway",
+      "title_en": "TypeSafe AI's Jev now available on AI Gateway",
+      "summary_zh": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+      "summary_en": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+      "title_text": "TypeSafe AI's Jev now available on AI Gateway",
+      "summary_text": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
+      "published_at": "2026-09-16T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "377",
       "title": {
         "zh": "Is Agentic now tailors its audit by site type",
@@ -638,54 +865,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
       "published_at": "2026-09-15T22:47:07.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "379",
-      "title": {
-        "zh": "0.155.0-alpha.8",
-        "en": "0.155.0-alpha.8"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.8",
-        "en": "Release 0.155.0-alpha.8"
-      },
-      "title_zh": "0.155.0-alpha.8",
-      "title_en": "0.155.0-alpha.8",
-      "summary_zh": "Release 0.155.0-alpha.8",
-      "summary_en": "Release 0.155.0-alpha.8",
-      "title_text": "0.155.0-alpha.8",
-      "summary_text": "Release 0.155.0-alpha.8",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.8",
-      "published_at": "2026-09-15T22:29:30.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "363",
-      "title": {
-        "zh": "0.155.0-alpha.7",
-        "en": "0.155.0-alpha.7"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.7",
-        "en": "Release 0.155.0-alpha.7"
-      },
-      "title_zh": "0.155.0-alpha.7",
-      "title_en": "0.155.0-alpha.7",
-      "summary_zh": "Release 0.155.0-alpha.7",
-      "summary_en": "Release 0.155.0-alpha.7",
-      "title_text": "0.155.0-alpha.7",
-      "summary_text": "Release 0.155.0-alpha.7",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.7",
-      "published_at": "2026-09-15T21:12:08.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1525,33 +1704,6 @@
       "saved": false
     },
     {
-      "id": "17",
-      "title": {
-        "zh": "Auto-resolution and analysis updates in Copilot code review",
-        "en": "Auto-resolution and analysis updates in Copilot code review"
-      },
-      "summary": {
-        "zh": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog .",
-        "en": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Auto-resolution and analysis updates in Copilot code review",
-      "title_en": "Auto-resolution and analysis updates in Copilot code review",
-      "summary_zh": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog .",
-      "summary_en": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog .",
-      "title_text": "Auto-resolution and analysis updates in Copilot code review",
-      "summary_text": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now… The post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "published_at": "2026-09-11T20:00:07.000Z",
-      "tags": [
-        "Improvement",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "26",
       "title": {
         "zh": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -1842,150 +1994,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
       "published_at": "2026-09-11T03:27:16.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "156",
-      "title": {
-        "zh": "datasette-publish-fly 1.4",
-        "en": "datasette-publish-fly 1.4"
-      },
-      "summary": {
-        "zh": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-        "en": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly"
-      },
-      "title_zh": "datasette-publish-fly 1.4",
-      "title_en": "datasette-publish-fly 1.4",
-      "summary_zh": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-      "summary_en": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-      "title_text": "datasette-publish-fly 1.4",
-      "summary_text": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "published_at": "2026-09-11T02:58:52.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "157",
-      "title": {
-        "zh": "github-to-sqlite 2.9.1",
-        "en": "github-to-sqlite 2.9.1"
-      },
-      "summary": {
-        "zh": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-        "en": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite"
-      },
-      "title_zh": "github-to-sqlite 2.9.1",
-      "title_en": "github-to-sqlite 2.9.1",
-      "summary_zh": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-      "summary_en": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-      "title_text": "github-to-sqlite 2.9.1",
-      "summary_text": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-      "published_at": "2026-09-11T00:28:39.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "158",
-      "title": {
-        "zh": "datasette 0.65.4",
-        "en": "datasette 0.65.4"
-      },
-      "summary": {
-        "zh": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-        "en": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette"
-      },
-      "title_zh": "datasette 0.65.4",
-      "title_en": "datasette 0.65.4",
-      "summary_zh": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "summary_en": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "title_text": "datasette 0.65.4",
-      "summary_text": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette/",
-      "published_at": "2026-09-11T00:06:55.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "159",
-      "title": {
-        "zh": "datasette 1.0a39",
-        "en": "datasette 1.0a39"
-      },
-      "summary": {
-        "zh": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-        "en": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette"
-      },
-      "title_zh": "datasette 1.0a39",
-      "title_en": "datasette 1.0a39",
-      "summary_zh": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "summary_en": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "title_text": "datasette 1.0a39",
-      "summary_text": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "published_at": "2026-09-11T00:05:54.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "121",
-      "title": {
-        "zh": "Control who can manage connectors in Vercel Connect",
-        "en": "Control who can manage connectors in Vercel Connect"
-      },
-      "summary": {
-        "zh": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owne…",
-        "en": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owne…"
-      },
-      "title_zh": "Control who can manage connectors in Vercel Connect",
-      "title_en": "Control who can manage connectors in Vercel Connect",
-      "summary_zh": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owne…",
-      "summary_en": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owne…",
-      "title_text": "Control who can manage connectors in Vercel Connect",
-      "summary_text": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owne…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect",
-      "published_at": "2026-09-11T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "160",
-      "title": {
-        "zh": "Any Nix package, live in your browser",
-        "en": "Any Nix package, live in your browser"
-      },
-      "summary": {
-        "zh": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are U…",
-        "en": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are U…"
-      },
-      "title_zh": "Any Nix package, live in your browser",
-      "title_en": "Any Nix package, live in your browser",
-      "summary_zh": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are U…",
-      "summary_en": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are U…",
-      "title_text": "Any Nix package, live in your browser",
-      "summary_text": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are U…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "published_at": "2026-09-10T23:44:15.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
