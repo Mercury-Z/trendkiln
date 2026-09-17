@@ -26,6 +26,81 @@
       "saved": false
     },
     {
+      "id": "412",
+      "title": {
+        "zh": "The skills CLI now supports Notion hosted skills",
+        "en": "The skills CLI now supports Notion hosted skills"
+      },
+      "summary": {
+        "zh": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse you…",
+        "en": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse you…"
+      },
+      "title_zh": "The skills CLI now supports Notion hosted skills",
+      "title_en": "The skills CLI now supports Notion hosted skills",
+      "summary_zh": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse you…",
+      "summary_en": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse you…",
+      "title_text": "The skills CLI now supports Notion hosted skills",
+      "summary_text": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse you…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+      "published_at": "2026-09-17T18:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "413",
+      "title": {
+        "zh": "rust-v0.155.0",
+        "en": "rust-v0.155.0"
+      },
+      "summary": {
+        "zh": "Release 0.155.0",
+        "en": "Release 0.155.0"
+      },
+      "title_zh": "rust-v0.155.0",
+      "title_en": "rust-v0.155.0",
+      "summary_zh": "Release 0.155.0",
+      "summary_en": "Release 0.155.0",
+      "title_text": "rust-v0.155.0",
+      "summary_text": "Release 0.155.0",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0",
+      "published_at": "2026-09-17T16:53:41.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "414",
+      "title": {
+        "zh": "Ubuntu 26 generally available and latest migration",
+        "en": "Ubuntu 26 generally available and latest migration"
+      },
+      "summary": {
+        "zh": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .",
+        "en": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Ubuntu 26 generally available and latest migration",
+      "title_en": "Ubuntu 26 generally available and latest migration",
+      "summary_zh": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .",
+      "summary_en": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .",
+      "title_text": "Ubuntu 26 generally available and latest migration",
+      "summary_text": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "published_at": "2026-09-17T16:27:16.000Z",
+      "tags": [
+        "Improvement",
+        "actions"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "411",
       "title": {
         "zh": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
@@ -123,6 +198,30 @@
         "GitHub Copilot",
         "AI agents"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "415",
+      "title": {
+        "zh": "Native Marketplace integrations now support custom environments",
+        "en": "Native Marketplace integrations now support custom environments"
+      },
+      "summary": {
+        "zh": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variabl…",
+        "en": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variabl…"
+      },
+      "title_zh": "Native Marketplace integrations now support custom environments",
+      "title_en": "Native Marketplace integrations now support custom environments",
+      "summary_zh": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variabl…",
+      "summary_en": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variabl…",
+      "title_text": "Native Marketplace integrations now support custom environments",
+      "summary_text": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variabl…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations",
+      "published_at": "2026-09-17T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -301,30 +400,6 @@
         "Release",
         "copilot"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "396",
-      "title": {
-        "zh": "0.155.0-alpha.2.6",
-        "en": "0.155.0-alpha.2.6"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.2.6",
-        "en": "Release 0.155.0-alpha.2.6"
-      },
-      "title_zh": "0.155.0-alpha.2.6",
-      "title_en": "0.155.0-alpha.2.6",
-      "summary_zh": "Release 0.155.0-alpha.2.6",
-      "summary_en": "Release 0.155.0-alpha.2.6",
-      "title_text": "0.155.0-alpha.2.6",
-      "summary_text": "Release 0.155.0-alpha.2.6",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.2.6",
-      "published_at": "2026-09-16T20:06:48.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -828,15 +903,15 @@
         "en": "TypeSafe AI's Jev now available on AI Gateway"
       },
       "summary": {
-        "zh": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
-        "en": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …"
+        "zh": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in…",
+        "en": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in…"
       },
       "title_zh": "TypeSafe AI's Jev now available on AI Gateway",
       "title_en": "TypeSafe AI's Jev now available on AI Gateway",
-      "summary_zh": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
-      "summary_en": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+      "summary_zh": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in…",
+      "summary_en": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in…",
       "title_text": "TypeSafe AI's Jev now available on AI Gateway",
-      "summary_text": "Jev from TypeSafe AI is now available on AI Gateway. Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in …",
+      "summary_text": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in…",
       "source_id": "7",
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
@@ -1699,35 +1774,6 @@
       "saved": false
     },
     {
-      "id": "16",
-      "title": {
-        "zh": "Add VS Code Agents to Copilot usage metrics",
-        "en": "Add VS Code Agents to Copilot usage metrics"
-      },
-      "summary": {
-        "zh": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
-        "en": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Add VS Code Agents to Copilot usage metrics",
-      "title_en": "Add VS Code Agents to Copilot usage metrics",
-      "summary_zh": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
-      "summary_en": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
-      "title_text": "Add VS Code Agents to Copilot usage metrics",
-      "summary_text": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "published_at": "2026-09-11T21:30:30.000Z",
-      "tags": [
-        "Improvement",
-        "account management",
-        "copilot",
-        "enterprise management tools"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "26",
       "title": {
         "zh": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -1946,54 +1992,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
       "published_at": "2026-09-11T06:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "119",
-      "title": {
-        "zh": "How Featured's users make 100K media pitches per month on Vercel",
-        "en": "How Featured's users make 100K media pitches per month on Vercel"
-      },
-      "summary": {
-        "zh": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) t…",
-        "en": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) t…"
-      },
-      "title_zh": "How Featured's users make 100K media pitches per month on Vercel",
-      "title_en": "How Featured's users make 100K media pitches per month on Vercel",
-      "summary_zh": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) t…",
-      "summary_en": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) t…",
-      "title_text": "How Featured's users make 100K media pitches per month on Vercel",
-      "summary_text": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) t…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
-      "published_at": "2026-09-11T04:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "120",
-      "title": {
-        "zh": "How Tailscale built a customer-facing model router on AI Gateway",
-        "en": "How Tailscale built a customer-facing model router on AI Gateway"
-      },
-      "summary": {
-        "zh": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a…",
-        "en": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a…"
-      },
-      "title_zh": "How Tailscale built a customer-facing model router on AI Gateway",
-      "title_en": "How Tailscale built a customer-facing model router on AI Gateway",
-      "summary_zh": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a…",
-      "summary_en": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a…",
-      "title_text": "How Tailscale built a customer-facing model router on AI Gateway",
-      "summary_text": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
-      "published_at": "2026-09-11T04:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
