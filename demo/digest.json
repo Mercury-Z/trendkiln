@@ -15,18 +15,18 @@
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "signal": {
-        "zh": "+1,015 星标",
-        "en": "+1,015 stars"
+        "zh": "+291 星标",
+        "en": "+291 stars"
       },
       "title_zh": "cloudflare/security-audit-skill 星标异动",
       "title_en": "cloudflare/security-audit-skill star surge",
       "subtitle_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "subtitle_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "signal_zh": "+1,015 星标",
-      "signal_en": "+1,015 stars",
+      "signal_zh": "+291 星标",
+      "signal_en": "+291 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
       "entity_id": "repo:cloudflare/security-audit-skill"
     },
     {
@@ -67,22 +67,74 @@
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
       },
       "signal": {
-        "zh": "+726 星标",
-        "en": "+726 stars"
+        "zh": "+263 星标",
+        "en": "+263 stars"
       },
       "title_zh": "alibaba/open-code-review 星标异动",
       "title_en": "alibaba/open-code-review star surge",
       "subtitle_zh": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "subtitle_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "signal_zh": "+726 星标",
-      "signal_en": "+726 stars",
+      "signal_zh": "+263 星标",
+      "signal_en": "+263 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/alibaba/open-code-review",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
       "entity_id": "repo:alibaba/open-code-review"
     },
     {
       "id": "4",
+      "type": "github_surge",
+      "title": {
+        "zh": "JustVugg/colibri 星标异动",
+        "en": "JustVugg/colibri star surge"
+      },
+      "subtitle": {
+        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+      },
+      "signal": {
+        "zh": "+121 星标",
+        "en": "+121 stars"
+      },
+      "title_zh": "JustVugg/colibri 星标异动",
+      "title_en": "JustVugg/colibri star surge",
+      "subtitle_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "subtitle_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "signal_zh": "+121 星标",
+      "signal_en": "+121 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/JustVugg/colibri",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
+      "entity_id": "repo:JustVugg/colibri"
+    },
+    {
+      "id": "5",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Sub-second artifact deployments are now supported in Vercel CLI",
+        "en": "Sub-second artifact deployments are now supported in Vercel CLI"
+      },
+      "subtitle": {
+        "zh": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+        "en": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "title_en": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "subtitle_zh": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+      "subtitle_en": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Vercel Blog",
+      "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+      "occurred_at": "2026-09-17T22:00:00.000Z",
+      "entity_id": "feed:416"
+    },
+    {
+      "id": "6",
       "type": "github_surge",
       "title": {
         "zh": "Tencent/BrowserSkill 星标异动",
@@ -93,22 +145,256 @@
         "en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
       },
       "signal": {
-        "zh": "+361 星标",
-        "en": "+361 stars"
+        "zh": "+98 星标",
+        "en": "+98 stars"
       },
       "title_zh": "Tencent/BrowserSkill 星标异动",
       "title_en": "Tencent/BrowserSkill star surge",
       "subtitle_zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "subtitle_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "signal_zh": "+361 星标",
-      "signal_en": "+361 stars",
+      "signal_zh": "+98 星标",
+      "signal_en": "+98 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/Tencent/BrowserSkill",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
       "entity_id": "repo:Tencent/BrowserSkill"
     },
     {
-      "id": "5",
+      "id": "7",
+      "type": "github_surge",
+      "title": {
+        "zh": "NationalSecurityAgency/ghidra 星标异动",
+        "en": "NationalSecurityAgency/ghidra star surge"
+      },
+      "subtitle": {
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "signal": {
+        "zh": "+79 星标",
+        "en": "+79 stars"
+      },
+      "title_zh": "NationalSecurityAgency/ghidra 星标异动",
+      "title_en": "NationalSecurityAgency/ghidra star surge",
+      "subtitle_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "subtitle_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "signal_zh": "+79 星标",
+      "signal_en": "+79 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
+      "entity_id": "repo:NationalSecurityAgency/ghidra"
+    },
+    {
+      "id": "8",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.155.0-alpha.17",
+        "en": "0.155.0-alpha.17"
+      },
+      "subtitle": {
+        "zh": "Release 0.155.0-alpha.17",
+        "en": "Release 0.155.0-alpha.17"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "0.155.0-alpha.17",
+      "title_en": "0.155.0-alpha.17",
+      "subtitle_zh": "Release 0.155.0-alpha.17",
+      "subtitle_en": "Release 0.155.0-alpha.17",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.17",
+      "occurred_at": "2026-09-17T21:19:20.000Z",
+      "entity_id": "feed:417"
+    },
+    {
+      "id": "9",
+      "type": "github_surge",
+      "title": {
+        "zh": "abue-ammar/tinycast 星标异动",
+        "en": "abue-ammar/tinycast star surge"
+      },
+      "subtitle": {
+        "zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+      },
+      "signal": {
+        "zh": "+72 星标",
+        "en": "+72 stars"
+      },
+      "title_zh": "abue-ammar/tinycast 星标异动",
+      "title_en": "abue-ammar/tinycast star surge",
+      "subtitle_zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "subtitle_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "signal_zh": "+72 星标",
+      "signal_en": "+72 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
+      "entity_id": "repo:abue-ammar/tinycast"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "TencentCloud/Octop 星标异动",
+        "en": "TencentCloud/Octop star surge"
+      },
+      "subtitle": {
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      },
+      "signal": {
+        "zh": "+64 星标",
+        "en": "+64 stars"
+      },
+      "title_zh": "TencentCloud/Octop 星标异动",
+      "title_en": "TencentCloud/Octop star surge",
+      "subtitle_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "subtitle_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "signal_zh": "+64 星标",
+      "signal_en": "+64 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/TencentCloud/Octop",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
+      "entity_id": "repo:TencentCloud/Octop"
+    },
+    {
+      "id": "11",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Self-generated prompt injections in compaction summaries",
+        "en": "Self-generated prompt injections in compaction summaries"
+      },
+      "subtitle": {
+        "zh": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+        "en": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Self-generated prompt injections in compaction summaries",
+      "title_en": "Self-generated prompt injections in compaction summaries",
+      "subtitle_zh": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+      "subtitle_en": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "occurred_at": "2026-09-17T20:57:55.000Z",
+      "entity_id": "feed:418"
+    },
+    {
+      "id": "12",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/knowledge-work-plugins 星标异动",
+        "en": "anthropics/knowledge-work-plugins star surge"
+      },
+      "subtitle": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "signal": {
+        "zh": "+48 星标",
+        "en": "+48 stars"
+      },
+      "title_zh": "anthropics/knowledge-work-plugins 星标异动",
+      "title_en": "anthropics/knowledge-work-plugins star surge",
+      "subtitle_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "subtitle_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "signal_zh": "+48 星标",
+      "signal_en": "+48 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "occurred_at": "2026-09-17T21:29:38.305Z",
+      "entity_id": "repo:anthropics/knowledge-work-plugins"
+    },
+    {
+      "id": "13",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Turbo build machines can now be enabled per deployment",
+        "en": "Turbo build machines can now be enabled per deployment"
+      },
+      "subtitle": {
+        "zh": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+        "en": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Turbo build machines can now be enabled per deployment",
+      "title_en": "Turbo build machines can now be enabled per deployment",
+      "subtitle_zh": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+      "subtitle_en": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Vercel Blog",
+      "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+      "occurred_at": "2026-09-17T20:00:00.000Z",
+      "entity_id": "feed:419"
+    },
+    {
+      "id": "14",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Making global data easier to explore",
+        "en": "Making global data easier to explore"
+      },
+      "subtitle": {
+        "zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+        "en": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Making global data easier to explore",
+      "title_en": "Making global data easier to explore",
+      "subtitle_zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "subtitle_en": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "occurred_at": "2026-09-17T20:00:00.000Z",
+      "entity_id": "feed:420"
+    },
+    {
+      "id": "15",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+        "en": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox"
+      },
+      "subtitle": {
+        "zh": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+        "en": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "title_en": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "subtitle_zh": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+      "subtitle_en": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Vercel Blog",
+      "url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
+      "occurred_at": "2026-09-17T19:00:00.000Z",
+      "entity_id": "feed:421"
+    },
+    {
+      "id": "16",
       "type": "feed_must_read",
       "title": {
         "zh": "The skills CLI now supports Notion hosted skills",
@@ -134,59 +420,7 @@
       "entity_id": "feed:412"
     },
     {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "affaan-m/ECC 星标异动",
-        "en": "affaan-m/ECC star surge"
-      },
-      "subtitle": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-      },
-      "signal": {
-        "zh": "+260 星标",
-        "en": "+260 stars"
-      },
-      "title_zh": "affaan-m/ECC 星标异动",
-      "title_en": "affaan-m/ECC star surge",
-      "subtitle_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "subtitle_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "signal_zh": "+260 星标",
-      "signal_en": "+260 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/affaan-m/ECC",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:affaan-m/ECC"
-    },
-    {
-      "id": "7",
-      "type": "github_surge",
-      "title": {
-        "zh": "Tencent/WeKnora 星标异动",
-        "en": "Tencent/WeKnora star surge"
-      },
-      "subtitle": {
-        "zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-      },
-      "signal": {
-        "zh": "+224 星标",
-        "en": "+224 stars"
-      },
-      "title_zh": "Tencent/WeKnora 星标异动",
-      "title_en": "Tencent/WeKnora star surge",
-      "subtitle_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "subtitle_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "signal_zh": "+224 星标",
-      "signal_en": "+224 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/Tencent/WeKnora",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:Tencent/WeKnora"
-    },
-    {
-      "id": "8",
+      "id": "17",
       "type": "feed_must_read",
       "title": {
         "zh": "rust-v0.155.0",
@@ -212,59 +446,7 @@
       "entity_id": "feed:413"
     },
     {
-      "id": "9",
-      "type": "github_surge",
-      "title": {
-        "zh": "addyosmani/agent-skills 星标异动",
-        "en": "addyosmani/agent-skills star surge"
-      },
-      "subtitle": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
-      },
-      "signal": {
-        "zh": "+189 星标",
-        "en": "+189 stars"
-      },
-      "title_zh": "addyosmani/agent-skills 星标异动",
-      "title_en": "addyosmani/agent-skills star surge",
-      "subtitle_zh": "Production-grade engineering skills for AI coding agents.",
-      "subtitle_en": "Production-grade engineering skills for AI coding agents.",
-      "signal_zh": "+189 星标",
-      "signal_en": "+189 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:addyosmani/agent-skills"
-    },
-    {
-      "id": "10",
-      "type": "github_surge",
-      "title": {
-        "zh": "n8n-io/n8n 星标异动",
-        "en": "n8n-io/n8n star surge"
-      },
-      "subtitle": {
-        "zh": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-      },
-      "signal": {
-        "zh": "+178 星标",
-        "en": "+178 stars"
-      },
-      "title_zh": "n8n-io/n8n 星标异动",
-      "title_en": "n8n-io/n8n star surge",
-      "subtitle_zh": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "subtitle_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "signal_zh": "+178 星标",
-      "signal_en": "+178 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/n8n-io/n8n",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:n8n-io/n8n"
-    },
-    {
-      "id": "11",
+      "id": "18",
       "type": "feed_must_read",
       "title": {
         "zh": "Ubuntu 26 generally available and latest migration",
@@ -290,59 +472,33 @@
       "entity_id": "feed:414"
     },
     {
-      "id": "12",
-      "type": "github_surge",
+      "id": "19",
+      "type": "feed_must_read",
       "title": {
-        "zh": "alphaXiv/OpenResearch 星标异动",
-        "en": "alphaXiv/OpenResearch star surge"
+        "zh": "Workflow execution protections in GitHub Actions generally available",
+        "en": "Workflow execution protections in GitHub Actions generally available"
       },
       "subtitle": {
-        "zh": "Turn your coding agents into research agents",
-        "en": "Turn your coding agents into research agents"
+        "zh": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+        "en": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…"
       },
       "signal": {
-        "zh": "+169 星标",
-        "en": "+169 stars"
+        "zh": "资讯",
+        "en": "feed"
       },
-      "title_zh": "alphaXiv/OpenResearch 星标异动",
-      "title_en": "alphaXiv/OpenResearch star surge",
-      "subtitle_zh": "Turn your coding agents into research agents",
-      "subtitle_en": "Turn your coding agents into research agents",
-      "signal_zh": "+169 星标",
-      "signal_en": "+169 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:alphaXiv/OpenResearch"
+      "title_zh": "Workflow execution protections in GitHub Actions generally available",
+      "title_en": "Workflow execution protections in GitHub Actions generally available",
+      "subtitle_zh": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+      "subtitle_en": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "occurred_at": "2026-09-17T15:45:26.000Z",
+      "entity_id": "feed:422"
     },
     {
-      "id": "13",
-      "type": "github_surge",
-      "title": {
-        "zh": "JustVugg/colibri 星标异动",
-        "en": "JustVugg/colibri star surge"
-      },
-      "subtitle": {
-        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-      },
-      "signal": {
-        "zh": "+168 星标",
-        "en": "+168 stars"
-      },
-      "title_zh": "JustVugg/colibri 星标异动",
-      "title_en": "JustVugg/colibri star surge",
-      "subtitle_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "subtitle_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "signal_zh": "+168 星标",
-      "signal_en": "+168 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/JustVugg/colibri",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:JustVugg/colibri"
-    },
-    {
-      "id": "14",
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
@@ -366,162 +522,6 @@
       "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
       "occurred_at": "2026-09-17T07:28:25.000Z",
       "entity_id": "feed:411"
-    },
-    {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "NationalSecurityAgency/ghidra 星标异动",
-        "en": "NationalSecurityAgency/ghidra star surge"
-      },
-      "subtitle": {
-        "zh": "Ghidra is a software reverse engineering (SRE) framework",
-        "en": "Ghidra is a software reverse engineering (SRE) framework"
-      },
-      "signal": {
-        "zh": "+159 星标",
-        "en": "+159 stars"
-      },
-      "title_zh": "NationalSecurityAgency/ghidra 星标异动",
-      "title_en": "NationalSecurityAgency/ghidra star surge",
-      "subtitle_zh": "Ghidra is a software reverse engineering (SRE) framework",
-      "subtitle_en": "Ghidra is a software reverse engineering (SRE) framework",
-      "signal_zh": "+159 星标",
-      "signal_en": "+159 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:NationalSecurityAgency/ghidra"
-    },
-    {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "coder/coder 星标异动",
-        "en": "coder/coder star surge"
-      },
-      "subtitle": {
-        "zh": "Secure environments for developers and their agents",
-        "en": "Secure environments for developers and their agents"
-      },
-      "signal": {
-        "zh": "+134 星标",
-        "en": "+134 stars"
-      },
-      "title_zh": "coder/coder 星标异动",
-      "title_en": "coder/coder star surge",
-      "subtitle_zh": "Secure environments for developers and their agents",
-      "subtitle_en": "Secure environments for developers and their agents",
-      "signal_zh": "+134 星标",
-      "signal_en": "+134 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/coder/coder",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:coder/coder"
-    },
-    {
-      "id": "17",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.155.0-alpha.16",
-        "en": "0.155.0-alpha.16"
-      },
-      "subtitle": {
-        "zh": "Release 0.155.0-alpha.16",
-        "en": "Release 0.155.0-alpha.16"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.155.0-alpha.16",
-      "title_en": "0.155.0-alpha.16",
-      "subtitle_zh": "Release 0.155.0-alpha.16",
-      "subtitle_en": "Release 0.155.0-alpha.16",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.16",
-      "occurred_at": "2026-09-17T04:37:58.000Z",
-      "entity_id": "feed:401"
-    },
-    {
-      "id": "18",
-      "type": "github_surge",
-      "title": {
-        "zh": "jamiepine/voicebox 星标异动",
-        "en": "jamiepine/voicebox star surge"
-      },
-      "subtitle": {
-        "zh": "The open-source AI voice studio. Clone, dictate, create.",
-        "en": "The open-source AI voice studio. Clone, dictate, create."
-      },
-      "signal": {
-        "zh": "+124 星标",
-        "en": "+124 stars"
-      },
-      "title_zh": "jamiepine/voicebox 星标异动",
-      "title_en": "jamiepine/voicebox star surge",
-      "subtitle_zh": "The open-source AI voice studio. Clone, dictate, create.",
-      "subtitle_en": "The open-source AI voice studio. Clone, dictate, create.",
-      "signal_zh": "+124 星标",
-      "signal_en": "+124 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/jamiepine/voicebox",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:jamiepine/voicebox"
-    },
-    {
-      "id": "19",
-      "type": "github_surge",
-      "title": {
-        "zh": "anthropics/claude-code 星标异动",
-        "en": "anthropics/claude-code star surge"
-      },
-      "subtitle": {
-        "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-      },
-      "signal": {
-        "zh": "+123 星标",
-        "en": "+123 stars"
-      },
-      "title_zh": "anthropics/claude-code 星标异动",
-      "title_en": "anthropics/claude-code star surge",
-      "subtitle_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "subtitle_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "signal_zh": "+123 星标",
-      "signal_en": "+123 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/anthropics/claude-code",
-      "occurred_at": "2026-09-17T17:08:18.262Z",
-      "entity_id": "repo:anthropics/claude-code"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.155.0-alpha.15",
-        "en": "0.155.0-alpha.15"
-      },
-      "subtitle": {
-        "zh": "Release 0.155.0-alpha.15",
-        "en": "Release 0.155.0-alpha.15"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.155.0-alpha.15",
-      "title_en": "0.155.0-alpha.15",
-      "subtitle_zh": "Release 0.155.0-alpha.15",
-      "subtitle_en": "Release 0.155.0-alpha.15",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.15",
-      "occurred_at": "2026-09-17T01:24:19.000Z",
-      "entity_id": "feed:402"
     }
   ]
 }

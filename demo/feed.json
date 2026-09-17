@@ -26,6 +26,152 @@
       "saved": false
     },
     {
+      "id": "416",
+      "title": {
+        "zh": "Sub-second artifact deployments are now supported in Vercel CLI",
+        "en": "Sub-second artifact deployments are now supported in Vercel CLI"
+      },
+      "summary": {
+        "zh": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+        "en": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…"
+      },
+      "title_zh": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "title_en": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "summary_zh": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+      "summary_en": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+      "title_text": "Sub-second artifact deployments are now supported in Vercel CLI",
+      "summary_text": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediat…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+      "published_at": "2026-09-17T22:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "417",
+      "title": {
+        "zh": "0.155.0-alpha.17",
+        "en": "0.155.0-alpha.17"
+      },
+      "summary": {
+        "zh": "Release 0.155.0-alpha.17",
+        "en": "Release 0.155.0-alpha.17"
+      },
+      "title_zh": "0.155.0-alpha.17",
+      "title_en": "0.155.0-alpha.17",
+      "summary_zh": "Release 0.155.0-alpha.17",
+      "summary_en": "Release 0.155.0-alpha.17",
+      "title_text": "0.155.0-alpha.17",
+      "summary_text": "Release 0.155.0-alpha.17",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.17",
+      "published_at": "2026-09-17T21:19:20.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "418",
+      "title": {
+        "zh": "Self-generated prompt injections in compaction summaries",
+        "en": "Self-generated prompt injections in compaction summaries"
+      },
+      "summary": {
+        "zh": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+        "en": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…"
+      },
+      "title_zh": "Self-generated prompt injections in compaction summaries",
+      "title_en": "Self-generated prompt injections in compaction summaries",
+      "summary_zh": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+      "summary_en": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+      "title_text": "Self-generated prompt injections in compaction summaries",
+      "summary_text": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting th…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "published_at": "2026-09-17T20:57:55.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "419",
+      "title": {
+        "zh": "Turbo build machines can now be enabled per deployment",
+        "en": "Turbo build machines can now be enabled per deployment"
+      },
+      "summary": {
+        "zh": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+        "en": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …"
+      },
+      "title_zh": "Turbo build machines can now be enabled per deployment",
+      "title_en": "Turbo build machines can now be enabled per deployment",
+      "summary_zh": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+      "summary_en": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+      "title_text": "Turbo build machines can now be enabled per deployment",
+      "summary_text": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+      "published_at": "2026-09-17T20:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "420",
+      "title": {
+        "zh": "Making global data easier to explore",
+        "en": "Making global data easier to explore"
+      },
+      "summary": {
+        "zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+        "en": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+      },
+      "title_zh": "Making global data easier to explore",
+      "title_en": "Making global data easier to explore",
+      "summary_zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "summary_en": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "title_text": "Making global data easier to explore",
+      "summary_text": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "source_id": "9",
+      "source_name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published_at": "2026-09-17T20:00:00.000Z",
+      "tags": [
+        "AI"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "421",
+      "title": {
+        "zh": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+        "en": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox"
+      },
+      "summary": {
+        "zh": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+        "en": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …"
+      },
+      "title_zh": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "title_en": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "summary_zh": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+      "summary_en": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+      "title_text": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+      "summary_text": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
+      "published_at": "2026-09-17T19:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "412",
       "title": {
         "zh": "The skills CLI now supports Notion hosted skills",
@@ -96,6 +242,34 @@
       "tags": [
         "Improvement",
         "actions"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "422",
+      "title": {
+        "zh": "Workflow execution protections in GitHub Actions generally available",
+        "en": "Workflow execution protections in GitHub Actions generally available"
+      },
+      "summary": {
+        "zh": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+        "en": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…"
+      },
+      "title_zh": "Workflow execution protections in GitHub Actions generally available",
+      "title_en": "Workflow execution protections in GitHub Actions generally available",
+      "summary_zh": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+      "summary_en": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+      "title_text": "Workflow execution protections in GitHub Actions generally available",
+      "summary_text": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeare…",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "published_at": "2026-09-17T15:45:26.000Z",
+      "tags": [
+        "Release",
+        "actions",
+        "supply chain security"
       ],
       "read_at": null,
       "saved": false
@@ -197,6 +371,32 @@
         "Generative AI",
         "GitHub Copilot",
         "AI agents"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "423",
+      "title": {
+        "zh": "Introducing Astra for Law",
+        "en": "Introducing Astra for Law"
+      },
+      "summary": {
+        "zh": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+        "en": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+      },
+      "title_zh": "Introducing Astra for Law",
+      "title_en": "Introducing Astra for Law",
+      "summary_zh": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "summary_en": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "title_text": "Introducing Astra for Law",
+      "summary_text": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/astra-for-law",
+      "published_at": "2026-09-17T00:00:00.000Z",
+      "tags": [
+        "Company"
       ],
       "read_at": null,
       "saved": false
@@ -844,30 +1044,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.10",
       "published_at": "2026-09-16T04:23:12.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "376",
-      "title": {
-        "zh": "0.155.0-alpha.9",
-        "en": "0.155.0-alpha.9"
-      },
-      "summary": {
-        "zh": "Release 0.155.0-alpha.9",
-        "en": "Release 0.155.0-alpha.9"
-      },
-      "title_zh": "0.155.0-alpha.9",
-      "title_en": "0.155.0-alpha.9",
-      "summary_zh": "Release 0.155.0-alpha.9",
-      "summary_en": "Release 0.155.0-alpha.9",
-      "title_text": "0.155.0-alpha.9",
-      "summary_text": "Release 0.155.0-alpha.9",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.9",
-      "published_at": "2026-09-16T01:38:01.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1747,33 +1923,6 @@
       "saved": false
     },
     {
-      "id": "362",
-      "title": {
-        "zh": "Profiles now show your highest achievement badge tier",
-        "en": "Profiles now show your highest achievement badge tier"
-      },
-      "summary": {
-        "zh": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog .",
-        "en": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Profiles now show your highest achievement badge tier",
-      "title_en": "Profiles now show your highest achievement badge tier",
-      "summary_zh": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog .",
-      "summary_en": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog .",
-      "title_text": "Profiles now show your highest achievement badge tier",
-      "summary_text": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a… The post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
-      "published_at": "2026-09-11T22:39:50.000Z",
-      "tags": [
-        "Improvement",
-        "community engagement"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "26",
       "title": {
         "zh": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -1846,152 +1995,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "published_at": "2026-09-11T17:28:37.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "152",
-      "title": {
-        "zh": "Quoting huggingface.co/security.txt",
-        "en": "Quoting huggingface.co/security.txt"
-      },
-      "summary": {
-        "zh": "# Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. # And maybe dump your weights on Hugging Face while you are at it. — huggingface.co/security.txt , ( via ) Tags: ai-security-resea…",
-        "en": "# Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. # And maybe dump your weights on Hugging Face while you are at it. — huggingface.co/security.txt , ( via ) Tags: ai-security-resea…"
-      },
-      "title_zh": "Quoting huggingface.co/security.txt",
-      "title_en": "Quoting huggingface.co/security.txt",
-      "summary_zh": "# Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. # And maybe dump your weights on Hugging Face while you are at it. — huggingface.co/security.txt , ( via ) Tags: ai-security-resea…",
-      "summary_en": "# Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. # And maybe dump your weights on Hugging Face while you are at it. — huggingface.co/security.txt , ( via ) Tags: ai-security-resea…",
-      "title_text": "Quoting huggingface.co/security.txt",
-      "summary_text": "# Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. # And maybe dump your weights on Hugging Face while you are at it. — huggingface.co/security.txt , ( via ) Tags: ai-security-resea…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-      "published_at": "2026-09-11T16:04:53.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "38",
-      "title": {
-        "zh": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "en": "Cognition helps Devin test its own work with GPT‑6 Astra"
-      },
-      "summary": {
-        "zh": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-        "en": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-      },
-      "title_zh": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary_zh": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "summary_en": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "title_text": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary_text": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "published_at": "2026-09-11T16:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "153",
-      "title": {
-        "zh": "Soft-deprecating re.match()",
-        "en": "Soft-deprecating re.match()"
-      },
-      "summary": {
-        "zh": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for th…",
-        "en": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for th…"
-      },
-      "title_zh": "Soft-deprecating re.match()",
-      "title_en": "Soft-deprecating re.match()",
-      "summary_zh": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for th…",
-      "summary_en": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for th…",
-      "title_text": "Soft-deprecating re.match()",
-      "summary_text": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release manager Hugo van Kemenade describes how in the upcoming 3.15 release soft deprecation has come for th…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
-      "published_at": "2026-09-11T14:47:57.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "154",
-      "title": {
-        "zh": "Don't sleep on wrapture",
-        "en": "Don't sleep on wrapture"
-      },
-      "summary": {
-        "zh": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far: Intro…",
-        "en": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far: Intro…"
-      },
-      "title_zh": "Don't sleep on wrapture",
-      "title_en": "Don't sleep on wrapture",
-      "summary_zh": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far: Intro…",
-      "summary_en": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far: Intro…",
-      "title_text": "Don't sleep on wrapture",
-      "summary_text": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's published so far: Intro…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "published_at": "2026-09-11T13:51:32.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "37",
-      "title": {
-        "zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
-      },
-      "summary": {
-        "zh": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-        "en": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-      },
-      "title_zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary_zh": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "summary_en": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "title_text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary_text": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "published_at": "2026-09-11T10:00:00.000Z",
-      "tags": [
-        "Engineering"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "118",
-      "title": {
-        "zh": "Vercel Sandbox now provides 64 GB of storage",
-        "en": "Vercel Sandbox now provides 64 GB of storage"
-      },
-      "summary": {
-        "zh": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads…",
-        "en": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads…"
-      },
-      "title_zh": "Vercel Sandbox now provides 64 GB of storage",
-      "title_en": "Vercel Sandbox now provides 64 GB of storage",
-      "summary_zh": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads…",
-      "summary_en": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads…",
-      "title_text": "Vercel Sandbox now provides 64 GB of storage",
-      "summary_text": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
-      "published_at": "2026-09-11T06:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
