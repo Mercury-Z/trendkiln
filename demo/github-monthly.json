@@ -43,12 +43,12 @@
         "system-design",
         "text-to-diagram"
       ],
-      "stars": 66071,
-      "stars_delta": 315,
-      "forks": 4410,
-      "forks_delta": 19,
+      "stars": 66393,
+      "stars_delta": 322,
+      "forks": 4433,
+      "forks_delta": 23,
       "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
         "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
@@ -75,12 +75,12 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "topics": [],
-      "stars": 41763,
-      "stars_delta": 38,
-      "forks": 4762,
-      "forks_delta": 15,
+      "stars": 41822,
+      "stars_delta": 59,
+      "forks": 4764,
+      "forks_delta": 2,
       "html_url": "https://github.com/omacom/omarchy",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "omacom/omarchy：美丽、现代和自以为是的Linux",
         "en": "Beautiful, Modern & Opinionated Linux"
@@ -107,12 +107,12 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "topics": [],
-      "stars": 4199,
-      "stars_delta": 10,
-      "forks": 307,
+      "stars": 4211,
+      "stars_delta": 12,
+      "forks": 308,
       "forks_delta": 1,
       "html_url": "https://github.com/anthropics/claude-plugins-community",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "anthropics/claude-plugins-community：Claude Cowork和Claude代码的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。",
         "en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
@@ -135,94 +135,16 @@
     },
     {
       "rank": 4,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 8052,
-      "stars_delta": 16,
-      "forks": 731,
-      "forks_delta": 3,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 5,
-      "full_name": "AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "topics": [
-        "dpi",
-        "gpui",
-        "hid",
-        "hidpp",
-        "local-first",
-        "logitech",
-        "logitech-mouse",
-        "logitech-options",
-        "mouse-remapping",
-        "mx-master",
-        "privacy",
-        "rust",
-        "smartshift"
-      ],
-      "stars": 21465,
-      "stars_delta": 24,
-      "forks": 696,
-      "forks_delta": 2,
-      "html_url": "https://github.com/AprilNEA/OpenLogi",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
-        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
-      },
-      "strengths": {
-        "zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-        "en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows."
-      },
-      "innovations": {
-        "zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands."
-      },
-      "purpose_zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
-      "purpose_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "strengths_zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-      "strengths_en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-      "innovations_zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-      "innovations_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 6,
       "full_name": "THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "topics": [],
-      "stars": 37658,
-      "stars_delta": 55,
-      "forks": 5918,
-      "forks_delta": 11,
+      "stars": 37730,
+      "stars_delta": 72,
+      "forks": 5928,
+      "forks_delta": 10,
       "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
         "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
@@ -244,7 +166,39 @@
       "insights_source": "readme"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 8071,
+      "stars_delta": 19,
+      "forks": 734,
+      "forks_delta": 3,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "innovations": {
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 6,
       "full_name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
@@ -260,12 +214,12 @@
         "skills",
         "workflow-automation"
       ],
-      "stars": 32542,
-      "stars_delta": 76,
-      "forks": 3143,
+      "stars": 32620,
+      "stars_delta": 78,
+      "forks": 3152,
       "forks_delta": 9,
       "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "en": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
@@ -287,6 +241,52 @@
       "insights_source": "readme"
     },
     {
+      "rank": 7,
+      "full_name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "topics": [
+        "dpi",
+        "gpui",
+        "hid",
+        "hidpp",
+        "local-first",
+        "logitech",
+        "logitech-mouse",
+        "logitech-options",
+        "mouse-remapping",
+        "mx-master",
+        "privacy",
+        "rust",
+        "smartshift"
+      ],
+      "stars": 21489,
+      "stars_delta": 24,
+      "forks": 697,
+      "forks_delta": 1,
+      "html_url": "https://github.com/AprilNEA/OpenLogi",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
+        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+      },
+      "strengths": {
+        "zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+        "en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows."
+      },
+      "innovations": {
+        "zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands."
+      },
+      "purpose_zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
+      "purpose_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "strengths_zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+      "strengths_en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+      "innovations_zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+      "innovations_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+      "insights_source": "readme"
+    },
+    {
       "rank": 8,
       "full_name": "ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
@@ -299,12 +299,12 @@
         "developer-tools",
         "productivity"
       ],
-      "stars": 47575,
-      "stars_delta": 158,
-      "forks": 2773,
-      "forks_delta": 12,
+      "stars": 47763,
+      "stars_delta": 188,
+      "forks": 2779,
+      "forks_delta": 6,
       "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
         "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
@@ -327,55 +327,6 @@
     },
     {
       "rank": 9,
-      "full_name": "vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar",
-        "menubar",
-        "open-source",
-        "swift",
-        "swift-ui",
-        "system-monitor",
-        "uninstaller",
-        "volume-mixer",
-        "window-switcher"
-      ],
-      "stars": 19689,
-      "stars_delta": 47,
-      "forks": 717,
-      "forks_delta": 4,
-      "html_url": "https://github.com/vorssaint/vorssaint-utils",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
-        "en": "Free and open-source macOS menu bar toolkit."
-      },
-      "strengths": {
-        "zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-        "en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee"
-      },
-      "innovations": {
-        "zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
-        "en": "One menu bar icon doing the job of a dozen paid Mac apps."
-      },
-      "purpose_zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
-      "purpose_en": "Free and open-source macOS menu bar toolkit.",
-      "strengths_zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-      "strengths_en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-      "innovations_zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
-      "innovations_en": "One menu bar icon doing the job of a dozen paid Mac apps.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 10,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -401,12 +352,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 32562,
-      "stars_delta": 120,
-      "forks": 3862,
-      "forks_delta": 9,
+      "stars": 32675,
+      "stars_delta": 113,
+      "forks": 3874,
+      "forks_delta": 12,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -428,6 +379,55 @@
       "insights_source": "readme"
     },
     {
+      "rank": 10,
+      "full_name": "vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar",
+        "menubar",
+        "open-source",
+        "swift",
+        "swift-ui",
+        "system-monitor",
+        "uninstaller",
+        "volume-mixer",
+        "window-switcher"
+      ],
+      "stars": 19731,
+      "stars_delta": 42,
+      "forks": 719,
+      "forks_delta": 2,
+      "html_url": "https://github.com/vorssaint/vorssaint-utils",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
+        "en": "Free and open-source macOS menu bar toolkit."
+      },
+      "strengths": {
+        "zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+        "en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee"
+      },
+      "innovations": {
+        "zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
+        "en": "One menu bar icon doing the job of a dozen paid Mac apps."
+      },
+      "purpose_zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
+      "purpose_en": "Free and open-source macOS menu bar toolkit.",
+      "strengths_zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+      "strengths_en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+      "innovations_zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
+      "innovations_en": "One menu bar icon doing the job of a dozen paid Mac apps.",
+      "insights_source": "readme"
+    },
+    {
       "rank": 11,
       "full_name": "cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
@@ -442,12 +442,12 @@
         "mermaid",
         "svg"
       ],
-      "stars": 40867,
-      "stars_delta": 93,
-      "forks": 2610,
-      "forks_delta": 8,
+      "stars": 40990,
+      "stars_delta": 123,
+      "forks": 2620,
+      "forks_delta": 10,
       "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "cathrynlavery/diagram-design：Claude代码、⟦Codex和Pi的38种编辑图⟧类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。",
         "en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
@@ -470,146 +470,87 @@
     },
     {
       "rank": 12,
-      "full_name": "Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 13808,
-      "stars_delta": 51,
-      "forks": 1630,
-      "forks_delta": 4,
-      "html_url": "https://github.com/Lakr233/vphone-cli",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "stars": 11783,
+      "stars_delta": 6981,
+      "forks": 635,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
-        "zh": "【用途】开源项目 Lakr233/vphone-cli（主要语言：Swift）：Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
-        "en": "Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure."
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "strengths": {
-        "zh": "基于 Swift 构建；核心能力：Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
-        "en": "Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)"
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
       },
       "innovations": {
-        "zh": "【创新点】- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
-        "en": "- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…"
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
       },
-      "purpose_zh": "【用途】开源项目 Lakr233/vphone-cli（主要语言：Swift）：Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
-      "purpose_en": "Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.",
-      "strengths_zh": "基于 Swift 构建；核心能力：Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
-      "strengths_en": "Built with Swift; Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.; Apple Silicon; macOS 15+ (Sequoia)",
-      "innovations_zh": "【创新点】- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
-      "innovations_en": "- Apple Silicon - macOS 15+ (Sequoia) - Xcode + iOS SDK (cross-compiles the guest daemon) - SIP/AMFI relaxation to allow private PV=3 entitlements with…",
-      "insights_source": "readme"
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "apache/maka",
-      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "language": "TypeScript",
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
       "topics": [
-        "agent-runtime",
-        "ai",
-        "ai-agent",
-        "apache",
-        "cli",
-        "desktop",
-        "electron",
-        "event-sourcing",
-        "incubator",
-        "llm",
-        "local-first",
-        "maka",
-        "tool-use",
-        "typescript"
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
       ],
-      "stars": 5550,
-      "stars_delta": 9,
-      "forks": 514,
+      "stars": 36116,
+      "stars_delta": 13677,
+      "forks": 2568,
       "forks_delta": 0,
-      "html_url": "https://github.com/apache/maka",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
-        "zh": "apache/maka：Apache Maka （孵化）是一个高性能代理工作区，可完整记录其所做的一切。",
-        "en": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
       },
       "strengths": {
-        "zh": "基于 TypeScript 构建；关注领域：agent-runtime, ai, ai-agent, apache, cli, desktop；核心能力：Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
-        "en": "Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file"
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
       },
       "innovations": {
-        "zh": "【创新点】or more contributor license agreements. See the NOTICE file",
-        "en": "or more contributor license agreements. See the NOTICE file"
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
       },
-      "purpose_zh": "apache/maka：Apache Maka （孵化）是一个高性能代理工作区，可完整记录其所做的一切。",
-      "purpose_en": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "strengths_zh": "基于 TypeScript 构建；关注领域：agent-runtime, ai, ai-agent, apache, cli, desktop；核心能力：Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
-      "strengths_en": "Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
-      "innovations_zh": "【创新点】or more contributor license agreements. See the NOTICE file",
-      "innovations_en": "or more contributor license agreements. See the NOTICE file",
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
       "insights_source": "readme"
     },
     {
       "rank": 14,
-      "full_name": "chaitanyagiri/munder-difflin",
-      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "language": "TypeScript",
-      "topics": [
-        "agent-orchestration",
-        "agents",
-        "ai-agents",
-        "autonomous-agents",
-        "claude-code",
-        "codex",
-        "desktop-app",
-        "electron",
-        "free",
-        "gemini-cli",
-        "harness",
-        "harness-engineering",
-        "local-first",
-        "memory",
-        "multi-agent",
-        "opencode",
-        "orchestration",
-        "typescript"
-      ],
-      "stars": 7552,
-      "stars_delta": 32,
-      "forks": 986,
-      "forks_delta": 3,
-      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-        "en": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
-      },
-      "strengths": {
-        "zh": "Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI…",
-        "en": "Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI…"
-      },
-      "innovations": {
-        "zh": "…(Gemini), OpenAI Codex, xAI Grok, Kimi Code, Gemini CLI, Qwen, OpenCode, Crush, pi.dev, GitHub Copilot CLI, and Cursor — with bring-your-own keys and local LLMs. Agents that message, route, and remember, coordinated by your clone…",
-        "en": "…(Gemini), OpenAI Codex, xAI Grok, Kimi Code, Gemini CLI, Qwen, OpenCode, Crush, pi.dev, GitHub Copilot CLI, and Cursor — with bring-your-own keys and local LLMs. Agents that message, route, and remember, coordinated by your clone…"
-      },
-      "purpose_zh": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "purpose_en": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "strengths_zh": "Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI…",
-      "strengths_en": "Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI…",
-      "innovations_zh": "…(Gemini), OpenAI Codex, xAI Grok, Kimi Code, Gemini CLI, Qwen, OpenCode, Crush, pi.dev, GitHub Copilot CLI, and Cursor — with bring-your-own keys and local LLMs. Agents that message, route, and remember, coordinated by your clone…",
-      "innovations_en": "…(Gemini), OpenAI Codex, xAI Grok, Kimi Code, Gemini CLI, Qwen, OpenCode, Crush, pi.dev, GitHub Copilot CLI, and Cursor — with bring-your-own keys and local LLMs. Agents that message, route, and remember, coordinated by your clone…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
       "full_name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "topics": [],
-      "stars": 33047,
-      "stars_delta": 34,
-      "forks": 3182,
-      "forks_delta": 6,
+      "stars": 33077,
+      "stars_delta": 30,
+      "forks": 3183,
+      "forks_delta": 1,
       "html_url": "https://github.com/google-research/timesfm",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
@@ -631,7 +572,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "full_name": "jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
@@ -639,12 +580,12 @@
         "artificial-intelligence",
         "large-language-model"
       ],
-      "stars": 61506,
-      "stars_delta": 28,
-      "forks": 8008,
-      "forks_delta": 8,
+      "stars": 61560,
+      "stars_delta": 54,
+      "forks": 8014,
+      "forks_delta": 6,
       "html_url": "https://github.com/jingyaogong/minimind",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
         "en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
@@ -666,57 +607,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
-      "full_name": "modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "topics": [
-        "ai",
-        "language",
-        "machine-learning",
-        "max",
-        "modular",
-        "mojo",
-        "programming-language"
-      ],
-      "stars": 29810,
-      "stars_delta": 8,
-      "forks": 3177,
-      "forks_delta": 1,
-      "html_url": "https://github.com/modular/modular",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "modular/modular：模块化平台（包括MAX和Mojo ）",
-        "en": "The Modular Platform (includes MAX & Mojo)"
-      },
-      "strengths": {
-        "zh": "基于 Mojo 构建；关注领域：ai, language, machine-learning, max, modular, mojo；核心能力：Built with Mojo; Focus: ai, language, machine-learning, max, modular, mojo; This repo hosts open-source components of the Modular Platform,; To get started with the Modular Platform and serve a model using the MAX; To get started with the Mojo language, see",
-        "en": "Built with Mojo; Focus: ai, language, machine-learning, max, modular, mojo; This repo hosts open-source components of the Modular Platform,; To get started with the Modular Platform and serve a model using the MAX; To get started with the Mojo language, see"
-      },
-      "innovations": {
-        "zh": "【创新点】This repo hosts open-source components of the Modular Platform,",
-        "en": "This repo hosts open-source components of the Modular Platform,"
-      },
-      "purpose_zh": "modular/modular：模块化平台（包括MAX和Mojo ）",
-      "purpose_en": "The Modular Platform (includes MAX & Mojo)",
-      "strengths_zh": "基于 Mojo 构建；关注领域：ai, language, machine-learning, max, modular, mojo；核心能力：Built with Mojo; Focus: ai, language, machine-learning, max, modular, mojo; This repo hosts open-source components of the Modular Platform,; To get started with the Modular Platform and serve a model using the MAX; To get started with the Mojo language, see",
-      "strengths_en": "Built with Mojo; Focus: ai, language, machine-learning, max, modular, mojo; This repo hosts open-source components of the Modular Platform,; To get started with the Modular Platform and serve a model using the MAX; To get started with the Mojo language, see",
-      "innovations_zh": "【创新点】This repo hosts open-source components of the Modular Platform,",
-      "innovations_en": "This repo hosts open-source components of the Modular Platform,",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "full_name": "tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 26976,
-      "stars_delta": 66,
-      "forks": 3686,
-      "forks_delta": 12,
+      "stars": 27053,
+      "stars_delta": 77,
+      "forks": 3695,
+      "forks_delta": 9,
       "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
@@ -738,6 +639,106 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 17,
+      "full_name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-runtime",
+        "ai",
+        "ai-agent",
+        "apache",
+        "cli",
+        "desktop",
+        "electron",
+        "event-sourcing",
+        "incubator",
+        "llm",
+        "local-first",
+        "maka",
+        "tool-use",
+        "typescript"
+      ],
+      "stars": 5566,
+      "stars_delta": 16,
+      "forks": 515,
+      "forks_delta": 1,
+      "html_url": "https://github.com/apache/maka",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "apache/maka：Apache Maka （孵化）是一个高性能代理工作区，可完整记录其所做的一切。",
+        "en": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；关注领域：agent-runtime, ai, ai-agent, apache, cli, desktop；核心能力：Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
+        "en": "Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file"
+      },
+      "innovations": {
+        "zh": "【创新点】or more contributor license agreements. See the NOTICE file",
+        "en": "or more contributor license agreements. See the NOTICE file"
+      },
+      "purpose_zh": "apache/maka：Apache Maka （孵化）是一个高性能代理工作区，可完整记录其所做的一切。",
+      "purpose_en": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "strengths_zh": "基于 TypeScript 构建；关注领域：agent-runtime, ai, ai-agent, apache, cli, desktop；核心能力：Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
+      "strengths_en": "Built with TypeScript; Focus: agent-runtime, ai, ai-agent, apache, cli, desktop; or more contributor license agreements. See the NOTICE file; distributed with this work for additional information; regarding copyright ownership. The ASF licenses this file",
+      "innovations_zh": "【创新点】or more contributor license agreements. See the NOTICE file",
+      "innovations_en": "or more contributor license agreements. See the NOTICE file",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 18,
+      "full_name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "stars": 26767,
+      "stars_delta": 6280,
+      "forks": 3605,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+      },
+      "strengths": {
+        "zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+        "en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*"
+      },
+      "innovations": {
+        "zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+        "en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide"
+      },
+      "purpose_zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+      "purpose_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "strengths_zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "strengths_en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "innovations_zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "innovations_en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "insights_source": "readme"
+    },
+    {
       "rank": 19,
       "full_name": "tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
@@ -751,12 +752,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 6348,
-      "stars_delta": 18,
-      "forks": 531,
+      "stars": 6367,
+      "stars_delta": 19,
+      "forks": 532,
       "forks_delta": 1,
       "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
@@ -783,12 +784,12 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "topics": [],
-      "stars": 6223,
-      "stars_delta": 124,
-      "forks": 287,
-      "forks_delta": 2,
+      "stars": 6337,
+      "stars_delta": 114,
+      "forks": 290,
+      "forks_delta": 3,
       "html_url": "https://github.com/abue-ammar/tinycast",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
         "en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
@@ -811,42 +812,6 @@
     },
     {
       "rank": 21,
-      "full_name": "securo-finance/securo",
-      "description": "Open-source personal finance manager. Self-hosted, privacy-first.",
-      "language": "Python",
-      "topics": [
-        "expense-tracker",
-        "finance-management",
-        "python"
-      ],
-      "stars": 3551,
-      "stars_delta": 22,
-      "forks": 445,
-      "forks_delta": 0,
-      "html_url": "https://github.com/securo-finance/securo",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
-      "purpose": {
-        "zh": "Open-source personal finance manager. Self-hosted, privacy-first.",
-        "en": "Open-source personal finance manager. Self-hosted, privacy-first."
-      },
-      "strengths": {
-        "zh": "Securo Website · Demo · Roadmap · Docs · Discord · Talk to the maintainer Finance apps want your data. This one doesn't. We believe personal finance should actually be personal . No corporation should sit between you and your fina…",
-        "en": "Securo Website · Demo · Roadmap · Docs · Discord · Talk to the maintainer Finance apps want your data. This one doesn't. We believe personal finance should actually be personal . No corporation should sit between you and your fina…"
-      },
-      "innovations": {
-        "zh": "…rrendering a single byte to third parties. Take back control. Quick Start Linux & macOS (uses Docker or Podman; installs Docker if neither is present): Windows: Install Docker Desktop, then: Open http://localhost:3000 and create a…",
-        "en": "…rrendering a single byte to third parties. Take back control. Quick Start Linux & macOS (uses Docker or Podman; installs Docker if neither is present): Windows: Install Docker Desktop, then: Open http://localhost:3000 and create a…"
-      },
-      "purpose_zh": "Open-source personal finance manager. Self-hosted, privacy-first.",
-      "purpose_en": "Open-source personal finance manager. Self-hosted, privacy-first.",
-      "strengths_zh": "Securo Website · Demo · Roadmap · Docs · Discord · Talk to the maintainer Finance apps want your data. This one doesn't. We believe personal finance should actually be personal . No corporation should sit between you and your fina…",
-      "strengths_en": "Securo Website · Demo · Roadmap · Docs · Discord · Talk to the maintainer Finance apps want your data. This one doesn't. We believe personal finance should actually be personal . No corporation should sit between you and your fina…",
-      "innovations_zh": "…rrendering a single byte to third parties. Take back control. Quick Start Linux & macOS (uses Docker or Podman; installs Docker if neither is present): Windows: Install Docker Desktop, then: Open http://localhost:3000 and create a…",
-      "innovations_en": "…rrendering a single byte to third parties. Take back control. Quick Start Linux & macOS (uses Docker or Podman; installs Docker if neither is present): Windows: Install Docker Desktop, then: Open http://localhost:3000 and create a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 22,
       "full_name": "melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
@@ -872,12 +837,12 @@
         "whatsapp",
         "whatsapp-api"
       ],
-      "stars": 3092,
-      "stars_delta": 42,
-      "forks": 764,
-      "forks_delta": 8,
+      "stars": 3126,
+      "stars_delta": 34,
+      "forks": 767,
+      "forks_delta": 3,
       "html_url": "https://github.com/melgarafael/DeskcommCRM",
-      "snapshot_at": "2026-09-18T04:53:10.048Z",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
       "purpose": {
         "zh": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
         "en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
@@ -896,6 +861,50 @@
       "strengths_en": "🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um CRM open source rodando no…",
       "innovations_zh": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
       "innovations_en": "…uitetura · 🤝 Contribuir · 🗺️ Roadmap --- ### ☁️ Rode este CRM em produção com 1 comando O DeskcommCRM foi desenvolvido em parceria com a HostGator: o hostgator-setup-kit/ instala o CRM completo (app + WhatsApp + banco) numa VPS…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 22,
+      "full_name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-agent",
+        "seo-audit",
+        "seo-automation",
+        "seo-skills",
+        "seo-tools",
+        "site-audit"
+      ],
+      "stars": 19142,
+      "stars_delta": 6794,
+      "forks": 2462,
+      "forks_delta": 0,
+      "html_url": "https://github.com/every-app/open-seo",
+      "snapshot_at": "2026-09-18T11:27:21.838Z",
+      "purpose": {
+        "zh": "Open source alternative to Semrush and Ahrefs",
+        "en": "Open source alternative to Semrush and Ahrefs"
+      },
+      "strengths": {
+        "zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+        "en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…"
+      },
+      "innovations": {
+        "zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
+        "en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…"
+      },
+      "purpose_zh": "Open source alternative to Semrush and Ahrefs",
+      "purpose_en": "Open source alternative to Semrush and Ahrefs",
+      "strengths_zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+      "strengths_en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+      "innovations_zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
+      "innovations_en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
       "insights_source": "readme-excerpt"
     }
   ]
