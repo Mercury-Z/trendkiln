@@ -29,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 37776,
-      "stars_delta": 309,
-      "forks": 2693,
-      "forks_delta": 11,
+      "stars": 38093,
+      "stars_delta": 317,
+      "forks": 2712,
+      "forks_delta": 19,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -61,12 +61,12 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 146783,
-      "stars_delta": 123,
-      "forks": 23967,
-      "forks_delta": 70,
+      "stars": 146891,
+      "stars_delta": 108,
+      "forks": 23989,
+      "forks_delta": 22,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -102,12 +102,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 263052,
-      "stars_delta": 211,
-      "forks": 39360,
-      "forks_delta": 34,
+      "stars": 263240,
+      "stars_delta": 188,
+      "forks": 39388,
+      "forks_delta": 28,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -155,12 +155,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 27581,
-      "stars_delta": 192,
-      "forks": 3712,
-      "forks_delta": 23,
+      "stars": 27797,
+      "stars_delta": 216,
+      "forks": 3742,
+      "forks_delta": 30,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -183,51 +183,6 @@
     },
     {
       "rank": 5,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "topics": [
-        "3d-globe",
-        "cesium",
-        "flight-tracking",
-        "geospatial",
-        "geospatial-intelligence",
-        "gis",
-        "osint",
-        "photogrammetry",
-        "satellite-tracking",
-        "spatial-intelligence",
-        "webgl",
-        "worldview"
-      ],
-      "stars": 38736,
-      "stars_delta": 203,
-      "forks": 7826,
-      "forks_delta": 47,
-      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
-        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-      },
-      "strengths": {
-        "zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
-        "en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…"
-      },
-      "innovations": {
-        "zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
-        "en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…"
-      },
-      "purpose_zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
-      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "strengths_zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
-      "strengths_en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…",
-      "innovations_zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
-      "innovations_en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 6,
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
@@ -239,12 +194,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 97161,
-      "stars_delta": 215,
-      "forks": 10254,
-      "forks_delta": 22,
+      "stars": 97382,
+      "stars_delta": 221,
+      "forks": 10272,
+      "forks_delta": 18,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -266,17 +221,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "full_name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 25173,
-      "stars_delta": 93,
-      "forks": 3000,
-      "forks_delta": 9,
+      "stars": 25241,
+      "stars_delta": 68,
+      "forks": 3003,
+      "forks_delta": 3,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -298,46 +253,52 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
+      "rank": 7,
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
       "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
       ],
-      "stars": 48801,
-      "stars_delta": 162,
-      "forks": 2838,
-      "forks_delta": 12,
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "stars": 38981,
+      "stars_delta": 245,
+      "forks": 7875,
+      "forks_delta": 49,
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
-        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+        "zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
+        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
       },
       "strengths": {
-        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
+        "zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
+        "en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…"
       },
       "innovations": {
-        "zh": "【创新点】Action first.",
-        "en": "Action first."
+        "zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
+        "en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…"
       },
-      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
-      "innovations_zh": "【创新点】Action first.",
-      "innovations_en": "Action first.",
+      "purpose_zh": "bilawalsidhu/gods-eye-view：浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。",
+      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "strengths_zh": "使用⟦JavaScript构建⟧；对焦： 3D地球仪、铯、飞行跟踪、地理空间、地理空间智能、gis ；逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音… ；不让任何地方落后。*; ▶️ * *来自病毒式God's Eye View系列背后的项目* * * （前身为WorldView ） * — YouTube上的500万+ · 2500万+ ……",
+      "strengths_en": "Built with JavaScript; Focus: 3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis; Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…; No place left behind.*; ▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — 5M+ on YouTube · 25M+ across…",
+      "innovations_zh": "逼真的3D地球仪。实时飞机、船舶、卫星、地震、交通和公共摄像头。免提语音……",
+      "innovations_en": "Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice…",
       "insights_source": "readme"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -363,12 +324,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 23693,
-      "stars_delta": 33,
-      "forks": 1710,
-      "forks_delta": 5,
+      "stars": 23732,
+      "stars_delta": 39,
+      "forks": 1711,
+      "forks_delta": 1,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "mksglu/context-mode：人工智能编码代理的上下文窗口优化。沙盒工具输出（减少98 ％ ） ，保持会话内存，并通过MCP +钩子在17个平台上强制路由。",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
@@ -390,7 +351,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "full_name": "max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
@@ -402,12 +363,12 @@
         "git",
         "worktrees"
       ],
-      "stars": 8133,
-      "stars_delta": 30,
-      "forks": 282,
-      "forks_delta": 2,
+      "stars": 8154,
+      "stars_delta": 21,
+      "forks": 283,
+      "forks_delta": 1,
       "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "max-sixty/worktrunk：Worktrunk是⟧用于Git工作树管理的⟦CLI ，专为并行AI代理工作流程而设计",
         "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
@@ -429,6 +390,47 @@
       "insights_source": "readme"
     },
     {
+      "rank": 10,
+      "full_name": "home-assistant/core",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "stars": 90854,
+      "stars_delta": 21,
+      "forks": 38712,
+      "forks_delta": 2,
+      "html_url": "https://github.com/home-assistant/core",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "en": ":house_with_garden: Open source home automation that puts local control and privacy first."
+      },
+      "strengths": {
+        "zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+        "en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…"
+      },
+      "innovations": {
+        "zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+        "en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…"
+      },
+      "purpose_zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "purpose_en": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "strengths_zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+      "strengths_en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
+      "innovations_zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+      "innovations_en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 11,
       "full_name": "blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
@@ -442,12 +444,12 @@
         "prompt-engineering",
         "writing-tools"
       ],
-      "stars": 50315,
-      "stars_delta": 103,
-      "forks": 4058,
+      "stars": 50454,
+      "stars_delta": 139,
+      "forks": 4061,
       "forks_delta": 3,
       "html_url": "https://github.com/blader/humanizer",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "blader/humanizer：从文本中删除人工智能生成文字的迹象的代理技能",
         "en": "Agent skill that removes signs of AI-generated writing from text"
@@ -470,213 +472,6 @@
     },
     {
       "rank": 12,
-      "full_name": "home-assistant/core",
-      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "topics": [
-        "asyncio",
-        "hacktoberfest",
-        "home-automation",
-        "internet-of-things",
-        "iot",
-        "mqtt",
-        "python",
-        "raspberry-pi"
-      ],
-      "stars": 90833,
-      "stars_delta": 25,
-      "forks": 38710,
-      "forks_delta": 1,
-      "html_url": "https://github.com/home-assistant/core",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-        "en": ":house_with_garden: Open source home automation that puts local control and privacy first."
-      },
-      "strengths": {
-        "zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-        "en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…"
-      },
-      "innovations": {
-        "zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-        "en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…"
-      },
-      "purpose_zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "purpose_en": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "strengths_zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-      "strengths_en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-      "innovations_zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-      "innovations_en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "stars": 185723,
-      "stars_delta": 93,
-      "forks": 13676,
-      "forks_delta": 5,
-      "html_url": "https://github.com/microsoft/markitdown",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
-        "en": "Python tool for converting files and office documents to Markdown."
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
-        "en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:"
-      },
-      "innovations": {
-        "zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-        "en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…"
-      },
-      "purpose_zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
-      "purpose_en": "Python tool for converting files and office documents to Markdown.",
-      "strengths_zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
-      "strengths_en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:",
-      "innovations_zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-      "innovations_en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 14,
-      "full_name": "kunchenguid/firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 6762,
-      "stars_delta": 74,
-      "forks": 2037,
-      "forks_delta": 9,
-      "html_url": "https://github.com/kunchenguid/firstmate",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": "Talk to one agent. Ship with a crew.",
-        "en": "Talk to one agent. Ship with a crew."
-      },
-      "strengths": {
-        "zh": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
-        "en": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…"
-      },
-      "innovations": {
-        "zh": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
-        "en": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…"
-      },
-      "purpose_zh": "Talk to one agent. Ship with a crew.",
-      "purpose_en": "Talk to one agent. Ship with a crew.",
-      "strengths_zh": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
-      "strengths_en": "firstmate Talk to one agent. Ship with a crew. What it is You can run one coding agent easily. But the moment you want three project tasks done in parallel - fixes, investigations, plans, audits - you become a tab-juggler: babysit…",
-      "innovations_zh": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
-      "innovations_en": "…- and it runs the crew for you: spawning autonomous agents in a visible session backend, giving each a clean git worktree, supervising them to completion, and handing you finished PRs, approved local merges, or standalone investig…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
-      ],
-      "stars": 83530,
-      "stars_delta": 113,
-      "forks": 7319,
-      "forks_delta": 7,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
-      },
-      "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
-      },
-      "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
-      },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 51696,
-      "stars_delta": 68,
-      "forks": 4712,
-      "forks_delta": 7,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
-        "en": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
-      "innovations_en": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
       "full_name": "stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
@@ -700,12 +495,12 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 72817,
-      "stars_delta": 274,
-      "forks": 4763,
-      "forks_delta": 16,
+      "stars": 73129,
+      "stars_delta": 312,
+      "forks": 4783,
+      "forks_delta": 20,
       "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
@@ -727,39 +522,101 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 18,
-      "full_name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 7053,
-      "stars_delta": 25,
-      "forks": 910,
-      "forks_delta": 1,
-      "html_url": "https://github.com/openai/plugins",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "rank": 13,
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "stars": 83650,
+      "stars_delta": 120,
+      "forks": 7335,
+      "forks_delta": 16,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
-        "zh": "openai/plugins：OpenAI插件",
-        "en": "OpenAI Plugins"
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
       },
       "strengths": {
-        "zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-        "en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points"
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
       },
       "innovations": {
-        "zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
-        "en": "This repository contains a curated collection of Codex plugin examples."
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
       },
-      "purpose_zh": "openai/plugins：OpenAI插件",
-      "purpose_en": "OpenAI Plugins",
-      "strengths_zh": "基于 JavaScript 构建；核心能力：Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-      "strengths_en": "Built with JavaScript; This repository contains a curated collection of Codex plugin examples.; Each plugin lives under `plugins/ /` with a required; The default marketplace lives at `.agents/plugins/marketplace.json` and points",
-      "innovations_zh": "【创新点】This repository contains a curated collection of Codex plugin examples.",
-      "innovations_en": "This repository contains a curated collection of Codex plugin examples.",
-      "insights_source": "readme"
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "insights_source": "readme-excerpt"
     },
     {
-      "rank": 19,
+      "rank": 14,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 51790,
+      "stars_delta": 94,
+      "forks": 4718,
+      "forks_delta": 6,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
+        "en": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
+      "innovations_en": "…ames skills, then describe the video you want: The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
       "full_name": "danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
@@ -785,12 +642,12 @@
         "vision",
         "webui"
       ],
-      "stars": 44419,
-      "stars_delta": 23,
-      "forks": 9122,
-      "forks_delta": 2,
+      "stars": 44453,
+      "stars_delta": 34,
+      "forks": 9129,
+      "forks_delta": 7,
       "html_url": "https://github.com/danny-avila/LibreChat",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
         "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
@@ -812,7 +669,110 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 20,
+      "rank": 16,
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "stars": 48996,
+      "stars_delta": 195,
+      "forks": 2840,
+      "forks_delta": 2,
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      },
+      "strengths": {
+        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
+      },
+      "innovations": {
+        "zh": "【创新点】Action first.",
+        "en": "Action first."
+      },
+      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
+      "innovations_zh": "【创新点】Action first.",
+      "innovations_en": "Action first.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 17,
+      "full_name": "cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 68836,
+      "stars_delta": 1118,
+      "forks": 7454,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cline/cline",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+      },
+      "strengths": {
+        "zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+        "en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…"
+      },
+      "innovations": {
+        "zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+        "en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…"
+      },
+      "purpose_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "purpose_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "strengths_zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+      "strengths_en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+      "innovations_zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+      "innovations_en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "topics": [],
+      "stars": 10723,
+      "stars_delta": 2134,
+      "forks": 738,
+      "forks_delta": 0,
+      "html_url": "https://github.com/petergyang/no-ai-slop",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": "Removes 20+ patterns of AI slop from any piece of writing.",
+        "en": "Removes 20+ patterns of AI slop from any piece of writing."
+      },
+      "strengths": {
+        "zh": "No AI Slop Remove 20+ patterns of AI slop from your writing without flattening your personal voice. https://github.com/user-attachments/assets/f3055450-78eb-4672-880a-88a4fa54bde9 Problem AI makes it easy to generate clean writing…",
+        "en": "No AI Slop Remove 20+ patterns of AI slop from your writing without flattening your personal voice. https://github.com/user-attachments/assets/f3055450-78eb-4672-880a-88a4fa54bde9 Problem AI makes it easy to generate clean writing…"
+      },
+      "innovations": {
+        "zh": "…here.” When you use AI to edit, it can also smooth away the vocabulary, cadence, humor, and imperfections that make the writing sound like you. How to install No AI Slop The easiest way to install the skill is to paste this into C…",
+        "en": "…here.” When you use AI to edit, it can also smooth away the vocabulary, cadence, humor, and imperfections that make the writing sound like you. How to install No AI Slop The easiest way to install the skill is to paste this into C…"
+      },
+      "purpose_zh": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "purpose_en": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "strengths_zh": "No AI Slop Remove 20+ patterns of AI slop from your writing without flattening your personal voice. https://github.com/user-attachments/assets/f3055450-78eb-4672-880a-88a4fa54bde9 Problem AI makes it easy to generate clean writing…",
+      "strengths_en": "No AI Slop Remove 20+ patterns of AI slop from your writing without flattening your personal voice. https://github.com/user-attachments/assets/f3055450-78eb-4672-880a-88a4fa54bde9 Problem AI makes it easy to generate clean writing…",
+      "innovations_zh": "…here.” When you use AI to edit, it can also smooth away the vocabulary, cadence, humor, and imperfections that make the writing sound like you. How to install No AI Slop The easiest way to install the skill is to paste this into C…",
+      "innovations_en": "…here.” When you use AI to edit, it can also smooth away the vocabulary, cadence, humor, and imperfections that make the writing sound like you. How to install No AI Slop The easiest way to install the skill is to paste this into C…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
       "full_name": "supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
@@ -837,12 +797,12 @@
         "vectors",
         "websockets"
       ],
-      "stars": 110362,
-      "stars_delta": 51,
-      "forks": 14417,
-      "forks_delta": 42,
+      "stars": 110382,
+      "stars_delta": 20,
+      "forks": 14420,
+      "forks_delta": 3,
       "html_url": "https://github.com/supabase/supabase",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
         "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
         "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
@@ -864,55 +824,92 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 21,
-      "full_name": "huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "rank": 20,
+      "full_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "topics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
       ],
-      "stars": 166414,
-      "stars_delta": 34,
-      "forks": 34636,
-      "forks_delta": 7,
-      "html_url": "https://github.com/huggingface/transformers",
-      "snapshot_at": "2026-09-20T05:01:07.513Z",
+      "stars": 185813,
+      "stars_delta": 90,
+      "forks": 13682,
+      "forks_delta": 6,
+      "html_url": "https://github.com/microsoft/markitdown",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
       "purpose": {
-        "zh": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-        "en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+        "zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
+        "en": "Python tool for converting files and office documents to Markdown."
       },
       "strengths": {
-        "zh": "English 简体中文 繁體中文 한국어 Español 日本語 हिन्दी Русский Português తెలుగు Français Deutsch Italiano Tiếng Việt العربية اردو বাংলা فارسی Română Türkçe State-of-the-art pretrained models for inference and training Transformers acts as the m…",
-        "en": "English 简体中文 繁體中文 한국어 Español 日本語 हिन्दी Русский Português తెలుగు Français Deutsch Italiano Tiếng Việt العربية اردو বাংলা فارسی Română Türkçe State-of-the-art pretrained models for inference and training Transformers acts as the m…"
+        "zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
+        "en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:"
       },
       "innovations": {
-        "zh": "…alizes the model definition so that this definition is agreed upon across the ecosystem. transformers is the pivot across frameworks: if a model definition is supported, it will be compatible with the majority of training framewor…",
-        "en": "…alizes the model definition so that this definition is agreed upon across the ecosystem. transformers is the pivot across frameworks: if a model definition is supported, it will be compatible with the majority of training framewor…"
+        "zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
+        "en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…"
       },
-      "purpose_zh": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "purpose_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "strengths_zh": "English 简体中文 繁體中文 한국어 Español 日本語 हिन्दी Русский Português తెలుగు Français Deutsch Italiano Tiếng Việt العربية اردو বাংলা فارسی Română Türkçe State-of-the-art pretrained models for inference and training Transformers acts as the m…",
-      "strengths_en": "English 简体中文 繁體中文 한국어 Español 日本語 हिन्दी Русский Português తెలుగు Français Deutsch Italiano Tiếng Việt العربية اردو বাংলা فارسی Română Türkçe State-of-the-art pretrained models for inference and training Transformers acts as the m…",
-      "innovations_zh": "…alizes the model definition so that this definition is agreed upon across the ecosystem. transformers is the pivot across frameworks: if a model definition is supported, it will be compatible with the majority of training framewor…",
-      "innovations_en": "…alizes the model definition so that this definition is agreed upon across the ecosystem. transformers is the pivot across frameworks: if a model definition is supported, it will be compatible with the majority of training framewor…",
+      "purpose_zh": "microsoft/markitdown：⟦用于将文件和Office文档转换为Markdown的Python⟧工具。",
+      "purpose_en": "Python tool for converting files and office documents to Markdown.",
+      "strengths_zh": "基于 Python 构建；关注领域：autogen, autogen-extension, langchain, markdown, microsoft-office, openai；核心能力：Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown fo",
+      "strengths_en": "Built with Python; Focus: autogen, autogen-extension, langchain, markdown, microsoft-office, openai; MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…; MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text…; MarkItDown currently supports the conversion from:",
+      "innovations_zh": "【创新点】MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
+      "innovations_en": "MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 21,
+      "full_name": "cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "topics": [
+        "bpf",
+        "cncf",
+        "cni",
+        "containers",
+        "ebpf",
+        "k8s",
+        "kernel",
+        "kubernetes",
+        "kubernetes-networking",
+        "loadbalancing",
+        "monitoring",
+        "networking",
+        "observability",
+        "security",
+        "troubleshooting",
+        "xdp"
+      ],
+      "stars": 25362,
+      "stars_delta": 356,
+      "forks": 4083,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cilium/cilium",
+      "snapshot_at": "2026-09-20T11:35:16.206Z",
+      "purpose": {
+        "zh": "eBPF-based Networking, Security, and Observability",
+        "en": "eBPF-based Networking, Security, and Observability"
+      },
+      "strengths": {
+        "zh": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
+        "en": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…"
+      },
+      "innovations": {
+        "zh": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
+        "en": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…"
+      },
+      "purpose_zh": "eBPF-based Networking, Security, and Observability",
+      "purpose_en": "eBPF-based Networking, Security, and Observability",
+      "strengths_zh": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
+      "strengths_en": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
+      "innovations_zh": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
+      "innovations_en": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
       "insights_source": "readme-excerpt"
     }
   ]
