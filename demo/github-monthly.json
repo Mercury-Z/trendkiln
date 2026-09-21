@@ -43,12 +43,12 @@
         "system-design",
         "text-to-diagram"
       ],
-      "stars": 68452,
-      "stars_delta": 266,
-      "forks": 4583,
-      "forks_delta": 24,
+      "stars": 68810,
+      "stars_delta": 358,
+      "forks": 4611,
+      "forks_delta": 28,
       "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
         "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
@@ -71,16 +71,57 @@
     },
     {
       "rank": 2,
+      "full_name": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "language": "Python",
+      "topics": [
+        "deepseek-v4",
+        "edge",
+        "glm",
+        "inference",
+        "minimax",
+        "moe",
+        "qwen",
+        "transformer"
+      ],
+      "stars": 13402,
+      "stars_delta": 13363,
+      "forks": 1323,
+      "forks_delta": 0,
+      "html_url": "https://github.com/FlashML-org/FreeToken",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
+      "purpose": {
+        "zh": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
+      },
+      "strengths": {
+        "zh": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+        "en": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…"
+      },
+      "innovations": {
+        "zh": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+        "en": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…"
+      },
+      "purpose_zh": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "purpose_en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "strengths_zh": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+      "strengths_en": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+      "innovations_zh": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+      "innovations_en": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "topics": [],
-      "stars": 38255,
-      "stars_delta": 80,
-      "forks": 5998,
-      "forks_delta": 10,
+      "stars": 38365,
+      "stars_delta": 110,
+      "forks": 6010,
+      "forks_delta": 12,
       "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
         "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
@@ -102,17 +143,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "full_name": "anthropics/claude-plugins-community",
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "topics": [],
-      "stars": 4323,
-      "stars_delta": 17,
+      "stars": 4335,
+      "stars_delta": 12,
       "forks": 311,
       "forks_delta": 0,
       "html_url": "https://github.com/anthropics/claude-plugins-community",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "anthropics/claude-plugins-community：Claude Cowork和Claude代码的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。",
         "en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
@@ -134,39 +175,39 @@
       "insights_source": "readme"
     },
     {
-      "rank": 4,
-      "full_name": "omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
+      "rank": 5,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 42406,
-      "stars_delta": 70,
-      "forks": 4882,
-      "forks_delta": 5,
-      "html_url": "https://github.com/omacom/omarchy",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "stars": 18633,
+      "stars_delta": 398,
+      "forks": 1046,
+      "forks_delta": 25,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
-        "zh": "omacom/omarchy：美丽、现代和自以为是的Linux",
-        "en": "Beautiful, Modern & Opinionated Linux"
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "strengths": {
-        "zh": "基于 Shell 构建；核心能力：Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
-        "en": "Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's"
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
       },
       "innovations": {
-        "zh": "【创新点】Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
-        "en": "Omarchy is a beautiful, fun & agentic Linux distribution by DHH."
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
       },
-      "purpose_zh": "omacom/omarchy：美丽、现代和自以为是的Linux",
-      "purpose_en": "Beautiful, Modern & Opinionated Linux",
-      "strengths_zh": "基于 Shell 构建；核心能力：Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
-      "strengths_en": "Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
-      "innovations_zh": "【创新点】Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
-      "innovations_en": "Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
-      "insights_source": "readme"
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "full_name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
@@ -182,12 +223,12 @@
         "skills",
         "workflow-automation"
       ],
-      "stars": 33038,
-      "stars_delta": 49,
-      "forks": 3184,
-      "forks_delta": 4,
+      "stars": 33121,
+      "stars_delta": 83,
+      "forks": 3190,
+      "forks_delta": 6,
       "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "en": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
@@ -209,17 +250,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8247,
-      "stars_delta": 18,
-      "forks": 759,
-      "forks_delta": 1,
+      "stars": 8270,
+      "stars_delta": 23,
+      "forks": 762,
+      "forks_delta": 3,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -241,7 +282,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -267,12 +308,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 33616,
-      "stars_delta": 121,
-      "forks": 3971,
-      "forks_delta": 12,
+      "stars": 33760,
+      "stars_delta": 144,
+      "forks": 3980,
+      "forks_delta": 9,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -294,84 +335,35 @@
       "insights_source": "readme"
     },
     {
-      "rank": 8,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 18235,
-      "stars_delta": 355,
-      "forks": 1021,
-      "forks_delta": 28,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 9,
-      "full_name": "vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar",
-        "menubar",
-        "open-source",
-        "swift",
-        "swift-ui",
-        "system-monitor",
-        "uninstaller",
-        "volume-mixer",
-        "window-switcher"
-      ],
-      "stars": 20274,
-      "stars_delta": 51,
-      "forks": 739,
-      "forks_delta": 1,
-      "html_url": "https://github.com/vorssaint/vorssaint-utils",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "full_name": "omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "topics": [],
+      "stars": 42467,
+      "stars_delta": 61,
+      "forks": 4893,
+      "forks_delta": 11,
+      "html_url": "https://github.com/omacom/omarchy",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
-        "zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
-        "en": "Free and open-source macOS menu bar toolkit."
+        "zh": "omacom/omarchy：美丽、现代和自以为是的Linux",
+        "en": "Beautiful, Modern & Opinionated Linux"
       },
       "strengths": {
-        "zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-        "en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee"
+        "zh": "基于 Shell 构建；核心能力：Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
+        "en": "Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's"
       },
       "innovations": {
-        "zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
-        "en": "One menu bar icon doing the job of a dozen paid Mac apps."
+        "zh": "【创新点】Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
+        "en": "Omarchy is a beautiful, fun & agentic Linux distribution by DHH."
       },
-      "purpose_zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
-      "purpose_en": "Free and open-source macOS menu bar toolkit.",
-      "strengths_zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-      "strengths_en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
-      "innovations_zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
-      "innovations_en": "One menu bar icon doing the job of a dozen paid Mac apps.",
+      "purpose_zh": "omacom/omarchy：美丽、现代和自以为是的Linux",
+      "purpose_en": "Beautiful, Modern & Opinionated Linux",
+      "strengths_zh": "基于 Shell 构建；核心能力：Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
+      "strengths_en": "Built with Shell; Omarchy is a beautiful, fun & agentic Linux distribution by DHH.; Read more at omarchy.org.; The manual lives in `manual/`, which is its authoritative source. It's",
+      "innovations_zh": "【创新点】Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
+      "innovations_en": "Omarchy is a beautiful, fun & agentic Linux distribution by DHH.",
       "insights_source": "readme"
     },
     {
@@ -387,12 +379,12 @@
         "developer-tools",
         "productivity"
       ],
-      "stars": 49351,
-      "stars_delta": 172,
-      "forks": 2855,
-      "forks_delta": 6,
+      "stars": 49577,
+      "stars_delta": 226,
+      "forks": 2866,
+      "forks_delta": 11,
       "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
         "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
@@ -426,12 +418,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 38576,
-      "stars_delta": 245,
-      "forks": 2753,
-      "forks_delta": 21,
+      "stars": 38921,
+      "stars_delta": 345,
+      "forks": 2780,
+      "forks_delta": 27,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -454,16 +446,48 @@
     },
     {
       "rank": 12,
+      "full_name": "magnitudedev/magnitude",
+      "description": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4740,
+      "stars_delta": 3298,
+      "forks": 367,
+      "forks_delta": 0,
+      "html_url": "https://github.com/magnitudedev/magnitude",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
+      "purpose": {
+        "zh": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "en": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
+      },
+      "strengths": {
+        "zh": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
+        "en": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…"
+      },
+      "innovations": {
+        "zh": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
+        "en": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…"
+      },
+      "purpose_zh": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "purpose_en": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "strengths_zh": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
+      "strengths_en": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
+      "innovations_zh": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
+      "innovations_en": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
       "topics": [],
-      "stars": 14096,
-      "stars_delta": 23,
-      "forks": 1667,
-      "forks_delta": 5,
+      "stars": 14134,
+      "stars_delta": 38,
+      "forks": 1670,
+      "forks_delta": 3,
       "html_url": "https://github.com/Lakr233/vphone-cli",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -485,52 +509,6 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "topics": [
-        "dpi",
-        "gpui",
-        "hid",
-        "hidpp",
-        "local-first",
-        "logitech",
-        "logitech-mouse",
-        "logitech-options",
-        "mouse-remapping",
-        "mx-master",
-        "privacy",
-        "rust",
-        "smartshift"
-      ],
-      "stars": 21769,
-      "stars_delta": 34,
-      "forks": 712,
-      "forks_delta": 4,
-      "html_url": "https://github.com/AprilNEA/OpenLogi",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
-      "purpose": {
-        "zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
-        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
-      },
-      "strengths": {
-        "zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-        "en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows."
-      },
-      "innovations": {
-        "zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands."
-      },
-      "purpose_zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
-      "purpose_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "strengths_zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-      "strengths_en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
-      "innovations_zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-      "innovations_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
-      "insights_source": "readme"
-    },
-    {
       "rank": 14,
       "full_name": "tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
@@ -544,12 +522,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 6557,
+      "stars": 6574,
       "stars_delta": 17,
-      "forks": 537,
-      "forks_delta": 0,
+      "forks": 539,
+      "forks_delta": 2,
       "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
@@ -572,16 +550,65 @@
     },
     {
       "rank": 15,
+      "full_name": "vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar",
+        "menubar",
+        "open-source",
+        "swift",
+        "swift-ui",
+        "system-monitor",
+        "uninstaller",
+        "volume-mixer",
+        "window-switcher"
+      ],
+      "stars": 20324,
+      "stars_delta": 50,
+      "forks": 741,
+      "forks_delta": 2,
+      "html_url": "https://github.com/vorssaint/vorssaint-utils",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
+      "purpose": {
+        "zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
+        "en": "Free and open-source macOS menu bar toolkit."
+      },
+      "strengths": {
+        "zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+        "en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee"
+      },
+      "innovations": {
+        "zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
+        "en": "One menu bar icon doing the job of a dozen paid Mac apps."
+      },
+      "purpose_zh": "vorssaint/vorssaint-utils：免费开源macOS菜单栏工具包。",
+      "purpose_en": "Free and open-source macOS menu bar toolkit.",
+      "strengths_zh": "基于 Swift 构建；关注领域：alt-tab, app-uninstaller, appkit, finder, free, keep-awake；核心能力：Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+      "strengths_en": "Built with Swift; Focus: alt-tab, app-uninstaller, appkit, finder, free, keep-awake; One menu bar icon doing the job of a dozen paid Mac apps.; Free, open source, and everything runs on your Mac.; Buy Me a Coffee",
+      "innovations_zh": "【创新点】One menu bar icon doing the job of a dozen paid Mac apps.",
+      "innovations_en": "One menu bar icon doing the job of a dozen paid Mac apps.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 16,
       "full_name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "topics": [],
-      "stars": 33354,
-      "stars_delta": 34,
-      "forks": 3219,
-      "forks_delta": 5,
+      "stars": 33373,
+      "stars_delta": 19,
+      "forks": 3221,
+      "forks_delta": 2,
       "html_url": "https://github.com/google-research/timesfm",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
@@ -603,83 +630,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 16,
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "stars": 41640,
-      "stars_delta": 101,
-      "forks": 2670,
-      "forks_delta": 4,
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
-      "purpose": {
-        "zh": "cathrynlavery/diagram-design：Claude代码、⟦Codex和Pi的38种编辑图⟧类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。",
-        "en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-      },
-      "strengths": {
-        "zh": "基于 HTML 构建；关注领域：agent-skills, claude-code, codex, data-visualization, diagrams, drawio；核心能力：Built with HTML; Focus: agent-skills, claude-code, codex, data-visualization, diagrams, drawio; Editorial diagrams your designer won't hate.**; New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*; New in 2.3: semantic system patterns and optional accessible moti",
-        "en": "Built with HTML; Focus: agent-skills, claude-code, codex, data-visualization, diagrams, drawio; Editorial diagrams your designer won't hate.**; New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*; New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default.*"
-      },
-      "innovations": {
-        "zh": "** *New in 2.",
-        "en": "** *New in 2."
-      },
-      "purpose_zh": "cathrynlavery/diagram-design：Claude代码、⟦Codex和Pi的38种编辑图⟧类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。",
-      "purpose_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "strengths_zh": "基于 HTML 构建；关注领域：agent-skills, claude-code, codex, data-visualization, diagrams, drawio；核心能力：Built with HTML; Focus: agent-skills, claude-code, codex, data-visualization, diagrams, drawio; Editorial diagrams your designer won't hate.**; New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*; New in 2.3: semantic system patterns and optional accessible moti",
-      "strengths_en": "Built with HTML; Focus: agent-skills, claude-code, codex, data-visualization, diagrams, drawio; Editorial diagrams your designer won't hate.**; New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*; New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default.*",
-      "innovations_zh": "** *New in 2.",
-      "innovations_en": "** *New in 2.",
-      "insights_source": "readme"
-    },
-    {
       "rank": 17,
-      "full_name": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "topics": [
-        "artificial-intelligence",
-        "large-language-model"
-      ],
-      "stars": 61890,
-      "stars_delta": 61,
-      "forks": 8052,
-      "forks_delta": 5,
-      "html_url": "https://github.com/jingyaogong/minimind",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
-      "purpose": {
-        "zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
-      },
-      "strengths": {
-        "zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
-        "en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…"
-      },
-      "innovations": {
-        "zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
-        "en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…"
-      },
-      "purpose_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "purpose_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "strengths_zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
-      "strengths_en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
-      "innovations_zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
-      "innovations_en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 18,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -705,12 +656,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 28150,
-      "stars_delta": 207,
-      "forks": 3789,
-      "forks_delta": 31,
+      "stars": 28359,
+      "stars_delta": 209,
+      "forks": 3815,
+      "forks_delta": 26,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -732,6 +683,41 @@
       "insights_source": "readme"
     },
     {
+      "rank": 18,
+      "full_name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "stars": 61970,
+      "stars_delta": 80,
+      "forks": 8067,
+      "forks_delta": 15,
+      "html_url": "https://github.com/jingyaogong/minimind",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
+      "purpose": {
+        "zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+      },
+      "strengths": {
+        "zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+        "en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…"
+      },
+      "innovations": {
+        "zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+        "en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…"
+      },
+      "purpose_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "purpose_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "strengths_zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+      "strengths_en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+      "innovations_zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+      "innovations_en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 19,
       "full_name": "Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
@@ -741,12 +727,12 @@
         "browser-use",
         "dsh-plugin"
       ],
-      "stars": 6121,
-      "stars_delta": 95,
-      "forks": 438,
-      "forks_delta": 9,
+      "stars": 6245,
+      "stars_delta": 124,
+      "forks": 448,
+      "forks_delta": 10,
       "html_url": "https://github.com/Tencent/BrowserSkill",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
         "en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
@@ -769,6 +755,52 @@
     },
     {
       "rank": 20,
+      "full_name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "topics": [
+        "dpi",
+        "gpui",
+        "hid",
+        "hidpp",
+        "local-first",
+        "logitech",
+        "logitech-mouse",
+        "logitech-options",
+        "mouse-remapping",
+        "mx-master",
+        "privacy",
+        "rust",
+        "smartshift"
+      ],
+      "stars": 21816,
+      "stars_delta": 47,
+      "forks": 715,
+      "forks_delta": 3,
+      "html_url": "https://github.com/AprilNEA/OpenLogi",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
+      "purpose": {
+        "zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
+        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+      },
+      "strengths": {
+        "zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+        "en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows."
+      },
+      "innovations": {
+        "zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+        "en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands."
+      },
+      "purpose_zh": "AprilNEA/OpenLogi：⚡️以⟦Rust编写的Logitech Options +的本地优先替代方案⟧—重新映射按钮、DPI和SmartShift over HID + +。无帐户，无遥测。",
+      "purpose_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "strengths_zh": "基于 Rust 构建；关注领域：dpi, gpui, hid, hidpp, local-first, logitech；核心能力：Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+      "strengths_en": "Built with Rust; Focus: dpi, gpui, hid, hidpp, local-first, logitech; OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a…; Fed up with Options+? Try OpenLogi.**; Runs on macOS, Linux, and Windows.",
+      "innovations_zh": "【创新点】⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+      "innovations_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++.; Give the repo a **Star** ⭐ and **Watch** it to get notified when a new release lands.",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 21,
       "full_name": "every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
@@ -785,12 +817,12 @@
         "seo-tools",
         "site-audit"
       ],
-      "stars": 19743,
-      "stars_delta": 45,
-      "forks": 2538,
-      "forks_delta": 5,
+      "stars": 19809,
+      "stars_delta": 66,
+      "forks": 2549,
+      "forks_delta": 11,
       "html_url": "https://github.com/every-app/open-seo",
-      "snapshot_at": "2026-09-21T05:07:27.376Z",
+      "snapshot_at": "2026-09-21T12:59:56.337Z",
       "purpose": {
         "zh": "Open source alternative to Semrush and Ahrefs",
         "en": "Open source alternative to Semrush and Ahrefs"
