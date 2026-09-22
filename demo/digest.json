@@ -15,22 +15,48 @@
         "en": "Google's open agentic orchestration runtime"
       },
       "signal": {
-        "zh": "+2,324 星标",
-        "en": "+2,324 stars"
+        "zh": "+479 星标",
+        "en": "+479 stars"
       },
       "title_zh": "google/ax 星标异动",
       "title_en": "google/ax star surge",
       "subtitle_zh": "Google's open agentic orchestration runtime",
       "subtitle_en": "Google's open agentic orchestration runtime",
-      "signal_zh": "+2,324 星标",
-      "signal_en": "+2,324 stars",
+      "signal_zh": "+479 星标",
+      "signal_en": "+479 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/google/ax",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
       "entity_id": "repo:google/ax"
     },
     {
       "id": "2",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Claude Opus 5.5 (max with fallback) 排名变化",
+        "en": "Claude Opus 5.5 (max with fallback) rank change"
+      },
+      "subtitle": {
+        "zh": "#1 · Anthropic",
+        "en": "#1 · Anthropic"
+      },
+      "signal": {
+        "zh": "新上榜",
+        "en": "new entry"
+      },
+      "title_zh": "Claude Opus 5.5 (max with fallback) 排名变化",
+      "title_en": "Claude Opus 5.5 (max with fallback) rank change",
+      "subtitle_zh": "#1 · Anthropic",
+      "subtitle_en": "#1 · Anthropic",
+      "signal_zh": "新上榜",
+      "signal_en": "new entry",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/models#intelligence",
+      "occurred_at": "2026-09-22T17:03:16.575Z",
+      "entity_id": "model:Claude Opus 5.5 (max with fallback)"
+    },
+    {
+      "id": "3",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.139 (Insiders)",
@@ -56,33 +82,33 @@
       "entity_id": "feed:380"
     },
     {
-      "id": "3",
-      "type": "github_surge",
+      "id": "4",
+      "type": "model_rank_change",
       "title": {
-        "zh": "agent-substrate/substrate 星标异动",
-        "en": "agent-substrate/substrate star surge"
+        "zh": "Claude Fable 5.1 (max with fallback) 排名变化",
+        "en": "Claude Fable 5.1 (max with fallback) rank change"
       },
       "subtitle": {
-        "zh": "Agent Substrate: the core system",
-        "en": "Agent Substrate: the core system"
+        "zh": "#2 · Anthropic",
+        "en": "#2 · Anthropic"
       },
       "signal": {
-        "zh": "+498 星标",
-        "en": "+498 stars"
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
       },
-      "title_zh": "agent-substrate/substrate 星标异动",
-      "title_en": "agent-substrate/substrate star surge",
-      "subtitle_zh": "Agent Substrate: the core system",
-      "subtitle_en": "Agent Substrate: the core system",
-      "signal_zh": "+498 星标",
-      "signal_en": "+498 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/agent-substrate/substrate",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
-      "entity_id": "repo:agent-substrate/substrate"
+      "title_zh": "Claude Fable 5.1 (max with fallback) 排名变化",
+      "title_en": "Claude Fable 5.1 (max with fallback) rank change",
+      "subtitle_zh": "#2 · Anthropic",
+      "subtitle_en": "#2 · Anthropic",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/models#intelligence",
+      "occurred_at": "2026-09-22T17:03:16.575Z",
+      "entity_id": "model:Claude Fable 5.1 (max with fallback)"
     },
     {
-      "id": "4",
+      "id": "5",
       "type": "github_surge",
       "title": {
         "zh": "dream-num/univer 星标异动",
@@ -93,74 +119,22 @@
         "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
       },
       "signal": {
-        "zh": "+202 星标",
-        "en": "+202 stars"
+        "zh": "+238 星标",
+        "en": "+238 stars"
       },
       "title_zh": "dream-num/univer 星标异动",
       "title_en": "dream-num/univer star surge",
       "subtitle_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "subtitle_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "signal_zh": "+202 星标",
-      "signal_en": "+202 stars",
+      "signal_zh": "+238 星标",
+      "signal_en": "+238 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/dream-num/univer",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
       "entity_id": "repo:dream-num/univer"
     },
     {
-      "id": "5",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "rust-v0.157.0-alpha.8",
-        "en": "rust-v0.157.0-alpha.8"
-      },
-      "subtitle": {
-        "zh": "Release 0.157.0-alpha.8",
-        "en": "Release 0.157.0-alpha.8"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "rust-v0.157.0-alpha.8",
-      "title_en": "rust-v0.157.0-alpha.8",
-      "subtitle_zh": "Release 0.157.0-alpha.8",
-      "subtitle_en": "Release 0.157.0-alpha.8",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.8",
-      "occurred_at": "2026-09-22T11:34:45.000Z",
-      "entity_id": "feed:503"
-    },
-    {
       "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "superdesigndev/treg 星标异动",
-        "en": "superdesigndev/treg star surge"
-      },
-      "subtitle": {
-        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
-      },
-      "signal": {
-        "zh": "+197 星标",
-        "en": "+197 stars"
-      },
-      "title_zh": "superdesigndev/treg 星标异动",
-      "title_en": "superdesigndev/treg star surge",
-      "subtitle_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "subtitle_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "signal_zh": "+197 星标",
-      "signal_en": "+197 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/superdesigndev/treg",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
-      "entity_id": "repo:superdesigndev/treg"
-    },
-    {
-      "id": "7",
       "type": "github_surge",
       "title": {
         "zh": "browser-use/video-use 星标异动",
@@ -182,11 +156,297 @@
       "signal_en": "+155 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/browser-use/video-use",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
       "entity_id": "repo:browser-use/video-use"
     },
     {
+      "id": "7",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "GPT-6 Astra (max) 排名变化",
+        "en": "GPT-6 Astra (max) rank change"
+      },
+      "subtitle": {
+        "zh": "#3 · OpenAI",
+        "en": "#3 · OpenAI"
+      },
+      "signal": {
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
+      },
+      "title_zh": "GPT-6 Astra (max) 排名变化",
+      "title_en": "GPT-6 Astra (max) rank change",
+      "subtitle_zh": "#3 · OpenAI",
+      "subtitle_en": "#3 · OpenAI",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/models#intelligence",
+      "occurred_at": "2026-09-22T17:03:16.575Z",
+      "entity_id": "model:GPT-6 Astra (max)"
+    },
+    {
       "id": "8",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "rust-v0.157.0-alpha.9",
+        "en": "rust-v0.157.0-alpha.9"
+      },
+      "subtitle": {
+        "zh": "Release 0.157.0-alpha.9",
+        "en": "Release 0.157.0-alpha.9"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "rust-v0.157.0-alpha.9",
+      "title_en": "rust-v0.157.0-alpha.9",
+      "subtitle_zh": "Release 0.157.0-alpha.9",
+      "subtitle_en": "Release 0.157.0-alpha.9",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.9",
+      "occurred_at": "2026-09-22T16:35:01.000Z",
+      "entity_id": "feed:510"
+    },
+    {
+      "id": "9",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "MiMo-V2.6-Pro 排名变化",
+        "en": "MiMo-V2.6-Pro rank change"
+      },
+      "subtitle": {
+        "zh": "#6 · Xiaomi",
+        "en": "#6 · Xiaomi"
+      },
+      "signal": {
+        "zh": "新上榜",
+        "en": "new entry"
+      },
+      "title_zh": "MiMo-V2.6-Pro 排名变化",
+      "title_en": "MiMo-V2.6-Pro rank change",
+      "subtitle_zh": "#6 · Xiaomi",
+      "subtitle_en": "#6 · Xiaomi",
+      "signal_zh": "新上榜",
+      "signal_en": "new entry",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/models#intelligence",
+      "occurred_at": "2026-09-22T17:03:16.575Z",
+      "entity_id": "model:MiMo-V2.6-Pro"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/financial-services 星标异动",
+        "en": "anthropics/financial-services star surge"
+      },
+      "subtitle": {
+        "zh": "anthropics/financial-services",
+        "en": "anthropics/financial-services"
+      },
+      "signal": {
+        "zh": "+152 星标",
+        "en": "+152 stars"
+      },
+      "title_zh": "anthropics/financial-services 星标异动",
+      "title_en": "anthropics/financial-services star surge",
+      "subtitle_zh": "anthropics/financial-services",
+      "subtitle_en": "anthropics/financial-services",
+      "signal_zh": "+152 星标",
+      "signal_en": "+152 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/financial-services",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
+      "entity_id": "repo:anthropics/financial-services"
+    },
+    {
+      "id": "11",
+      "type": "github_surge",
+      "title": {
+        "zh": "agent-substrate/substrate 星标异动",
+        "en": "agent-substrate/substrate star surge"
+      },
+      "subtitle": {
+        "zh": "Agent Substrate: the core system",
+        "en": "Agent Substrate: the core system"
+      },
+      "signal": {
+        "zh": "+152 星标",
+        "en": "+152 stars"
+      },
+      "title_zh": "agent-substrate/substrate 星标异动",
+      "title_en": "agent-substrate/substrate star surge",
+      "subtitle_zh": "Agent Substrate: the core system",
+      "subtitle_en": "Agent Substrate: the core system",
+      "signal_zh": "+152 星标",
+      "signal_en": "+152 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/agent-substrate/substrate",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
+      "entity_id": "repo:agent-substrate/substrate"
+    },
+    {
+      "id": "12",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "GLM-5.3 (max) 排名变化",
+        "en": "GLM-5.3 (max) rank change"
+      },
+      "subtitle": {
+        "zh": "#7 · Zhipu",
+        "en": "#7 · Zhipu"
+      },
+      "signal": {
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
+      },
+      "title_zh": "GLM-5.3 (max) 排名变化",
+      "title_en": "GLM-5.3 (max) rank change",
+      "subtitle_zh": "#7 · Zhipu",
+      "subtitle_en": "#7 · Zhipu",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/models#intelligence",
+      "occurred_at": "2026-09-22T17:03:16.575Z",
+      "entity_id": "model:GLM-5.3 (max)"
+    },
+    {
+      "id": "13",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "llm-typesafe 0.1a0",
+        "en": "llm-typesafe 0.1a0"
+      },
+      "subtitle": {
+        "zh": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like th…",
+        "en": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like th…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "llm-typesafe 0.1a0",
+      "title_en": "llm-typesafe 0.1a0",
+      "subtitle_zh": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like th…",
+      "subtitle_en": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like th…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "occurred_at": "2026-09-22T15:54:16.000Z",
+      "entity_id": "feed:511"
+    },
+    {
+      "id": "14",
+      "type": "github_surge",
+      "title": {
+        "zh": "superdesigndev/treg 星标异动",
+        "en": "superdesigndev/treg star surge"
+      },
+      "subtitle": {
+        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+      },
+      "signal": {
+        "zh": "+113 星标",
+        "en": "+113 stars"
+      },
+      "title_zh": "superdesigndev/treg 星标异动",
+      "title_en": "superdesigndev/treg star surge",
+      "subtitle_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "subtitle_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "signal_zh": "+113 星标",
+      "signal_en": "+113 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/superdesigndev/treg",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
+      "entity_id": "repo:superdesigndev/treg"
+    },
+    {
+      "id": "15",
+      "type": "github_surge",
+      "title": {
+        "zh": "mvt-project/mvt 星标异动",
+        "en": "mvt-project/mvt star surge"
+      },
+      "subtitle": {
+        "zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+      },
+      "signal": {
+        "zh": "+91 星标",
+        "en": "+91 stars"
+      },
+      "title_zh": "mvt-project/mvt 星标异动",
+      "title_en": "mvt-project/mvt star surge",
+      "subtitle_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "subtitle_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "signal_zh": "+91 星标",
+      "signal_en": "+91 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/mvt-project/mvt",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
+      "entity_id": "repo:mvt-project/mvt"
+    },
+    {
+      "id": "16",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.157.0-alpha.8",
+        "en": "0.157.0-alpha.8"
+      },
+      "subtitle": {
+        "zh": "Release 0.157.0-alpha.8",
+        "en": "Release 0.157.0-alpha.8"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "0.157.0-alpha.8",
+      "title_en": "0.157.0-alpha.8",
+      "subtitle_zh": "Release 0.157.0-alpha.8",
+      "subtitle_en": "Release 0.157.0-alpha.8",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.8",
+      "occurred_at": "2026-09-22T12:45:10.000Z",
+      "entity_id": "feed:503"
+    },
+    {
+      "id": "17",
+      "type": "github_surge",
+      "title": {
+        "zh": "davila7/claude-code-templates 星标异动",
+        "en": "davila7/claude-code-templates star surge"
+      },
+      "subtitle": {
+        "zh": "CLI tool for configuring and monitoring Claude Code",
+        "en": "CLI tool for configuring and monitoring Claude Code"
+      },
+      "signal": {
+        "zh": "+81 星标",
+        "en": "+81 stars"
+      },
+      "title_zh": "davila7/claude-code-templates 星标异动",
+      "title_en": "davila7/claude-code-templates star surge",
+      "subtitle_zh": "CLI tool for configuring and monitoring Claude Code",
+      "subtitle_en": "CLI tool for configuring and monitoring Claude Code",
+      "signal_zh": "+81 星标",
+      "signal_en": "+81 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "occurred_at": "2026-09-22T17:03:10.441Z",
+      "entity_id": "repo:davila7/claude-code-templates"
+    },
+    {
+      "id": "18",
       "type": "feed_must_read",
       "title": {
         "zh": "rust-v0.156.0-alpha.18",
@@ -212,59 +472,7 @@
       "entity_id": "feed:504"
     },
     {
-      "id": "9",
-      "type": "github_surge",
-      "title": {
-        "zh": "anthropics/financial-services 星标异动",
-        "en": "anthropics/financial-services star surge"
-      },
-      "subtitle": {
-        "zh": "anthropics/financial-services",
-        "en": "anthropics/financial-services"
-      },
-      "signal": {
-        "zh": "+121 星标",
-        "en": "+121 stars"
-      },
-      "title_zh": "anthropics/financial-services 星标异动",
-      "title_en": "anthropics/financial-services star surge",
-      "subtitle_zh": "anthropics/financial-services",
-      "subtitle_en": "anthropics/financial-services",
-      "signal_zh": "+121 星标",
-      "signal_en": "+121 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/anthropics/financial-services",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
-      "entity_id": "repo:anthropics/financial-services"
-    },
-    {
-      "id": "10",
-      "type": "github_surge",
-      "title": {
-        "zh": "mvt-project/mvt 星标异动",
-        "en": "mvt-project/mvt star surge"
-      },
-      "subtitle": {
-        "zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-        "en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
-      },
-      "signal": {
-        "zh": "+109 星标",
-        "en": "+109 stars"
-      },
-      "title_zh": "mvt-project/mvt 星标异动",
-      "title_en": "mvt-project/mvt star surge",
-      "subtitle_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "subtitle_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "signal_zh": "+109 星标",
-      "signal_en": "+109 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/mvt-project/mvt",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
-      "entity_id": "repo:mvt-project/mvt"
-    },
-    {
-      "id": "11",
+      "id": "19",
       "type": "feed_must_read",
       "title": {
         "zh": "Deprecation notice: All-platform CodeQL bundle",
@@ -290,33 +498,7 @@
       "entity_id": "feed:505"
     },
     {
-      "id": "12",
-      "type": "github_surge",
-      "title": {
-        "zh": "davila7/claude-code-templates 星标异动",
-        "en": "davila7/claude-code-templates star surge"
-      },
-      "subtitle": {
-        "zh": "CLI tool for configuring and monitoring Claude Code",
-        "en": "CLI tool for configuring and monitoring Claude Code"
-      },
-      "signal": {
-        "zh": "+33 星标",
-        "en": "+33 stars"
-      },
-      "title_zh": "davila7/claude-code-templates 星标异动",
-      "title_en": "davila7/claude-code-templates star surge",
-      "subtitle_zh": "CLI tool for configuring and monitoring Claude Code",
-      "subtitle_en": "CLI tool for configuring and monitoring Claude Code",
-      "signal_zh": "+33 星标",
-      "signal_en": "+33 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "occurred_at": "2026-09-22T11:49:47.033Z",
-      "entity_id": "repo:davila7/claude-code-templates"
-    },
-    {
-      "id": "13",
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "0.157.0-alpha.7",
@@ -340,188 +522,6 @@
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.7",
       "occurred_at": "2026-09-22T07:08:59.000Z",
       "entity_id": "feed:506"
-    },
-    {
-      "id": "14",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-        "en": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M"
-      },
-      "subtitle": {
-        "zh": "crowning a new Chinese frontier lab",
-        "en": "crowning a new Chinese frontier lab"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "title_en": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "subtitle_zh": "crowning a new Chinese frontier lab",
-      "subtitle_en": "crowning a new Chinese frontier lab",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "occurred_at": "2026-09-22T06:30:56.000Z",
-      "entity_id": "feed:507"
-    },
-    {
-      "id": "15",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.157.0-alpha.6",
-        "en": "0.157.0-alpha.6"
-      },
-      "subtitle": {
-        "zh": "Release 0.157.0-alpha.6",
-        "en": "Release 0.157.0-alpha.6"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.157.0-alpha.6",
-      "title_en": "0.157.0-alpha.6",
-      "subtitle_zh": "Release 0.157.0-alpha.6",
-      "subtitle_en": "Release 0.157.0-alpha.6",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.6",
-      "occurred_at": "2026-09-22T06:00:01.000Z",
-      "entity_id": "feed:493"
-    },
-    {
-      "id": "16",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.157.0-alpha.5",
-        "en": "0.157.0-alpha.5"
-      },
-      "subtitle": {
-        "zh": "Release 0.157.0-alpha.5",
-        "en": "Release 0.157.0-alpha.5"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.157.0-alpha.5",
-      "title_en": "0.157.0-alpha.5",
-      "subtitle_zh": "Release 0.157.0-alpha.5",
-      "subtitle_en": "Release 0.157.0-alpha.5",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.5",
-      "occurred_at": "2026-09-22T04:38:14.000Z",
-      "entity_id": "feed:494"
-    },
-    {
-      "id": "17",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.157.0-alpha.4",
-        "en": "0.157.0-alpha.4"
-      },
-      "subtitle": {
-        "zh": "Release 0.157.0-alpha.4",
-        "en": "Release 0.157.0-alpha.4"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.157.0-alpha.4",
-      "title_en": "0.157.0-alpha.4",
-      "subtitle_zh": "Release 0.157.0-alpha.4",
-      "subtitle_en": "Release 0.157.0-alpha.4",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.4",
-      "occurred_at": "2026-09-22T03:12:53.000Z",
-      "entity_id": "feed:495"
-    },
-    {
-      "id": "18",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.157.0-alpha.3",
-        "en": "0.157.0-alpha.3"
-      },
-      "subtitle": {
-        "zh": "Release 0.157.0-alpha.3",
-        "en": "Release 0.157.0-alpha.3"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.157.0-alpha.3",
-      "title_en": "0.157.0-alpha.3",
-      "subtitle_zh": "Release 0.157.0-alpha.3",
-      "subtitle_en": "Release 0.157.0-alpha.3",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0-alpha.3",
-      "occurred_at": "2026-09-22T01:46:59.000Z",
-      "entity_id": "feed:496"
-    },
-    {
-      "id": "19",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Refreshed repository pull requests page generally available",
-        "en": "Refreshed repository pull requests page generally available"
-      },
-      "subtitle": {
-        "zh": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
-        "en": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog ."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Refreshed repository pull requests page generally available",
-      "title_en": "Refreshed repository pull requests page generally available",
-      "subtitle_zh": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
-      "subtitle_en": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "occurred_at": "2026-09-22T01:25:53.000Z",
-      "entity_id": "feed:497"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Transformers now runs llama.cpp quants",
-        "en": "Transformers now runs llama.cpp quants"
-      },
-      "subtitle": {
-        "zh": "",
-        "en": ""
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Transformers now runs llama.cpp quants",
-      "title_en": "Transformers now runs llama.cpp quants",
-      "subtitle_zh": "",
-      "subtitle_en": "",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "occurred_at": "2026-09-22T00:00:00.000Z",
-      "entity_id": "feed:508"
     }
   ]
 }
