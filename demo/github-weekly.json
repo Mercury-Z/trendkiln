@@ -29,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 39835,
-      "stars_delta": 132,
-      "forks": 2861,
-      "forks_delta": 11,
+      "stars": 40033,
+      "stars_delta": 198,
+      "forks": 2877,
+      "forks_delta": 16,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -61,12 +61,12 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 147684,
-      "stars_delta": 38,
-      "forks": 24136,
-      "forks_delta": 4,
+      "stars": 147735,
+      "stars_delta": 51,
+      "forks": 24157,
+      "forks_delta": 21,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -89,6 +89,38 @@
     },
     {
       "rank": 3,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 36687,
+      "stars_delta": 203,
+      "forks": 5357,
+      "forks_delta": 25,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -114,12 +146,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 29059,
-      "stars_delta": 144,
-      "forks": 3917,
-      "forks_delta": 28,
+      "stars": 29219,
+      "stars_delta": 160,
+      "forks": 3935,
+      "forks_delta": 18,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -141,7 +173,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "full_name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
@@ -155,12 +187,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 265563,
-      "stars_delta": 215,
-      "forks": 39692,
-      "forks_delta": 52,
+      "stars": 265816,
+      "stars_delta": 253,
+      "forks": 39719,
+      "forks_delta": 27,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -182,38 +214,6 @@
       "insights_source": "readme"
     },
     {
-      "rank": 5,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 25451,
-      "stars_delta": 25,
-      "forks": 3019,
-      "forks_delta": 1,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 6,
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
@@ -226,12 +226,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 98504,
-      "stars_delta": 76,
-      "forks": 10350,
-      "forks_delta": 8,
+      "stars": 98596,
+      "stars_delta": 92,
+      "forks": 10359,
+      "forks_delta": 9,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -254,16 +254,48 @@
     },
     {
       "rank": 7,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 25467,
+      "stars_delta": 16,
+      "forks": 3020,
+      "forks_delta": 1,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
       "full_name": "JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "topics": [],
-      "stars": 37178,
-      "stars_delta": 63,
-      "forks": 4014,
+      "stars": 37250,
+      "stars_delta": 72,
+      "forks": 4021,
       "forks_delta": 7,
       "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
@@ -285,7 +317,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -298,12 +330,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 4669,
-      "stars_delta": 50,
-      "forks": 541,
-      "forks_delta": 10,
+      "stars": 4706,
+      "stars_delta": 37,
+      "forks": 550,
+      "forks_delta": 9,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -322,38 +354,6 @@
       "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
       "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
       "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 36484,
-      "stars_delta": 203,
-      "forks": 5332,
-      "forks_delta": 23,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -381,12 +381,12 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 75828,
-      "stars_delta": 300,
-      "forks": 4967,
-      "forks_delta": 22,
+      "stars": 76155,
+      "stars_delta": 327,
+      "forks": 4993,
+      "forks_delta": 26,
       "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
@@ -409,6 +409,81 @@
     },
     {
       "rank": 11,
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 31306,
+      "stars_delta": 577,
+      "forks": 3556,
+      "forks_delta": 0,
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
+      "purpose": {
+        "zh": "CLI tool for configuring and monitoring Claude Code",
+        "en": "CLI tool for configuring and monitoring Claude Code"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
+      },
+      "innovations": {
+        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
+      },
+      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
+      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
+      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "topics": [
+        "http3",
+        "network-programming",
+        "protocol",
+        "quic",
+        "rust"
+      ],
+      "stars": 12520,
+      "stars_delta": 15,
+      "forks": 1144,
+      "forks_delta": 1,
+      "html_url": "https://github.com/cloudflare/quiche",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
+      "purpose": {
+        "zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      },
+      "strengths": {
+        "zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+        "en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…"
+      },
+      "innovations": {
+        "zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+        "en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…"
+      },
+      "purpose_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "purpose_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "strengths_zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+      "strengths_en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+      "innovations_zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+      "innovations_en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
@@ -434,12 +509,12 @@
         "vision",
         "webui"
       ],
-      "stars": 44713,
+      "stars": 44756,
       "stars_delta": 43,
-      "forks": 9176,
-      "forks_delta": 6,
+      "forks": 9183,
+      "forks_delta": 7,
       "html_url": "https://github.com/danny-avila/LibreChat",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
         "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
@@ -461,58 +536,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
-      "full_name": "home-assistant/core",
-      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "topics": [
-        "asyncio",
-        "hacktoberfest",
-        "home-automation",
-        "internet-of-things",
-        "iot",
-        "mqtt",
-        "python",
-        "raspberry-pi"
-      ],
-      "stars": 91083,
-      "stars_delta": 26,
-      "forks": 38737,
-      "forks_delta": 2,
-      "html_url": "https://github.com/home-assistant/core",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
-      "purpose": {
-        "zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-        "en": ":house_with_garden: Open source home automation that puts local control and privacy first."
-      },
-      "strengths": {
-        "zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-        "en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…"
-      },
-      "innovations": {
-        "zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-        "en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…"
-      },
-      "purpose_zh": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "purpose_en": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "strengths_zh": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-      "strengths_en": "Home Assistant Chat Status ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and…",
-      "innovations_zh": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-      "innovations_en": "…reenshot-states Featured integrations --------------------- screenshot-integrations The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the section on architectu…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "full_name": "cline/cline",
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 69095,
-      "stars_delta": 24,
-      "forks": 7489,
-      "forks_delta": 3,
+      "stars": 69125,
+      "stars_delta": 30,
+      "forks": 7495,
+      "forks_delta": 6,
       "html_url": "https://github.com/cline/cline",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
         "en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
@@ -534,147 +568,48 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "topics": [
-        "http3",
-        "network-programming",
-        "protocol",
-        "quic",
-        "rust"
-      ],
-      "stars": 12505,
-      "stars_delta": 19,
-      "forks": 1143,
-      "forks_delta": 2,
-      "html_url": "https://github.com/cloudflare/quiche",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
-      "purpose": {
-        "zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-      },
-      "strengths": {
-        "zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-        "en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…"
-      },
-      "innovations": {
-        "zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-        "en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…"
-      },
-      "purpose_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "purpose_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "strengths_zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "strengths_en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "innovations_zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "innovations_en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 15,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "full_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
         "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
+        "tensor"
       ],
-      "stars": 84889,
-      "stars_delta": 111,
-      "forks": 7455,
-      "forks_delta": 10,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "stars": 103193,
+      "stars_delta": 194,
+      "forks": 30041,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pytorch/pytorch",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
       },
       "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
+        "zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+        "en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…"
       },
       "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
+        "zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+        "en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…"
       },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "purpose_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "purpose_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "strengths_zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+      "strengths_en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+      "innovations_zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+      "innovations_en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 16,
-      "full_name": "supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
-      ],
-      "stars": 110662,
-      "stars_delta": 34,
-      "forks": 14518,
-      "forks_delta": 2,
-      "html_url": "https://github.com/supabase/supabase",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
-      "purpose": {
-        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-      },
-      "strengths": {
-        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
-      },
-      "innovations": {
-        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
-      },
-      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
       "full_name": "cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
@@ -696,12 +631,12 @@
         "troubleshooting",
         "xdp"
       ],
-      "stars": 25466,
-      "stars_delta": 11,
-      "forks": 4090,
-      "forks_delta": 1,
+      "stars": 25476,
+      "stars_delta": 10,
+      "forks": 4093,
+      "forks_delta": 3,
       "html_url": "https://github.com/cilium/cilium",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "eBPF-based Networking, Security, and Observability",
         "en": "eBPF-based Networking, Security, and Observability"
@@ -723,17 +658,60 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 17,
+      "full_name": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "context-engineering",
+        "engineering",
+        "planning",
+        "prd",
+        "sdd",
+        "sdlc",
+        "spec",
+        "spec-driven-development",
+        "specification"
+      ],
+      "stars": 69944,
+      "stars_delta": 1558,
+      "forks": 4785,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Fission-AI/OpenSpec",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
+      "purpose": {
+        "zh": "Spec-driven development (SDD) for AI coding assistants.",
+        "en": "Spec-driven development (SDD) for AI coding assistants."
+      },
+      "strengths": {
+        "zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+        "en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…"
+      },
+      "innovations": {
+        "zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+        "en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…"
+      },
+      "purpose_zh": "Spec-driven development (SDD) for AI coding assistants.",
+      "purpose_en": "Spec-driven development (SDD) for AI coding assistants.",
+      "strengths_zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+      "strengths_en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+      "innovations_zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+      "innovations_en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 18,
       "full_name": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 20296,
-      "stars_delta": 212,
-      "forks": 1151,
-      "forks_delta": 14,
+      "stars": 20562,
+      "stars_delta": 266,
+      "forks": 1169,
+      "forks_delta": 18,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -767,12 +745,12 @@
         "stock-market",
         "tailwindcss"
       ],
-      "stars": 18434,
-      "stars_delta": 103,
-      "forks": 2262,
-      "forks_delta": 11,
+      "stars": 18538,
+      "stars_delta": 104,
+      "forks": 2270,
+      "forks_delta": 8,
       "html_url": "https://github.com/Open-Dev-Society/OpenStock",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
         "zh": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
         "en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
@@ -795,38 +773,46 @@
     },
     {
       "rank": 20,
-      "full_name": "Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
       "topics": [
-        "agent",
-        "browser-use",
-        "dsh-plugin"
+        "agents",
+        "api-keys",
+        "cli",
+        "credentials",
+        "developer-tools",
+        "dsh-plugin",
+        "mcp",
+        "proxy",
+        "python",
+        "registry",
+        "secrets"
       ],
-      "stars": 6708,
-      "stars_delta": 104,
-      "forks": 491,
-      "forks_delta": 3,
-      "html_url": "https://github.com/Tencent/BrowserSkill",
-      "snapshot_at": "2026-09-23T04:53:17.277Z",
+      "stars": 2474,
+      "stars_delta": 1023,
+      "forks": 230,
+      "forks_delta": 0,
+      "html_url": "https://github.com/superdesigndev/treg",
+      "snapshot_at": "2026-09-23T11:49:39.180Z",
       "purpose": {
-        "zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-        "en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
+        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
       },
       "strengths": {
-        "zh": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-        "en": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…"
+        "zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+        "en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…"
       },
       "innovations": {
-        "zh": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
-        "en": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…"
+        "zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+        "en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…"
       },
-      "purpose_zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "purpose_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "strengths_zh": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-      "strengths_en": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-      "innovations_zh": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
-      "innovations_en": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
+      "purpose_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "purpose_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "strengths_zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+      "strengths_en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+      "innovations_zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+      "innovations_en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
       "insights_source": "readme-excerpt"
     }
   ]

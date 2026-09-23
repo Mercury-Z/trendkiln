@@ -22,12 +22,12 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 36484,
+      "stars": 36687,
       "stars_delta": 203,
-      "forks": 5332,
-      "forks_delta": 23,
+      "forks": 5357,
+      "forks_delta": 25,
       "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -50,38 +50,154 @@
     },
     {
       "rank": 2,
-      "full_name": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "full_name": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "topics": [],
-      "stars": 3071,
-      "stars_delta": 157,
-      "forks": 389,
-      "forks_delta": 8,
-      "html_url": "https://github.com/agent-substrate/substrate",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "stars": 8303,
+      "stars_delta": 418,
+      "forks": 382,
+      "forks_delta": 17,
+      "html_url": "https://github.com/google/ax",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
-        "zh": "Agent Substrate: the core system",
-        "en": "Agent Substrate: the core system"
+        "zh": "Google's open agentic orchestration runtime",
+        "en": "Google's open agentic orchestration runtime"
       },
       "strengths": {
-        "zh": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
-        "en": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…"
+        "zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
+        "en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…"
       },
       "innovations": {
-        "zh": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
-        "en": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…"
+        "zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
+        "en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…"
       },
-      "purpose_zh": "Agent Substrate: the core system",
-      "purpose_en": "Agent Substrate: the core system",
-      "strengths_zh": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
-      "strengths_en": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
-      "innovations_zh": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
-      "innovations_en": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
+      "purpose_zh": "Google's open agentic orchestration runtime",
+      "purpose_en": "Google's open agentic orchestration runtime",
+      "strengths_zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
+      "strengths_en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
+      "innovations_zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
+      "innovations_en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 31306,
+      "stars_delta": 112,
+      "forks": 3556,
+      "forks_delta": 8,
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "CLI tool for configuring and monitoring Claude Code",
+        "en": "CLI tool for configuring and monitoring Claude Code"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
+      },
+      "innovations": {
+        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
+      },
+      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
+      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
+      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "topics": [
+        "agent-native",
+        "agents",
+        "ai",
+        "react",
+        "typescript"
+      ],
+      "stars": 6361,
+      "stars_delta": 609,
+      "forks": 574,
+      "forks_delta": 0,
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "A framework for building agentic apps",
+        "en": "A framework for building agentic apps"
+      },
+      "strengths": {
+        "zh": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action: the agent uses it as a tool, and the UI calls it fro…",
+        "en": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action: the agent uses it as a tool, and the UI calls it fro…"
+      },
+      "innovations": {
+        "zh": "…ironment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to i…",
+        "en": "…ironment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to i…"
+      },
+      "purpose_zh": "A framework for building agentic apps",
+      "purpose_en": "A framework for building agentic apps",
+      "strengths_zh": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action: the agent uses it as a tool, and the UI calls it fro…",
+      "strengths_en": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action: the agent uses it as a tool, and the UI calls it fro…",
+      "innovations_zh": "…ironment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to i…",
+      "innovations_en": "…ironment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 290423,
+      "stars_delta": 528,
+      "forks": 25985,
+      "forks_delta": 0,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
       "full_name": "dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
@@ -106,12 +222,12 @@
         "wordprocessor",
         "xlsx"
       ],
-      "stars": 15697,
-      "stars_delta": 384,
-      "forks": 1401,
-      "forks_delta": 36,
+      "stars": 16044,
+      "stars_delta": 347,
+      "forks": 1420,
+      "forks_delta": 19,
       "html_url": "https://github.com/dream-num/univer",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
         "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
         "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
@@ -133,115 +249,163 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
+      "rank": 7,
+      "full_name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
       "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
+        "coderabbit",
+        "inngest",
+        "nextjs",
+        "shadcn-ui",
+        "stock-market",
+        "tailwindcss"
       ],
-      "stars": 31194,
-      "stars_delta": 121,
-      "forks": 3548,
-      "forks_delta": 12,
-      "html_url": "https://github.com/davila7/claude-code-templates",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "stars": 18538,
+      "stars_delta": 832,
+      "forks": 2270,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Open-Dev-Society/OpenStock",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
-        "zh": "CLI tool for configuring and monitoring Claude Code",
-        "en": "CLI tool for configuring and monitoring Claude Code"
+        "zh": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
       },
       "strengths": {
-        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
+        "zh": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistrib…",
+        "en": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistrib…"
       },
       "innovations": {
-        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
+        "zh": "…ource alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a broke…",
+        "en": "…ource alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a broke…"
       },
-      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
-      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
-      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "purpose_zh": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "purpose_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "strengths_zh": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistrib…",
+      "strengths_en": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistrib…",
+      "innovations_zh": "…ource alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a broke…",
+      "innovations_en": "…ource alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a broke…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
+      "rank": 8,
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "topics": [],
-      "stars": 7885,
-      "stars_delta": 432,
-      "forks": 365,
-      "forks_delta": 17,
-      "html_url": "https://github.com/google/ax",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "stars": 3243,
+      "stars_delta": 172,
+      "forks": 397,
+      "forks_delta": 8,
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
-        "zh": "Google's open agentic orchestration runtime",
-        "en": "Google's open agentic orchestration runtime"
+        "zh": "Agent Substrate: the core system",
+        "en": "Agent Substrate: the core system"
       },
       "strengths": {
-        "zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-        "en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…"
+        "zh": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
+        "en": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…"
       },
       "innovations": {
-        "zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
-        "en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…"
+        "zh": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
+        "en": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…"
       },
-      "purpose_zh": "Google's open agentic orchestration runtime",
-      "purpose_en": "Google's open agentic orchestration runtime",
-      "strengths_zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-      "strengths_en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-      "innovations_zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
-      "innovations_en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
+      "purpose_zh": "Agent Substrate: the core system",
+      "purpose_en": "Agent Substrate: the core system",
+      "strengths_zh": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
+      "strengths_en": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? Agent Substrate is a secure-by-defa…",
+      "innovations_zh": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
+      "innovations_en": "…ts, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, ena…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "rank": 9,
+      "full_name": "strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "language": "Python",
       "topics": [
-        "android",
-        "forensics",
-        "forensics-tools",
-        "ios",
-        "mobile",
-        "security"
+        "agent-framework",
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "autonomous-agents",
+        "bedrock",
+        "generative-ai",
+        "harness",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "multi-agent-systems",
+        "openai",
+        "python",
+        "sdk",
+        "strands-agents",
+        "typescript"
       ],
-      "stars": 14202,
-      "stars_delta": 182,
-      "forks": 1366,
-      "forks_delta": 16,
-      "html_url": "https://github.com/mvt-project/mvt",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "stars": 7612,
+      "stars_delta": 96,
+      "forks": 1189,
+      "forks_delta": 0,
+      "html_url": "https://github.com/strands-agents/harness-sdk",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
-        "zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-        "en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+        "zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
       },
       "strengths": {
-        "zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-        "en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…"
+        "zh": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
+        "en": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…"
       },
       "innovations": {
-        "zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
-        "en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…"
+        "zh": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
+        "en": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…"
       },
-      "purpose_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "purpose_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "strengths_zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-      "strengths_en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-      "innovations_zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
-      "innovations_en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
+      "purpose_zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "purpose_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "strengths_zh": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
+      "strengths_en": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
+      "innovations_zh": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
+      "innovations_en": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
+      "rank": 10,
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "topics": [],
+      "stars": 49732,
+      "stars_delta": 41,
+      "forks": 4591,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      },
+      "strengths": {
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
+      },
+      "innovations": {
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
+      },
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
@@ -258,12 +422,12 @@
         "registry",
         "secrets"
       ],
-      "stars": 2310,
-      "stars_delta": 155,
-      "forks": 225,
-      "forks_delta": 11,
+      "stars": 2474,
+      "stars_delta": 164,
+      "forks": 230,
+      "forks_delta": 5,
       "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
         "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
@@ -285,17 +449,188 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 12,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 70062,
+      "stars_delta": 287,
+      "forks": 4259,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "topics": [
+        "android",
+        "forensics",
+        "forensics-tools",
+        "ios",
+        "mobile",
+        "security"
+      ],
+      "stars": 14326,
+      "stars_delta": 124,
+      "forks": 1370,
+      "forks_delta": 4,
+      "html_url": "https://github.com/mvt-project/mvt",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+      },
+      "strengths": {
+        "zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
+        "en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…"
+      },
+      "innovations": {
+        "zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
+        "en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…"
+      },
+      "purpose_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "purpose_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "strengths_zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
+      "strengths_en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
+      "innovations_zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
+      "innovations_en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "topics": [
+        "aider",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-intelligence",
+        "codex",
+        "cursor",
+        "cypher",
+        "developer-tools",
+        "gemini-cli",
+        "graph-visualization",
+        "kilocode",
+        "knowledge-graph",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "opencode",
+        "sqlite",
+        "tree-sitter",
+        "windsurf"
+      ],
+      "stars": 44289,
+      "stars_delta": 201,
+      "forks": 3623,
+      "forks_delta": 0,
+      "html_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+      },
+      "strengths": {
+        "zh": "codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. Answers structural queries i…",
+        "en": "codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. Answers structural queries i…"
+      },
+      "innovations": {
+        "zh": "…h tree-sitter AST analysis across all 162 languages, enhanced with Hybrid LSP semantic type resolution for Python, TypeScript / JavaScript / JSX / TSX, PHP, C#, Go, C, C++, Java, Kotlin, Rust, and Perl — producing a persistent kno…",
+        "en": "…h tree-sitter AST analysis across all 162 languages, enhanced with Hybrid LSP semantic type resolution for Python, TypeScript / JavaScript / JSX / TSX, PHP, C#, Go, C, C++, Java, Kotlin, Rust, and Perl — producing a persistent kno…"
+      },
+      "purpose_zh": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "purpose_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "strengths_zh": "codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. Answers structural queries i…",
+      "strengths_en": "codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. Answers structural queries i…",
+      "innovations_zh": "…h tree-sitter AST analysis across all 162 languages, enhanced with Hybrid LSP semantic type resolution for Python, TypeScript / JavaScript / JSX / TSX, PHP, C#, Go, C, C++, Java, Kotlin, Rust, and Perl — producing a persistent kno…",
+      "innovations_en": "…h tree-sitter AST analysis across all 162 languages, enhanced with Hybrid LSP semantic type resolution for Python, TypeScript / JavaScript / JSX / TSX, PHP, C#, Go, C, C++, Java, Kotlin, Rust, and Perl — producing a persistent kno…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "topics": [
+        "360-camera",
+        "3d-gaussian-splatting",
+        "3d-reconstruction",
+        "3dgs",
+        "3dgs-acceleration",
+        "computer-vision",
+        "cross-vendor",
+        "cuda",
+        "gaussian-splatting",
+        "mesh-generation",
+        "quantized-training",
+        "structure-from-motion",
+        "vram-optimization",
+        "vulkan"
+      ],
+      "stars": 623,
+      "stars_delta": 86,
+      "forks": 51,
+      "forks_delta": 0,
+      "html_url": "https://github.com/harry7557558/spirula-studio",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+        "en": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA."
+      },
+      "strengths": {
+        "zh": "Spirula Studio &nbsp; &nbsp; Download &#8226; Build from Source &#8226; Gallery &#8226; Web Viewer Spirula Studio trains 3D Gaussian Splatting models &ndash; from raw photo/video to splat to textured mesh &ndash; in one self-conta…",
+        "en": "Spirula Studio &nbsp; &nbsp; Download &#8226; Build from Source &#8226; Gallery &#8226; Web Viewer Spirula Studio trains 3D Gaussian Splatting models &ndash; from raw photo/video to splat to textured mesh &ndash; in one self-conta…"
+      },
+      "innovations": {
+        "zh": "…ve support for fisheye and 360° cameras. Dataset credit: Garage by Simon Bethke (CC BY-SA 4.0); Flight Systems and Control Lab at UTIAS; MegaDepth-X; Mip-NeRF 360. Features - Cross vendor support via Vulkan compute &ndash; Runs on…",
+        "en": "…ve support for fisheye and 360° cameras. Dataset credit: Garage by Simon Bethke (CC BY-SA 4.0); Flight Systems and Control Lab at UTIAS; MegaDepth-X; Mip-NeRF 360. Features - Cross vendor support via Vulkan compute &ndash; Runs on…"
+      },
+      "purpose_zh": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "purpose_en": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "strengths_zh": "Spirula Studio &nbsp; &nbsp; Download &#8226; Build from Source &#8226; Gallery &#8226; Web Viewer Spirula Studio trains 3D Gaussian Splatting models &ndash; from raw photo/video to splat to textured mesh &ndash; in one self-conta…",
+      "strengths_en": "Spirula Studio &nbsp; &nbsp; Download &#8226; Build from Source &#8226; Gallery &#8226; Web Viewer Spirula Studio trains 3D Gaussian Splatting models &ndash; from raw photo/video to splat to textured mesh &ndash; in one self-conta…",
+      "innovations_zh": "…ve support for fisheye and 360° cameras. Dataset credit: Garage by Simon Bethke (CC BY-SA 4.0); Flight Systems and Control Lab at UTIAS; MegaDepth-X; Mip-NeRF 360. Features - Cross vendor support via Vulkan compute &ndash; Runs on…",
+      "innovations_en": "…ve support for fisheye and 360° cameras. Dataset credit: Garage by Simon Bethke (CC BY-SA 4.0); Flight Systems and Control Lab at UTIAS; MegaDepth-X; Mip-NeRF 360. Features - Cross vendor support via Vulkan compute &ndash; Runs on…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
       "full_name": "browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
       "topics": [],
-      "stars": 25997,
-      "stars_delta": 224,
-      "forks": 3130,
-      "forks_delta": 18,
+      "stars": 26234,
+      "stars_delta": 237,
+      "forks": 3146,
+      "forks_delta": 16,
       "html_url": "https://github.com/browser-use/video-use",
-      "snapshot_at": "2026-09-23T04:53:15.275Z",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
       "purpose": {
         "zh": "Edit videos with coding agents",
         "en": "Edit videos with coding agents"
@@ -314,6 +649,59 @@
       "strengths_en": "video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, intervi…",
       "innovations_zh": "…grades every segment (warm cinematic, neutral punch, or any custom ffmpeg chain) - 30ms audio fades at every cut so you never hear a pop - Burns subtitles in your style — 2-word UPPERCASE chunks by default, fully customizable - G…",
       "innovations_en": "…grades every segment (warm cinematic, neutral punch, or any custom ffmpeg chain) - 30ms audio fades at every cut so you never hear a pop - Burns subtitles in your style — 2-word UPPERCASE chunks by default, fully customizable - G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "language": "Python",
+      "topics": [
+        "a-share",
+        "agent",
+        "ai",
+        "ai-agent",
+        "akshare",
+        "deepseek",
+        "fastapi",
+        "fintech",
+        "langgraph",
+        "llm",
+        "mcp",
+        "openai",
+        "pwa",
+        "quant",
+        "self-hosted",
+        "stock",
+        "stock-analysis",
+        "stock-market",
+        "trading-agents",
+        "trading-bot"
+      ],
+      "stars": 1357,
+      "stars_delta": 175,
+      "forks": 287,
+      "forks_delta": 0,
+      "html_url": "https://github.com/TNT-Likely/PanWatch",
+      "snapshot_at": "2026-09-23T11:49:34.077Z",
+      "purpose": {
+        "zh": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+        "en": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送"
+      },
+      "strengths": {
+        "zh": "盯盘侠 PanWatch 自托管 AI 盯盘助手 · 集成 TradingAgents 多 Agent 投资决策 — A 股 / 港股 / 美股实时监控、持仓管理、智能分析、全渠道推送 🧠 持仓页点一下 → TradingAgents 9-Agent 投研团队接力分析 → 看多看空辩论 → 风控审查 → PM 决策书,3-5 分钟一条完整推理链,结论直推到你的 IM。 📸 功能一览 持仓 · 多账户汇总 机会页 · AI 评分选股 :---::---:…",
+        "en": "盯盘侠 PanWatch 自托管 AI 盯盘助手 · 集成 TradingAgents 多 Agent 投资决策 — A 股 / 港股 / 美股实时监控、持仓管理、智能分析、全渠道推送 🧠 持仓页点一下 → TradingAgents 9-Agent 投研团队接力分析 → 看多看空辩论 → 风控审查 → PM 决策书,3-5 分钟一条完整推理链,结论直推到你的 IM。 📸 功能一览 持仓 · 多账户汇总 机会页 · AI 评分选股 :---::---:…"
+      },
+      "innovations": {
+        "zh": "…adingAgents 多 Agent 决策 接入 TradingAgents（76k+ star）多 Agent 投资决策框架，在持仓页点 🧠 图标即可触发： - 4 类分析师（技术 / 情绪 / 新闻 / 基本面） → 看多看空辩论 → 风控审查 → PM 整合决策 - 3-5 分钟输出完整推理链，结论同步推送到 Telegram / 微信 / 钉钉 - 默认 deepseek-chat，单次 ~$0.05，月度预算可控 为什么选择盯盘侠？ - 数据…",
+        "en": "…adingAgents 多 Agent 决策 接入 TradingAgents（76k+ star）多 Agent 投资决策框架，在持仓页点 🧠 图标即可触发： - 4 类分析师（技术 / 情绪 / 新闻 / 基本面） → 看多看空辩论 → 风控审查 → PM 整合决策 - 3-5 分钟输出完整推理链，结论同步推送到 Telegram / 微信 / 钉钉 - 默认 deepseek-chat，单次 ~$0.05，月度预算可控 为什么选择盯盘侠？ - 数据…"
+      },
+      "purpose_zh": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "purpose_en": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "strengths_zh": "盯盘侠 PanWatch 自托管 AI 盯盘助手 · 集成 TradingAgents 多 Agent 投资决策 — A 股 / 港股 / 美股实时监控、持仓管理、智能分析、全渠道推送 🧠 持仓页点一下 → TradingAgents 9-Agent 投研团队接力分析 → 看多看空辩论 → 风控审查 → PM 决策书,3-5 分钟一条完整推理链,结论直推到你的 IM。 📸 功能一览 持仓 · 多账户汇总 机会页 · AI 评分选股 :---::---:…",
+      "strengths_en": "盯盘侠 PanWatch 自托管 AI 盯盘助手 · 集成 TradingAgents 多 Agent 投资决策 — A 股 / 港股 / 美股实时监控、持仓管理、智能分析、全渠道推送 🧠 持仓页点一下 → TradingAgents 9-Agent 投研团队接力分析 → 看多看空辩论 → 风控审查 → PM 决策书,3-5 分钟一条完整推理链,结论直推到你的 IM。 📸 功能一览 持仓 · 多账户汇总 机会页 · AI 评分选股 :---::---:…",
+      "innovations_zh": "…adingAgents 多 Agent 决策 接入 TradingAgents（76k+ star）多 Agent 投资决策框架，在持仓页点 🧠 图标即可触发： - 4 类分析师（技术 / 情绪 / 新闻 / 基本面） → 看多看空辩论 → 风控审查 → PM 整合决策 - 3-5 分钟输出完整推理链，结论同步推送到 Telegram / 微信 / 钉钉 - 默认 deepseek-chat，单次 ~$0.05，月度预算可控 为什么选择盯盘侠？ - 数据…",
+      "innovations_en": "…adingAgents 多 Agent 决策 接入 TradingAgents（76k+ star）多 Agent 投资决策框架，在持仓页点 🧠 图标即可触发： - 4 类分析师（技术 / 情绪 / 新闻 / 基本面） → 看多看空辩论 → 风控审查 → PM 整合决策 - 3-5 分钟输出完整推理链，结论同步推送到 Telegram / 微信 / 钉钉 - 默认 deepseek-chat，单次 ~$0.05，月度预算可控 为什么选择盯盘侠？ - 数据…",
       "insights_source": "readme-excerpt"
     }
   ]
