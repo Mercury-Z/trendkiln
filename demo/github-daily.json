@@ -18,6 +18,385 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 83366,
+      "stars_delta": 1853,
+      "forks": 15124,
+      "forks_delta": 0,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "stars": 36747,
+      "stars_delta": 62,
+      "forks": 4147,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      "strengths": {
+        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
+      },
+      "innovations": {
+        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
+      },
+      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai-memory",
+        "memory"
+      ],
+      "stars": 28547,
+      "stars_delta": 472,
+      "forks": 2861,
+      "forks_delta": 115,
+      "html_url": "https://github.com/vectorize-io/hindsight",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Hindsight: Agent Memory That Learns",
+        "en": "Hindsight: Agent Memory That Learns"
+      },
+      "strengths": {
+        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
+      },
+      "innovations": {
+        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
+      },
+      "purpose_zh": "Hindsight: Agent Memory That Learns",
+      "purpose_en": "Hindsight: Agent Memory That Learns",
+      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 291418,
+      "stars_delta": 127,
+      "forks": 26072,
+      "forks_delta": 10,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 269378,
+      "stars_delta": 671,
+      "forks": 22706,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "topics": [
+        "board",
+        "collaboration",
+        "data-table",
+        "doc",
+        "docx",
+        "excel",
+        "grid",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "table",
+        "word",
+        "wordprocessor",
+        "xlsx"
+      ],
+      "stars": 18120,
+      "stars_delta": 200,
+      "forks": 1550,
+      "forks_delta": 8,
+      "html_url": "https://github.com/dream-num/univer",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+      },
+      "strengths": {
+        "zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+        "en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…"
+      },
+      "innovations": {
+        "zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
+        "en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…"
+      },
+      "purpose_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "purpose_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "strengths_zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+      "strengths_en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+      "innovations_zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
+      "innovations_en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "stars": 178071,
+      "stars_delta": 155,
+      "forks": 21096,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/skills",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
+      },
+      "strengths": {
+        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
+      },
+      "innovations": {
+        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
+      },
+      "purpose_zh": "Public repository for Agent Skills",
+      "purpose_en": "Public repository for Agent Skills",
+      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-harness",
+        "ai",
+        "ai-agents",
+        "byok",
+        "desktop-app",
+        "game-ui",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "openrouter",
+        "pixel-art",
+        "tauri"
+      ],
+      "stars": 288,
+      "stars_delta": 113,
+      "forks": 73,
+      "forks_delta": 0,
+      "html_url": "https://github.com/androoAGI/starnet",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run."
+      },
+      "strengths": {
+        "zh": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
+        "en": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…"
+      },
+      "innovations": {
+        "zh": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
+        "en": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…"
+      },
+      "purpose_zh": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "purpose_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "strengths_zh": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
+      "strengths_en": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
+      "innovations_zh": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
+      "innovations_en": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "topics": [
+        "cross-platform",
+        "userland",
+        "wifi-scanner",
+        "wifi-security",
+        "wireless-security"
+      ],
+      "stars": 682,
+      "stars_delta": 168,
+      "forks": 75,
+      "forks_delta": 0,
+      "html_url": "https://github.com/derv82/wifit3",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Wifite but USB-only & cross-platform.",
+        "en": "Wifite but USB-only & cross-platform."
+      },
+      "strengths": {
+        "zh": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
+        "en": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…"
+      },
+      "innovations": {
+        "zh": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
+        "en": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…"
+      },
+      "purpose_zh": "Wifite but USB-only & cross-platform.",
+      "purpose_en": "Wifite but USB-only & cross-platform.",
+      "strengths_zh": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
+      "strengths_en": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
+      "innovations_zh": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
+      "innovations_en": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "kelseyhightower/kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "topics": [],
+      "stars": 50012,
+      "stars_delta": 105,
+      "forks": 15905,
+      "forks_delta": 0,
+      "html_url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
+      "purpose": {
+        "zh": "Bootstrap Kubernetes the hard way. No scripts.",
+        "en": "Bootstrap Kubernetes the hard way. No scripts."
+      },
+      "strengths": {
+        "zh": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
+        "en": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…"
+      },
+      "innovations": {
+        "zh": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
+        "en": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…"
+      },
+      "purpose_zh": "Bootstrap Kubernetes the hard way. No scripts.",
+      "purpose_en": "Bootstrap Kubernetes the hard way. No scripts.",
+      "strengths_zh": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
+      "strengths_en": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
+      "innovations_zh": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
+      "innovations_en": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -43,12 +422,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 56751,
-      "stars_delta": 299,
-      "forks": 9946,
-      "forks_delta": 25,
+      "stars": 57088,
+      "stars_delta": 337,
+      "forks": 9982,
+      "forks_delta": 36,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -70,106 +449,70 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
-      "full_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
+      "rank": 12,
+      "full_name": "shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
       "language": "Python",
       "topics": [
-        "agentic-ai",
-        "agents",
-        "ai-memory",
-        "memory"
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "backtesting",
+        "daily",
+        "duckdb",
+        "fastapi",
+        "llm",
+        "polars",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading",
+        "react",
+        "screener",
+        "self-hosted",
+        "stock",
+        "stock-analysis",
+        "tdx",
+        "tickflow",
+        "tsp"
       ],
-      "stars": 28075,
-      "stars_delta": 379,
-      "forks": 2746,
-      "forks_delta": 70,
-      "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "stars": 5032,
+      "stars_delta": 31,
+      "forks": 1245,
+      "forks_delta": 0,
+      "html_url": "https://github.com/shy3130/tick-stock-panel",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
-        "zh": "Hindsight: Agent Memory That Learns",
-        "en": "Hindsight: Agent Memory That Learns"
+        "zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+        "en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
       },
       "strengths": {
-        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
+        "zh": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
+        "en": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…"
       },
       "innovations": {
-        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
+        "zh": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
+        "en": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…"
       },
-      "purpose_zh": "Hindsight: Agent Memory That Learns",
-      "purpose_en": "Hindsight: Agent Memory That Learns",
-      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "purpose_zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "purpose_en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "strengths_zh": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
+      "strengths_en": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
+      "innovations_zh": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
+      "innovations_en": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "topics": [
-        "board",
-        "collaboration",
-        "data-table",
-        "doc",
-        "docx",
-        "excel",
-        "grid",
-        "pdf",
-        "ppt",
-        "pptx",
-        "presentation",
-        "sdk",
-        "sheet",
-        "slides",
-        "spreadsheet",
-        "table",
-        "word",
-        "wordprocessor",
-        "xlsx"
-      ],
-      "stars": 17920,
-      "stars_delta": 429,
-      "forks": 1542,
-      "forks_delta": 29,
-      "html_url": "https://github.com/dream-num/univer",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
-      },
-      "strengths": {
-        "zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-        "en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…"
-      },
-      "innovations": {
-        "zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-        "en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…"
-      },
-      "purpose_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "purpose_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "strengths_zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-      "strengths_en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-      "innovations_zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-      "innovations_en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
+      "rank": 13,
       "full_name": "google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "topics": [],
-      "stars": 10670,
-      "stars_delta": 402,
-      "forks": 518,
-      "forks_delta": 21,
+      "stars": 11062,
+      "stars_delta": 392,
+      "forks": 534,
+      "forks_delta": 16,
       "html_url": "https://github.com/google/ax",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
         "zh": "Google's open agentic orchestration runtime",
         "en": "Google's open agentic orchestration runtime"
@@ -191,17 +534,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
+      "rank": 14,
       "full_name": "NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
       "topics": [],
-      "stars": 4142,
-      "stars_delta": 105,
-      "forks": 632,
-      "forks_delta": 4,
+      "stars": 4244,
+      "stars_delta": 102,
+      "forks": 640,
+      "forks_delta": 8,
       "html_url": "https://github.com/NVIDIA/Model-Optimizer",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
         "zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
         "en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
@@ -223,378 +566,71 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
+      "rank": 15,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 5396,
-      "stars_delta": 50,
-      "forks": 251,
-      "forks_delta": 3,
-      "html_url": "https://github.com/FxEmbed/FxEmbed",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "stars": 70917,
+      "stars_delta": 527,
+      "forks": 4306,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
-        "zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-        "en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
       },
       "strengths": {
-        "zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-        "en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…"
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
       },
       "innovations": {
-        "zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
-        "en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…"
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
       },
-      "purpose_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "purpose_en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "strengths_zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-      "strengths_en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-      "innovations_zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
-      "innovations_en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 37408,
-      "stars_delta": 81,
-      "forks": 5422,
-      "forks_delta": 4,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "topics": [],
-      "stars": 50386,
-      "stars_delta": 90,
-      "forks": 4618,
-      "forks_delta": 4,
-      "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-      },
-      "strengths": {
-        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
-      },
-      "innovations": {
-        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
-      },
-      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "language": "Python",
+      "rank": 16,
+      "full_name": "openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
       "topics": [
-        "android",
-        "forensics",
-        "forensics-tools",
-        "ios",
-        "mobile",
+        "go",
+        "secret-management",
         "security"
       ],
-      "stars": 14755,
-      "stars_delta": 56,
-      "forks": 1394,
-      "forks_delta": 2,
-      "html_url": "https://github.com/mvt-project/mvt",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
+      "stars": 7511,
+      "stars_delta": 16,
+      "forks": 580,
+      "forks_delta": 0,
+      "html_url": "https://github.com/openbao/openbao",
+      "snapshot_at": "2026-09-25T11:58:43.033Z",
       "purpose": {
-        "zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-        "en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+        "zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
       },
       "strengths": {
-        "zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-        "en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…"
+        "zh": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
+        "en": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…"
       },
       "innovations": {
-        "zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
-        "en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…"
+        "zh": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
+        "en": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…"
       },
-      "purpose_zh": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "purpose_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "strengths_zh": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-      "strengths_en": "Mobile Verification Toolkit [!IMPORTANT] We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/i…",
-      "innovations_zh": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
-      "innovations_en": "…compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology. It continues to b…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "stars": 291291,
-      "stars_delta": 106,
-      "forks": 26062,
-      "forks_delta": 11,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "An agentic skills framework & software development methodology that works.",
-        "en": "An agentic skills framework & software development methodology that works."
-      },
-      "strengths": {
-        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
-      },
-      "innovations": {
-        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
-      },
-      "purpose_zh": "An agentic skills framework & software development methodology that works.",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "language": "Python",
-      "topics": [
-        "agent-framework",
-        "agentic",
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "autonomous-agents",
-        "bedrock",
-        "generative-ai",
-        "harness",
-        "llm",
-        "llm-agent",
-        "mcp",
-        "multi-agent-systems",
-        "openai",
-        "python",
-        "sdk",
-        "strands-agents",
-        "typescript"
-      ],
-      "stars": 8315,
-      "stars_delta": 98,
-      "forks": 1244,
-      "forks_delta": 10,
-      "html_url": "https://github.com/strands-agents/harness-sdk",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
-      },
-      "strengths": {
-        "zh": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
-        "en": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…"
-      },
-      "innovations": {
-        "zh": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
-        "en": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…"
-      },
-      "purpose_zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "purpose_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "strengths_zh": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
-      "strengths_en": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScr…",
-      "innovations_zh": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
-      "innovations_en": "…ows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output, MCP, multi-agent patterns, memory and sessions, model portability, streaming, guardrails, traci…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "julyx10/lap",
-      "description": "An offline-first photo manager for large local libraries",
-      "language": "Vue",
-      "topics": [
-        "desktop-app",
-        "digital-asset-manager",
-        "duplicate-detection",
-        "face-recognition",
-        "family-photos",
-        "image-search",
-        "large-photo-collections",
-        "linux-app",
-        "local-first",
-        "macos-app",
-        "offline",
-        "open-source",
-        "photo-library",
-        "photo-management",
-        "photo-organizer",
-        "privacy",
-        "windows-app"
-      ],
-      "stars": 2923,
-      "stars_delta": 92,
-      "forks": 172,
-      "forks_delta": 1,
-      "html_url": "https://github.com/julyx10/lap",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "An offline-first photo manager for large local libraries",
-        "en": "An offline-first photo manager for large local libraries"
-      },
-      "strengths": {
-        "zh": "Lap - Private Local Photo Manager Open-source desktop photo manager for macOS, Windows, and Linux. English Deutsch Français Español Português Русский 简体中文 日本語 한국어 Lap is an open-source, local-first photo manager for browsing famil…",
-        "en": "Lap - Private Local Photo Manager Open-source desktop photo manager for macOS, Windows, and Linux. English Deutsch Français Español Português Русский 简体中文 日本語 한국어 Lap is an open-source, local-first photo manager for browsing famil…"
-      },
-      "innovations": {
-        "zh": "…local AI search, folder-first workflow, and free to use. Download Lap Open the latest release page, then download the file that matches your system: Platform Package Note :-- :-- :-- macOS (Apple Silicon / Intel) aarch64.dmg / x64…",
-        "en": "…local AI search, folder-first workflow, and free to use. Download Lap Open the latest release page, then download the file that matches your system: Platform Package Note :-- :-- :-- macOS (Apple Silicon / Intel) aarch64.dmg / x64…"
-      },
-      "purpose_zh": "An offline-first photo manager for large local libraries",
-      "purpose_en": "An offline-first photo manager for large local libraries",
-      "strengths_zh": "Lap - Private Local Photo Manager Open-source desktop photo manager for macOS, Windows, and Linux. English Deutsch Français Español Português Русский 简体中文 日本語 한국어 Lap is an open-source, local-first photo manager for browsing famil…",
-      "strengths_en": "Lap - Private Local Photo Manager Open-source desktop photo manager for macOS, Windows, and Linux. English Deutsch Français Español Português Русский 简体中文 日本語 한국어 Lap is an open-source, local-first photo manager for browsing famil…",
-      "innovations_zh": "…local AI search, folder-first workflow, and free to use. Download Lap Open the latest release page, then download the file that matches your system: Platform Package Note :-- :-- :-- macOS (Apple Silicon / Intel) aarch64.dmg / x64…",
-      "innovations_en": "…local AI search, folder-first workflow, and free to use. Download Lap Open the latest release page, then download the file that matches your system: Platform Package Note :-- :-- :-- macOS (Apple Silicon / Intel) aarch64.dmg / x64…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "api-keys",
-        "cli",
-        "credentials",
-        "developer-tools",
-        "dsh-plugin",
-        "mcp",
-        "proxy",
-        "python",
-        "registry",
-        "secrets"
-      ],
-      "stars": 3210,
-      "stars_delta": 86,
-      "forks": 268,
-      "forks_delta": 9,
-      "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
-      },
-      "strengths": {
-        "zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-        "en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…"
-      },
-      "innovations": {
-        "zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-        "en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…"
-      },
-      "purpose_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "purpose_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "strengths_zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "strengths_en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "innovations_zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-      "innovations_en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "leejet/stable-diffusion.cpp",
-      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "language": "C++",
-      "topics": [
-        "ai",
-        "cplusplus",
-        "diffusion",
-        "flux",
-        "flux-dev",
-        "ggml",
-        "image-generation",
-        "image2image",
-        "img2img",
-        "latent-diffusion",
-        "ltx-video",
-        "qwen-image",
-        "stable-diffusion",
-        "text2image",
-        "txt2img",
-        "videogeneration",
-        "wan",
-        "z-image",
-        "z-image-turbo"
-      ],
-      "stars": 7283,
-      "stars_delta": 60,
-      "forks": 814,
-      "forks_delta": 3,
-      "html_url": "https://github.com/leejet/stable-diffusion.cpp",
-      "snapshot_at": "2026-09-25T05:05:49.819Z",
-      "purpose": {
-        "zh": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-        "en": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++"
-      },
-      "strengths": {
-        "zh": "stable-diffusion.cpp Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ Note that this project is under active development. \\ API and command-line option may change frequently. 🔥Important News 2026/09/20 🚀 stable-diffusion…",
-        "en": "stable-diffusion.cpp Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ Note that this project is under active development. \\ API and command-line option may change frequently. 🔥Important News 2026/09/20 🚀 stable-diffusion…"
-      },
-      "innovations": {
-        "zh": "…26/06/25 🚀 stable-diffusion.cpp now supports Krea2 2026/06/04 🚀 stable-diffusion.cpp now supports Ideogram4 2026/05/31 🚀 stable-diffusion.cpp now supports PiD 2026/05/27 🚀 stable-diffusion.cpp now supports Lens 2026/05/17 🚀 s…",
-        "en": "…26/06/25 🚀 stable-diffusion.cpp now supports Krea2 2026/06/04 🚀 stable-diffusion.cpp now supports Ideogram4 2026/05/31 🚀 stable-diffusion.cpp now supports PiD 2026/05/27 🚀 stable-diffusion.cpp now supports Lens 2026/05/17 🚀 s…"
-      },
-      "purpose_zh": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "purpose_en": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "strengths_zh": "stable-diffusion.cpp Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ Note that this project is under active development. \\ API and command-line option may change frequently. 🔥Important News 2026/09/20 🚀 stable-diffusion…",
-      "strengths_en": "stable-diffusion.cpp Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ Note that this project is under active development. \\ API and command-line option may change frequently. 🔥Important News 2026/09/20 🚀 stable-diffusion…",
-      "innovations_zh": "…26/06/25 🚀 stable-diffusion.cpp now supports Krea2 2026/06/04 🚀 stable-diffusion.cpp now supports Ideogram4 2026/05/31 🚀 stable-diffusion.cpp now supports PiD 2026/05/27 🚀 stable-diffusion.cpp now supports Lens 2026/05/17 🚀 s…",
-      "innovations_en": "…26/06/25 🚀 stable-diffusion.cpp now supports Krea2 2026/06/04 🚀 stable-diffusion.cpp now supports Ideogram4 2026/05/31 🚀 stable-diffusion.cpp now supports PiD 2026/05/27 🚀 stable-diffusion.cpp now supports Lens 2026/05/17 🚀 s…",
+      "purpose_zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "purpose_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "strengths_zh": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
+      "strengths_en": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
+      "innovations_zh": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
+      "innovations_en": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
       "insights_source": "readme-excerpt"
     }
   ]

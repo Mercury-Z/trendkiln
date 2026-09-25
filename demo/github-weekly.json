@@ -18,16 +18,48 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 21467,
+      "stars_delta": 11262,
+      "forks": 1238,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
       "full_name": "anthropics/financial-services",
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 37408,
-      "stars_delta": 81,
-      "forks": 5422,
-      "forks_delta": 4,
+      "stars": 37479,
+      "stars_delta": 71,
+      "forks": 5427,
+      "forks_delta": 5,
       "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -49,56 +81,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
-      "full_name": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "stars": 40906,
-      "stars_delta": 167,
-      "forks": 2939,
-      "forks_delta": 12,
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
-      },
-      "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
-      },
-      "innovations": {
-        "zh": "【创新点】OpenCodeReview",
-        "en": "OpenCodeReview"
-      },
-      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
-      "innovations_zh": "【创新点】OpenCodeReview",
-      "innovations_en": "OpenCodeReview",
-      "insights_source": "readme"
-    },
-    {
       "rank": 3,
       "full_name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 147994,
+      "stars": 148029,
       "stars_delta": 35,
-      "forks": 24435,
-      "forks_delta": 67,
+      "forks": 24506,
+      "forks_delta": 71,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -121,6 +114,45 @@
     },
     {
       "rank": 4,
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "stars": 41096,
+      "stars_delta": 190,
+      "forks": 2951,
+      "forks_delta": 12,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
+      },
+      "strengths": {
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
+      },
+      "innovations": {
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
+      },
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 5,
       "full_name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
@@ -134,12 +166,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 267027,
-      "stars_delta": 218,
-      "forks": 39903,
-      "forks_delta": 31,
+      "stars": 267204,
+      "stars_delta": 177,
+      "forks": 39924,
+      "forks_delta": 21,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "affaan-m/ECC：座席线束性能优化系统。Claude Code、⟦Codex、Opencode、⟦Cursor及其他方面的技能、本能、记忆⟧、安全性⟧和研究优先开发。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -161,7 +193,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -187,12 +219,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 29797,
-      "stars_delta": 107,
-      "forks": 4005,
-      "forks_delta": 8,
+      "stars": 29900,
+      "stars_delta": 103,
+      "forks": 4017,
+      "forks_delta": 12,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -214,7 +246,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
@@ -226,12 +258,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 98926,
-      "stars_delta": 50,
-      "forks": 10388,
-      "forks_delta": 0,
+      "stars": 98970,
+      "stars_delta": 44,
+      "forks": 10389,
+      "forks_delta": 1,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -250,38 +282,6 @@
       "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
       "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 25567,
-      "stars_delta": 14,
-      "forks": 3027,
-      "forks_delta": 2,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -309,12 +309,12 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 77667,
-      "stars_delta": 192,
-      "forks": 5083,
-      "forks_delta": 8,
+      "stars": 77889,
+      "stars_delta": 222,
+      "forks": 5098,
+      "forks_delta": 15,
       "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
@@ -337,115 +337,6 @@
     },
     {
       "rank": 9,
-      "full_name": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "stars": 4888,
-      "stars_delta": 31,
-      "forks": 581,
-      "forks_delta": 6,
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-      },
-      "strengths": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
-      },
-      "innovations": {
-        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
-      },
-      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "stars": 31737,
-      "stars_delta": 15,
-      "forks": 3605,
-      "forks_delta": 4,
-      "html_url": "https://github.com/davila7/claude-code-templates",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "CLI tool for configuring and monitoring Claude Code",
-        "en": "CLI tool for configuring and monitoring Claude Code"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
-      },
-      "innovations": {
-        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
-      },
-      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
-      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
-      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "topics": [],
-      "stars": 37569,
-      "stars_delta": 41,
-      "forks": 4070,
-      "forks_delta": 6,
-      "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-      },
-      "strengths": {
-        "zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating stor…",
-        "en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating stor…"
-      },
-      "innovations": {
-        "zh": "…), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web front end…",
-        "en": "…), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web front end…"
-      },
-      "purpose_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "strengths_zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating stor…",
-      "strengths_en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating stor…",
-      "innovations_zh": "…), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web front end…",
-      "innovations_en": "…), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web front end…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
@@ -455,12 +346,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 28075,
-      "stars_delta": 379,
-      "forks": 2746,
-      "forks_delta": 70,
+      "stars": 28547,
+      "stars_delta": 472,
+      "forks": 2861,
+      "forks_delta": 115,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -482,120 +373,108 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "topics": [
-        "http3",
-        "network-programming",
-        "protocol",
-        "quic",
-        "rust"
-      ],
-      "stars": 12581,
-      "stars_delta": 5,
-      "forks": 1148,
-      "forks_delta": 0,
-      "html_url": "https://github.com/cloudflare/quiche",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-      },
-      "strengths": {
-        "zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-        "en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…"
-      },
-      "innovations": {
-        "zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-        "en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…"
-      },
-      "purpose_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "purpose_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "strengths_zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "strengths_en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "innovations_zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "innovations_en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "context-engineering",
-        "engineering",
-        "planning",
-        "prd",
-        "sdd",
-        "sdlc",
-        "spec",
-        "spec-driven-development",
-        "specification"
-      ],
-      "stars": 70254,
-      "stars_delta": 40,
-      "forks": 4804,
-      "forks_delta": 1,
-      "html_url": "https://github.com/Fission-AI/OpenSpec",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "Spec-driven development (SDD) for AI coding assistants.",
-        "en": "Spec-driven development (SDD) for AI coding assistants."
-      },
-      "strengths": {
-        "zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
-        "en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…"
-      },
-      "innovations": {
-        "zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
-        "en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…"
-      },
-      "purpose_zh": "Spec-driven development (SDD) for AI coding assistants.",
-      "purpose_en": "Spec-driven development (SDD) for AI coding assistants.",
-      "strengths_zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
-      "strengths_en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
-      "innovations_zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
-      "innovations_en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
+      "rank": 10,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
       "topics": [],
-      "stars": 8366,
-      "stars_delta": 30,
-      "forks": 567,
-      "forks_delta": 3,
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "stars": 25579,
+      "stars_delta": 12,
+      "forks": 3028,
+      "forks_delta": 1,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
       },
       "strengths": {
-        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…"
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
       },
       "innovations": {
-        "zh": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
-        "en": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…"
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
       },
-      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-      "innovations_zh": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
-      "innovations_en": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 16,
+      "rank": 11,
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 31769,
+      "stars_delta": 32,
+      "forks": 3609,
+      "forks_delta": 4,
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "CLI tool for configuring and monitoring Claude Code",
+        "en": "CLI tool for configuring and monitoring Claude Code"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
+      },
+      "innovations": {
+        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
+      },
+      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
+      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
+      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 83366,
+      "stars_delta": 2321,
+      "forks": 15124,
+      "forks_delta": 0,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
@@ -609,12 +488,12 @@
         "python",
         "tensor"
       ],
-      "stars": 103275,
-      "stars_delta": 15,
-      "forks": 30309,
-      "forks_delta": 84,
+      "stars": 103291,
+      "stars_delta": 16,
+      "forks": 30387,
+      "forks_delta": 78,
       "html_url": "https://github.com/pytorch/pytorch",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
@@ -636,92 +515,160 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
-      "full_name": "cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 69266,
-      "stars_delta": 29,
-      "forks": 7515,
-      "forks_delta": 3,
-      "html_url": "https://github.com/cline/cline",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "rank": 14,
+      "full_name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "stars": 4912,
+      "stars_delta": 24,
+      "forks": 583,
+      "forks_delta": 2,
+      "html_url": "https://github.com/TencentCloud/Octop",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
-        "zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-        "en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
       },
       "strengths": {
-        "zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
-        "en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…"
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
       },
       "innovations": {
-        "zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
-        "en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…"
+        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
       },
-      "purpose_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "purpose_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "strengths_zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
-      "strengths_en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
-      "innovations_zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
-      "innovations_en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "topics": [
+        "http3",
+        "network-programming",
+        "protocol",
+        "quic",
+        "rust"
+      ],
+      "stars": 12592,
+      "stars_delta": 11,
+      "forks": 1148,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cloudflare/quiche",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      },
+      "strengths": {
+        "zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+        "en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…"
+      },
+      "innovations": {
+        "zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+        "en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…"
+      },
+      "purpose_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "purpose_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "strengths_zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+      "strengths_en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
+      "innovations_zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+      "innovations_en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "context-engineering",
+        "engineering",
+        "planning",
+        "prd",
+        "sdd",
+        "sdlc",
+        "spec",
+        "spec-driven-development",
+        "specification"
+      ],
+      "stars": 70299,
+      "stars_delta": 45,
+      "forks": 4811,
+      "forks_delta": 7,
+      "html_url": "https://github.com/Fission-AI/OpenSpec",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "Spec-driven development (SDD) for AI coding assistants.",
+        "en": "Spec-driven development (SDD) for AI coding assistants."
+      },
+      "strengths": {
+        "zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+        "en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…"
+      },
+      "innovations": {
+        "zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+        "en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…"
+      },
+      "purpose_zh": "Spec-driven development (SDD) for AI coding assistants.",
+      "purpose_en": "Spec-driven development (SDD) for AI coding assistants.",
+      "strengths_zh": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+      "strengths_en": "The most loved spec framework. Our philosophy: [!TIP] New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea\" to get started. → Learn more here Follow @0xTab on X for u…",
+      "innovations_zh": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+      "innovations_en": "…o special syntax to learn. Here's what goes in the specs/ folder created above: Your AI writes these; you review the plan before any code is written. OpenSpec is built with OpenSpec — browse this repo's live specs and in-flight ch…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "topics": [],
+      "stars": 50480,
+      "stars_delta": 964,
+      "forks": 4621,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      },
+      "strengths": {
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
+      },
+      "innovations": {
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
+      },
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 18,
-      "full_name": "LibreChat-AI/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "anthropic",
-        "artifacts",
-        "aws",
-        "azure",
-        "chatgpt",
-        "chatgpt-clone",
-        "claude",
-        "clone",
-        "deepseek",
-        "gemini",
-        "google",
-        "gpt-5",
-        "librechat",
-        "mcp",
-        "o1",
-        "openai",
-        "responses-api",
-        "vision",
-        "webui"
-      ],
-      "stars": 44914,
-      "stars_delta": 28,
-      "forks": 9203,
-      "forks_delta": 5,
-      "html_url": "https://github.com/LibreChat-AI/LibreChat",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
-      "purpose": {
-        "zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-        "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
-      },
-      "strengths": {
-        "zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc4 - Public Agents API docs: Serve an OpenAPI specification and interactive Swagger UI for inference, events, Agent management, and Skill management. - Attached workspaces (highly ex…",
-        "en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc4 - Public Agents API docs: Serve an OpenAPI specification and interactive Swagger UI for inference, events, Agent management, and Skill management. - Attached workspaces (highly ex…"
-      },
-      "innovations": {
-        "zh": "…ns as ordered steps with roles, Agent identity, tool rounds, previews, and cost. - Skills: Author or import a Skill and invoke it in the same Agent run, with safer rollback for failed imports. - Agent activity: Render system event…",
-        "en": "…ns as ordered steps with roles, Agent identity, tool rounds, previews, and cost. - Skills: Author or import a Skill and invoke it in the same Agent run, with safer rollback for failed imports. - Agent activity: Render system event…"
-      },
-      "purpose_zh": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "purpose_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "strengths_zh": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc4 - Public Agents API docs: Serve an OpenAPI specification and interactive Swagger UI for inference, events, Agent management, and Skill management. - Attached workspaces (highly ex…",
-      "strengths_en": "LibreChat English · 中文 🚀 What's New in v0.8.8-rc4 - Public Agents API docs: Serve an OpenAPI specification and interactive Swagger UI for inference, events, Agent management, and Skill management. - Attached workspaces (highly ex…",
-      "innovations_zh": "…ns as ordered steps with roles, Agent identity, tool rounds, previews, and cost. - Skills: Author or import a Skill and invoke it in the same Agent run, with safer rollback for failed imports. - Agent activity: Render system event…",
-      "innovations_en": "…ns as ordered steps with roles, Agent identity, tool rounds, previews, and cost. - Skills: Author or import a Skill and invoke it in the same Agent run, with safer rollback for failed imports. - Agent activity: Render system event…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 19,
       "full_name": "superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
@@ -738,12 +685,12 @@
         "registry",
         "secrets"
       ],
-      "stars": 3210,
-      "stars_delta": 86,
-      "forks": 268,
-      "forks_delta": 9,
+      "stars": 3302,
+      "stars_delta": 92,
+      "forks": 273,
+      "forks_delta": 5,
       "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
         "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
@@ -765,52 +712,121 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 20,
-      "full_name": "cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "topics": [
-        "bpf",
-        "cncf",
-        "cni",
-        "containers",
-        "ebpf",
-        "k8s",
-        "kernel",
-        "kubernetes",
-        "kubernetes-networking",
-        "loadbalancing",
-        "monitoring",
-        "networking",
-        "observability",
-        "security",
-        "troubleshooting",
-        "xdp"
-      ],
-      "stars": 25541,
-      "stars_delta": 5,
-      "forks": 4105,
-      "forks_delta": 1,
-      "html_url": "https://github.com/cilium/cilium",
-      "snapshot_at": "2026-09-25T05:05:52.190Z",
+      "rank": 19,
+      "full_name": "cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 69277,
+      "stars_delta": 11,
+      "forks": 7515,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cline/cline",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
       "purpose": {
-        "zh": "eBPF-based Networking, Security, and Observability",
-        "en": "eBPF-based Networking, Security, and Observability"
+        "zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
       },
       "strengths": {
-        "zh": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
-        "en": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…"
+        "zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+        "en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…"
       },
       "innovations": {
-        "zh": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
-        "en": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…"
+        "zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+        "en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…"
       },
-      "purpose_zh": "eBPF-based Networking, Security, and Observability",
-      "purpose_en": "eBPF-based Networking, Security, and Observability",
-      "strengths_zh": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
-      "strengths_en": ".. raw:: html cii go-report clomonitor artifacthub slack go-doc rtd apache bsd gpl fossa gateway-api codespaces Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat L…",
-      "innovations_zh": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
-      "innovations_en": "…ing an identity-based security model that is decoupled from network addressing. Cilium implements distributed load balancing for traffic between pods and to external services, and is able to fully replace kube-proxy, using efficie…",
+      "purpose_zh": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "purpose_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "strengths_zh": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+      "strengths_en": "Cline The open source coding agent in your IDE, terminal, & desktop. Docs Discord r/cline Feature Requests Join us! CLI Run Cline in your terminal. Interactive chat or fully headless for CI/CD and scripting. Learn more Desktop App…",
+      "innovations_zh": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+      "innovations_en": "…dows VS Code Extension AI coding assistant in your editor. Create files, run commands, browse the web, and use tools with human-in-the-loop approval. Install from VS Marketplace JetBrains Plugin The same Cline experience in Intell…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 20,
+      "full_name": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "topics": [
+        "apps",
+        "business",
+        "erp",
+        "management",
+        "odoo",
+        "odoo-apps",
+        "python"
+      ],
+      "stars": 54585,
+      "stars_delta": 165,
+      "forks": 33830,
+      "forks_delta": 0,
+      "html_url": "https://github.com/odoo/odoo",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "Odoo. Open Source Apps To Grow Your Business.",
+        "en": "Odoo. Open Source Apps To Grow Your Business."
+      },
+      "strengths": {
+        "zh": "Odoo Odoo is a suite of web based open source business apps. The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing &amp; Accounting, Point of Sale, Human Resou…",
+        "en": "Odoo Odoo is a suite of web based open source business apps. The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing &amp; Accounting, Point of Sale, Human Resou…"
+      },
+      "innovations": {
+        "zh": "…you install several Apps. Getting started with Odoo For a standard installation please follow the Setup instructions from the documentation. To learn the software, we recommend the Odoo eLearning, or Scale-up, the business game. D…",
+        "en": "…you install several Apps. Getting started with Odoo For a standard installation please follow the Setup instructions from the documentation. To learn the software, we recommend the Odoo eLearning, or Scale-up, the business game. D…"
+      },
+      "purpose_zh": "Odoo. Open Source Apps To Grow Your Business.",
+      "purpose_en": "Odoo. Open Source Apps To Grow Your Business.",
+      "strengths_zh": "Odoo Odoo is a suite of web based open source business apps. The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing &amp; Accounting, Point of Sale, Human Resou…",
+      "strengths_en": "Odoo Odoo is a suite of web based open source business apps. The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing &amp; Accounting, Point of Sale, Human Resou…",
+      "innovations_zh": "…you install several Apps. Getting started with Odoo For a standard installation please follow the Setup instructions from the documentation. To learn the software, we recommend the Odoo eLearning, or Scale-up, the business game. D…",
+      "innovations_en": "…you install several Apps. Getting started with Odoo For a standard installation please follow the Setup instructions from the documentation. To learn the software, we recommend the Odoo eLearning, or Scale-up, the business game. D…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 21,
+      "full_name": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent",
+        "context-engineering",
+        "large-language-models",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "multimodal",
+        "rag",
+        "reinforcement-learning"
+      ],
+      "stars": 50907,
+      "stars_delta": 2481,
+      "forks": 5710,
+      "forks_delta": 0,
+      "html_url": "https://github.com/bojieli/ai-agent-book",
+      "snapshot_at": "2026-09-25T11:58:47.784Z",
+      "purpose": {
+        "zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+      },
+      "strengths": {
+        "zh": "深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · English · Español · Bahasa Indonesia · العربية · 繁體中文（台灣） · Русский · Tiếng Việt · தமிழ் · 日本語 · Türkçe · 한국어 · Magyar · עברית · Português (Brasil) 📥 下载 PDF / EPUB（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；…",
+        "en": "深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · English · Español · Bahasa Indonesia · العربية · 繁體中文（台灣） · Русский · Tiếng Việt · தமிழ் · 日本語 · Türkçe · 한국어 · Magyar · עברית · Português (Brasil) 📥 下载 PDF / EPUB（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；…"
+      },
+      "innovations": {
+        "zh": "…欢迎阅读：github.com/bojieli/ai-infra-book 要开发好基于模型的应用，还需要理解这类应用赖以运行的基础设施。姊妹篇讨论的就是支撑模型训练与推理的 AI Infra：参数和上下文状态存在哪里，计算怎样执行，多个加速器怎样协作。 📢 2.0 版变更（相较 1.4 版）：本仓库书稿版本已由 1.4 升级为 2.0。2.0 版将原第四章中的“异步交互”部分与原第九章中关于“多模态 Agent”的内容合并，重组为新的第六章“交互：观察…",
+        "en": "…欢迎阅读：github.com/bojieli/ai-infra-book 要开发好基于模型的应用，还需要理解这类应用赖以运行的基础设施。姊妹篇讨论的就是支撑模型训练与推理的 AI Infra：参数和上下文状态存在哪里，计算怎样执行，多个加速器怎样协作。 📢 2.0 版变更（相较 1.4 版）：本仓库书稿版本已由 1.4 升级为 2.0。2.0 版将原第四章中的“异步交互”部分与原第九章中关于“多模态 Agent”的内容合并，重组为新的第六章“交互：观察…"
+      },
+      "purpose_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "purpose_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "strengths_zh": "深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · English · Español · Bahasa Indonesia · العربية · 繁體中文（台灣） · Русский · Tiếng Việt · தமிழ் · 日本語 · Türkçe · 한국어 · Magyar · עברית · Português (Brasil) 📥 下载 PDF / EPUB（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；…",
+      "strengths_en": "深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · English · Español · Bahasa Indonesia · العربية · 繁體中文（台灣） · Русский · Tiếng Việt · தமிழ் · 日本語 · Türkçe · 한국어 · Magyar · עברית · Português (Brasil) 📥 下载 PDF / EPUB（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；…",
+      "innovations_zh": "…欢迎阅读：github.com/bojieli/ai-infra-book 要开发好基于模型的应用，还需要理解这类应用赖以运行的基础设施。姊妹篇讨论的就是支撑模型训练与推理的 AI Infra：参数和上下文状态存在哪里，计算怎样执行，多个加速器怎样协作。 📢 2.0 版变更（相较 1.4 版）：本仓库书稿版本已由 1.4 升级为 2.0。2.0 版将原第四章中的“异步交互”部分与原第九章中关于“多模态 Agent”的内容合并，重组为新的第六章“交互：观察…",
+      "innovations_en": "…欢迎阅读：github.com/bojieli/ai-infra-book 要开发好基于模型的应用，还需要理解这类应用赖以运行的基础设施。姊妹篇讨论的就是支撑模型训练与推理的 AI Infra：参数和上下文状态存在哪里，计算怎样执行，多个加速器怎样协作。 📢 2.0 版变更（相较 1.4 版）：本仓库书稿版本已由 1.4 升级为 2.0。2.0 版将原第四章中的“异步交互”部分与原第九章中关于“多模态 Agent”的内容合并，重组为新的第六章“交互：观察…",
       "insights_source": "readme-excerpt"
     }
   ]
