@@ -22,12 +22,12 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 85288,
+      "stars": 85879,
       "stars_delta": 591,
-      "forks": 15263,
-      "forks_delta": 50,
+      "forks": 15311,
+      "forks_delta": 48,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -50,42 +50,6 @@
     },
     {
       "rank": 2,
-      "full_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "stars": 36971,
-      "stars_delta": 85,
-      "forks": 4155,
-      "forks_delta": 3,
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "strengths": {
-        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
-      },
-      "innovations": {
-        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
-      },
-      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
@@ -95,12 +59,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 30059,
-      "stars_delta": 343,
-      "forks": 3201,
-      "forks_delta": 60,
+      "stars": 30577,
+      "stars_delta": 518,
+      "forks": 3296,
+      "forks_delta": 95,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -122,80 +86,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "stars": 291721,
-      "stars_delta": 104,
-      "forks": 26110,
-      "forks_delta": 5,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "An agentic skills framework & software development methodology that works.",
-        "en": "An agentic skills framework & software development methodology that works."
-      },
-      "strengths": {
-        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
-      },
-      "innovations": {
-        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
-      },
-      "purpose_zh": "An agentic skills framework & software development methodology that works.",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
+      "rank": 3,
+      "full_name": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
       "topics": [],
-      "stars": 269810,
-      "stars_delta": 135,
-      "forks": 22736,
-      "forks_delta": 12,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "stars": 4587,
+      "stars_delta": 64,
+      "forks": 656,
+      "forks_delta": 1,
+      "html_url": "https://github.com/NVIDIA/Model-Optimizer",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
       },
       "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+        "zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
+        "en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…"
       },
       "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+        "zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
+        "en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…"
       },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "purpose_zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "purpose_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "strengths_zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
+      "strengths_en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
+      "innovations_zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
+      "innovations_en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "full_name": "dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
@@ -220,12 +143,12 @@
         "wordprocessor",
         "xlsx"
       ],
-      "stars": 18768,
-      "stars_delta": 397,
-      "forks": 1597,
-      "forks_delta": 36,
+      "stars": 18936,
+      "stars_delta": 168,
+      "forks": 1615,
+      "forks_delta": 18,
       "html_url": "https://github.com/dream-num/univer",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
         "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
         "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
@@ -247,156 +170,48 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
+      "rank": 5,
+      "full_name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
       "topics": [
-        "agent-skills"
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed",
+        "machine-learning",
+        "ml",
+        "neural-network",
+        "python",
+        "tensorflow"
       ],
-      "stars": 178387,
-      "stars_delta": 126,
-      "forks": 21118,
-      "forks_delta": 12,
-      "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "stars": 200340,
+      "stars_delta": 31,
+      "forks": 77550,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
+        "zh": "An Open Source Machine Learning Framework for Everyone",
+        "en": "An Open Source Machine Learning Framework for Everyone"
       },
       "strengths": {
-        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
+        "zh": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
+        "en": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…"
       },
       "innovations": {
-        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
+        "zh": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
+        "en": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…"
       },
-      "purpose_zh": "Public repository for Agent Skills",
-      "purpose_en": "Public repository for Agent Skills",
-      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "purpose_zh": "An Open Source Machine Learning Framework for Everyone",
+      "purpose_en": "An Open Source Machine Learning Framework for Everyone",
+      "strengths_zh": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
+      "strengths_en": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
+      "innovations_zh": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
+      "innovations_en": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "androoAGI/starnet",
-      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-harness",
-        "ai",
-        "ai-agents",
-        "byok",
-        "desktop-app",
-        "game-ui",
-        "llm",
-        "local-first",
-        "multi-agent",
-        "openrouter",
-        "pixel-art",
-        "tauri"
-      ],
-      "stars": 531,
-      "stars_delta": 90,
-      "forks": 99,
-      "forks_delta": 15,
-      "html_url": "https://github.com/androoAGI/starnet",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-        "en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run."
-      },
-      "strengths": {
-        "zh": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
-        "en": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…"
-      },
-      "innovations": {
-        "zh": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
-        "en": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…"
-      },
-      "purpose_zh": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "purpose_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "strengths_zh": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
-      "strengths_en": "A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI agents, organize them into a pixel-art spa…",
-      "innovations_zh": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
-      "innovations_en": "…t is literal: A room is a capability-scoped team, a hallway is an authorized handoff lane, and a placed object is a real capability grant. The layout you draw is the workflow the agents run. Start with one agent, then place bays o…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "derv82/wifit3",
-      "description": "Wifite but USB-only & cross-platform.",
-      "language": "Python",
-      "topics": [
-        "cross-platform",
-        "userland",
-        "wifi-scanner",
-        "wifi-security",
-        "wireless-security"
-      ],
-      "stars": 999,
-      "stars_delta": 123,
-      "forks": 89,
-      "forks_delta": 5,
-      "html_url": "https://github.com/derv82/wifit3",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "Wifite but USB-only & cross-platform.",
-        "en": "Wifite but USB-only & cross-platform."
-      },
-      "strengths": {
-        "zh": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
-        "en": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…"
-      },
-      "innovations": {
-        "zh": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
-        "en": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…"
-      },
-      "purpose_zh": "Wifite but USB-only & cross-platform.",
-      "purpose_en": "Wifite but USB-only & cross-platform.",
-      "strengths_zh": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
-      "strengths_en": "wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required. Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wire…",
-      "innovations_zh": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
-      "innovations_en": "…-- Features Reconnaissance & Analysis - Multi-Card Aggregation: Capture packets across multiple adapters simultaneously; pick a dedicated card to inject. - Real-time Scanner: 2.4GHz & 5GHz channel-hopping (split for multi-cards);…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "kelseyhightower/kubernetes-the-hard-way",
-      "description": "Bootstrap Kubernetes the hard way. No scripts.",
-      "language": "",
-      "topics": [],
-      "stars": 50151,
-      "stars_delta": 43,
-      "forks": 15921,
-      "forks_delta": 5,
-      "html_url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "Bootstrap Kubernetes the hard way. No scripts.",
-        "en": "Bootstrap Kubernetes the hard way. No scripts."
-      },
-      "strengths": {
-        "zh": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
-        "en": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…"
-      },
-      "innovations": {
-        "zh": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
-        "en": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…"
-      },
-      "purpose_zh": "Bootstrap Kubernetes the hard way. No scripts.",
-      "purpose_en": "Bootstrap Kubernetes the hard way. No scripts.",
-      "strengths_zh": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
-      "strengths_en": "Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized fo…",
-      "innovations_zh": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
-      "innovations_en": "…ewed as production ready, and may receive limited support from the community, but don't let that stop you from learning! Copyright This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
+      "rank": 6,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -422,12 +237,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 57674,
-      "stars_delta": 276,
-      "forks": 10042,
-      "forks_delta": 31,
+      "stars": 57878,
+      "stars_delta": 204,
+      "forks": 10059,
+      "forks_delta": 17,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -449,156 +264,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
-      "full_name": "shy3130/tick-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "language": "Python",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "backtesting",
-        "daily",
-        "duckdb",
-        "fastapi",
-        "llm",
-        "polars",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading",
-        "react",
-        "screener",
-        "self-hosted",
-        "stock",
-        "stock-analysis",
-        "tdx",
-        "tickflow",
-        "tsp"
-      ],
-      "stars": 5173,
-      "stars_delta": 56,
-      "forks": 1259,
-      "forks_delta": 6,
-      "html_url": "https://github.com/shy3130/tick-stock-panel",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-        "en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
-      },
-      "strengths": {
-        "zh": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
-        "en": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…"
-      },
-      "innovations": {
-        "zh": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
-        "en": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…"
-      },
-      "purpose_zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "purpose_en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "strengths_zh": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
-      "strengths_en": "📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 --- [!IMPORTANT] 本项目以个人开源为主进行开发维护，数据…",
-      "innovations_zh": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
-      "innovations_en": "…/拼凑工具做量化,你大概率遇到过 TSP 的解法 :--- :--- 数据源绑死,换一家要重写整套拉数代码 能力路由矩阵:6 类数据集按源能力独立路由,随时换源,指标与回测口径不变 选股、回测、监控各用一套工具,口径对不上 全站统一 enriched 数据口径:选股 → 回测 → 监控 → 复盘一条链 盘中异动靠人盯盘,错过就是错过 竞价/盘中/偏移全时段异动 + 实时弹窗、语音播报、飞书推送 想查个数据要在几个页面之间来回点 AI 对话助手:一句话问出全…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "topics": [],
-      "stars": 11601,
-      "stars_delta": 184,
-      "forks": 556,
-      "forks_delta": 6,
-      "html_url": "https://github.com/google/ax",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "Google's open agentic orchestration runtime",
-        "en": "Google's open agentic orchestration runtime"
-      },
-      "strengths": {
-        "zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-        "en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…"
-      },
-      "innovations": {
-        "zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
-        "en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…"
-      },
-      "purpose_zh": "Google's open agentic orchestration runtime",
-      "purpose_en": "Google's open agentic orchestration runtime",
-      "strengths_zh": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-      "strengths_en": "AX [!WARNING] We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway speci…",
-      "innovations_zh": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
-      "innovations_en": "…f autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. Then apply it, watch it com…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "topics": [],
-      "stars": 4523,
-      "stars_delta": 88,
-      "forks": 655,
-      "forks_delta": 7,
-      "html_url": "https://github.com/NVIDIA/Model-Optimizer",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
-      },
-      "strengths": {
-        "zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-        "en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…"
-      },
-      "innovations": {
-        "zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-        "en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…"
-      },
-      "purpose_zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "purpose_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "strengths_zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-      "strengths_en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-      "innovations_zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-      "innovations_en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 71269,
-      "stars_delta": 124,
-      "forks": 4311,
-      "forks_delta": 1,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
-      "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
-      },
-      "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
-      },
-      "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
-      },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
+      "rank": 7,
       "full_name": "openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
@@ -607,12 +273,12 @@
         "secret-management",
         "security"
       ],
-      "stars": 7787,
-      "stars_delta": 99,
+      "stars": 7879,
+      "stars_delta": 92,
       "forks": 587,
-      "forks_delta": 4,
+      "forks_delta": 0,
       "html_url": "https://github.com/openbao/openbao",
-      "snapshot_at": "2026-09-26T05:08:58.428Z",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
       "purpose": {
         "zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
         "en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
@@ -631,6 +297,293 @@
       "strengths_en": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
       "innovations_zh": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
       "innovations_en": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "topics": [],
+      "stars": 34679,
+      "stars_delta": 175,
+      "forks": 4586,
+      "forks_delta": 0,
+      "html_url": "https://github.com/block/buzz",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "A hive mind communication platform",
+        "en": "A hive mind communication platform"
+      },
+      "strengths": {
+        "zh": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
+        "en": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…"
+      },
+      "innovations": {
+        "zh": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
+        "en": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…"
+      },
+      "purpose_zh": "A hive mind communication platform",
+      "purpose_en": "A hive mind communication platform",
+      "strengths_zh": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
+      "strengths_en": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
+      "innovations_zh": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
+      "innovations_en": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "topics": [
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
+      ],
+      "stars": 192955,
+      "stars_delta": 78,
+      "forks": 43467,
+      "forks_delta": 0,
+      "html_url": "https://github.com/microsoft/vscode",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "Visual Studio Code",
+        "en": "Visual Studio Code"
+      },
+      "strengths": {
+        "zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
+        "en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…"
+      },
+      "innovations": {
+        "zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
+        "en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…"
+      },
+      "purpose_zh": "Visual Studio Code",
+      "purpose_en": "Visual Studio Code",
+      "strengths_zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
+      "strengths_en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
+      "innovations_zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
+      "innovations_en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "topics": [],
+      "stars": 37709,
+      "stars_delta": 409,
+      "forks": 5240,
+      "forks_delta": 0,
+      "html_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      },
+      "strengths": {
+        "zh": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
+        "en": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…"
+      },
+      "innovations": {
+        "zh": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
+        "en": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…"
+      },
+      "purpose_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "purpose_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "strengths_zh": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
+      "strengths_en": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
+      "innovations_zh": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
+      "innovations_en": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "topics": [],
+      "stars": 40682,
+      "stars_delta": 29,
+      "forks": 18809,
+      "forks_delta": 0,
+      "html_url": "https://github.com/llvm/llvm-project",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+        "en": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+      },
+      "strengths": {
+        "zh": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
+        "en": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…"
+      },
+      "innovations": {
+        "zh": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
+        "en": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…"
+      },
+      "purpose_zh": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "purpose_en": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "strengths_zh": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
+      "strengths_en": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
+      "innovations_zh": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
+      "innovations_en": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "anthropics/claude-code-action",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 8963,
+      "stars_delta": 15,
+      "forks": 2155,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/claude-code-action",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
+        "en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…"
+      },
+      "innovations": {
+        "zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
+        "en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
+      "strengths_en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
+      "innovations_zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
+      "innovations_en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "topics": [],
+      "stars": 13209,
+      "stars_delta": 13,
+      "forks": 3857,
+      "forks_delta": 0,
+      "html_url": "https://github.com/actions/runner-images",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "GitHub Actions runner images",
+        "en": "GitHub Actions runner images"
+      },
+      "strengths": {
+        "zh": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
+        "en": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…"
+      },
+      "innovations": {
+        "zh": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
+        "en": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…"
+      },
+      "purpose_zh": "GitHub Actions runner images",
+      "purpose_en": "GitHub Actions runner images",
+      "strengths_zh": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
+      "strengths_en": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
+      "innovations_zh": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
+      "innovations_en": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "mobile-next/mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "android",
+        "emulator",
+        "ios",
+        "mcp",
+        "mobile",
+        "physical",
+        "real",
+        "simulator"
+      ],
+      "stars": 7054,
+      "stars_delta": 143,
+      "forks": 627,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mobile-next/mobile-mcp",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "en": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+      },
+      "strengths": {
+        "zh": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
+        "en": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…"
+      },
+      "innovations": {
+        "zh": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
+        "en": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…"
+      },
+      "purpose_zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "purpose_en": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "strengths_zh": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
+      "strengths_en": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
+      "innovations_zh": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
+      "innovations_en": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components",
+        "hybrid",
+        "nextjs",
+        "node",
+        "react",
+        "server-rendering",
+        "ssg",
+        "static",
+        "static-site-generator",
+        "universal",
+        "vercel"
+      ],
+      "stars": 142454,
+      "stars_delta": 31,
+      "forks": 33078,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vercel/next.js",
+      "snapshot_at": "2026-09-26T11:33:53.914Z",
+      "purpose": {
+        "zh": "The React Framework",
+        "en": "The React Framework"
+      },
+      "strengths": {
+        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
+      },
+      "innovations": {
+        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
+      },
+      "purpose_zh": "The React Framework",
+      "purpose_en": "The React Framework",
+      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
       "insights_source": "readme-excerpt"
     }
   ]
