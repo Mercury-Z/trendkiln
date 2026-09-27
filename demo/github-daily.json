@@ -22,12 +22,12 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 88453,
-      "stars_delta": 699,
-      "forks": 15539,
-      "forks_delta": 64,
+      "stars": 89079,
+      "stars_delta": 626,
+      "forks": 15598,
+      "forks_delta": 59,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -59,12 +59,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 35143,
-      "stars_delta": 1943,
-      "forks": 4384,
-      "forks_delta": 565,
+      "stars": 36262,
+      "stars_delta": 1119,
+      "forks": 4659,
+      "forks_delta": 275,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -87,131 +87,59 @@
     },
     {
       "rank": 3,
-      "full_name": "NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "topics": [],
-      "stars": 4893,
-      "stars_delta": 87,
-      "forks": 679,
-      "forks_delta": 9,
-      "html_url": "https://github.com/NVIDIA/Model-Optimizer",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "stars": 39274,
+      "stars_delta": 3060,
+      "forks": 4676,
+      "forks_delta": 0,
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
-        "zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
+        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
       },
       "strengths": {
-        "zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-        "en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…"
+        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
+        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
       },
       "innovations": {
-        "zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-        "en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…"
+        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
+        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
       },
-      "purpose_zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "purpose_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "strengths_zh": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-      "strengths_en": "NVIDIA Model Optimizer Documentation Roadmap Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer, or ModelOpt) is a library comprising state-of-the-art model optimization techniques including quantization, pr…",
-      "innovations_zh": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-      "innovations_en": "…ing Face, PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint. Model Optimizer is also integrated…",
-      "insights_source": "readme-excerpt"
+      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
+      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
+      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
+      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
+      "insights_source": "readme"
     },
     {
       "rank": 4,
-      "full_name": "dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "topics": [
-        "board",
-        "collaboration",
-        "data-table",
-        "doc",
-        "docx",
-        "excel",
-        "grid",
-        "pdf",
-        "ppt",
-        "pptx",
-        "presentation",
-        "sdk",
-        "sheet",
-        "slides",
-        "spreadsheet",
-        "table",
-        "word",
-        "wordprocessor",
-        "xlsx"
-      ],
-      "stars": 19853,
-      "stars_delta": 185,
-      "forks": 1691,
-      "forks_delta": 35,
-      "html_url": "https://github.com/dream-num/univer",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
-      },
-      "strengths": {
-        "zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-        "en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…"
-      },
-      "innovations": {
-        "zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-        "en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…"
-      },
-      "purpose_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "purpose_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "strengths_zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-      "strengths_en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
-      "innovations_zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-      "innovations_en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "topics": [
-        "deep-learning",
-        "deep-neural-networks",
-        "distributed",
-        "machine-learning",
-        "ml",
-        "neural-network",
-        "python",
-        "tensorflow"
-      ],
-      "stars": 200547,
-      "stars_delta": 58,
-      "forks": 77686,
-      "forks_delta": 24,
-      "html_url": "https://github.com/tensorflow/tensorflow",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "An Open Source Machine Learning Framework for Everyone",
-        "en": "An Open Source Machine Learning Framework for Everyone"
-      },
-      "strengths": {
-        "zh": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
-        "en": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…"
-      },
-      "innovations": {
-        "zh": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
-        "en": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…"
-      },
-      "purpose_zh": "An Open Source Machine Learning Framework for Everyone",
-      "purpose_en": "An Open Source Machine Learning Framework for Everyone",
-      "strengths_zh": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
-      "strengths_en": "Documentation ------------------- TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-…",
-      "innovations_zh": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
-      "innovations_en": "…ne Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well. TensorFlow provides stable Python and C++ APIs, as wel…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -237,12 +165,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 58734,
-      "stars_delta": 236,
-      "forks": 10172,
-      "forks_delta": 27,
+      "stars": 58995,
+      "stars_delta": 261,
+      "forks": 10208,
+      "forks_delta": 36,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -264,326 +192,201 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "language": "Go",
+      "rank": 5,
+      "full_name": "InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely. ",
+      "language": "Shell",
       "topics": [
-        "go",
-        "secret-management",
-        "security"
+        "android",
+        "mediaplayer",
+        "newpipe",
+        "sponsorblock",
+        "youtube"
       ],
-      "stars": 8112,
-      "stars_delta": 64,
-      "forks": 595,
-      "forks_delta": 4,
-      "html_url": "https://github.com/openbao/openbao",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "stars": 6473,
+      "stars_delta": 139,
+      "forks": 216,
+      "forks_delta": 0,
+      "html_url": "https://github.com/InfinityLoop1308/PipePipe",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
-        "zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-        "en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
+        "zh": "An open-source Android app to let you browse YouTube and other services freely. ",
+        "en": "An open-source Android app to let you browse YouTube and other services freely. "
       },
       "strengths": {
-        "zh": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
-        "en": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…"
+        "zh": "PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with Return…",
+        "en": "PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with Return…"
       },
       "innovations": {
-        "zh": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
-        "en": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…"
+        "zh": "…Support AV1 and VP9 codecs for efficient, high-quality playback Enable music player mode with background playback Filtering Apply advanced search filters for better discovery Filter out unwanted items by keywords or channels Block…",
+        "en": "…Support AV1 and VP9 codecs for efficient, high-quality playback Enable music player mode with background playback Filtering Apply advanced search filters for better discovery Filter out unwanted items by keywords or channels Block…"
       },
-      "purpose_zh": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "purpose_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "strengths_zh": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
-      "strengths_en": "OpenBao ---- Please note: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.or…",
-      "innovations_zh": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
-      "innovations_en": "…penssf-openbao-wg - #openssf-openbao-wg-namespaces - #openssf-openbao-wg-pkcs11 - #openssf-openbao-wg-scalability - #openssf-openbao-wg-supply - #openssf-openbao-wg-ui OpenBao is a software solution to manage, store, and distribut…",
+      "purpose_zh": "An open-source Android app to let you browse YouTube and other services freely. ",
+      "purpose_en": "An open-source Android app to let you browse YouTube and other services freely. ",
+      "strengths_zh": "PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with Return…",
+      "strengths_en": "PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with Return…",
+      "innovations_zh": "…Support AV1 and VP9 codecs for efficient, high-quality playback Enable music player mode with background playback Filtering Apply advanced search filters for better discovery Filter out unwanted items by keywords or channels Block…",
+      "innovations_en": "…Support AV1 and VP9 codecs for efficient, high-quality playback Enable music player mode with background playback Filtering Apply advanced search filters for better discovery Filter out unwanted items by keywords or channels Block…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5294,
+      "stars_delta": 76,
+      "forks": 137,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vercel-labs/scriptc",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
+      "purpose": {
+        "zh": "TypeScript-to-Native Compiler",
+        "en": "TypeScript-to-Native Compiler"
+      },
+      "strengths": {
+        "zh": "scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking.…",
+        "en": "scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking.…"
+      },
+      "innovations": {
+        "zh": "…linker driver and does not compile program or runtime C. Static builds include a small native runtime, but no Node or JavaScript engine. Code that cannot compile statically is reported as a diagnostic. For npm packages and any-ty…",
+        "en": "…linker driver and does not compile program or runtime C. Static builds include a small native runtime, but no Node or JavaScript engine. Code that cannot compile statically is reported as a diagnostic. For npm packages and any-ty…"
+      },
+      "purpose_zh": "TypeScript-to-Native Compiler",
+      "purpose_en": "TypeScript-to-Native Compiler",
+      "strengths_zh": "scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking.…",
+      "strengths_en": "scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking.…",
+      "innovations_zh": "…linker driver and does not compile program or runtime C. Static builds include a small native runtime, but no Node or JavaScript engine. Code that cannot compile statically is reported as a diagnostic. For npm packages and any-ty…",
+      "innovations_en": "…linker driver and does not compile program or runtime C. Static builds include a small native runtime, but no Node or JavaScript engine. Code that cannot compile statically is reported as a diagnostic. For npm packages and any-ty…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "stars": 769,
+      "stars_delta": 114,
+      "forks": 88,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
+      "purpose": {
+        "zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "en": "Multi-agent harness that runs Claude Code and Codex together as one system"
+      },
+      "strengths": {
+        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…"
+      },
+      "innovations": {
+        "zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
+        "en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…"
+      },
+      "purpose_zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "purpose_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+      "innovations_zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
+      "innovations_en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "topics": [],
-      "stars": 34952,
-      "stars_delta": 82,
-      "forks": 4602,
-      "forks_delta": 4,
-      "html_url": "https://github.com/block/buzz",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "topics": [
+        "board",
+        "collaboration",
+        "data-table",
+        "doc",
+        "docx",
+        "excel",
+        "grid",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "table",
+        "word",
+        "wordprocessor",
+        "xlsx"
+      ],
+      "stars": 20008,
+      "stars_delta": 155,
+      "forks": 1698,
+      "forks_delta": 7,
+      "html_url": "https://github.com/dream-num/univer",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
-        "zh": "A hive mind communication platform",
-        "en": "A hive mind communication platform"
+        "zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
       },
       "strengths": {
-        "zh": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
-        "en": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…"
+        "zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+        "en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…"
       },
       "innovations": {
-        "zh": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
-        "en": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…"
+        "zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
+        "en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…"
       },
-      "purpose_zh": "A hive mind communication platform",
-      "purpose_en": "A hive mind communication platform",
-      "strengths_zh": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
-      "strengths_en": "Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. --- What is this, re…",
-      "innovations_zh": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
-      "innovations_en": "…p that ships today, the relay URL selects exactly one community. A hosted operator can serve many communities behind many domains or subdomains, but the client-facing rule stays the same: the URL is authoritative for the workspace…",
+      "purpose_zh": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "purpose_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "strengths_zh": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+      "strengths_en": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture,…",
+      "innovations_zh": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
+      "innovations_en": "…wcase 📘 API Reference 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences witho…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "topics": [
-        "editor",
-        "electron",
-        "microsoft",
-        "typescript",
-        "visual-studio-code"
-      ],
-      "stars": 193161,
-      "stars_delta": 62,
-      "forks": 43620,
-      "forks_delta": 23,
-      "html_url": "https://github.com/microsoft/vscode",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "Visual Studio Code",
-        "en": "Visual Studio Code"
-      },
-      "strengths": {
-        "zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-        "en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…"
-      },
-      "innovations": {
-        "zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-        "en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…"
-      },
-      "purpose_zh": "Visual Studio Code",
-      "purpose_en": "Visual Studio Code",
-      "strengths_zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-      "strengths_en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-      "innovations_zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-      "innovations_en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
+      "full_name": "willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
       "topics": [],
-      "stars": 38249,
-      "stars_delta": 143,
-      "forks": 5311,
-      "forks_delta": 23,
-      "html_url": "https://github.com/zhaoxuya520/reverse-skill",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
+      "stars": 746,
+      "stars_delta": 117,
+      "forks": 151,
+      "forks_delta": 0,
+      "html_url": "https://github.com/willfaust/Madeira",
+      "snapshot_at": "2026-09-27T17:03:47.042Z",
       "purpose": {
-        "zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+        "zh": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
       },
       "strengths": {
-        "zh": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
-        "en": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…"
+        "zh": "Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX-Emu for x86-64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rath…",
+        "en": "Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX-Emu for x86-64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rath…"
       },
       "innovations": {
-        "zh": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
-        "en": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…"
+        "zh": "…ion and its controls are not yet reliable. Others reach gameplay at low frame rates. This is a research project, not a product: expect rough edges, per-title quirks and breaking changes. Requirements - A non-jailbroken iPhone. Dev…",
+        "en": "…ion and its controls are not yet reliable. Others reach gameplay at low frame rates. This is a research project, not a product: expect rough edges, per-title quirks and breaking changes. Requirements - A non-jailbroken iPhone. Dev…"
       },
-      "purpose_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "purpose_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "strengths_zh": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
-      "strengths_en": "reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark waters, sail against the stream. About · Getting Started · Usage · Tutorial · Fast route · Routing · Ops contracts · AI Bootstrap · Sponsors · Contributing 🌐 中…",
-      "innovations_zh": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
-      "innovations_en": "…, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks available tools, and executes a repeat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "topics": [],
-      "stars": 40798,
-      "stars_delta": 25,
-      "forks": 18830,
-      "forks_delta": 4,
-      "html_url": "https://github.com/llvm/llvm-project",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-        "en": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-      },
-      "strengths": {
-        "zh": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
-        "en": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…"
-      },
-      "innovations": {
-        "zh": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
-        "en": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…"
-      },
-      "purpose_zh": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "purpose_en": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "strengths_zh": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
-      "strengths_en": "The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project…",
-      "innovations_zh": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
-      "innovations_en": "…esentations and convert them into object files. Tools include an assembler, disassembler, bitcode analyzer, and bitcode optimizer. C-like languages use the Clang frontend. This component compiles C, C++, Objective-C, and Objective…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "anthropics/claude-code-action",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 9192,
-      "stars_delta": 62,
-      "forks": 2170,
-      "forks_delta": 3,
-      "html_url": "https://github.com/anthropics/claude-code-action",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-        "en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…"
-      },
-      "innovations": {
-        "zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
-        "en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-      "strengths_en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-      "innovations_zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
-      "innovations_en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "topics": [],
-      "stars": 13372,
-      "stars_delta": 44,
-      "forks": 3872,
-      "forks_delta": 3,
-      "html_url": "https://github.com/actions/runner-images",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "GitHub Actions runner images",
-        "en": "GitHub Actions runner images"
-      },
-      "strengths": {
-        "zh": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
-        "en": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…"
-      },
-      "innovations": {
-        "zh": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
-        "en": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…"
-      },
-      "purpose_zh": "GitHub Actions runner images",
-      "purpose_en": "GitHub Actions runner images",
-      "strengths_zh": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
-      "strengths_en": "GitHub Actions Runner Images Table of Contents - About - Available Images - Announcements - Image Definitions - Image Releases - Software and Image Support - How to Interact with the Repo - FAQs About This repository contains the…",
-      "innovations_zh": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
-      "innovations_en": "…e from this repo's source, see the instructions. Available Images Image Architecture YAML Label Included Software ------------------------------------------------------------------------- Ubuntu 26.04 x64 ubuntu-26.04 [ubuntu-26.0…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "mobile-next/mobile-mcp",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "android",
-        "emulator",
-        "ios",
-        "mcp",
-        "mobile",
-        "physical",
-        "real",
-        "simulator"
-      ],
-      "stars": 7639,
-      "stars_delta": 180,
-      "forks": 656,
-      "forks_delta": 8,
-      "html_url": "https://github.com/mobile-next/mobile-mcp",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-        "en": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
-      },
-      "strengths": {
-        "zh": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
-        "en": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…"
-      },
-      "innovations": {
-        "zh": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
-        "en": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…"
-      },
-      "purpose_zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "purpose_en": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "strengths_zh": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
-      "strengths_en": "Mobile Next - MCP server for Mobile Development and Automation iOS, Android, Simulator, Emulator, and Real Devices English 日本語 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agno…",
-      "innovations_zh": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
-      "innovations_en": "…s Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots. Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigr…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "topics": [
-        "blog",
-        "browser",
-        "compiler",
-        "components",
-        "hybrid",
-        "nextjs",
-        "node",
-        "react",
-        "server-rendering",
-        "ssg",
-        "static",
-        "static-site-generator",
-        "universal",
-        "vercel"
-      ],
-      "stars": 142757,
-      "stars_delta": 73,
-      "forks": 33232,
-      "forks_delta": 32,
-      "html_url": "https://github.com/vercel/next.js",
-      "snapshot_at": "2026-09-27T12:12:29.609Z",
-      "purpose": {
-        "zh": "The React Framework",
-        "en": "The React Framework"
-      },
-      "strengths": {
-        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
-      },
-      "innovations": {
-        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
-      },
-      "purpose_zh": "The React Framework",
-      "purpose_en": "The React Framework",
-      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "purpose_zh": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "purpose_en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "strengths_zh": "Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX-Emu for x86-64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rath…",
+      "strengths_en": "Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX-Emu for x86-64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rath…",
+      "innovations_zh": "…ion and its controls are not yet reliable. Others reach gameplay at low frame rates. This is a research project, not a product: expect rough edges, per-title quirks and breaking changes. Requirements - A non-jailbroken iPhone. Dev…",
+      "innovations_en": "…ion and its controls are not yet reliable. Others reach gameplay at low frame rates. This is a research project, not a product: expect rough edges, per-title quirks and breaking changes. Requirements - A non-jailbroken iPhone. Dev…",
       "insights_source": "readme-excerpt"
     }
   ]
