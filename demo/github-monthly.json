@@ -22,12 +22,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 22416,
-      "stars_delta": 113,
-      "forks": 1304,
-      "forks_delta": 11,
+      "stars": 22583,
+      "stars_delta": 167,
+      "forks": 1311,
+      "forks_delta": 7,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -67,12 +67,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 44145,
-      "stars_delta": 135,
-      "forks": 8981,
+      "stars": 44358,
+      "stars_delta": 213,
+      "forks": 9014,
       "forks_delta": 33,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -110,12 +110,12 @@
         "responses-api",
         "typescript"
       ],
-      "stars": 12199,
-      "stars_delta": 162,
-      "forks": 965,
-      "forks_delta": 10,
+      "stars": 12382,
+      "stars_delta": 183,
+      "forks": 983,
+      "forks_delta": 18,
       "html_url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
         "en": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota."
@@ -138,6 +138,45 @@
     },
     {
       "rank": 4,
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "stars": 42166,
+      "stars_delta": 154,
+      "forks": 3028,
+      "forks_delta": 13,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
+      },
+      "strengths": {
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
+      },
+      "innovations": {
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
+      },
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 5,
       "full_name": "tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
@@ -163,12 +202,12 @@
         "system-design",
         "text-to-diagram"
       ],
-      "stars": 72968,
-      "stars_delta": 232,
-      "forks": 4931,
-      "forks_delta": 21,
+      "stars": 73285,
+      "stars_delta": 317,
+      "forks": 4951,
+      "forks_delta": 20,
       "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
         "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
@@ -190,45 +229,6 @@
       "insights_source": "readme"
     },
     {
-      "rank": 5,
-      "full_name": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "stars": 42012,
-      "stars_delta": 109,
-      "forks": 3015,
-      "forks_delta": 6,
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
-      "purpose": {
-        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
-      },
-      "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
-      },
-      "innovations": {
-        "zh": "【创新点】OpenCodeReview",
-        "en": "OpenCodeReview"
-      },
-      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
-      "innovations_zh": "【创新点】OpenCodeReview",
-      "innovations_en": "OpenCodeReview",
-      "insights_source": "readme"
-    },
-    {
       "rank": 6,
       "full_name": "superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
@@ -246,12 +246,12 @@
         "registry",
         "secrets"
       ],
-      "stars": 3606,
-      "stars_delta": 25,
-      "forks": 294,
-      "forks_delta": 2,
+      "stars": 3662,
+      "stars_delta": 56,
+      "forks": 298,
+      "forks_delta": 4,
       "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
@@ -274,38 +274,6 @@
     },
     {
       "rank": 7,
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 39312,
-      "stars_delta": 41,
-      "forks": 6109,
-      "forks_delta": 8,
-      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
-      "purpose": {
-        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
-      },
-      "innovations": {
-        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
-      },
-      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 8,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -331,12 +299,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 40720,
-      "stars_delta": 893,
-      "forks": 4831,
-      "forks_delta": 96,
+      "stars": 42244,
+      "stars_delta": 1524,
+      "forks": 4973,
+      "forks_delta": 142,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -358,49 +326,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 9,
-      "full_name": "pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "topics": [],
-      "stars": 2300,
-      "stars_delta": 6,
-      "forks": 496,
-      "forks_delta": 1,
-      "html_url": "https://github.com/pollen-robotics/microduck_rl",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
-      "purpose": {
-        "zh": "RL training environments for Microduck (mjlab)",
-        "en": "RL training environments for Microduck (mjlab)"
-      },
-      "strengths": {
-        "zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-        "en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…"
-      },
-      "innovations": {
-        "zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-        "en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…"
-      },
-      "purpose_zh": "RL training environments for Microduck (mjlab)",
-      "purpose_en": "RL training environments for Microduck (mjlab)",
-      "strengths_zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-      "strengths_en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-      "innovations_zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-      "innovations_en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "full_name": "magnitudedev/magnitude",
       "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "Rust",
       "topics": [],
-      "stars": 5291,
-      "stars_delta": 32,
-      "forks": 379,
-      "forks_delta": 1,
+      "stars": 5342,
+      "stars_delta": 51,
+      "forks": 381,
+      "forks_delta": 2,
       "html_url": "https://github.com/magnitudedev/magnitude",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
         "en": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
@@ -422,6 +358,70 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 9,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 37985,
+      "stars_delta": 82,
+      "forks": 5477,
+      "forks_delta": 10,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 39372,
+      "stars_delta": 60,
+      "forks": 6115,
+      "forks_delta": 6,
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
+      },
+      "innovations": {
+        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
+      },
+      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+      "insights_source": "readme"
+    },
+    {
       "rank": 11,
       "full_name": "tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
@@ -435,12 +435,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 6928,
-      "stars_delta": 23,
-      "forks": 555,
+      "stars": 6950,
+      "stars_delta": 22,
+      "forks": 556,
       "forks_delta": 1,
       "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
@@ -463,77 +463,38 @@
     },
     {
       "rank": 12,
-      "full_name": "anthropics/financial-services",
-      "description": "",
+      "full_name": "pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "topics": [],
-      "stars": 37903,
-      "stars_delta": 55,
-      "forks": 5467,
-      "forks_delta": 2,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "stars": 2314,
+      "stars_delta": 14,
+      "forks": 499,
+      "forks_delta": 3,
+      "html_url": "https://github.com/pollen-robotics/microduck_rl",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
-        "zh": "",
-        "en": ""
+        "zh": "RL training environments for Microduck (mjlab)",
+        "en": "RL training environments for Microduck (mjlab)"
       },
       "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+        "zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
+        "en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…"
       },
       "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+        "zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
+        "en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…"
       },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "purpose_zh": "RL training environments for Microduck (mjlab)",
+      "purpose_en": "RL training environments for Microduck (mjlab)",
+      "strengths_zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
+      "strengths_en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
+      "innovations_zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
+      "innovations_en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "stars": 51658,
-      "stars_delta": 83,
-      "forks": 2979,
-      "forks_delta": 4,
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
-      "purpose": {
-        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
-      },
-      "strengths": {
-        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
-      },
-      "innovations": {
-        "zh": "【创新点】Action first.",
-        "en": "Action first."
-      },
-      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
-      "innovations_zh": "【创新点】Action first.",
-      "innovations_en": "Action first.",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 14,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -559,12 +520,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 30717,
-      "stars_delta": 139,
-      "forks": 4108,
-      "forks_delta": 14,
+      "stars": 30858,
+      "stars_delta": 141,
+      "forks": 4125,
+      "forks_delta": 17,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -586,93 +547,56 @@
       "insights_source": "readme"
     },
     {
-      "rank": 15,
-      "full_name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "rank": 14,
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "topics": [],
-      "stars": 33875,
-      "stars_delta": 21,
-      "forks": 3262,
-      "forks_delta": 3,
-      "html_url": "https://github.com/google-research/timesfm",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
-      "purpose": {
-        "zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
-      },
-      "strengths": {
-        "zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-        "en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…"
-      },
-      "innovations": {
-        "zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-        "en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…"
-      },
-      "purpose_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "purpose_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "strengths_zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-      "strengths_en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-      "innovations_zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-      "innovations_en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
-      "full_name": "every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
       "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-agent",
-        "seo-audit",
-        "seo-automation",
-        "seo-skills",
-        "seo-tools",
-        "site-audit"
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
       ],
-      "stars": 21434,
-      "stars_delta": 48,
-      "forks": 2751,
-      "forks_delta": 8,
-      "html_url": "https://github.com/every-app/open-seo",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "stars": 51782,
+      "stars_delta": 124,
+      "forks": 2984,
+      "forks_delta": 5,
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
-        "zh": "Open source alternative to Semrush and Ahrefs",
-        "en": "Open source alternative to Semrush and Ahrefs"
+        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
       },
       "strengths": {
-        "zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
-        "en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…"
+        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
       },
       "innovations": {
-        "zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
-        "en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…"
+        "zh": "【创新点】Action first.",
+        "en": "Action first."
       },
-      "purpose_zh": "Open source alternative to Semrush and Ahrefs",
-      "purpose_en": "Open source alternative to Semrush and Ahrefs",
-      "strengths_zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
-      "strengths_en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
-      "innovations_zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
-      "innovations_en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
-      "insights_source": "readme-excerpt"
+      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
+      "innovations_zh": "【创新点】Action first.",
+      "innovations_en": "Action first.",
+      "insights_source": "readme"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8833,
-      "stars_delta": 31,
-      "forks": 828,
-      "forks_delta": 3,
+      "stars": 8859,
+      "stars_delta": 26,
+      "forks": 832,
+      "forks_delta": 4,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -694,7 +618,39 @@
       "insights_source": "readme"
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "full_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "topics": [],
+      "stars": 33907,
+      "stars_delta": 32,
+      "forks": 3262,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google-research/timesfm",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+      },
+      "strengths": {
+        "zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
+        "en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…"
+      },
+      "innovations": {
+        "zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
+        "en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…"
+      },
+      "purpose_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "purpose_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "strengths_zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
+      "strengths_en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
+      "innovations_zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
+      "innovations_en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
       "full_name": "Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
@@ -703,12 +659,12 @@
         "browser-use",
         "dsh-plugin"
       ],
-      "stars": 7587,
-      "stars_delta": 87,
-      "forks": 543,
-      "forks_delta": 8,
+      "stars": 7679,
+      "stars_delta": 92,
+      "forks": 549,
+      "forks_delta": 6,
       "html_url": "https://github.com/Tencent/BrowserSkill",
-      "snapshot_at": "2026-09-28T05:34:10.940Z",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
       "purpose": {
         "zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
         "en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
@@ -727,6 +683,93 @@
       "strengths_en": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
       "innovations_zh": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
       "innovations_en": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-agent",
+        "seo-audit",
+        "seo-automation",
+        "seo-skills",
+        "seo-tools",
+        "site-audit"
+      ],
+      "stars": 21494,
+      "stars_delta": 60,
+      "forks": 2763,
+      "forks_delta": 12,
+      "html_url": "https://github.com/every-app/open-seo",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "Open source alternative to Semrush and Ahrefs",
+        "en": "Open source alternative to Semrush and Ahrefs"
+      },
+      "strengths": {
+        "zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+        "en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…"
+      },
+      "innovations": {
+        "zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
+        "en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…"
+      },
+      "purpose_zh": "Open source alternative to Semrush and Ahrefs",
+      "purpose_en": "Open source alternative to Semrush and Ahrefs",
+      "strengths_zh": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+      "strengths_en": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-on…",
+      "innovations_zh": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
+      "innovations_en": "…to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? - Best in class MCP and AI Skills. - Modern, simple UI. - Focus…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 147287,
+      "stars_delta": 33812,
+      "forks": 7914,
+      "forks_delta": 0,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-09-28T14:10:11.448Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+      },
+      "innovations": {
+        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
       "insights_source": "readme-excerpt"
     }
   ]
