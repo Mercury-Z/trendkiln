@@ -26,26 +26,327 @@
       "saved": false
     },
     {
+      "id": "665",
+      "title": {
+        "zh": "Quoting Anthropic Frontier Red Team",
+        "en": "Quoting Anthropic Frontier Red Team"
+      },
+      "summary": {
+        "zh": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearl…",
+        "en": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearl…"
+      },
+      "title_zh": "Quoting Anthropic Frontier Red Team",
+      "title_en": "Quoting Anthropic Frontier Red Team",
+      "summary_zh": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearl…",
+      "summary_en": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearl…",
+      "title_text": "Quoting Anthropic Frontier Red Team",
+      "summary_text": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearl…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "published_at": "2026-09-29T22:20:28.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "666",
+      "title": {
+        "zh": "0.159.1",
+        "en": "0.159.1"
+      },
+      "summary": {
+        "zh": "New Features Added GPT-6.1 Sol as the default model in the bundled catalog and Amazon Bedrock Mantle and Runtime catalogs. ( #49323 , #49342 ) Changelog Full Changelog: rust-v0.159.0...rust-v0.159.1 #49323 [0.159] Prepare 0.159.1 release backports @andrewgu-oai #49342 [0.159] Backport GPT-6.1 Sol Bedrock catalogs @cel…",
+        "en": "New Features Added GPT-6.1 Sol as the default model in the bundled catalog and Amazon Bedrock Mantle and Runtime catalogs. ( #49323 , #49342 ) Changelog Full Changelog: rust-v0.159.0...rust-v0.159.1 #49323 [0.159] Prepare 0.159.1 release backports @andrewgu-oai #49342 [0.159] Backport GPT-6.1 Sol Bedrock catalogs @cel…"
+      },
+      "title_zh": "0.159.1",
+      "title_en": "0.159.1",
+      "summary_zh": "New Features Added GPT-6.1 Sol as the default model in the bundled catalog and Amazon Bedrock Mantle and Runtime catalogs. ( #49323 , #49342 ) Changelog Full Changelog: rust-v0.159.0...rust-v0.159.1 #49323 [0.159] Prepare 0.159.1 release backports @andrewgu-oai #49342 [0.159] Backport GPT-6.1 Sol Bedrock catalogs @cel…",
+      "summary_en": "New Features Added GPT-6.1 Sol as the default model in the bundled catalog and Amazon Bedrock Mantle and Runtime catalogs. ( #49323 , #49342 ) Changelog Full Changelog: rust-v0.159.0...rust-v0.159.1 #49323 [0.159] Prepare 0.159.1 release backports @andrewgu-oai #49342 [0.159] Backport GPT-6.1 Sol Bedrock catalogs @cel…",
+      "title_text": "0.159.1",
+      "summary_text": "New Features Added GPT-6.1 Sol as the default model in the bundled catalog and Amazon Bedrock Mantle and Runtime catalogs. ( #49323 , #49342 ) Changelog Full Changelog: rust-v0.159.0...rust-v0.159.1 #49323 [0.159] Prepare 0.159.1 release backports @andrewgu-oai #49342 [0.159] Backport GPT-6.1 Sol Bedrock catalogs @cel…",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.1",
+      "published_at": "2026-09-29T20:34:26.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "667",
+      "title": {
+        "zh": "Repository custom runner settings for Dependabot",
+        "en": "Repository custom runner settings for Dependabot"
+      },
+      "summary": {
+        "zh": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+        "en": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Repository custom runner settings for Dependabot",
+      "title_en": "Repository custom runner settings for Dependabot",
+      "summary_zh": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+      "summary_en": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+      "title_text": "Repository custom runner settings for Dependabot",
+      "summary_text": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "published_at": "2026-09-29T19:10:00.000Z",
+      "tags": [
+        "Improvement",
+        "supply chain security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "668",
+      "title": {
+        "zh": "0.161.0-alpha.2",
+        "en": "0.161.0-alpha.2"
+      },
+      "summary": {
+        "zh": "Release 0.161.0-alpha.2",
+        "en": "Release 0.161.0-alpha.2"
+      },
+      "title_zh": "0.161.0-alpha.2",
+      "title_en": "0.161.0-alpha.2",
+      "summary_zh": "Release 0.161.0-alpha.2",
+      "summary_en": "Release 0.161.0-alpha.2",
+      "title_text": "0.161.0-alpha.2",
+      "summary_text": "Release 0.161.0-alpha.2",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.2",
+      "published_at": "2026-09-29T18:41:51.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "669",
+      "title": {
+        "zh": "Bring business context with external custom properties",
+        "en": "Bring business context with external custom properties"
+      },
+      "summary": {
+        "zh": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog .",
+        "en": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Bring business context with external custom properties",
+      "title_en": "Bring business context with external custom properties",
+      "summary_zh": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog .",
+      "summary_en": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog .",
+      "title_text": "Bring business context with external custom properties",
+      "summary_text": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)… The post Bring business context with external custom properties appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+      "published_at": "2026-09-29T18:40:27.000Z",
+      "tags": [
+        "Release",
+        "platform governance"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "670",
+      "title": {
+        "zh": "GPT-6.1 Sol in GitHub Copilot",
+        "en": "GPT-6.1 Sol in GitHub Copilot"
+      },
+      "summary": {
+        "zh": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
+        "en": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog ."
+      },
+      "title_zh": "GPT-6.1 Sol in GitHub Copilot",
+      "title_en": "GPT-6.1 Sol in GitHub Copilot",
+      "summary_zh": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
+      "summary_en": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
+      "title_text": "GPT-6.1 Sol in GitHub Copilot",
+      "summary_text": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "published_at": "2026-09-29T17:02:27.000Z",
+      "tags": [
+        "Release",
+        "copilot"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "662",
       "title": {
-        "zh": "rust-v0.161.0-alpha.1",
-        "en": "rust-v0.161.0-alpha.1"
+        "zh": "0.161.0-alpha.1",
+        "en": "0.161.0-alpha.1"
       },
       "summary": {
         "zh": "Release 0.161.0-alpha.1",
         "en": "Release 0.161.0-alpha.1"
       },
-      "title_zh": "rust-v0.161.0-alpha.1",
-      "title_en": "rust-v0.161.0-alpha.1",
+      "title_zh": "0.161.0-alpha.1",
+      "title_en": "0.161.0-alpha.1",
       "summary_zh": "Release 0.161.0-alpha.1",
       "summary_en": "Release 0.161.0-alpha.1",
-      "title_text": "rust-v0.161.0-alpha.1",
+      "title_text": "0.161.0-alpha.1",
       "summary_text": "Release 0.161.0-alpha.1",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.1",
-      "published_at": "2026-09-29T08:22:39.000Z",
+      "published_at": "2026-09-29T16:33:15.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "671",
+      "title": {
+        "zh": "OpenAI DevDay 2026 live blog",
+        "en": "OpenAI DevDay 2026 live blog"
+      },
+      "summary": {
+        "zh": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+        "en": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday"
+      },
+      "title_zh": "OpenAI DevDay 2026 live blog",
+      "title_en": "OpenAI DevDay 2026 live blog",
+      "summary_zh": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+      "summary_en": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+      "title_text": "OpenAI DevDay 2026 live blog",
+      "summary_text": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "published_at": "2026-09-29T15:55:13.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "672",
+      "title": {
+        "zh": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+        "en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "title_en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published_at": "2026-09-29T15:30:38.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "673",
+      "title": {
+        "zh": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published_at": "2026-09-29T13:07:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "674",
+      "title": {
+        "zh": "Search trace spans from the Vercel CLI",
+        "en": "Search trace spans from the Vercel CLI"
+      },
+      "summary": {
+        "zh": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
+        "en": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…"
+      },
+      "title_zh": "Search trace spans from the Vercel CLI",
+      "title_en": "Search trace spans from the Vercel CLI",
+      "summary_zh": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
+      "summary_en": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
+      "title_text": "Search trace spans from the Vercel CLI",
+      "summary_text": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+      "published_at": "2026-09-29T13:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "675",
+      "title": {
+        "zh": "Introducing GPT-6.1 Sol",
+        "en": "Introducing GPT-6.1 Sol"
+      },
+      "summary": {
+        "zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+        "en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+      },
+      "title_zh": "Introducing GPT-6.1 Sol",
+      "title_en": "Introducing GPT-6.1 Sol",
+      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summary_en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "title_text": "Introducing GPT-6.1 Sol",
+      "summary_text": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T10:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "676",
+      "title": {
+        "zh": "DevDay 2026 Recap",
+        "en": "DevDay 2026 Recap"
+      },
+      "summary": {
+        "zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+        "en": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+      },
+      "title_zh": "DevDay 2026 Recap",
+      "title_en": "DevDay 2026 Recap",
+      "summary_zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "summary_en": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "title_text": "DevDay 2026 Recap",
+      "summary_text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00.000Z",
+      "tags": [
+        "Company"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -242,6 +543,56 @@
       "saved": false
     },
     {
+      "id": "677",
+      "title": {
+        "zh": "Introducing dots",
+        "en": "Introducing dots"
+      },
+      "summary": {
+        "zh": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+        "en": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      },
+      "title_zh": "Introducing dots",
+      "title_en": "Introducing dots",
+      "summary_zh": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary_en": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "title_text": "Introducing dots",
+      "summary_text": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/introducing-dots",
+      "published_at": "2026-09-29T00:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "678",
+      "title": {
+        "zh": "GPT-6.1 Sol now available on AI Gateway",
+        "en": "GPT-6.1 Sol now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs w…",
+        "en": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs w…"
+      },
+      "title_zh": "GPT-6.1 Sol now available on AI Gateway",
+      "title_en": "GPT-6.1 Sol now available on AI Gateway",
+      "summary_zh": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs w…",
+      "summary_en": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs w…",
+      "title_text": "GPT-6.1 Sol now available on AI Gateway",
+      "summary_text": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs w…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+      "published_at": "2026-09-29T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "643",
       "title": {
         "zh": "Claude Sonnet 5.5",
@@ -341,32 +692,6 @@
       "saved": false
     },
     {
-      "id": "660",
-      "title": {
-        "zh": "How we will do better for Australia",
-        "en": "How we will do better for Australia"
-      },
-      "summary": {
-        "zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-        "en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-      },
-      "title_zh": "How we will do better for Australia",
-      "title_en": "How we will do better for Australia",
-      "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "summary_en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "title_text": "How we will do better for Australia",
-      "summary_text": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "664",
       "title": {
         "zh": "Towards safety cases for frontier AI training",
@@ -388,6 +713,32 @@
       "published_at": "2026-09-28T19:00:00.000Z",
       "tags": [
         "Safety"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "660",
+      "title": {
+        "zh": "How we will do better for Australia",
+        "en": "How we will do better for Australia"
+      },
+      "summary": {
+        "zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+        "en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+      },
+      "title_zh": "How we will do better for Australia",
+      "title_en": "How we will do better for Australia",
+      "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "summary_en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "title_text": "How we will do better for Australia",
+      "summary_text": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_at": "2026-09-28T19:00:00.000Z",
+      "tags": [
+        "Company"
       ],
       "read_at": null,
       "saved": false
@@ -442,30 +793,6 @@
         "Release",
         "copilot"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "640",
-      "title": {
-        "zh": "0.159.0-alpha.13",
-        "en": "0.159.0-alpha.13"
-      },
-      "summary": {
-        "zh": "Release 0.159.0-alpha.13",
-        "en": "Release 0.159.0-alpha.13"
-      },
-      "title_zh": "0.159.0-alpha.13",
-      "title_en": "0.159.0-alpha.13",
-      "summary_zh": "Release 0.159.0-alpha.13",
-      "summary_en": "Release 0.159.0-alpha.13",
-      "title_text": "0.159.0-alpha.13",
-      "summary_text": "Release 0.159.0-alpha.13",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.13",
-      "published_at": "2026-09-28T15:32:49.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -563,30 +890,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
       "published_at": "2026-09-28T04:01:30.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "632",
-      "title": {
-        "zh": "0.159.0-alpha.12",
-        "en": "0.159.0-alpha.12"
-      },
-      "summary": {
-        "zh": "Release 0.159.0-alpha.12",
-        "en": "Release 0.159.0-alpha.12"
-      },
-      "title_zh": "0.159.0-alpha.12",
-      "title_en": "0.159.0-alpha.12",
-      "summary_zh": "Release 0.159.0-alpha.12",
-      "summary_en": "Release 0.159.0-alpha.12",
-      "title_text": "0.159.0-alpha.12",
-      "summary_text": "Release 0.159.0-alpha.12",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.12",
-      "published_at": "2026-09-28T03:27:03.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1072,88 +1375,6 @@
       "saved": false
     },
     {
-      "id": "595",
-      "title": {
-        "zh": "GitHub Copilot weekly releases — September 21",
-        "en": "GitHub Copilot weekly releases — September 21"
-      },
-      "summary": {
-        "zh": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog .",
-        "en": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog ."
-      },
-      "title_zh": "GitHub Copilot weekly releases — September 21",
-      "title_en": "GitHub Copilot weekly releases — September 21",
-      "summary_zh": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog .",
-      "summary_en": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog .",
-      "title_text": "GitHub Copilot weekly releases — September 21",
-      "summary_text": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus… The post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "published_at": "2026-09-25T16:42:48.000Z",
-      "tags": [
-        "Release",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "596",
-      "title": {
-        "zh": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "en": "Updates to GitHub Copilot for Slack and Microsoft Teams"
-      },
-      "summary": {
-        "zh": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or… The post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog .",
-        "en": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or… The post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "summary_zh": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or… The post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog .",
-      "summary_en": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or… The post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog .",
-      "title_text": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "summary_text": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or… The post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-      "published_at": "2026-09-25T16:33:42.000Z",
-      "tags": [
-        "Improvement",
-        "collaboration tools",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "592",
-      "title": {
-        "zh": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support"
-      },
-      "summary": {
-        "zh": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .",
-        "en": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog ."
-      },
-      "title_zh": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "summary_zh": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .",
-      "summary_en": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .",
-      "title_text": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "summary_text": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "published_at": "2026-09-25T09:55:23.000Z",
-      "tags": [
-        "Improvement",
-        "application security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "609",
       "title": {
         "zh": "Push images to Vercel Container Registry from GitHub Actions",
@@ -1620,30 +1841,6 @@
       "saved": false
     },
     {
-      "id": "552",
-      "title": {
-        "zh": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "published_at": "2026-09-23T18:41:40.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "553",
       "title": {
         "zh": "Rendering huge pull requests in the GitHub Copilot app",
@@ -1793,208 +1990,6 @@
       "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
       "published_at": "2026-09-23T16:37:18.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "543",
-      "title": {
-        "zh": "Two years of OpenAI Academy",
-        "en": "Two years of OpenAI Academy"
-      },
-      "summary": {
-        "zh": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-      },
-      "title_zh": "Two years of OpenAI Academy",
-      "title_en": "Two years of OpenAI Academy",
-      "summary_zh": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "summary_en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "title_text": "Two years of OpenAI Academy",
-      "summary_text": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "published_at": "2026-09-23T16:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "545",
-      "title": {
-        "zh": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-        "en": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)"
-      },
-      "summary": {
-        "zh": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
-        "en": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself."
-      },
-      "title_zh": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-      "title_en": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-      "summary_zh": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
-      "summary_en": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
-      "title_text": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-      "summary_text": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
-      "published_at": "2026-09-23T13:27:18.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "548",
-      "title": {
-        "zh": "OpenAI extends cyber access to Ukraine for civilian defense",
-        "en": "OpenAI extends cyber access to Ukraine for civilian defense"
-      },
-      "summary": {
-        "zh": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-        "en": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-      },
-      "title_zh": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary_zh": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "summary_en": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "title_text": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary_text": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published_at": "2026-09-23T13:00:00.000Z",
-      "tags": [
-        "Global Affairs"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "560",
-      "title": {
-        "zh": "How invideo improves color grading 3x with GPT‑6 Astra",
-        "en": "How invideo improves color grading 3x with GPT‑6 Astra"
-      },
-      "summary": {
-        "zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-        "en": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
-      },
-      "title_zh": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary_zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "summary_en": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "title_text": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary_text": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "published_at": "2026-09-23T12:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "541",
-      "title": {
-        "zh": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-      },
-      "summary": {
-        "zh": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-        "en": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-      },
-      "title_zh": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary_zh": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "summary_en": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "title_text": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary_text": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/ringg",
-      "published_at": "2026-09-23T12:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "558",
-      "title": {
-        "zh": "Sam Altman’s remarks at the United Nations Security Council",
-        "en": "Sam Altman’s remarks at the United Nations Security Council"
-      },
-      "summary": {
-        "zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-        "en": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-      },
-      "title_zh": "Sam Altman’s remarks at the United Nations Security Council",
-      "title_en": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary_zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "summary_en": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "title_text": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary_text": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published_at": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "Global Affairs"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "559",
-      "title": {
-        "zh": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "en": "Harvey turns legal context into stronger drafts with GPT-6 Astra"
-      },
-      "summary": {
-        "zh": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-        "en": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-      },
-      "title_zh": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary_zh": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "summary_en": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "title_text": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary_text": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published_at": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "Startup"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "561",
-      "title": {
-        "zh": "Introducing MentalHealthBench",
-        "en": "Introducing MentalHealthBench"
-      },
-      "summary": {
-        "zh": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-        "en": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-      },
-      "title_zh": "Introducing MentalHealthBench",
-      "title_en": "Introducing MentalHealthBench",
-      "summary_zh": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "summary_en": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "title_text": "Introducing MentalHealthBench",
-      "summary_text": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "published_at": "2026-09-23T10:00:00.000Z",
-      "tags": [
-        "Publication"
-      ],
       "read_at": null,
       "saved": false
     }
