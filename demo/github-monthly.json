@@ -18,38 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 22849,
-      "stars_delta": 124,
-      "forks": 1334,
-      "forks_delta": 12,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
@@ -67,12 +35,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 44712,
-      "stars_delta": 151,
-      "forks": 9118,
-      "forks_delta": 63,
+      "stars": 44867,
+      "stars_delta": 155,
+      "forks": 9152,
+      "forks_delta": 34,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -94,50 +62,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "miuuyy/codex-chatgpt-web",
-      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-      "language": "TypeScript",
-      "topics": [
-        "chatgpt",
-        "chatgpt-pro",
-        "codex",
-        "free-ai",
-        "mcp",
-        "openai",
-        "playwright",
-        "quickstart",
-        "responses-api",
-        "typescript"
-      ],
-      "stars": 12646,
-      "stars_delta": 135,
-      "forks": 999,
-      "forks_delta": 7,
-      "html_url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-        "en": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota."
-      },
-      "strengths": {
-        "zh": "&nbsp; &nbsp; macOS Intel · All releases English · 简体中文 · 日本語 · 한국어 Get started · What’s new · Architecture · Troubleshooting Use the ChatGPT Web models available on your account, including Pro, from Codex’s native model picker—wi…",
-        "en": "&nbsp; &nbsp; macOS Intel · All releases English · 简体中文 · 日本語 · 한국어 Get started · What’s new · Architecture · Troubleshooting Use the ChatGPT Web models available on your account, including Pro, from Codex’s native model picker—wi…"
-      },
-      "innovations": {
-        "zh": "…PT to the current task’s files, terminal, tools, and approvals through MCP. Conversations stay tied to your Codex task, so you can keep working as the context grows. Get started Available models: Free/Go → Luna / Think. Accounts w…",
-        "en": "…PT to the current task’s files, terminal, tools, and approvals through MCP. Conversations stay tied to your Codex task, so you can keep working as the context grows. Get started Available models: Free/Go → Luna / Think. Accounts w…"
-      },
-      "purpose_zh": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-      "purpose_en": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-      "strengths_zh": "&nbsp; &nbsp; macOS Intel · All releases English · 简体中文 · 日本語 · 한국어 Get started · What’s new · Architecture · Troubleshooting Use the ChatGPT Web models available on your account, including Pro, from Codex’s native model picker—wi…",
-      "strengths_en": "&nbsp; &nbsp; macOS Intel · All releases English · 简体中文 · 日本語 · 한국어 Get started · What’s new · Architecture · Troubleshooting Use the ChatGPT Web models available on your account, including Pro, from Codex’s native model picker—wi…",
-      "innovations_zh": "…PT to the current task’s files, terminal, tools, and approvals through MCP. Conversations stay tied to your Codex task, so you can keep working as the context grows. Get started Available models: Free/Go → Luna / Think. Accounts w…",
-      "innovations_en": "…PT to the current task’s files, terminal, tools, and approvals through MCP. Conversations stay tied to your Codex task, so you can keep working as the context grows. Get started Available models: Free/Go → Luna / Think. Accounts w…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "full_name": "alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
@@ -149,12 +74,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 42384,
-      "stars_delta": 104,
-      "forks": 3038,
-      "forks_delta": 3,
+      "stars": 42504,
+      "stars_delta": 120,
+      "forks": 3051,
+      "forks_delta": 13,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -176,7 +101,48 @@
       "insights_source": "readme"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "stars": 269342,
+      "stars_delta": 26502,
+      "forks": 40251,
+      "forks_delta": 0,
+      "html_url": "https://github.com/affaan-m/ECC",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+      },
+      "strengths": {
+        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
+      },
+      "innovations": {
+        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
+      },
+      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
       "full_name": "tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
@@ -202,12 +168,12 @@
         "system-design",
         "text-to-diagram"
       ],
-      "stars": 73709,
-      "stars_delta": 191,
-      "forks": 4972,
-      "forks_delta": 8,
+      "stars": 73963,
+      "stars_delta": 254,
+      "forks": 4983,
+      "forks_delta": 11,
       "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
         "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
@@ -229,272 +195,46 @@
       "insights_source": "readme"
     },
     {
-      "rank": 6,
-      "full_name": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "rank": 5,
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "topics": [
-        "agents",
-        "api-keys",
-        "cli",
-        "credentials",
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
         "developer-tools",
-        "dsh-plugin",
-        "mcp",
-        "proxy",
-        "python",
-        "registry",
-        "secrets"
+        "productivity"
       ],
-      "stars": 3761,
-      "stars_delta": 27,
-      "forks": 309,
-      "forks_delta": 5,
-      "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "stars": 52039,
+      "stars_delta": 90,
+      "forks": 2995,
+      "forks_delta": 6,
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
-        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
       },
       "strengths": {
-        "zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-        "en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…"
+        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
       },
       "innovations": {
-        "zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-        "en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…"
+        "zh": "【创新点】Action first.",
+        "en": "Action first."
       },
-      "purpose_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "purpose_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "strengths_zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "strengths_en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "innovations_zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-      "innovations_en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "stars": 44971,
-      "stars_delta": 1065,
-      "forks": 5155,
-      "forks_delta": 70,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-      },
-      "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
-      },
-      "innovations": {
-        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
-      },
-      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
-      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
+      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
+      "innovations_zh": "【创新点】Action first.",
+      "innovations_en": "Action first.",
       "insights_source": "readme"
     },
     {
-      "rank": 8,
-      "full_name": "magnitudedev/magnitude",
-      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 5427,
-      "stars_delta": 33,
-      "forks": 386,
-      "forks_delta": 2,
-      "html_url": "https://github.com/magnitudedev/magnitude",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-        "en": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
-      },
-      "strengths": {
-        "zh": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
-        "en": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…"
-      },
-      "innovations": {
-        "zh": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
-        "en": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…"
-      },
-      "purpose_zh": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-      "purpose_en": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
-      "strengths_zh": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
-      "strengths_en": "Magnitude Run the best local models for your machine Magnitude is an open source inference engine optimized for consumer hardware. It profiles your machine, recommends the best models for it, then downloads, tunes, and runs them.…",
-      "innovations_zh": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
-      "innovations_en": "…Star this repo! https://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329 Get started Download Magnitude for macOS, Windows, or Linux 1. Install and open the Magnitude app. 2. Choose a recommended model in D…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 38118,
-      "stars_delta": 69,
-      "forks": 5488,
-      "forks_delta": 7,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 39448,
-      "stars_delta": 45,
-      "forks": 6126,
-      "forks_delta": 5,
-      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
-      },
-      "innovations": {
-        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
-      },
-      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 11,
-      "full_name": "tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai",
-        "antigravity",
-        "claude-code",
-        "copilot",
-        "cursor",
-        "skills"
-      ],
-      "stars": 6997,
-      "stars_delta": 17,
-      "forks": 558,
-      "forks_delta": 0,
-      "html_url": "https://github.com/tech-leads-club/agent-skills",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
-      },
-      "strengths": {
-        "zh": "🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of veri…",
-        "en": "🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of veri…"
-      },
-      "innovations": {
-        "zh": "…able of Contents - ✨ What are Skills? - 🛡️ Security & Trust - 🤖 Supported Agents - 🌟 Featured Skills - 🚀 Quick Start - ⚡ How It Works - 🔌 MCP Server - 🤝 Contributing - 🛡️ Content & Authorship - 📄 License and Attribution ✨…",
-        "en": "…able of Contents - ✨ What are Skills? - 🛡️ Security & Trust - 🤖 Supported Agents - 🌟 Featured Skills - 🚀 Quick Start - ⚡ How It Works - 🔌 MCP Server - 🤝 Contributing - 🛡️ Content & Authorship - 📄 License and Attribution ✨…"
-      },
-      "purpose_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "purpose_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "strengths_zh": "🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of veri…",
-      "strengths_en": "🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of veri…",
-      "innovations_zh": "…able of Contents - ✨ What are Skills? - 🛡️ Security & Trust - 🤖 Supported Agents - 🌟 Featured Skills - 🚀 Quick Start - ⚡ How It Works - 🔌 MCP Server - 🤝 Contributing - 🛡️ Content & Authorship - 📄 License and Attribution ✨…",
-      "innovations_en": "…able of Contents - ✨ What are Skills? - 🛡️ Security & Trust - 🤖 Supported Agents - 🌟 Featured Skills - 🚀 Quick Start - ⚡ How It Works - 🔌 MCP Server - 🤝 Contributing - 🛡️ Content & Authorship - 📄 License and Attribution ✨…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "topics": [],
-      "stars": 2332,
-      "stars_delta": 10,
-      "forks": 500,
-      "forks_delta": 0,
-      "html_url": "https://github.com/pollen-robotics/microduck_rl",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "RL training environments for Microduck (mjlab)",
-        "en": "RL training environments for Microduck (mjlab)"
-      },
-      "strengths": {
-        "zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-        "en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…"
-      },
-      "innovations": {
-        "zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-        "en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…"
-      },
-      "purpose_zh": "RL training environments for Microduck (mjlab)",
-      "purpose_en": "RL training environments for Microduck (mjlab)",
-      "strengths_zh": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-      "strengths_en": "Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime…",
-      "innovations_zh": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-      "innovations_en": "…sics, domain randomization, backlash simulation, and the reward-design lessons that made it work (see AGENTS.md for the distilled playbook). Quickstart Requires a CUDA GPU (training runs through MuJoCo Warp) and uv. On ARM boxes (…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
+      "rank": 6,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -520,12 +260,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 31049,
-      "stars_delta": 110,
-      "forks": 4150,
-      "forks_delta": 17,
+      "stars": 31173,
+      "stars_delta": 124,
+      "forks": 4166,
+      "forks_delta": 16,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -547,56 +287,379 @@
       "insights_source": "readme"
     },
     {
-      "rank": 14,
-      "full_name": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "rank": 7,
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
+        "agents",
+        "api-keys",
+        "cli",
+        "credentials",
         "developer-tools",
-        "productivity"
+        "dsh-plugin",
+        "mcp",
+        "proxy",
+        "python",
+        "registry",
+        "secrets"
       ],
-      "stars": 51949,
-      "stars_delta": 65,
-      "forks": 2989,
-      "forks_delta": 3,
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "stars": 3795,
+      "stars_delta": 34,
+      "forks": 311,
+      "forks_delta": 2,
+      "html_url": "https://github.com/superdesigndev/treg",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
-        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
       },
       "strengths": {
-        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
+        "zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+        "en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…"
       },
       "innovations": {
-        "zh": "【创新点】Action first.",
-        "en": "Action first."
+        "zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+        "en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…"
       },
-      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
-      "innovations_zh": "【创新点】Action first.",
-      "innovations_en": "Action first.",
+      "purpose_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "purpose_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "strengths_zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+      "strengths_en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
+      "innovations_zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+      "innovations_en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 39503,
+      "stars_delta": 55,
+      "forks": 6130,
+      "forks_delta": 4,
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
+      },
+      "innovations": {
+        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
+      },
+      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
+      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
+      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
+      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
       "insights_source": "readme"
     },
     {
+      "rank": 9,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 38167,
+      "stars_delta": 49,
+      "forks": 5498,
+      "forks_delta": 10,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "topics": [
+        "c-plus-plus",
+        "chrono",
+        "cpp",
+        "cross-platform",
+        "floating-point",
+        "formatting",
+        "multiplatform",
+        "output",
+        "performance",
+        "printf",
+        "ranges",
+        "unicode"
+      ],
+      "stars": 25824,
+      "stars_delta": 2108,
+      "forks": 3071,
+      "forks_delta": 0,
+      "html_url": "https://github.com/fmtlib/fmt",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "A modern formatting library",
+        "en": "A modern formatting library"
+      },
+      "strengths": {
+        "zh": "{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt. Try {fmt} in Compiler Explorer. Featur…",
+        "en": "{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt. Try {fmt} in Compiler Explorer. Featur…"
+      },
+      "innovations": {
+        "zh": "…ormat - Fast IEEE 754 floating-point formatter with correct rounding, shortness and round-trip guarantees using the Dragonbox algorithm - Portable Unicode support - Safe printf implementation including the POSIX extension for posi…",
+        "en": "…ormat - Fast IEEE 754 floating-point formatter with correct rounding, shortness and round-trip guarantees using the Dragonbox algorithm - Portable Unicode support - Safe printf implementation including the POSIX extension for posi…"
+      },
+      "purpose_zh": "A modern formatting library",
+      "purpose_en": "A modern formatting library",
+      "strengths_zh": "{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt. Try {fmt} in Compiler Explorer. Featur…",
+      "strengths_en": "{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt. Try {fmt} in Compiler Explorer. Featur…",
+      "innovations_zh": "…ormat - Fast IEEE 754 floating-point formatter with correct rounding, shortness and round-trip guarantees using the Dragonbox algorithm - Portable Unicode support - Safe printf implementation including the POSIX extension for posi…",
+      "innovations_en": "…ormat - Fast IEEE 754 floating-point formatter with correct rounding, shortness and round-trip guarantees using the Dragonbox algorithm - Portable Unicode support - Safe printf implementation including the POSIX extension for posi…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "stars": 24207,
+      "stars_delta": 4067,
+      "forks": 1749,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mksglu/context-mode",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+      },
+      "strengths": {
+        "zh": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+        "en": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…"
+      },
+      "innovations": {
+        "zh": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+        "en": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…"
+      },
+      "purpose_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "purpose_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "strengths_zh": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+      "strengths_en": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+      "innovations_zh": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+      "innovations_en": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 147907,
+      "stars_delta": 230,
+      "forks": 7946,
+      "forks_delta": 10,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+      },
+      "innovations": {
+        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 93956,
+      "stars_delta": 14617,
+      "forks": 15988,
+      "forks_delta": 0,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 54090,
+      "stars_delta": 11091,
+      "forks": 4930,
+      "forks_delta": 0,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 15,
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai-memory",
+        "memory"
+      ],
+      "stars": 42056,
+      "stars_delta": 20604,
+      "forks": 5640,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vectorize-io/hindsight",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Hindsight: Agent Memory That Learns",
+        "en": "Hindsight: Agent Memory That Learns"
+      },
+      "strengths": {
+        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
+      },
+      "innovations": {
+        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
+      },
+      "purpose_zh": "Hindsight: Agent Memory That Learns",
+      "purpose_en": "Hindsight: Agent Memory That Learns",
+      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8919,
-      "stars_delta": 25,
-      "forks": 839,
-      "forks_delta": 3,
+      "stars": 8951,
+      "stars_delta": 32,
+      "forks": 841,
+      "forks_delta": 2,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -618,75 +681,178 @@
       "insights_source": "readme"
     },
     {
-      "rank": 16,
-      "full_name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "topics": [],
-      "stars": 33950,
-      "stars_delta": 14,
-      "forks": 3267,
-      "forks_delta": 2,
-      "html_url": "https://github.com/google-research/timesfm",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
-      "purpose": {
-        "zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
-      },
-      "strengths": {
-        "zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-        "en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…"
-      },
-      "innovations": {
-        "zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-        "en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…"
-      },
-      "purpose_zh": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "purpose_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "strengths_zh": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-      "strengths_en": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. (…",
-      "innovations_zh": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-      "innovations_en": "…ming soon!). TimesFM in Google 1P Products: BigQuery ML: Enterprise level SQL queries for scalability and reliability. Google Sheets: For your daily spreadsheet. Vertex Model Garden: Dockerized endpoint for agentic calling. This o…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 17,
-      "full_name": "Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
       "topics": [
         "agent",
-        "browser-use",
-        "dsh-plugin"
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
       ],
-      "stars": 7808,
-      "stars_delta": 64,
-      "forks": 553,
-      "forks_delta": 2,
-      "html_url": "https://github.com/Tencent/BrowserSkill",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "stars": 27087,
+      "stars_delta": 4924,
+      "forks": 1889,
+      "forks_delta": 0,
+      "html_url": "https://github.com/trycua/cua",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
-        "zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-        "en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
+        "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
       },
       "strengths": {
-        "zh": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-        "en": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…"
+        "zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+        "en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…"
       },
       "innovations": {
-        "zh": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
-        "en": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…"
+        "zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+        "en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…"
       },
-      "purpose_zh": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "purpose_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "strengths_zh": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-      "strengths_en": "BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to…",
-      "innovations_zh": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
-      "innovations_en": "…st of your browser alone. https://github.com/user-attachments/assets/db782c92-b1d4-4aae-a255-039675937a90 BrowserSkill Advantages - Reuse real login state: Agents can work with sites you are already signed into, without separate t…",
+      "purpose_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "purpose_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "strengths_zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+      "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 18,
+      "full_name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
+      "stars": 8463,
+      "stars_delta": 1844,
+      "forks": 302,
+      "forks_delta": 0,
+      "html_url": "https://github.com/max-sixty/worktrunk",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+        "en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
+      },
+      "innovations": {
+        "zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+        "en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…"
+      },
+      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "strengths_zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "strengths_en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "innovations_zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+      "innovations_en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
+      "full_name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "topics": [
+        "agent-security",
+        "agent-skills",
+        "agentic-ai",
+        "ai-security",
+        "claude-code",
+        "mcp",
+        "prompt-injection",
+        "security-scanner",
+        "security-tools",
+        "security-workflow",
+        "supply-chain-security"
+      ],
+      "stars": 18574,
+      "stars_delta": 3493,
+      "forks": 1620,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/SkillSpector",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+      },
+      "strengths": {
+        "zh": "SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute…",
+        "en": "SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute…"
+      },
+      "innovations": {
+        "zh": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…",
+        "en": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…"
+      },
+      "purpose_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "purpose_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "strengths_zh": "SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute…",
+      "strengths_en": "SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute…",
+      "innovations_zh": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…",
+      "innovations_en": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 20,
+      "full_name": "longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "topics": [
+        "desktop-application",
+        "gpui",
+        "rust",
+        "uikit"
+      ],
+      "stars": 15011,
+      "stars_delta": 1386,
+      "forks": 941,
+      "forks_delta": 0,
+      "html_url": "https://github.com/longbridge/gpui-kit",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
+      },
+      "strengths": {
+        "zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+        "en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…"
+      },
+      "innovations": {
+        "zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+        "en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…"
+      },
+      "purpose_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "purpose_en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "strengths_zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+      "strengths_en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+      "innovations_zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+      "innovations_en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 21,
       "full_name": "every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
@@ -703,12 +869,12 @@
         "seo-tools",
         "site-audit"
       ],
-      "stars": 21617,
-      "stars_delta": 40,
-      "forks": 2769,
-      "forks_delta": 3,
+      "stars": 21685,
+      "stars_delta": 68,
+      "forks": 2779,
+      "forks_delta": 10,
       "html_url": "https://github.com/every-app/open-seo",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
         "zh": "Open source alternative to Semrush and Ahrefs",
         "en": "Open source alternative to Semrush and Ahrefs"
@@ -730,46 +896,79 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 19,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 147677,
-      "stars_delta": 144,
-      "forks": 7936,
-      "forks_delta": 11,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-09-29T05:52:13.516Z",
+      "rank": 22,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 25828,
+      "stars_delta": 2190,
+      "forks": 3041,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
       "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
       },
       "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
       },
       "innovations": {
-        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
       },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 23,
+      "full_name": "ahujasid/mcp-for-blender",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "language": "Python",
+      "topics": [
+        "3d-modeling",
+        "ai",
+        "blender",
+        "blender-addon",
+        "blender-mcp",
+        "claude",
+        "generative-ai",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "python"
+      ],
+      "stars": 29600,
+      "stars_delta": 3209,
+      "forks": 2700,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ahujasid/mcp-for-blender",
+      "snapshot_at": "2026-09-29T13:05:31.646Z",
+      "purpose": {
+        "zh": "Community plugin to control Blender 3D with any LLM of your choice",
+        "en": "Community plugin to control Blender 3D with any LLM of your choice"
+      },
+      "strengths": {
+        "zh": "MCP for Blender Connect Blender to any LLM formerly blender-mcp — the PyPI package is now mcp-for-blender. Existing setups keep working; no config change is required. Read more Disclaimer: This is a third-party integration and not…",
+        "en": "MCP for Blender Connect Blender to any LLM formerly blender-mcp — the PyPI package is now mcp-for-blender. Existing setups keep working; no config change is required. Read more Disclaimer: This is a third-party integration and not…"
+      },
+      "innovations": {
+        "zh": "…pporters CodeRabbit Kevin Guanche Darias Guillermo Rauch All supporters: Support this project --- Quickstart Note: the PyPI package blender-mcp is now mcp-for-blender. Existing setups keep working — uvx blender-mcp still runs the…",
+        "en": "…pporters CodeRabbit Kevin Guanche Darias Guillermo Rauch All supporters: Support this project --- Quickstart Note: the PyPI package blender-mcp is now mcp-for-blender. Existing setups keep working — uvx blender-mcp still runs the…"
+      },
+      "purpose_zh": "Community plugin to control Blender 3D with any LLM of your choice",
+      "purpose_en": "Community plugin to control Blender 3D with any LLM of your choice",
+      "strengths_zh": "MCP for Blender Connect Blender to any LLM formerly blender-mcp — the PyPI package is now mcp-for-blender. Existing setups keep working; no config change is required. Read more Disclaimer: This is a third-party integration and not…",
+      "strengths_en": "MCP for Blender Connect Blender to any LLM formerly blender-mcp — the PyPI package is now mcp-for-blender. Existing setups keep working; no config change is required. Read more Disclaimer: This is a third-party integration and not…",
+      "innovations_zh": "…pporters CodeRabbit Kevin Guanche Darias Guillermo Rauch All supporters: Support this project --- Quickstart Note: the PyPI package blender-mcp is now mcp-for-blender. Existing setups keep working — uvx blender-mcp still runs the…",
+      "innovations_en": "…pporters CodeRabbit Kevin Guanche Darias Guillermo Rauch All supporters: Support this project --- Quickstart Note: the PyPI package blender-mcp is now mcp-for-blender. Existing setups keep working — uvx blender-mcp still runs the…",
       "insights_source": "readme-excerpt"
     }
   ]

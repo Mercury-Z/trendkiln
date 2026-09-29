@@ -18,48 +18,16 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 38118,
-      "stars_delta": 69,
-      "forks": 5488,
-      "forks_delta": 7,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 93286,
-      "stars_delta": 597,
-      "forks": 15931,
-      "forks_delta": 51,
+      "stars": 93956,
+      "stars_delta": 670,
+      "forks": 15988,
+      "forks_delta": 57,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -81,6 +49,38 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 2,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 38167,
+      "stars_delta": 49,
+      "forks": 5498,
+      "forks_delta": 10,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 3,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
@@ -91,12 +91,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 41425,
-      "stars_delta": 517,
-      "forks": 5575,
-      "forks_delta": 43,
+      "stars": 42055,
+      "stars_delta": 630,
+      "forks": 5640,
+      "forks_delta": 65,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -119,299 +119,6 @@
     },
     {
       "rank": 4,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 22849,
-      "stars_delta": 124,
-      "forks": 1334,
-      "forks_delta": 12,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "stars": 32103,
-      "stars_delta": 31,
-      "forks": 3653,
-      "forks_delta": 0,
-      "html_url": "https://github.com/davila7/claude-code-templates",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "CLI tool for configuring and monitoring Claude Code",
-        "en": "CLI tool for configuring and monitoring Claude Code"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
-      },
-      "innovations": {
-        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
-      },
-      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
-      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
-      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
-      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "stars": 31049,
-      "stars_delta": 110,
-      "forks": 4150,
-      "forks_delta": 17,
-      "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
-        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-      },
-      "strengths": {
-        "zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-        "en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*"
-      },
-      "innovations": {
-        "zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-        "en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide"
-      },
-      "purpose_zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
-      "purpose_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "strengths_zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-      "strengths_en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-      "innovations_zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-      "innovations_en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 7,
-      "full_name": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "topics": [
-        "blog",
-        "browser",
-        "compiler",
-        "components",
-        "hybrid",
-        "nextjs",
-        "node",
-        "react",
-        "server-rendering",
-        "ssg",
-        "static",
-        "static-site-generator",
-        "universal",
-        "vercel"
-      ],
-      "stars": 142874,
-      "stars_delta": 17,
-      "forks": 33426,
-      "forks_delta": 60,
-      "html_url": "https://github.com/vercel/next.js",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "The React Framework",
-        "en": "The React Framework"
-      },
-      "strengths": {
-        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
-      },
-      "innovations": {
-        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
-      },
-      "purpose_zh": "The React Framework",
-      "purpose_en": "The React Framework",
-      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "cursor-agent",
-        "devtools",
-        "ghostty",
-        "ide",
-        "mobile-app",
-        "opencode",
-        "orchestration",
-        "parallel-agents",
-        "pi",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "stars": 80946,
-      "stars_delta": 272,
-      "forks": 5268,
-      "forks_delta": 16,
-      "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-      },
-      "strengths": {
-        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
-      },
-      "innovations": {
-        "zh": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
-        "en": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…"
-      },
-      "purpose_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "purpose_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "innovations_zh": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
-      "innovations_en": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "topics": [],
-      "stars": 50920,
-      "stars_delta": 38,
-      "forks": 4647,
-      "forks_delta": 0,
-      "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-      },
-      "strengths": {
-        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
-      },
-      "innovations": {
-        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
-      },
-      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "topics": [
-        "autograd",
-        "deep-learning",
-        "gpu",
-        "machine-learning",
-        "neural-network",
-        "numpy",
-        "python",
-        "tensor"
-      ],
-      "stars": 103483,
-      "stars_delta": 18,
-      "forks": 30896,
-      "forks_delta": 53,
-      "html_url": "https://github.com/pytorch/pytorch",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-      },
-      "strengths": {
-        "zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-        "en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…"
-      },
-      "innovations": {
-        "zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-        "en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…"
-      },
-      "purpose_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "purpose_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "strengths_zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "strengths_en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "innovations_zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-      "innovations_en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -437,12 +144,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 44971,
-      "stars_delta": 1065,
-      "forks": 5155,
-      "forks_delta": 70,
+      "stars": 46515,
+      "stars_delta": 1544,
+      "forks": 5273,
+      "forks_delta": 118,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -464,7 +171,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 12,
+      "rank": 5,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -490,12 +197,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 60562,
-      "stars_delta": 200,
-      "forks": 10430,
-      "forks_delta": 39,
+      "stars": 60864,
+      "stars_delta": 302,
+      "forks": 10479,
+      "forks_delta": 49,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -517,7 +224,372 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 6,
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components",
+        "hybrid",
+        "nextjs",
+        "node",
+        "react",
+        "server-rendering",
+        "ssg",
+        "static",
+        "static-site-generator",
+        "universal",
+        "vercel"
+      ],
+      "stars": 142883,
+      "stars_delta": 9,
+      "forks": 33481,
+      "forks_delta": 55,
+      "html_url": "https://github.com/vercel/next.js",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "The React Framework",
+        "en": "The React Framework"
+      },
+      "strengths": {
+        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
+      },
+      "innovations": {
+        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
+      },
+      "purpose_zh": "The React Framework",
+      "purpose_en": "The React Framework",
+      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "topics": [],
+      "stars": 50966,
+      "stars_delta": 46,
+      "forks": 4652,
+      "forks_delta": 5,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      },
+      "strengths": {
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
+      },
+      "innovations": {
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
+      },
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 32140,
+      "stars_delta": 37,
+      "forks": 3655,
+      "forks_delta": 2,
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "CLI tool for configuring and monitoring Claude Code",
+        "en": "CLI tool for configuring and monitoring Claude Code"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+        "en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…"
+      },
+      "innovations": {
+        "zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+        "en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…"
+      },
+      "purpose_zh": "CLI tool for configuring and monitoring Claude Code",
+      "purpose_en": "CLI tool for configuring and monitoring Claude Code",
+      "strengths_zh": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "strengths_en": "&nbsp;&nbsp; &nbsp;&nbsp; --- Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. --- Claude Cod…",
+      "innovations_zh": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "innovations_en": "…grations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "stars": 81272,
+      "stars_delta": 326,
+      "forks": 5287,
+      "forks_delta": 19,
+      "html_url": "https://github.com/stablyai/orca",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      "strengths": {
+        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
+      },
+      "innovations": {
+        "zh": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
+        "en": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…"
+      },
+      "purpose_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "purpose_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "innovations_zh": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
+      "innovations_en": "…· Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "stars": 103516,
+      "stars_delta": 33,
+      "forks": 30951,
+      "forks_delta": 55,
+      "html_url": "https://github.com/pytorch/pytorch",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+      },
+      "strengths": {
+        "zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+        "en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…"
+      },
+      "innovations": {
+        "zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+        "en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…"
+      },
+      "purpose_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "purpose_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "strengths_zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+      "strengths_en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
+      "innovations_zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+      "innovations_en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "stars": 31173,
+      "stars_delta": 124,
+      "forks": 4166,
+      "forks_delta": 16,
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+      },
+      "strengths": {
+        "zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+        "en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*"
+      },
+      "innovations": {
+        "zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+        "en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide"
+      },
+      "purpose_zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
+      "purpose_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "strengths_zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "strengths_en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
+      "innovations_zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "innovations_en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 12,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 22996,
+      "stars_delta": 147,
+      "forks": 1341,
+      "forks_delta": 7,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 13,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 72368,
+      "stars_delta": 2547,
+      "forks": 4375,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "stars": 5674,
+      "stars_delta": 79,
+      "forks": 706,
+      "forks_delta": 16,
+      "html_url": "https://github.com/TencentCloud/Octop",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      },
+      "strengths": {
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
+      },
+      "innovations": {
+        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
+      },
+      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
       "full_name": "trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
@@ -541,12 +613,12 @@
         "windows",
         "windows-sandbox"
       ],
-      "stars": 26902,
-      "stars_delta": 52,
-      "forks": 1874,
-      "forks_delta": 7,
+      "stars": 27087,
+      "stars_delta": 185,
+      "forks": 1889,
+      "forks_delta": 15,
       "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
@@ -568,149 +640,46 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "topics": [],
-      "stars": 8593,
-      "stars_delta": 34,
-      "forks": 582,
-      "forks_delta": 1,
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-      },
-      "strengths": {
-        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…"
-      },
-      "innovations": {
-        "zh": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
-        "en": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…"
-      },
-      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding a…",
-      "innovations_zh": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
-      "innovations_en": "…notes live on one machine, belong to one agent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. - It follows you across agents. Twenty-plus harnesses — Claude…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 5560,
-      "stars_delta": 10,
-      "forks": 264,
-      "forks_delta": 0,
-      "html_url": "https://github.com/FxEmbed/FxEmbed",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-        "en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
-      },
-      "strengths": {
-        "zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-        "en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…"
-      },
-      "innovations": {
-        "zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
-        "en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…"
-      },
-      "purpose_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "purpose_en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "strengths_zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-      "strengths_en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
-      "innovations_zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
-      "innovations_en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 16,
-      "full_name": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
+      "full_name": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
       "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
+        "bonsai",
+        "llamacpp",
+        "llm",
+        "mlx",
+        "prism-ml",
+        "small-models"
       ],
-      "stars": 5595,
-      "stars_delta": 85,
-      "forks": 690,
-      "forks_delta": 16,
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "stars": 3198,
+      "stars_delta": 243,
+      "forks": 347,
+      "forks_delta": 0,
+      "html_url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+        "zh": "Bonsai Demo",
+        "en": "Bonsai Demo"
       },
       "strengths": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
+        "zh": "Bonsai Demo Backend and model format compatibility: BACKEND-SUPPORT.md. Website &nbsp;&nbsp; GitHub &nbsp;&nbsp; Discord Models: Bonsai 2 27B GGUF · Bonsai 2 27B MLX --- Run Bonsai 2 27B locally on Mac (Metal), Linux/Windows (CUDA…",
+        "en": "Bonsai Demo Backend and model format compatibility: BACKEND-SUPPORT.md. Website &nbsp;&nbsp; GitHub &nbsp;&nbsp; Discord Models: Bonsai 2 27B GGUF · Bonsai 2 27B MLX --- Run Bonsai 2 27B locally on Mac (Metal), Linux/Windows (CUDA…"
       },
       "innovations": {
-        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
+        "zh": "…2 27B Bonsai 2 27B is this demo's default. Full 27B-class reasoning in ternary weights, at 5.9 GB, running on a laptop or a single GPU. - 98.2% of FP16 intelligence retained at roughly a ninth of the size, with the reasoning core…",
+        "en": "…2 27B Bonsai 2 27B is this demo's default. Full 27B-class reasoning in ternary weights, at 5.9 GB, running on a laptop or a single GPU. - 98.2% of FP16 intelligence retained at roughly a ninth of the size, with the reasoning core…"
       },
-      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "purpose_zh": "Bonsai Demo",
+      "purpose_en": "Bonsai Demo",
+      "strengths_zh": "Bonsai Demo Backend and model format compatibility: BACKEND-SUPPORT.md. Website &nbsp;&nbsp; GitHub &nbsp;&nbsp; Discord Models: Bonsai 2 27B GGUF · Bonsai 2 27B MLX --- Run Bonsai 2 27B locally on Mac (Metal), Linux/Windows (CUDA…",
+      "strengths_en": "Bonsai Demo Backend and model format compatibility: BACKEND-SUPPORT.md. Website &nbsp;&nbsp; GitHub &nbsp;&nbsp; Discord Models: Bonsai 2 27B GGUF · Bonsai 2 27B MLX --- Run Bonsai 2 27B locally on Mac (Metal), Linux/Windows (CUDA…",
+      "innovations_zh": "…2 27B Bonsai 2 27B is this demo's default. Full 27B-class reasoning in ternary weights, at 5.9 GB, running on a laptop or a single GPU. - 98.2% of FP16 intelligence retained at roughly a ninth of the size, with the reasoning core…",
+      "innovations_en": "…2 27B Bonsai 2 27B is this demo's default. Full 27B-class reasoning in ternary weights, at 5.9 GB, running on a laptop or a single GPU. - 98.2% of FP16 intelligence retained at roughly a ninth of the size, with the reasoning core…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 17,
-      "full_name": "cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "topics": [
-        "http3",
-        "network-programming",
-        "protocol",
-        "quic",
-        "rust"
-      ],
-      "stars": 12707,
-      "stars_delta": 19,
-      "forks": 1154,
-      "forks_delta": 2,
-      "html_url": "https://github.com/cloudflare/quiche",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
-      "purpose": {
-        "zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-      },
-      "strengths": {
-        "zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-        "en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…"
-      },
-      "innovations": {
-        "zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-        "en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…"
-      },
-      "purpose_zh": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "purpose_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "strengths_zh": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "strengths_en": "[quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providin…",
-      "innovations_zh": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "innovations_en": "…ad a [post] on Cloudflare's blog that goes into some more detail. [quiche]: https://docs.quic.tech/quiche/ [ietf]: https://quicwg.org/ [post]: https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/ Who uses quiche? ----------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 18,
       "full_name": "elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
@@ -719,12 +688,12 @@
         "java",
         "search-engine"
       ],
-      "stars": 78076,
-      "stars_delta": 23,
+      "stars": 78094,
+      "stars_delta": 18,
       "forks": 26097,
-      "forks_delta": 4,
+      "forks_delta": 0,
       "html_url": "https://github.com/elastic/elasticsearch",
-      "snapshot_at": "2026-09-29T05:52:11.248Z",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
       "purpose": {
         "zh": "Free and Open Source, Distributed, RESTful Search Engine",
         "en": "Free and Open Source, Distributed, RESTful Search Engine"
@@ -743,6 +712,38 @@
       "strengths_en": "= Elasticsearch Elasticsearch is a distributed search and analytics engine, scalable data store and vector database optimized for speed and relevance on production-scale workloads. Elasticsearch is the foundation of Elastic's open…",
       "innovations_zh": "…lasticsearch include: https://www.elastic.co/search-labs/blog/retrieval-augmented-generation-rag[Retrieval Augmented Generation (RAG)] https://www.elastic.co/search-labs/blog/category/vector-search[Vector search] Full-text search…",
       "innovations_en": "…lasticsearch include: https://www.elastic.co/search-labs/blog/retrieval-augmented-generation-rag[Retrieval Augmented Generation (RAG)] https://www.elastic.co/search-labs/blog/category/vector-search[Vector search] Full-text search…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5569,
+      "stars_delta": 9,
+      "forks": 263,
+      "forks_delta": 0,
+      "html_url": "https://github.com/FxEmbed/FxEmbed",
+      "snapshot_at": "2026-09-29T13:05:27.651Z",
+      "purpose": {
+        "zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+      },
+      "strengths": {
+        "zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
+        "en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…"
+      },
+      "innovations": {
+        "zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
+        "en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…"
+      },
+      "purpose_zh": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "purpose_en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "strengths_zh": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
+      "strengths_en": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests]…",
+      "innovations_zh": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
+      "innovations_en": "….com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg [tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml [testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg [license]: h…",
       "insights_source": "readme-excerpt"
     }
   ]
