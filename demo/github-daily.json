@@ -18,16 +18,91 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 149852,
+      "stars_delta": 427,
+      "forks": 8049,
+      "forks_delta": 19,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+      },
+      "innovations": {
+        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 273478,
+      "stars_delta": 301,
+      "forks": 22979,
+      "forks_delta": 14,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "topics": [],
-      "stars": 13106,
-      "stars_delta": 615,
-      "forks": 1565,
-      "forks_delta": 30,
+      "stars": 13718,
+      "stars_delta": 612,
+      "forks": 1603,
+      "forks_delta": 38,
       "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
         "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "en": "OpenShell is the safe, private runtime for autonomous AI agents."
@@ -49,62 +124,59 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
+      "rank": 4,
+      "full_name": "firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
       "topics": [
         "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
+        "analytics",
+        "authentication",
+        "crash-reporting",
+        "database",
+        "database-as-a-service",
+        "firebase",
+        "firebase-auth",
+        "firebase-authentication",
+        "firebase-database",
+        "firebase-messaging",
+        "firebase-storage",
+        "gemini",
+        "ios-sdk",
+        "objective-c",
+        "push-notifications",
+        "storage-service"
       ],
-      "stars": 50718,
-      "stars_delta": 390,
-      "forks": 5622,
-      "forks_delta": 34,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "stars": 6815,
+      "stars_delta": 33,
+      "forks": 1801,
+      "forks_delta": 1,
+      "html_url": "https://github.com/firebase/firebase-ios-sdk",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        "zh": "Firebase SDK for Apple App Development",
+        "en": "Firebase SDK for Apple App Development"
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
+        "zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
+        "en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…"
       },
       "innovations": {
-        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
+        "zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
+        "en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…"
       },
-      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
-      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
-      "insights_source": "readme"
+      "purpose_zh": "Firebase SDK for Apple App Development",
+      "purpose_en": "Firebase SDK for Apple App Development",
+      "strengths_zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
+      "strengths_en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
+      "innovations_zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
+      "innovations_en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
+      "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "full_name": "mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "topics": [
         "agent-harness",
@@ -119,12 +191,12 @@
         "tmux",
         "typescript"
       ],
-      "stars": 3168,
-      "stars_delta": 193,
-      "forks": 219,
-      "forks_delta": 12,
+      "stars": 3382,
+      "stars_delta": 214,
+      "forks": 229,
+      "forks_delta": 10,
       "html_url": "https://github.com/mvschwarz/openrig",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
         "zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
         "en": "Multi-agent harness that runs Claude Code and Codex together as one system"
@@ -146,7 +218,80 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 9247,
+      "stars_delta": 157,
+      "forks": 873,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
+      "purpose": {
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "innovations": {
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 7,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 293706,
+      "stars_delta": 594,
+      "forks": 26272,
+      "forks_delta": 0,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -172,12 +317,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 24554,
-      "stars_delta": 92,
-      "forks": 1771,
-      "forks_delta": 3,
+      "stars": 24669,
+      "stars_delta": 115,
+      "forks": 1777,
+      "forks_delta": 6,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -199,219 +344,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 149425,
-      "stars_delta": 319,
-      "forks": 8030,
-      "forks_delta": 16,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-      },
-      "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
-      },
-      "innovations": {
-        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
-      },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "topics": [
-        "ai-video-generator",
-        "content-creation",
-        "ffmpeg",
-        "instagram-reels",
-        "llm",
-        "python",
-        "short-video",
-        "subtitles",
-        "text-to-speech",
-        "tiktok",
-        "video-automation",
-        "video-workflow",
-        "workflow-automation",
-        "youtube-shorts"
-      ],
-      "stars": 127668,
-      "stars_delta": 159,
-      "forks": 19971,
-      "forks_delta": 23,
-      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
-      },
-      "strengths": {
-        "zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-        "en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…"
-      },
-      "innovations": {
-        "zh": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-        "en": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…"
-      },
-      "purpose_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "purpose_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "strengths_zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-      "strengths_en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-      "innovations_zh": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-      "innovations_en": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "assistant",
-        "crustacean",
-        "molty",
-        "openclaw",
-        "own-your-data",
-        "personal"
-      ],
-      "stars": 391041,
-      "stars_delta": 75,
-      "forks": 82230,
-      "forks_delta": 16,
-      "html_url": "https://github.com/openclaw/openclaw",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-        "en": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
-      },
-      "strengths": {
-        "zh": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp…",
-        "en": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp…"
-      },
-      "innovations": {
-        "zh": "…iguration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your p…",
-        "en": "…iguration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your p…"
-      },
-      "purpose_zh": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "purpose_en": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "strengths_zh": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp…",
-      "strengths_en": "OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp…",
-      "innovations_zh": "…iguration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your p…",
-      "innovations_en": "…iguration is the only difference. Yours, with no catch. State, memory, and credentials live on your hardware. Models and agent harnesses (Claude, Codex, local models) are plugins you can swap without changing anything else. Your p…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "developer-tools",
-        "gemini-cli",
-        "mcp",
-        "openai-codex",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation"
-      ],
-      "stars": 76207,
-      "stars_delta": 103,
-      "forks": 8885,
-      "forks_delta": 6,
-      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "strengths": {
-        "zh": "Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents…",
-        "en": "Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents…"
-      },
-      "innovations": {
-        "zh": "…tools it needs. Composio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability. --- Quickstart: Connect Claude to…",
-        "en": "…tools it needs. Composio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability. --- Quickstart: Connect Claude to…"
-      },
-      "purpose_zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "purpose_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "strengths_zh": "Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents…",
-      "strengths_en": "Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents…",
-      "innovations_zh": "…tools it needs. Composio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability. --- Quickstart: Connect Claude to…",
-      "innovations_en": "…tools it needs. Composio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability. --- Quickstart: Connect Claude to…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 9,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 273177,
-      "stars_delta": 228,
-      "forks": 22965,
-      "forks_delta": 10,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -428,12 +361,12 @@
         "typescript",
         "video"
       ],
-      "stars": 54864,
-      "stars_delta": 187,
-      "forks": 4988,
-      "forks_delta": 18,
+      "stars": 55064,
+      "stars_delta": 200,
+      "forks": 5000,
+      "forks_delta": 12,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -455,281 +388,215 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
-      "full_name": "firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "topics": [
-        "ai",
-        "analytics",
-        "authentication",
-        "crash-reporting",
-        "database",
-        "database-as-a-service",
-        "firebase",
-        "firebase-auth",
-        "firebase-authentication",
-        "firebase-database",
-        "firebase-messaging",
-        "firebase-storage",
-        "gemini",
-        "ios-sdk",
-        "objective-c",
-        "push-notifications",
-        "storage-service"
-      ],
-      "stars": 6782,
-      "stars_delta": 30,
-      "forks": 1800,
-      "forks_delta": 2,
-      "html_url": "https://github.com/firebase/firebase-ios-sdk",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "rank": 10,
+      "full_name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 110947,
+      "stars_delta": 294,
+      "forks": 14110,
+      "forks_delta": 0,
+      "html_url": "https://github.com/earendil-works/pi",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "Firebase SDK for Apple App Development",
-        "en": "Firebase SDK for Apple App Development"
+        "zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
       },
       "strengths": {
-        "zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-        "en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…"
+        "zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+        "en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…"
       },
       "innovations": {
-        "zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
-        "en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…"
+        "zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
+        "en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…"
       },
-      "purpose_zh": "Firebase SDK for Apple App Development",
-      "purpose_en": "Firebase SDK for Apple App Development",
-      "strengths_zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-      "strengths_en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-      "innovations_zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
-      "innovations_en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
+      "purpose_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "purpose_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "strengths_zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+      "strengths_en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
+      "innovations_zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
+      "innovations_en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "tile-ai/tilelang",
+      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "topics": [],
+      "stars": 7990,
+      "stars_delta": 157,
+      "forks": 806,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tile-ai/tilelang",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
+      "purpose": {
+        "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+      },
+      "strengths": {
+        "zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+        "en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…"
+      },
+      "innovations": {
+        "zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
+        "en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…"
+      },
+      "purpose_zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "purpose_en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "strengths_zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+      "strengths_en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+      "innovations_zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
+      "innovations_en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
-      "full_name": "modelcontextprotocol/servers",
-      "description": "Model Context Protocol Servers",
+      "full_name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 90856,
-      "stars_delta": 66,
-      "forks": 11729,
-      "forks_delta": 6,
-      "html_url": "https://github.com/modelcontextprotocol/servers",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "stars": 2653,
+      "stars_delta": 356,
+      "forks": 248,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pablostanley/yoinks",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "Model Context Protocol Servers",
-        "en": "Model Context Protocol Servers"
+        "zh": "yoink any video from your terminal. no shady ads.",
+        "en": "yoink any video from your terminal. no shady ads."
       },
       "strengths": {
-        "zh": "Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community-built servers and additional resources. [!IMPORTANT] If you are l…",
-        "en": "Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community-built servers and additional resources. [!IMPORTANT] If you are l…"
+        "zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+        "en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…"
       },
       "innovations": {
-        "zh": "…of reference servers maintained by the MCP steering group. [!WARNING] The servers in this repository are intended as reference implementations to demonstrate MCP features and SDK usage. They are meant to serve as educational exam…",
-        "en": "…of reference servers maintained by the MCP steering group. [!WARNING] The servers in this repository are intended as reference implementations to demonstrate MCP features and SDK usage. They are meant to serve as educational exam…"
+        "zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+        "en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…"
       },
-      "purpose_zh": "Model Context Protocol Servers",
-      "purpose_en": "Model Context Protocol Servers",
-      "strengths_zh": "Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community-built servers and additional resources. [!IMPORTANT] If you are l…",
-      "strengths_en": "Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community-built servers and additional resources. [!IMPORTANT] If you are l…",
-      "innovations_zh": "…of reference servers maintained by the MCP steering group. [!WARNING] The servers in this repository are intended as reference implementations to demonstrate MCP features and SDK usage. They are meant to serve as educational exam…",
-      "innovations_en": "…of reference servers maintained by the MCP steering group. [!WARNING] The servers in this repository are intended as reference implementations to demonstrate MCP features and SDK usage. They are meant to serve as educational exam…",
+      "purpose_zh": "yoink any video from your terminal. no shady ads.",
+      "purpose_en": "yoink any video from your terminal. no shady ads.",
+      "strengths_zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+      "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+      "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+      "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "JavaScript",
+      "full_name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
       "topics": [
-        "chinese",
-        "english-learning",
-        "tutorial"
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
+        "python",
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
       ],
-      "stars": 66495,
-      "stars_delta": 132,
-      "forks": 6642,
-      "forks_delta": 7,
-      "html_url": "https://github.com/byoungd/up",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "stars": 16173,
+      "stars_delta": 635,
+      "forks": 2235,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-        "en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+        "zh": "Useful tool to track location or mobile number",
+        "en": "Useful tool to track location or mobile number"
       },
       "strengths": {
-        "zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-        "en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…"
+        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
       },
       "innovations": {
-        "zh": "…失：知道什么问题值得追问，辨别什么证据可以相信，把建议变成真实作品，并为最后的判断承担责任。 这是一份面向普通人的终身学习指南。它不要求你先成为天才、专家或意志坚定的人，也不许诺某个工具会替你改变命运。它想做的，是陪你在变化加速的时代里，一次次重新学习：面对陌生问题，借助 AI，也保留自己的判断；完成一件真实的事，再把经验带到下一段路。 项目在 2017 年从《离谱的英语学习指南》开始。英语曾是全部地图，如今它成为地图上的一条基础路径。我们继续向外走，进入…",
-        "en": "…失：知道什么问题值得追问，辨别什么证据可以相信，把建议变成真实作品，并为最后的判断承担责任。 这是一份面向普通人的终身学习指南。它不要求你先成为天才、专家或意志坚定的人，也不许诺某个工具会替你改变命运。它想做的，是陪你在变化加速的时代里，一次次重新学习：面对陌生问题，借助 AI，也保留自己的判断；完成一件真实的事，再把经验带到下一段路。 项目在 2017 年从《离谱的英语学习指南》开始。英语曾是全部地图，如今它成为地图上的一条基础路径。我们继续向外走，进入…"
+        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
       },
-      "purpose_zh": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "purpose_en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "strengths_zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-      "strengths_en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-      "innovations_zh": "…失：知道什么问题值得追问，辨别什么证据可以相信，把建议变成真实作品，并为最后的判断承担责任。 这是一份面向普通人的终身学习指南。它不要求你先成为天才、专家或意志坚定的人，也不许诺某个工具会替你改变命运。它想做的，是陪你在变化加速的时代里，一次次重新学习：面对陌生问题，借助 AI，也保留自己的判断；完成一件真实的事，再把经验带到下一段路。 项目在 2017 年从《离谱的英语学习指南》开始。英语曾是全部地图，如今它成为地图上的一条基础路径。我们继续向外走，进入…",
-      "innovations_en": "…失：知道什么问题值得追问，辨别什么证据可以相信，把建议变成真实作品，并为最后的判断承担责任。 这是一份面向普通人的终身学习指南。它不要求你先成为天才、专家或意志坚定的人，也不许诺某个工具会替你改变命运。它想做的，是陪你在变化加速的时代里，一次次重新学习：面对陌生问题，借助 AI，也保留自己的判断；完成一件真实的事，再把经验带到下一段路。 项目在 2017 年从《离谱的英语学习指南》开始。英语曾是全部地图，如今它成为地图上的一条基础路径。我们继续向外走，进入…",
+      "purpose_zh": "Useful tool to track location or mobile number",
+      "purpose_en": "Useful tool to track location or mobile number",
+      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 14,
-      "full_name": "colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 72659,
-      "stars_delta": 89,
-      "forks": 4665,
-      "forks_delta": 3,
-      "html_url": "https://github.com/colbymchenry/codegraph",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "stars": 73332,
+      "stars_delta": 463,
+      "forks": 4426,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
       },
       "strengths": {
-        "zh": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
-        "en": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…"
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
       },
       "innovations": {
-        "zh": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
-        "en": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…"
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
       },
-      "purpose_zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "purpose_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "strengths_zh": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
-      "strengths_en": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
-      "innovations_zh": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
-      "innovations_en": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 15,
-      "full_name": "t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "cli",
-        "clickhouse",
-        "database",
-        "database-client",
-        "database-management",
-        "docker",
-        "gui",
-        "mcp",
-        "mongodb",
-        "mysql",
-        "postgresql",
-        "redis",
-        "rust",
-        "sql-server",
-        "sqlite",
-        "tauri",
-        "vue"
-      ],
-      "stars": 23386,
-      "stars_delta": 259,
-      "forks": 2160,
-      "forks_delta": 15,
-      "html_url": "https://github.com/t8y2/dbx",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-        "en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
-      },
-      "strengths": {
-        "zh": "100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English 前往中文版本 ❤️ Sponsors RainYun is a cloud service provider offering cloud servers, physical servers, game hosting, and developer-friendly in…",
-        "en": "100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English 前往中文版本 ❤️ Sponsors RainYun is a cloud service provider offering cloud servers, physical servers, game hosting, and developer-friendly in…"
-      },
-      "innovations": {
-        "zh": "…a Jalapeño Cloud is an AI infrastructure and token compute platform, with an exclusive DBX entry offering free credits and top-up bonuses. Visit Jalapeño Cloud Special thanks to AICodeMirror for sponsoring this project! AICodeMirr…",
-        "en": "…a Jalapeño Cloud is an AI infrastructure and token compute platform, with an exclusive DBX entry offering free credits and top-up bonuses. Visit Jalapeño Cloud Special thanks to AICodeMirror for sponsoring this project! AICodeMirr…"
-      },
-      "purpose_zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "purpose_en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "strengths_zh": "100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English 前往中文版本 ❤️ Sponsors RainYun is a cloud service provider offering cloud servers, physical servers, game hosting, and developer-friendly in…",
-      "strengths_en": "100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server. English 前往中文版本 ❤️ Sponsors RainYun is a cloud service provider offering cloud servers, physical servers, game hosting, and developer-friendly in…",
-      "innovations_zh": "…a Jalapeño Cloud is an AI infrastructure and token compute platform, with an exclusive DBX entry offering free credits and top-up bonuses. Visit Jalapeño Cloud Special thanks to AICodeMirror for sponsoring this project! AICodeMirr…",
-      "innovations_en": "…a Jalapeño Cloud is an AI infrastructure and token compute platform, with an exclusive DBX entry offering free credits and top-up bonuses. Visit Jalapeño Cloud Special thanks to AICodeMirror for sponsoring this project! AICodeMirr…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
-      "full_name": "NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "topics": [],
-      "stars": 26465,
-      "stars_delta": 58,
-      "forks": 5978,
-      "forks_delta": 10,
-      "html_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
-      "purpose": {
-        "zh": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-        "en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
-      },
-      "strengths": {
-        "zh": "AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versio…",
-        "en": "AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versio…"
-      },
-      "innovations": {
-        "zh": "…y. 📡 Overview The AERIS-10 project aims to democratize radar technology by providing a fully open-source, modular, and hackable radar system. Whether you're a university researcher, a drone startup, or an advanced maker, AERIS-10…",
-        "en": "…y. 📡 Overview The AERIS-10 project aims to democratize radar technology by providing a fully open-source, modular, and hackable radar system. Whether you're a university researcher, a drone startup, or an advanced maker, AERIS-10…"
-      },
-      "purpose_zh": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "purpose_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "strengths_zh": "AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versio…",
-      "strengths_en": "AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versio…",
-      "innovations_zh": "…y. 📡 Overview The AERIS-10 project aims to democratize radar technology by providing a fully open-source, modular, and hackable radar system. Whether you're a university researcher, a drone startup, or an advanced maker, AERIS-10…",
-      "innovations_en": "…y. 📡 Overview The AERIS-10 project aims to democratize radar technology by providing a fully open-source, modular, and hackable radar system. Whether you're a university researcher, a drone startup, or an advanced maker, AERIS-10…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
-      "full_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "full_name": "Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
       "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "context-engineering",
-        "information-retrieval",
-        "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
-      ],
-      "stars": 38232,
-      "stars_delta": 142,
-      "forks": 3316,
-      "forks_delta": 12,
-      "html_url": "https://github.com/VectifyAI/PageIndex",
-      "snapshot_at": "2026-10-01T06:08:08.309Z",
+      "topics": [],
+      "stars": 951,
+      "stars_delta": 225,
+      "forks": 93,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Friedrich-M/UniMate",
+      "snapshot_at": "2026-10-01T13:30:44.527Z",
       "purpose": {
-        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+        "zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+        "en": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
       },
       "strengths": {
-        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
+        "zh": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
+        "en": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…"
       },
       "innovations": {
-        "zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
-        "en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…"
+        "zh": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
+        "en": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…"
       },
-      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "innovations_zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
-      "innovations_en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
+      "purpose_zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "purpose_en": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "strengths_zh": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
+      "strengths_en": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
+      "innovations_zh": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
+      "innovations_en": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
       "insights_source": "readme-excerpt"
     }
   ]
