@@ -18,239 +18,99 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
         "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
       ],
-      "stars": 150802,
-      "stars_delta": 378,
-      "forks": 8091,
-      "forks_delta": 14,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "stars": 87857,
+      "stars_delta": 683,
+      "forks": 7749,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
       },
       "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
       },
       "innovations": {
-        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
       },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 274088,
-      "stars_delta": 244,
-      "forks": 23018,
-      "forks_delta": 27,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "full_name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "stars": 108861,
+      "stars_delta": 193,
+      "forks": 6312,
+      "forks_delta": 0,
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
       },
       "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+        "zh": "why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. ▶️ ThePrimeagen reacts: \"No way this actually works\" 🏆 #1 on GitHub Trending · July 2026 &nbsp;·&nbs…",
+        "en": "why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. ▶️ ThePrimeagen reacts: \"No way this actually works\" 🏆 #1 on GitHub Trending · July 2026 &nbsp;·&nbs…"
       },
       "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+        "zh": "…ed caveman-style output cutting cost 1.4 to 2.4×, up to 3× &nbsp;·&nbsp; 🧪 Tested by JetBrains on 86 real coding tasks: \"costs you nothing measurable in quality\" ⚡ One command, no account, no API key. npx skills add JuliusBrussee…",
+        "en": "…ed caveman-style output cutting cost 1.4 to 2.4×, up to 3× &nbsp;·&nbsp; 🧪 Tested by JetBrains on 86 real coding tasks: \"costs you nothing measurable in quality\" ⚡ One command, no account, no API key. npx skills add JuliusBrussee…"
       },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "purpose_zh": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "purpose_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "strengths_zh": "why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. ▶️ ThePrimeagen reacts: \"No way this actually works\" 🏆 #1 on GitHub Trending · July 2026 &nbsp;·&nbs…",
+      "strengths_en": "why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. ▶️ ThePrimeagen reacts: \"No way this actually works\" 🏆 #1 on GitHub Trending · July 2026 &nbsp;·&nbs…",
+      "innovations_zh": "…ed caveman-style output cutting cost 1.4 to 2.4×, up to 3× &nbsp;·&nbsp; 🧪 Tested by JetBrains on 86 real coding tasks: \"costs you nothing measurable in quality\" ⚡ One command, no account, no API key. npx skills add JuliusBrussee…",
+      "innovations_en": "…ed caveman-style output cutting cost 1.4 to 2.4×, up to 3× &nbsp;·&nbsp; 🧪 Tested by JetBrains on 86 real coding tasks: \"costs you nothing measurable in quality\" ⚡ One command, no account, no API key. npx skills add JuliusBrussee…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 14114,
-      "stars_delta": 137,
-      "forks": 1634,
-      "forks_delta": 12,
-      "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
-      },
-      "strengths": {
-        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
-      },
-      "innovations": {
-        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
-      },
-      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "topics": [
-        "ai",
-        "analytics",
-        "authentication",
-        "crash-reporting",
-        "database",
-        "database-as-a-service",
-        "firebase",
-        "firebase-auth",
-        "firebase-authentication",
-        "firebase-database",
-        "firebase-messaging",
-        "firebase-storage",
-        "gemini",
-        "ios-sdk",
-        "objective-c",
-        "push-notifications",
-        "storage-service"
-      ],
-      "stars": 6885,
-      "stars_delta": 35,
-      "forks": 1808,
-      "forks_delta": 2,
-      "html_url": "https://github.com/firebase/firebase-ios-sdk",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "Firebase SDK for Apple App Development",
-        "en": "Firebase SDK for Apple App Development"
-      },
-      "strengths": {
-        "zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-        "en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…"
-      },
-      "innovations": {
-        "zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
-        "en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…"
-      },
-      "purpose_zh": "Firebase SDK for Apple App Development",
-      "purpose_en": "Firebase SDK for Apple App Development",
-      "strengths_zh": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-      "strengths_en": "[!WARNING] CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026. Existing CocoaPods versions will remain available and installations will remain functional. See the migratio…",
-      "innovations_zh": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
-      "innovations_en": "…the documentation. Firebase Apple Open Source Development This repository contains the source code for all Apple platform Firebase libraries except FirebaseAnalytics. Firebase is an app development platform with libraries, service…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-skills",
-        "ai-coding",
-        "claude-code",
-        "cli",
-        "codex-cli",
-        "multi-agent",
-        "multi-agent-systems",
-        "tmux",
-        "typescript"
-      ],
-      "stars": 3844,
-      "stars_delta": 174,
-      "forks": 254,
-      "forks_delta": 9,
-      "html_url": "https://github.com/mvschwarz/openrig",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "en": "Multi-agent harness that runs Claude Code and Codex together as one system"
-      },
-      "strengths": {
-        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
-        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…"
-      },
-      "innovations": {
-        "zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
-        "en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…"
-      },
-      "purpose_zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "purpose_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
-      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
-      "innovations_zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
-      "innovations_en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 9352,
-      "stars_delta": 40,
-      "forks": 885,
-      "forks_delta": 3,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 7,
       "full_name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
@@ -264,12 +124,12 @@
         "subagent-driven-development",
         "superpowers"
       ],
-      "stars": 294073,
-      "stars_delta": 131,
-      "forks": 26304,
-      "forks_delta": 13,
+      "stars": 294215,
+      "stars_delta": 142,
+      "forks": 26314,
+      "forks_delta": 10,
       "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
         "zh": "An agentic skills framework & software development methodology that works.",
         "en": "An agentic skills framework & software development methodology that works."
@@ -291,7 +151,226 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 4,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 151184,
+      "stars_delta": 382,
+      "forks": 8114,
+      "forks_delta": 23,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+      },
+      "innovations": {
+        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 73986,
+      "stars_delta": 165,
+      "forks": 4464,
+      "forks_delta": 20,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 274358,
+      "stars_delta": 270,
+      "forks": 23050,
+      "forks_delta": 32,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 14241,
+      "stars_delta": 127,
+      "forks": 1645,
+      "forks_delta": 11,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 8,
+      "full_name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "topics": [
+        "claude",
+        "codex",
+        "marketing"
+      ],
+      "stars": 52237,
+      "stars_delta": 139,
+      "forks": 7870,
+      "forks_delta": 0,
+      "html_url": "https://github.com/coreyhaines31/marketingskills",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+      },
+      "strengths": {
+        "zh": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and…",
+        "en": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and…"
+      },
+      "innovations": {
+        "zh": "…Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files. Want to get dangerously good at using AI for marketing?…",
+        "en": "…Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files. Want to get dangerously good at using AI for marketing?…"
+      },
+      "purpose_zh": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "purpose_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "strengths_zh": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and…",
+      "strengths_en": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and…",
+      "innovations_zh": "…Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files. Want to get dangerously good at using AI for marketing?…",
+      "innovations_en": "…Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files. Want to get dangerously good at using AI for marketing?…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 55618,
+      "stars_delta": 162,
+      "forks": 5036,
+      "forks_delta": 11,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -317,12 +396,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 24844,
-      "stars_delta": 82,
-      "forks": 1788,
-      "forks_delta": 5,
+      "stars": 24921,
+      "stars_delta": 77,
+      "forks": 1791,
+      "forks_delta": 3,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -344,125 +423,255 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 55456,
-      "stars_delta": 152,
-      "forks": 5025,
-      "forks_delta": 9,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 111364,
-      "stars_delta": 191,
-      "forks": 14141,
-      "forks_delta": 15,
-      "html_url": "https://github.com/earendil-works/pi",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
-      },
-      "strengths": {
-        "zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-        "en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…"
-      },
-      "innovations": {
-        "zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-        "en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…"
-      },
-      "purpose_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "purpose_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "strengths_zh": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-      "strengths_en": "New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md. Pi Agent Harness This is the home of the Pi agent harness project including our self extensible…",
-      "innovations_zh": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-      "innovations_en": "…-works/pi-ai: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …) To learn more about Pi: Visit pi.dev, the project website with demos Read the documentation, but you can also ask the agent to explain itself All Packages…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 11,
-      "full_name": "tile-ai/tilelang",
-      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "topics": [],
-      "stars": 8160,
-      "stars_delta": 75,
-      "forks": 819,
-      "forks_delta": 7,
-      "html_url": "https://github.com/tile-ai/tilelang",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "stars": 20611,
+      "stars_delta": 30,
+      "forks": 1712,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google/skills",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
-        "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-        "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+        "zh": "Agent Skills for Google products and technologies",
+        "en": "Agent Skills for Google products and technologies"
       },
       "strengths": {
-        "zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-        "en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…"
+        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation From the npx install command, you can select the specific skills from this repo to install. Available Sk…",
+        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation From the npx install command, you can select the specific skills from this repo to install. Available Sk…"
       },
       "innovations": {
-        "zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
-        "en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…"
+        "zh": "…skills - Google Cloud solution-architecture workflow - Agent Gateway multi-agent security - Agentic analytics across cloud providers and data types - Borderless open data lakehouse agentic AI system - Build and deploy AI agents on…",
+        "en": "…skills - Google Cloud solution-architecture workflow - Agent Gateway multi-agent security - Agentic analytics across cloud providers and data types - Borderless open data lakehouse agentic AI system - Build and deploy AI agents on…"
       },
-      "purpose_zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "purpose_en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "strengths_zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-      "strengths_en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-      "innovations_zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
-      "innovations_en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
+      "purpose_zh": "Agent Skills for Google products and technologies",
+      "purpose_en": "Agent Skills for Google products and technologies",
+      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation From the npx install command, you can select the specific skills from this repo to install. Available Sk…",
+      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation From the npx install command, you can select the specific skills from this repo to install. Available Sk…",
+      "innovations_zh": "…skills - Google Cloud solution-architecture workflow - Agent Gateway multi-agent security - Agentic analytics across cloud providers and data types - Borderless open data lakehouse agentic AI system - Build and deploy AI agents on…",
+      "innovations_en": "…skills - Google Cloud solution-architecture workflow - Agent Gateway multi-agent security - Agentic analytics across cloud providers and data types - Borderless open data lakehouse agentic AI system - Build and deploy AI agents on…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
+      "full_name": "getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "topics": [
+        "apm",
+        "crash-reporting",
+        "crash-reports",
+        "csp-report",
+        "devops",
+        "django",
+        "error-logging",
+        "error-monitoring",
+        "fair-source",
+        "hacktoberfest",
+        "monitor",
+        "monitoring",
+        "python",
+        "sentry",
+        "tag-production"
+      ],
+      "stars": 44927,
+      "stars_delta": 12,
+      "forks": 4883,
+      "forks_delta": 0,
+      "html_url": "https://github.com/getsentry/sentry",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Developer-first error tracking and performance monitoring",
+        "en": "Developer-first error tracking and performance monitoring"
+      },
+      "strengths": {
+        "zh": "Users and logs provide clues. Sentry provides answers. What's Sentry? Sentry is the debugging platform that helps every developer detect, trace, and fix issues. Code breaks, fix it faster. Official Sentry SDKs - JavaScript - Elect…",
+        "en": "Users and logs provide clues. Sentry provides answers. What's Sentry? Sentry is the debugging platform that helps every developer detect, trace, and fix issues. Code breaks, fix it faster. Official Sentry SDKs - JavaScript - Elect…"
+      },
+      "innovations": {
+        "zh": "…al Engine - Godot Engine - PowerShell Resources - Documentation - Discussions (Bugs, feature requests, general questions) - Discord - Contributing - Bug Tracker - Code - Transifex (Translate Sentry\\!)",
+        "en": "…al Engine - Godot Engine - PowerShell Resources - Documentation - Discussions (Bugs, feature requests, general questions) - Discord - Contributing - Bug Tracker - Code - Transifex (Translate Sentry\\!)"
+      },
+      "purpose_zh": "Developer-first error tracking and performance monitoring",
+      "purpose_en": "Developer-first error tracking and performance monitoring",
+      "strengths_zh": "Users and logs provide clues. Sentry provides answers. What's Sentry? Sentry is the debugging platform that helps every developer detect, trace, and fix issues. Code breaks, fix it faster. Official Sentry SDKs - JavaScript - Elect…",
+      "strengths_en": "Users and logs provide clues. Sentry provides answers. What's Sentry? Sentry is the debugging platform that helps every developer detect, trace, and fix issues. Code breaks, fix it faster. Official Sentry SDKs - JavaScript - Elect…",
+      "innovations_zh": "…al Engine - Godot Engine - PowerShell Resources - Documentation - Discussions (Bugs, feature requests, general questions) - Discord - Contributing - Bug Tracker - Code - Transifex (Translate Sentry\\!)",
+      "innovations_en": "…al Engine - Godot Engine - PowerShell Resources - Documentation - Discussions (Bugs, feature requests, general questions) - Discord - Contributing - Bug Tracker - Code - Transifex (Translate Sentry\\!)",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "topics": [],
+      "stars": 72833,
+      "stars_delta": 241,
+      "forks": 4679,
+      "forks_delta": 0,
+      "html_url": "https://github.com/colbymchenry/codegraph",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+      },
+      "strengths": {
+        "zh": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
+        "en": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…"
+      },
+      "innovations": {
+        "zh": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
+        "en": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…"
+      },
+      "purpose_zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "purpose_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "strengths_zh": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
+      "strengths_en": "CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligenc…",
+      "innovations_zh": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
+      "innovations_en": "…ph platform is coming — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised. Get early beta access to the hosted product · getcodegraph.com Contents - Get…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 9403,
+      "stars_delta": 51,
+      "forks": 889,
+      "forks_delta": 4,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "innovations": {
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 15,
+      "full_name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "stars": 4033,
+      "stars_delta": 189,
+      "forks": 266,
+      "forks_delta": 12,
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "en": "Multi-agent harness that runs Claude Code and Codex together as one system"
+      },
+      "strengths": {
+        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…"
+      },
+      "innovations": {
+        "zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
+        "en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…"
+      },
+      "purpose_zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "purpose_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of ter…",
+      "innovations_zh": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
+      "innovations_en": "…cisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. Install and first run Requires Node.js 20, 22 or 24 and tmux. Launching a rig writes pro…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "clustering",
+        "concurrency",
+        "dependency-injection",
+        "effect",
+        "error-handling",
+        "javascript",
+        "observability",
+        "opentelemetry",
+        "platform",
+        "schema",
+        "typescript",
+        "workflows"
+      ],
+      "stars": 16400,
+      "stars_delta": 76,
+      "forks": 794,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Effect-TS/effect",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
+      "purpose": {
+        "zh": "Build production-ready applications in TypeScript",
+        "en": "Build production-ready applications in TypeScript"
+      },
+      "strengths": {
+        "zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+        "en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…"
+      },
+      "innovations": {
+        "zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+        "en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…"
+      },
+      "purpose_zh": "Build production-ready applications in TypeScript",
+      "purpose_en": "Build production-ready applications in TypeScript",
+      "strengths_zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "strengths_en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "innovations_zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "innovations_en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
       "full_name": "pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3058,
-      "stars_delta": 167,
-      "forks": 290,
-      "forks_delta": 17,
+      "stars": 3231,
+      "stars_delta": 173,
+      "forks": 298,
+      "forks_delta": 8,
       "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
+      "snapshot_at": "2026-10-02T12:49:34.898Z",
       "purpose": {
         "zh": "yoink any video from your terminal. no shady ads.",
         "en": "yoink any video from your terminal. no shady ads."
@@ -481,122 +690,6 @@
       "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
       "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
       "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "topics": [
-        "cybersecurity",
-        "fyp",
-        "hacking",
-        "hacking-tool",
-        "indonesia",
-        "information",
-        "information-gathering",
-        "ip-geolocation",
-        "linux",
-        "osint",
-        "osint-python",
-        "osint-tool",
-        "pentesting",
-        "phone-number",
-        "python",
-        "python-hacking",
-        "termux",
-        "termux-hacks",
-        "termux-tool"
-      ],
-      "stars": 16502,
-      "stars_delta": 139,
-      "forks": 2264,
-      "forks_delta": 14,
-      "html_url": "https://github.com/HunxByts/GhostTrack",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "Useful tool to track location or mobile number",
-        "en": "Useful tool to track location or mobile number"
-      },
-      "strengths": {
-        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
-      },
-      "innovations": {
-        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
-        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
-      },
-      "purpose_zh": "Useful tool to track location or mobile number",
-      "purpose_en": "Useful tool to track location or mobile number",
-      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
-      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 73821,
-      "stars_delta": 191,
-      "forks": 4444,
-      "forks_delta": 8,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
-      },
-      "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
-      },
-      "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
-      },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "Friedrich-M/UniMate",
-      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "language": "Python",
-      "topics": [],
-      "stars": 1125,
-      "stars_delta": 73,
-      "forks": 102,
-      "forks_delta": 4,
-      "html_url": "https://github.com/Friedrich-M/UniMate",
-      "snapshot_at": "2026-10-02T05:51:36.011Z",
-      "purpose": {
-        "zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-        "en": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
-      },
-      "strengths": {
-        "zh": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
-        "en": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…"
-      },
-      "innovations": {
-        "zh": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
-        "en": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…"
-      },
-      "purpose_zh": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "purpose_en": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "strengths_zh": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
-      "strengths_en": "UniMate One Unified Model to Animate Diverse Skeletons Linzhan Mou · Jiahui Lei · Zhiyang Dou · Chenyue Cai · Chaoyue Song · Adam Finkelstein · Szymon Rusinkiewicz Princeton · UC Berkeley · MIT · NTU --- 🔥 News - [2026-09-27] Pre…",
-      "innovations_zh": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
-      "innovations_en": "…niML3D dataset and its data-processing pipeline are released. 🚀 - [2026-08-01] Our Interactive Demo is live — browse our animation results in 3D. 🎮 - [2026-07-18] UniMate is accepted to SIGGRAPH Asia 2026! 🎉 [TODO] We will rele…",
       "insights_source": "readme-excerpt"
     }
   ]
