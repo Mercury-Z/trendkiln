@@ -22,12 +22,12 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 96391,
-      "stars_delta": 126,
-      "forks": 16321,
-      "forks_delta": 18,
+      "stars": 96506,
+      "stars_delta": 115,
+      "forks": 16348,
+      "forks_delta": 27,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -59,12 +59,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 44775,
-      "stars_delta": 105,
-      "forks": 5871,
-      "forks_delta": 5,
+      "stars": 44879,
+      "stars_delta": 104,
+      "forks": 5886,
+      "forks_delta": 15,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -112,12 +112,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 52027,
-      "stars_delta": 185,
-      "forks": 5796,
-      "forks_delta": 28,
+      "stars": 52211,
+      "stars_delta": 184,
+      "forks": 5823,
+      "forks_delta": 27,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -140,6 +140,38 @@
     },
     {
       "rank": 4,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 74650,
+      "stars_delta": 200,
+      "forks": 4492,
+      "forks_delta": 4,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -165,12 +197,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 62735,
-      "stars_delta": 55,
-      "forks": 10725,
-      "forks_delta": 13,
+      "stars": 62836,
+      "stars_delta": 101,
+      "forks": 10740,
+      "forks_delta": 15,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -192,87 +224,47 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "topics": [
-        "android",
-        "app-framework",
-        "cross-platform",
-        "dart",
-        "dart-platform",
-        "desktop",
-        "flutter",
-        "flutter-package",
-        "fuchsia",
-        "ios",
-        "linux-desktop",
-        "macos",
-        "material-design",
-        "mobile",
-        "mobile-development",
-        "skia",
-        "web",
-        "web-framework",
-        "windows"
-      ],
-      "stars": 179268,
-      "stars_delta": 16,
-      "forks": 32866,
-      "forks_delta": 31,
-      "html_url": "https://github.com/flutter/flutter",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
-      "purpose": {
-        "zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-      },
-      "strengths": {
-        "zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-        "en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…"
-      },
-      "innovations": {
-        "zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
-        "en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…"
-      },
-      "purpose_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "purpose_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "strengths_zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-      "strengths_en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-      "innovations_zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
-      "innovations_en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 6,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 74450,
-      "stars_delta": 183,
-      "forks": 4488,
-      "forks_delta": 10,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 56112,
+      "stars_delta": 136,
+      "forks": 5049,
+      "forks_delta": 8,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
       },
       "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
       },
       "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
       },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -296,12 +288,12 @@
         "universal",
         "vercel"
       ],
-      "stars": 143020,
+      "stars": 143041,
       "stars_delta": 21,
-      "forks": 33713,
-      "forks_delta": 37,
+      "forks": 33718,
+      "forks_delta": 5,
       "html_url": "https://github.com/vercel/next.js",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "The React Framework",
         "en": "The React Framework"
@@ -324,6 +316,52 @@
     },
     {
       "rank": 8,
+      "full_name": "Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "clustering",
+        "concurrency",
+        "dependency-injection",
+        "effect",
+        "error-handling",
+        "javascript",
+        "observability",
+        "opentelemetry",
+        "platform",
+        "schema",
+        "typescript",
+        "workflows"
+      ],
+      "stars": 16680,
+      "stars_delta": 466,
+      "forks": 808,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Effect-TS/effect",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
+      "purpose": {
+        "zh": "Build production-ready applications in TypeScript",
+        "en": "Build production-ready applications in TypeScript"
+      },
+      "strengths": {
+        "zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+        "en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…"
+      },
+      "innovations": {
+        "zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+        "en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…"
+      },
+      "purpose_zh": "Build production-ready applications in TypeScript",
+      "purpose_en": "Build production-ready applications in TypeScript",
+      "strengths_zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "strengths_en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "innovations_zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "innovations_en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
       "full_name": "alirezarezvani/claude-skills",
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
@@ -349,12 +387,12 @@
         "openclaw-skills",
         "prompt-engineering"
       ],
-      "stars": 27349,
-      "stars_delta": 53,
-      "forks": 3854,
-      "forks_delta": 3,
+      "stars": 27399,
+      "stars_delta": 50,
+      "forks": 3861,
+      "forks_delta": 7,
       "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
         "en": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
@@ -376,51 +414,109 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
+      "rank": 10,
+      "full_name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
       "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
+        "android",
+        "app-framework",
+        "cross-platform",
+        "dart",
+        "dart-platform",
+        "desktop",
+        "flutter",
+        "flutter-package",
+        "fuchsia",
+        "ios",
+        "linux-desktop",
+        "macos",
+        "material-design",
+        "mobile",
+        "mobile-development",
+        "skia",
+        "web",
+        "web-framework",
+        "windows"
       ],
-      "stars": 55976,
-      "stars_delta": 127,
-      "forks": 5041,
-      "forks_delta": 5,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "stars": 179282,
+      "stars_delta": 14,
+      "forks": 32866,
+      "forks_delta": 0,
+      "html_url": "https://github.com/flutter/flutter",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
+        "zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
       },
       "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+        "zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+        "en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…"
       },
       "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+        "zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
+        "en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…"
       },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "purpose_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "purpose_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "strengths_zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+      "strengths_en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+      "innovations_zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
+      "innovations_en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "stars": 89347,
+      "stars_delta": 3959,
+      "forks": 7864,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
+      "purpose": {
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+      },
+      "strengths": {
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
+      },
+      "innovations": {
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
+      },
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -433,12 +529,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 6426,
-      "stars_delta": 43,
-      "forks": 792,
-      "forks_delta": 3,
+      "stars": 6491,
+      "stars_delta": 65,
+      "forks": 801,
+      "forks_delta": 9,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -460,81 +556,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
-      "full_name": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "topics": [],
-      "stars": 12934,
-      "stars_delta": 37,
-      "forks": 642,
-      "forks_delta": 3,
-      "html_url": "https://github.com/google/ax",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
-      "purpose": {
-        "zh": "Google's open agentic orchestration runtime",
-        "en": "Google's open agentic orchestration runtime"
-      },
-      "strengths": {
-        "zh": "AX [!WARNING] AX and several of its features are in heavy development. We are actively refining our core concepts, protocols, and specifications, and will likely introduce major breaking changes prior to a stable release. Declare…",
-        "en": "AX [!WARNING] AX and several of its features are in heavy development. We are actively refining our core concepts, protocols, and specifications, and will likely introduce major breaking changes prior to a stable release. Declare…"
-      },
-      "innovations": {
-        "zh": "…hestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar.…",
-        "en": "…hestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar.…"
-      },
-      "purpose_zh": "Google's open agentic orchestration runtime",
-      "purpose_en": "Google's open agentic orchestration runtime",
-      "strengths_zh": "AX [!WARNING] AX and several of its features are in heavy development. We are actively refining our core concepts, protocols, and specifications, and will likely introduce major breaking changes prior to a stable release. Declare…",
-      "strengths_en": "AX [!WARNING] AX and several of its features are in heavy development. We are actively refining our core concepts, protocols, and specifications, and will likely introduce major breaking changes prior to a stable release. Declare…",
-      "innovations_zh": "…hestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar.…",
-      "innovations_en": "…hestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar.…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 38567,
-      "stars_delta": 31,
-      "forks": 5537,
-      "forks_delta": 1,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 13,
       "full_name": "tile-ai/tilelang",
       "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "topics": [],
-      "stars": 8258,
-      "stars_delta": 19,
-      "forks": 831,
-      "forks_delta": 2,
+      "stars": 8275,
+      "stars_delta": 17,
+      "forks": 834,
+      "forks_delta": 3,
       "html_url": "https://github.com/tile-ai/tilelang",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
@@ -557,34 +589,39 @@
     },
     {
       "rank": 14,
-      "full_name": "anthropics/claude-code-action",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 9383,
-      "stars_delta": 13,
-      "forks": 2184,
+      "full_name": "longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "topics": [
+        "desktop-application",
+        "gpui",
+        "rust",
+        "uikit"
+      ],
+      "stars": 15763,
+      "stars_delta": 877,
+      "forks": 975,
       "forks_delta": 0,
-      "html_url": "https://github.com/anthropics/claude-code-action",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "html_url": "https://github.com/longbridge/gpui-kit",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
-        "zh": "",
-        "en": ""
+        "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
       },
       "strengths": {
-        "zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-        "en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…"
+        "zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+        "en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…"
       },
       "innovations": {
-        "zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
-        "en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…"
+        "zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+        "en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…"
       },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-      "strengths_en": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether resp…",
-      "innovations_zh": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
-      "innovations_en": "…API (API key or workload identity federation), Amazon Bedrock, Google Vertex AI, and Microsoft Foundry. Features - 🎯 Intelligent Mode Detection: Automatically selects the appropriate execution mode based on your workflow context…",
+      "purpose_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "purpose_en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "strengths_zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+      "strengths_en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
+      "innovations_zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+      "innovations_en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -602,12 +639,12 @@
         "python",
         "tensor"
       ],
-      "stars": 103632,
-      "stars_delta": 7,
-      "forks": 31176,
-      "forks_delta": 48,
+      "stars": 103644,
+      "stars_delta": 12,
+      "forks": 31175,
+      "forks_delta": 0,
       "html_url": "https://github.com/pytorch/pytorch",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
@@ -649,12 +686,12 @@
         "workflow-automation",
         "youtube-shorts"
       ],
-      "stars": 128119,
-      "stars_delta": 41,
-      "forks": 20044,
-      "forks_delta": 12,
+      "stars": 128173,
+      "stars_delta": 54,
+      "forks": 20052,
+      "forks_delta": 8,
       "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
@@ -681,12 +718,12 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3590,
-      "stars_delta": 127,
-      "forks": 315,
-      "forks_delta": 10,
+      "stars": 3695,
+      "stars_delta": 105,
+      "forks": 322,
+      "forks_delta": 7,
       "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-03T05:27:23.484Z",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
       "purpose": {
         "zh": "yoink any video from your terminal. no shady ads.",
         "en": "yoink any video from your terminal. no shady ads."
@@ -705,6 +742,58 @@
       "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
       "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
       "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "topics": [
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
+        "python",
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
+      ],
+      "stars": 16756,
+      "stars_delta": 1536,
+      "forks": 2291,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "snapshot_at": "2026-10-03T11:49:03.615Z",
+      "purpose": {
+        "zh": "Useful tool to track location or mobile number",
+        "en": "Useful tool to track location or mobile number"
+      },
+      "strengths": {
+        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
+      },
+      "innovations": {
+        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
+      },
+      "purpose_zh": "Useful tool to track location or mobile number",
+      "purpose_en": "Useful tool to track location or mobile number",
+      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
       "insights_source": "readme-excerpt"
     }
   ]

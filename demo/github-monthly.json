@@ -35,12 +35,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 46653,
-      "stars_delta": 114,
-      "forks": 9538,
-      "forks_delta": 17,
+      "stars": 46789,
+      "stars_delta": 136,
+      "forks": 9553,
+      "forks_delta": 15,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -74,12 +74,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 43389,
-      "stars_delta": 46,
-      "forks": 3126,
-      "forks_delta": 3,
+      "stars": 43432,
+      "stars_delta": 43,
+      "forks": 3132,
+      "forks_delta": 6,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -115,12 +115,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 271476,
-      "stars_delta": 231,
-      "forks": 40557,
-      "forks_delta": 37,
+      "stars": 271748,
+      "stars_delta": 272,
+      "forks": 40584,
+      "forks_delta": 27,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -154,12 +154,12 @@
         "developer-tools",
         "productivity"
       ],
-      "stars": 52995,
-      "stars_delta": 66,
-      "forks": 3051,
-      "forks_delta": 5,
+      "stars": 53054,
+      "stars_delta": 59,
+      "forks": 3052,
+      "forks_delta": 1,
       "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
         "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
@@ -207,12 +207,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 31799,
-      "stars_delta": 28,
-      "forks": 4245,
-      "forks_delta": 3,
+      "stars": 31830,
+      "stars_delta": 31,
+      "forks": 4250,
+      "forks_delta": 5,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -235,123 +235,6 @@
     },
     {
       "rank": 6,
-      "full_name": "tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "stars": 76355,
-      "stars_delta": 108,
-      "forks": 5134,
-      "forks_delta": 5,
-      "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-        "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
-      },
-      "strengths": {
-        "zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-        "en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p"
-      },
-      "innovations": {
-        "zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-        "en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**"
-      },
-      "purpose_zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-      "purpose_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-      "strengths_en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p",
-      "innovations_zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "innovations_en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 7,
-      "full_name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 96391,
-      "stars_delta": 126,
-      "forks": 16321,
-      "forks_delta": 18,
-      "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "The open-source app everyone uses to manage agents at work",
-        "en": "The open-source app everyone uses to manage agents at work"
-      },
-      "strengths": {
-        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
-      },
-      "innovations": {
-        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
-      },
-      "purpose_zh": "The open-source app everyone uses to manage agents at work",
-      "purpose_en": "The open-source app everyone uses to manage agents at work",
-      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 38567,
-      "stars_delta": 31,
-      "forks": 5537,
-      "forks_delta": 1,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -377,12 +260,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 25083,
-      "stars_delta": 79,
-      "forks": 1800,
-      "forks_delta": 3,
+      "stars": 25155,
+      "stars_delta": 72,
+      "forks": 1804,
+      "forks_delta": 4,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -404,51 +287,124 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "rank": 7,
+      "full_name": "anthropics/financial-services",
+      "description": "",
       "language": "Python",
-      "topics": [
-        "agents",
-        "api-keys",
-        "cli",
-        "credentials",
-        "developer-tools",
-        "dsh-plugin",
-        "mcp",
-        "proxy",
-        "python",
-        "registry",
-        "secrets"
-      ],
-      "stars": 4061,
-      "stars_delta": 22,
-      "forks": 336,
-      "forks_delta": 0,
-      "html_url": "https://github.com/superdesigndev/treg",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "topics": [],
+      "stars": 38603,
+      "stars_delta": 36,
+      "forks": 5540,
+      "forks_delta": 3,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
-        "zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-        "en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+        "zh": "",
+        "en": ""
       },
       "strengths": {
-        "zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-        "en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…"
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
       },
       "innovations": {
-        "zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-        "en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…"
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
       },
-      "purpose_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "purpose_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "strengths_zh": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "strengths_en": "Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and t…",
-      "innovations_zh": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
-      "innovations_en": "…and CLIs, callable by every teammate's agent without the credential ever leaving the server. Ask for the task, not the tool. You do not need to know which vendor sells backlink data, or to hold an account with them. Search for wh…",
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 96506,
+      "stars_delta": 115,
+      "forks": 16348,
+      "forks_delta": 27,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "architecture-as-code",
+        "architecture-diagram",
+        "claude-skill",
+        "code-visualization",
+        "codex",
+        "coding-agents",
+        "data-flow-diagram",
+        "deepseek-harness",
+        "developer-tools",
+        "diagram-as-code",
+        "diagrams",
+        "diagrams-as-code",
+        "dsh-plugin",
+        "mermaid-alternative",
+        "opencode",
+        "sequence-diagram",
+        "software-architecture",
+        "system-design",
+        "text-to-diagram"
+      ],
+      "stars": 76483,
+      "stars_delta": 128,
+      "forks": 5151,
+      "forks_delta": 17,
+      "html_url": "https://github.com/tt-a1i/archify",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
+        "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+      },
+      "strengths": {
+        "zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
+        "en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p"
+      },
+      "innovations": {
+        "zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
+        "en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**"
+      },
+      "purpose_zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
+      "purpose_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
+      "strengths_en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p",
+      "innovations_zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
+      "innovations_en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 10,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
@@ -458,12 +414,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 44775,
-      "stars_delta": 105,
-      "forks": 5871,
-      "forks_delta": 5,
+      "stars": 44879,
+      "stars_delta": 104,
+      "forks": 5886,
+      "forks_delta": 15,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -485,7 +441,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -502,12 +458,12 @@
         "typescript",
         "video"
       ],
-      "stars": 55976,
-      "stars_delta": 127,
-      "forks": 5041,
-      "forks_delta": 5,
+      "stars": 56112,
+      "stars_delta": 136,
+      "forks": 5049,
+      "forks_delta": 8,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -529,60 +485,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 152007,
-      "stars_delta": 303,
-      "forks": 8153,
-      "forks_delta": 16,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-      },
-      "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
-      },
-      "innovations": {
-        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
-      },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
-      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "full_name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 149000,
-      "stars_delta": 37,
-      "forks": 25286,
-      "forks_delta": 51,
+      "stars": 149032,
+      "stars_delta": 32,
+      "forks": 25290,
+      "forks_delta": 4,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -604,6 +517,81 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 13,
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "topics": [],
+      "stars": 4171,
+      "stars_delta": 2453,
+      "forks": 496,
+      "forks_delta": 0,
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "Agent Substrate: the core system",
+        "en": "Agent Substrate: the core system"
+      },
+      "strengths": {
+        "zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+        "en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…"
+      },
+      "innovations": {
+        "zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+        "en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…"
+      },
+      "purpose_zh": "Agent Substrate: the core system",
+      "purpose_en": "Agent Substrate: the core system",
+      "strengths_zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "strengths_en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "innovations_zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "innovations_en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 152359,
+      "stars_delta": 352,
+      "forks": 8175,
+      "forks_delta": 22,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…"
+      },
+      "innovations": {
+        "zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+        "en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + Reac…",
+      "innovations_zh": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "innovations_en": "…zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 15,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
@@ -617,12 +605,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 6426,
-      "stars_delta": 43,
-      "forks": 792,
-      "forks_delta": 3,
+      "stars": 6491,
+      "stars_delta": 65,
+      "forks": 801,
+      "forks_delta": 9,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -645,6 +633,70 @@
     },
     {
       "rank": 16,
+      "full_name": "humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4853,
+      "stars_delta": 4217,
+      "forks": 156,
+      "forks_delta": 0,
+      "html_url": "https://github.com/humanlayer/skills",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "skills Claude Code skills from HumanLayer. Installation Available Skills show-me Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts. Then invoke: visual-pr Creates or updates a pull r…",
+        "en": "skills Claude Code skills from HumanLayer. Installation Available Skills show-me Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts. Then invoke: visual-pr Creates or updates a pull r…"
+      },
+      "innovations": {
+        "zh": "…n adherence. Then in your project: narrow-react-prop-types Narrows React component prop types to match live code paths instead of Storybook, test, or mock-only states. Then in your project: build-iterated-agentic-loop Builds a rep…",
+        "en": "…n adherence. Then in your project: narrow-react-prop-types Narrows React component prop types to match live code paths instead of Storybook, test, or mock-only states. Then in your project: build-iterated-agentic-loop Builds a rep…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "skills Claude Code skills from HumanLayer. Installation Available Skills show-me Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts. Then invoke: visual-pr Creates or updates a pull r…",
+      "strengths_en": "skills Claude Code skills from HumanLayer. Installation Available Skills show-me Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts. Then invoke: visual-pr Creates or updates a pull r…",
+      "innovations_zh": "…n adherence. Then in your project: narrow-react-prop-types Narrows React component prop types to match live code paths instead of Storybook, test, or mock-only states. Then in your project: build-iterated-agentic-loop Builds a rep…",
+      "innovations_en": "…n adherence. Then in your project: narrow-react-prop-types Narrows React component prop types to match live code paths instead of Storybook, test, or mock-only states. Then in your project: build-iterated-agentic-loop Builds a rep…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 14592,
+      "stars_delta": 5918,
+      "forks": 1671,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
       "full_name": "trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
@@ -668,12 +720,12 @@
         "windows",
         "windows-sandbox"
       ],
-      "stars": 27851,
-      "stars_delta": 43,
-      "forks": 1962,
-      "forks_delta": 3,
+      "stars": 27882,
+      "stars_delta": 31,
+      "forks": 1966,
+      "forks_delta": 4,
       "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
@@ -695,17 +747,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 9535,
-      "stars_delta": 51,
-      "forks": 901,
-      "forks_delta": 5,
+      "stars": 9595,
+      "stars_delta": 60,
+      "forks": 907,
+      "forks_delta": 6,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -727,88 +779,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 18,
-      "full_name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "stars": 8690,
-      "stars_delta": 19,
-      "forks": 310,
-      "forks_delta": 1,
-      "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-        "en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
-      },
-      "innovations": {
-        "zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
-        "en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…"
-      },
-      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "strengths_zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "strengths_en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "innovations_zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
-      "innovations_en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 19,
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 30208,
-      "stars_delta": 37,
-      "forks": 4232,
-      "forks_delta": 9,
-      "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-      },
-      "strengths": {
-        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
-      },
-      "innovations": {
-        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
-      },
-      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 20,
       "full_name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 25993,
-      "stars_delta": 10,
+      "stars": 26010,
+      "stars_delta": 17,
       "forks": 3052,
-      "forks_delta": 1,
+      "forks_delta": 0,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -831,38 +812,77 @@
     },
     {
       "rank": 21,
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 39839,
-      "stars_delta": 17,
-      "forks": 6167,
-      "forks_delta": 5,
-      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "full_name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
+      "stars": 8706,
+      "stars_delta": 16,
+      "forks": 312,
+      "forks_delta": 2,
+      "html_url": "https://github.com/max-sixty/worktrunk",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
-        "zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
       },
       "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-        "en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw"
+        "zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+        "en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
       },
       "innovations": {
-        "zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-        "en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…"
+        "zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+        "en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…"
       },
-      "purpose_zh": "THU-MAIC/OpenMAIC：开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验",
-      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "strengths_en": "Built with TypeScript; Get an immersive, multi-agent learning experience in just one click; &nbsp;&nbsp;; Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw",
-      "innovations_zh": "【创新点】- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "innovations_en": "- **Agent workbench** — a chat-first workspace that plans, builds, and revises whole courses - **Durable sessions** — server-backed runs survive restarts…",
-      "insights_source": "readme"
+      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "strengths_zh": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "strengths_en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "innovations_zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+      "innovations_en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 22,
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 30271,
+      "stars_delta": 63,
+      "forks": 4240,
+      "forks_delta": 8,
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
+      "purpose": {
+        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+      },
+      "strengths": {
+        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
+      },
+      "innovations": {
+        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
+      },
+      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 23,
       "full_name": "NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
@@ -879,12 +899,12 @@
         "security-workflow",
         "supply-chain-security"
       ],
-      "stars": 19143,
-      "stars_delta": 43,
-      "forks": 1666,
-      "forks_delta": 3,
+      "stars": 19189,
+      "stars_delta": 46,
+      "forks": 1671,
+      "forks_delta": 5,
       "html_url": "https://github.com/NVIDIA/SkillSpector",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
+      "snapshot_at": "2026-10-03T11:49:06.294Z",
       "purpose": {
         "zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
         "en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
@@ -903,43 +923,6 @@
       "strengths_en": "SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute…",
       "innovations_zh": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…",
       "innovations_en": "…us intent. SkillSpector helps you answer: \"Is this skill safe to install?\" SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before publication. Skills that pass are publis…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 23,
-      "full_name": "longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "topics": [
-        "desktop-application",
-        "gpui",
-        "rust",
-        "uikit"
-      ],
-      "stars": 15732,
-      "stars_delta": 42,
-      "forks": 971,
-      "forks_delta": 1,
-      "html_url": "https://github.com/longbridge/gpui-kit",
-      "snapshot_at": "2026-10-03T05:27:25.578Z",
-      "purpose": {
-        "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-        "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
-      },
-      "strengths": {
-        "zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-        "en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…"
-      },
-      "innovations": {
-        "zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
-        "en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…"
-      },
-      "purpose_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "purpose_en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "strengths_zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-      "strengths_en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-      "innovations_zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
-      "innovations_en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
       "insights_source": "readme-excerpt"
     }
   ]
