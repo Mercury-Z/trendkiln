@@ -22,12 +22,12 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 96821,
+      "stars": 96935,
       "stars_delta": 114,
-      "forks": 16392,
-      "forks_delta": 11,
+      "forks": 16408,
+      "forks_delta": 16,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -59,12 +59,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 45190,
-      "stars_delta": 135,
-      "forks": 5899,
-      "forks_delta": 5,
+      "stars": 45289,
+      "stars_delta": 99,
+      "forks": 5903,
+      "forks_delta": 4,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -87,6 +87,38 @@
     },
     {
       "rank": 3,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 75822,
+      "stars_delta": 317,
+      "forks": 4537,
+      "forks_delta": 12,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -112,12 +144,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 52730,
-      "stars_delta": 212,
-      "forks": 5874,
-      "forks_delta": 21,
+      "stars": 52884,
+      "stars_delta": 154,
+      "forks": 5890,
+      "forks_delta": 16,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -139,39 +171,97 @@
       "insights_source": "readme"
     },
     {
-      "rank": 4,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 75505,
-      "stars_delta": 312,
-      "forks": 4525,
-      "forks_delta": 15,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "rank": 5,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 56489,
+      "stars_delta": 123,
+      "forks": 5074,
+      "forks_delta": 7,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
       },
       "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
       },
       "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
       },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "full_name": "Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "clustering",
+        "concurrency",
+        "dependency-injection",
+        "effect",
+        "error-handling",
+        "javascript",
+        "observability",
+        "opentelemetry",
+        "platform",
+        "schema",
+        "typescript",
+        "workflows"
+      ],
+      "stars": 16925,
+      "stars_delta": 50,
+      "forks": 818,
+      "forks_delta": 2,
+      "html_url": "https://github.com/Effect-TS/effect",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
+      "purpose": {
+        "zh": "Build production-ready applications in TypeScript",
+        "en": "Build production-ready applications in TypeScript"
+      },
+      "strengths": {
+        "zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+        "en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…"
+      },
+      "innovations": {
+        "zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+        "en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…"
+      },
+      "purpose_zh": "Build production-ready applications in TypeScript",
+      "purpose_en": "Build production-ready applications in TypeScript",
+      "strengths_zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "strengths_en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
+      "innovations_zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "innovations_en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -197,12 +287,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 63289,
-      "stars_delta": 206,
-      "forks": 10821,
-      "forks_delta": 34,
+      "stars": 63508,
+      "stars_delta": 219,
+      "forks": 10867,
+      "forks_delta": 46,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "Learn it. Build it. Ship it for others.",
         "en": "Learn it. Build it. Ship it for others."
@@ -224,140 +314,53 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 56366,
-      "stars_delta": 87,
-      "forks": 5067,
-      "forks_delta": 9,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "topics": [
-        "blog",
-        "browser",
-        "compiler",
-        "components",
-        "hybrid",
-        "nextjs",
-        "node",
-        "react",
-        "server-rendering",
-        "ssg",
-        "static",
-        "static-site-generator",
-        "universal",
-        "vercel"
-      ],
-      "stars": 143104,
-      "stars_delta": 38,
-      "forks": 33822,
-      "forks_delta": 74,
-      "html_url": "https://github.com/vercel/next.js",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
-      "purpose": {
-        "zh": "The React Framework",
-        "en": "The React Framework"
-      },
-      "strengths": {
-        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
-      },
-      "innovations": {
-        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
-      },
-      "purpose_zh": "The React Framework",
-      "purpose_en": "The React Framework",
-      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
-      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 8,
-      "full_name": "Effect-TS/effect",
-      "description": "Build production-ready applications in TypeScript",
-      "language": "TypeScript",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
       "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
         "cli",
-        "clustering",
-        "concurrency",
-        "dependency-injection",
-        "effect",
-        "error-handling",
-        "javascript",
-        "observability",
-        "opentelemetry",
-        "platform",
-        "schema",
-        "typescript",
-        "workflows"
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
       ],
-      "stars": 16875,
-      "stars_delta": 89,
-      "forks": 816,
-      "forks_delta": 3,
-      "html_url": "https://github.com/Effect-TS/effect",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "stars": 90340,
+      "stars_delta": 322,
+      "forks": 7942,
+      "forks_delta": 24,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
-        "zh": "Build production-ready applications in TypeScript",
-        "en": "Build production-ready applications in TypeScript"
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
       },
       "strengths": {
-        "zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-        "en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…"
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
       },
       "innovations": {
-        "zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
-        "en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…"
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
       },
-      "purpose_zh": "Build production-ready applications in TypeScript",
-      "purpose_en": "Build production-ready applications in TypeScript",
-      "strengths_zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-      "strengths_en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-      "innovations_zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
-      "innovations_en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -387,12 +390,12 @@
         "openclaw-skills",
         "prompt-engineering"
       ],
-      "stars": 27513,
-      "stars_delta": 45,
-      "forks": 3876,
-      "forks_delta": 6,
+      "stars": 27551,
+      "stars_delta": 38,
+      "forks": 3881,
+      "forks_delta": 5,
       "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
         "en": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
@@ -415,108 +418,38 @@
     },
     {
       "rank": 10,
-      "full_name": "flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "topics": [
-        "android",
-        "app-framework",
-        "cross-platform",
-        "dart",
-        "dart-platform",
-        "desktop",
-        "flutter",
-        "flutter-package",
-        "fuchsia",
-        "ios",
-        "linux-desktop",
-        "macos",
-        "material-design",
-        "mobile",
-        "mobile-development",
-        "skia",
-        "web",
-        "web-framework",
-        "windows"
-      ],
-      "stars": 179319,
-      "stars_delta": 18,
-      "forks": 32962,
-      "forks_delta": 52,
-      "html_url": "https://github.com/flutter/flutter",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "full_name": "pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 24922,
+      "stars_delta": 975,
+      "forks": 6477,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
-        "zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+        "zh": "",
+        "en": ""
       },
       "strengths": {
-        "zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-        "en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…"
+        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
       },
       "innovations": {
-        "zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
-        "en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…"
+        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
       },
-      "purpose_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "purpose_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "strengths_zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-      "strengths_en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
-      "innovations_zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
-      "innovations_en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 11,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
-      ],
-      "stars": 90018,
-      "stars_delta": 302,
-      "forks": 7918,
-      "forks_delta": 28,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
-      "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
-      },
-      "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
-      },
-      "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
-      },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -529,12 +462,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 6620,
-      "stars_delta": 48,
-      "forks": 816,
-      "forks_delta": 6,
+      "stars": 6666,
+      "stars_delta": 46,
+      "forks": 821,
+      "forks_delta": 5,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -556,17 +489,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "full_name": "tile-ai/tilelang",
       "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "topics": [],
-      "stars": 8300,
-      "stars_delta": 13,
+      "stars": 8312,
+      "stars_delta": 12,
       "forks": 837,
-      "forks_delta": 3,
+      "forks_delta": 0,
       "html_url": "https://github.com/tile-ai/tilelang",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
@@ -588,85 +521,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "topics": [
-        "desktop-application",
-        "gpui",
-        "rust",
-        "uikit"
-      ],
-      "stars": 15921,
-      "stars_delta": 90,
-      "forks": 981,
-      "forks_delta": 7,
-      "html_url": "https://github.com/longbridge/gpui-kit",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
-      "purpose": {
-        "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-        "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
-      },
-      "strengths": {
-        "zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-        "en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…"
-      },
-      "innovations": {
-        "zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
-        "en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…"
-      },
-      "purpose_zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "purpose_en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "strengths_zh": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-      "strengths_en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
-      "innovations_zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
-      "innovations_en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "topics": [
-        "autograd",
-        "deep-learning",
-        "gpu",
-        "machine-learning",
-        "neural-network",
-        "numpy",
-        "python",
-        "tensor"
-      ],
-      "stars": 103709,
-      "stars_delta": 37,
-      "forks": 31295,
-      "forks_delta": 76,
-      "html_url": "https://github.com/pytorch/pytorch",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
-      "purpose": {
-        "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-      },
-      "strengths": {
-        "zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-        "en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…"
-      },
-      "innovations": {
-        "zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-        "en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…"
-      },
-      "purpose_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "purpose_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "strengths_zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "strengths_en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "innovations_zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-      "innovations_en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "full_name": "harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
@@ -686,12 +541,12 @@
         "workflow-automation",
         "youtube-shorts"
       ],
-      "stars": 128297,
-      "stars_delta": 55,
-      "forks": 20078,
-      "forks_delta": 14,
+      "stars": 128351,
+      "stars_delta": 54,
+      "forks": 20079,
+      "forks_delta": 1,
       "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
@@ -713,17 +568,136 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 14,
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components",
+        "hybrid",
+        "nextjs",
+        "node",
+        "react",
+        "server-rendering",
+        "ssg",
+        "static",
+        "static-site-generator",
+        "universal",
+        "vercel"
+      ],
+      "stars": 143129,
+      "stars_delta": 25,
+      "forks": 33864,
+      "forks_delta": 42,
+      "html_url": "https://github.com/vercel/next.js",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
+      "purpose": {
+        "zh": "The React Framework",
+        "en": "The React Framework"
+      },
+      "strengths": {
+        "zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+        "en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…"
+      },
+      "innovations": {
+        "zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+        "en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…"
+      },
+      "purpose_zh": "The React Framework",
+      "purpose_en": "The React Framework",
+      "strengths_zh": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "strengths_en": "Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for th…",
+      "innovations_zh": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "innovations_en": "…ps://nextjs.org/docs to view the full documentation. Community The Next.js community can be found on GitHub Discussions where you can ask questions, voice ideas, and share your projects with other people. To chat with other commun…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "topics": [
+        "awesome",
+        "c",
+        "latex",
+        "linux",
+        "posix",
+        "system-programming",
+        "wikibook"
+      ],
+      "stars": 3636,
+      "stars_delta": 1625,
+      "forks": 307,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cs341-illinois/coursebook",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
+      "purpose": {
+        "zh": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "en": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+      },
+      "strengths": {
+        "zh": "Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urb…",
+        "en": "Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urb…"
+      },
+      "innovations": {
+        "zh": "…, as it is the de-facto language of the Linux Kernel. The Coursebook is an aim to standardize and build upon Angrave's original wikibook experiment. The most recent version of the coursebook as a single pdf is here: main.pdf. Over…",
+        "en": "…, as it is the de-facto language of the Linux Kernel. The Coursebook is an aim to standardize and build upon Angrave's original wikibook experiment. The most recent version of the coursebook as a single pdf is here: main.pdf. Over…"
+      },
+      "purpose_zh": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "purpose_en": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "strengths_zh": "Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urb…",
+      "strengths_en": "Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urb…",
+      "innovations_zh": "…, as it is the de-facto language of the Linux Kernel. The Coursebook is an aim to standardize and build upon Angrave's original wikibook experiment. The most recent version of the coursebook as a single pdf is here: main.pdf. Over…",
+      "innovations_en": "…, as it is the de-facto language of the Linux Kernel. The Coursebook is an aim to standardize and build upon Angrave's original wikibook experiment. The most recent version of the coursebook as a single pdf is here: main.pdf. Over…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 14753,
+      "stars_delta": 5854,
+      "forks": 1686,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 17,
       "full_name": "pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4004,
-      "stars_delta": 198,
-      "forks": 349,
-      "forks_delta": 14,
+      "stars": 4159,
+      "stars_delta": 155,
+      "forks": 358,
+      "forks_delta": 9,
       "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "yoink any video from your terminal. no shady ads.",
         "en": "yoink any video from your terminal. no shady ads."
@@ -746,42 +720,46 @@
     },
     {
       "rank": 18,
-      "full_name": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
+      "full_name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
       "topics": [
-        "anyps5",
-        "dynamic-library",
-        "game-porting",
-        "ps5",
-        "ps5-tools",
-        "spir-v",
-        "vulkan"
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
       ],
-      "stars": 3316,
-      "stars_delta": 1820,
-      "forks": 283,
+      "stars": 4824,
+      "stars_delta": 4245,
+      "forks": 344,
       "forks_delta": 0,
-      "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
-        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+        "zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
       },
       "strengths": {
-        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
+        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…"
       },
       "innovations": {
-        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
+        "zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
+        "en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…"
       },
-      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "purpose_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "purpose_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+      "innovations_zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
+      "innovations_en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -810,12 +788,12 @@
         "termux-hacks",
         "termux-tool"
       ],
-      "stars": 16872,
-      "stars_delta": 49,
-      "forks": 2302,
+      "stars": 16904,
+      "stars_delta": 32,
+      "forks": 2305,
       "forks_delta": 3,
       "html_url": "https://github.com/HunxByts/GhostTrack",
-      "snapshot_at": "2026-10-04T06:02:51.762Z",
+      "snapshot_at": "2026-10-04T12:32:10.062Z",
       "purpose": {
         "zh": "Useful tool to track location or mobile number",
         "en": "Useful tool to track location or mobile number"
