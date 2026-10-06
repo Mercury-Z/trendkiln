@@ -18,107 +18,50 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 77182,
-      "stars_delta": 119,
-      "forks": 4598,
-      "forks_delta": 7,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
+      "full_name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "stars": 5451,
+      "stars_delta": 147,
+      "forks": 398,
+      "forks_delta": 6,
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
       "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
+        "zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
       },
       "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…"
       },
       "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+        "zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
+        "en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…"
       },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "purpose_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "purpose_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
+      "innovations_zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
+      "innovations_en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
-      "full_name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 97774,
-      "stars_delta": 126,
-      "forks": 16522,
-      "forks_delta": 16,
-      "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "The open-source app everyone uses to manage agents at work",
-        "en": "The open-source app everyone uses to manage agents at work"
-      },
-      "strengths": {
-        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
-      },
-      "innovations": {
-        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
-      },
-      "purpose_zh": "The open-source app everyone uses to manage agents at work",
-      "purpose_en": "The open-source app everyone uses to manage agents at work",
-      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai-memory",
-        "memory"
-      ],
-      "stars": 46049,
-      "stars_delta": 118,
-      "forks": 5937,
-      "forks_delta": 8,
-      "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Hindsight: Agent Memory That Learns",
-        "en": "Hindsight: Agent Memory That Learns"
-      },
-      "strengths": {
-        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
-      },
-      "innovations": {
-        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
-      },
-      "purpose_zh": "Hindsight: Agent Memory That Learns",
-      "purpose_en": "Hindsight: Agent Memory That Learns",
-      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -135,12 +78,12 @@
         "typescript",
         "video"
       ],
-      "stars": 57439,
-      "stars_delta": 129,
-      "forks": 5140,
-      "forks_delta": 9,
+      "stars": 57794,
+      "stars_delta": 355,
+      "forks": 5157,
+      "forks_delta": 17,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -162,60 +105,344 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "stars": 53906,
-      "stars_delta": 146,
-      "forks": 6027,
-      "forks_delta": 26,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
+      "rank": 3,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 10075,
+      "stars_delta": 82,
+      "forks": 955,
+      "forks_delta": 10,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
       "purpose": {
-        "zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
       },
       "strengths": {
-        "zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-        "en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware."
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
       "innovations": {
-        "zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-        "en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr"
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
-      "purpose_zh": "debpalash/VoiceStudio：VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "使用⟦Python构建⟧；焦点： ai、有声读物⟧、⟦cuda、配音、elevenlabs-alternative、huggingface ；注意： Electron Rewrite Ongoing ：请勿创建与桌面应用程序相关的问题和pr ；以前的OmniVoice-Studio ；在您自己的硬件上克隆语音、配音视频、听写和制作长格式音频。",
-      "strengths_en": "Built with Python; Focus: ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface; NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr; Previously OmniVoice-Studio; Clone voices, dub video, dictate, and produce long-form audio on your own hardware.",
-      "innovations_zh": "注意：电子重写正在进行：请勿创建与桌面应用程序相关的问题和",
-      "innovations_en": "NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr",
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
       "insights_source": "readme"
     },
     {
+      "rank": 4,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 15098,
+      "stars_delta": 5915,
+      "forks": 1715,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "context-engineering",
+        "information-retrieval",
+        "llm",
+        "rag",
+        "reasoning",
+        "retrieval",
+        "retrieval-augmented-generation",
+        "vector-database"
+      ],
+      "stars": 38759,
+      "stars_delta": 2860,
+      "forks": 3357,
+      "forks_delta": 0,
+      "html_url": "https://github.com/VectifyAI/PageIndex",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+      },
+      "strengths": {
+        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
+      },
+      "innovations": {
+        "zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
+        "en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…"
+      },
+      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+      "innovations_zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
+      "innovations_en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 6,
+      "full_name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "stars": 97032,
+      "stars_delta": 1759,
+      "forks": 8554,
+      "forks_delta": 0,
+      "html_url": "https://github.com/thedotmack/claude-mem",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
+        "en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…"
+      },
+      "innovations": {
+        "zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
+        "en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…"
+      },
+      "purpose_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "purpose_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "strengths_zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
+      "strengths_en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
+      "innovations_zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
+      "innovations_en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4809,
+      "stars_delta": 126,
+      "forks": 419,
+      "forks_delta": 4,
+      "html_url": "https://github.com/pablostanley/yoinks",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "yoink any video from your terminal. no shady ads.",
+        "en": "yoink any video from your terminal. no shady ads."
+      },
+      "strengths": {
+        "zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+        "en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…"
+      },
+      "innovations": {
+        "zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+        "en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…"
+      },
+      "purpose_zh": "yoink any video from your terminal. no shady ads.",
+      "purpose_en": "yoink any video from your terminal. no shady ads.",
+      "strengths_zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+      "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
+      "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+      "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "topics": [
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
+        "python",
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
+      ],
+      "stars": 17189,
+      "stars_delta": 1985,
+      "forks": 2341,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "Useful tool to track location or mobile number",
+        "en": "Useful tool to track location or mobile number"
+      },
+      "strengths": {
+        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
+      },
+      "innovations": {
+        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
+      },
+      "purpose_zh": "Useful tool to track location or mobile number",
+      "purpose_en": "Useful tool to track location or mobile number",
+      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "topics": [
+        "bodyweight",
+        "docker",
+        "fitness",
+        "fitness-tracker",
+        "gym",
+        "health",
+        "mcp",
+        "nodejs",
+        "passkeys",
+        "progressive-web-applications",
+        "pwa",
+        "react",
+        "self-hosted",
+        "self-hosting",
+        "vite",
+        "webauthn",
+        "weightlifting",
+        "workout-tracker"
+      ],
+      "stars": 5388,
+      "stars_delta": 2702,
+      "forks": 752,
+      "forks_delta": 0,
+      "html_url": "https://github.com/DuarteSantos8/openGym",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+      },
+      "strengths": {
+        "zh": "A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your phone, synced across your devices, behind your own passkey login. Website · Live demo ·…",
+        "en": "A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your phone, synced across your devices, behind your own passkey login. Website · Live demo ·…"
+      },
+      "innovations": {
+        "zh": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…",
+        "en": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…"
+      },
+      "purpose_zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "purpose_en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "strengths_zh": "A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your phone, synced across your devices, behind your own passkey login. Website · Live demo ·…",
+      "strengths_en": "A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your phone, synced across your devices, behind your own passkey login. Website · Live demo ·…",
+      "innovations_zh": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…",
+      "innovations_en": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "stars": 5979,
+      "stars_delta": 2657,
+      "forks": 445,
+      "forks_delta": 0,
+      "html_url": "https://github.com/boykopovar/AnyPS5",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
+      "purpose": {
+        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+      },
+      "strengths": {
+        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
+      },
+      "innovations": {
+        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
+      },
+      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
@@ -238,12 +465,12 @@
         "xiaohongshu",
         "youtube-transcript"
       ],
-      "stars": 92111,
-      "stars_delta": 242,
-      "forks": 8082,
-      "forks_delta": 19,
+      "stars": 92522,
+      "stars_delta": 411,
+      "forks": 8114,
+      "forks_delta": 32,
       "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
       "purpose": {
         "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
@@ -265,622 +492,43 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "Effect-TS/effect",
-      "description": "Build production-ready applications in TypeScript",
-      "language": "TypeScript",
-      "topics": [
-        "cli",
-        "clustering",
-        "concurrency",
-        "dependency-injection",
-        "effect",
-        "error-handling",
-        "javascript",
-        "observability",
-        "opentelemetry",
-        "platform",
-        "schema",
-        "typescript",
-        "workflows"
-      ],
-      "stars": 17061,
-      "stars_delta": 17,
-      "forks": 830,
-      "forks_delta": 3,
-      "html_url": "https://github.com/Effect-TS/effect",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Build production-ready applications in TypeScript",
-        "en": "Build production-ready applications in TypeScript"
-      },
-      "strengths": {
-        "zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-        "en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…"
-      },
-      "innovations": {
-        "zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
-        "en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…"
-      },
-      "purpose_zh": "Build production-ready applications in TypeScript",
-      "purpose_en": "Build production-ready applications in TypeScript",
-      "strengths_zh": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-      "strengths_en": "Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency,…",
-      "innovations_zh": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
-      "innovations_en": "…tallation Requirements - TypeScript 5.9 or newer. TypeScript 7 is recommended for the best performance and compatibility with Effect's TypeScript tooling. - Node.js 18 or newer is the general minimum for running Effect on Node.js.…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "rank": 12,
+      "full_name": "byoungd/up",
+      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
       "language": "JavaScript",
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
+        "ai-literacy",
+        "chinese",
+        "english-learning",
+        "lifelong-learning",
+        "open-education",
+        "self-directed-learning",
+        "tutorial"
       ],
-      "stars": 156171,
-      "stars_delta": 8596,
-      "forks": 8394,
+      "stars": 67493,
+      "stars_delta": 2827,
+      "forks": 6695,
       "forks_delta": 0,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
+      "html_url": "https://github.com/byoungd/up",
+      "snapshot_at": "2026-10-06T18:28:41.920Z",
       "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        "zh": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+        "en": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth."
       },
       "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…"
+        "zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
+        "en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…"
       },
       "innovations": {
-        "zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
-        "en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…"
+        "zh": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
+        "en": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…"
       },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-      "innovations_zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
-      "innovations_en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "language": "Go",
-      "topics": [
-        "ai-agents",
-        "bubbletea",
-        "charm",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "go",
-        "golang",
-        "multiplexer",
-        "pty",
-        "ssh",
-        "terminal",
-        "terminal-emulator",
-        "terminal-multiplexer",
-        "tiling-window-manager",
-        "tmux-alternative",
-        "tui",
-        "window-manager"
-      ],
-      "stars": 4886,
-      "stars_delta": 49,
-      "forks": 217,
-      "forks_delta": 4,
-      "html_url": "https://github.com/Gaurav-Gosain/tuios",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-        "en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent."
-      },
-      "strengths": {
-        "zh": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
-        "en": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…"
-      },
-      "innovations": {
-        "zh": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
-        "en": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…"
-      },
-      "purpose_zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "purpose_en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "strengths_zh": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
-      "strengths_en": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
-      "innovations_zh": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
-      "innovations_en": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 25704,
-      "stars_delta": 99,
-      "forks": 6615,
-      "forks_delta": 21,
-      "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
-      },
-      "innovations": {
-        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "computer-vision",
-        "course",
-        "deep-learning",
-        "from-scratch",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "nlp",
-        "python",
-        "reinforcement-learning",
-        "rust",
-        "swarm-intelligence",
-        "transformers",
-        "tutorial",
-        "typescript"
-      ],
-      "stars": 64898,
-      "stars_delta": 146,
-      "forks": 11170,
-      "forks_delta": 34,
-      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Learn it. Build it. Ship it for others.",
-        "en": "Learn it. Build it. Ship it for others."
-      },
-      "strengths": {
-        "zh": "Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-tr…",
-        "en": "Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-tr…"
-      },
-      "innovations": {
-        "zh": "…. 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 523 lessons. 20 phases. ~342 hours. Python, TypeScript, Rust, Julia. Every lesson ships a reusable artifac…",
-        "en": "…. 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 523 lessons. 20 phases. ~342 hours. Python, TypeScript, Rust, Julia. Every lesson ships a reusable artifac…"
-      },
-      "purpose_zh": "Learn it. Build it. Ship it for others.",
-      "purpose_en": "Learn it. Build it. Ship it for others.",
-      "strengths_zh": "Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-tr…",
-      "strengths_en": "Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-tr…",
-      "innovations_zh": "…. 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 523 lessons. 20 phases. ~342 hours. Python, TypeScript, Rust, Julia. Every lesson ships a reusable artifac…",
-      "innovations_en": "…. 84% of students already use AI tools. Only 18% feel prepared to use them professionally. This curriculum closes that gap. 523 lessons. 20 phases. ~342 hours. Python, TypeScript, Rust, Julia. Every lesson ships a reusable artifac…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "topics": [
-        "agent-plugins",
-        "agent-skills",
-        "agentic-ai",
-        "ai-coding-agent",
-        "anthropic-claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugins",
-        "claude-code-skills",
-        "claude-skills",
-        "codex-skills",
-        "coding-agent-plugins",
-        "cursor-skills",
-        "developer-tools",
-        "gemini-cli-skills",
-        "openai-codex",
-        "openclaw",
-        "openclaw-plugins",
-        "openclaw-skills",
-        "prompt-engineering"
-      ],
-      "stars": 27745,
-      "stars_delta": 34,
-      "forks": 3898,
-      "forks_delta": 3,
-      "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-        "en": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
-      },
-      "strengths": {
-        "zh": "Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 388 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools. The most comprehensive open-source library of Claude Code skills and agen…",
-        "en": "Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 388 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools. The most comprehensive open-source library of Claude Code skills and agen…"
-      },
-      "innovations": {
-        "zh": "…nswer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs: slash commands), productivity (capture…",
-        "en": "…nswer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs: slash commands), productivity (capture…"
-      },
-      "purpose_zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "purpose_en": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "strengths_zh": "Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 388 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools. The most comprehensive open-source library of Claude Code skills and agen…",
-      "strengths_en": "Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 388 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools. The most comprehensive open-source library of Claude Code skills and agen…",
-      "innovations_zh": "…nswer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs: slash commands), productivity (capture…",
-      "innovations_en": "…nswer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs: slash commands), productivity (capture…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 11099,
-      "stars_delta": 99,
-      "forks": 1315,
-      "forks_delta": 6,
-      "html_url": "https://github.com/cloudflare/cloudflare-os",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-        "en": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems."
-      },
-      "strengths": {
-        "zh": "Cloudflare OS: An AI productivity environment Cloudflare OS is an \"operating system\" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and ev…",
-        "en": "Cloudflare OS: An AI productivity environment Cloudflare OS is an \"operating system\" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and ev…"
-      },
-      "innovations": {
-        "zh": "…two senses: An operating system for the company to be productive with AI, in a way that is safe, so that the security team can sleep at night. An operating system for AI workloads, analogous to the sense in which a traditional op…",
-        "en": "…two senses: An operating system for the company to be productive with AI, in a way that is safe, so that the security team can sleep at night. An operating system for AI workloads, analogous to the sense in which a traditional op…"
-      },
-      "purpose_zh": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "purpose_en": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "strengths_zh": "Cloudflare OS: An AI productivity environment Cloudflare OS is an \"operating system\" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and ev…",
-      "strengths_en": "Cloudflare OS: An AI productivity environment Cloudflare OS is an \"operating system\" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and ev…",
-      "innovations_zh": "…two senses: An operating system for the company to be productive with AI, in a way that is safe, so that the security team can sleep at night. An operating system for AI workloads, analogous to the sense in which a traditional op…",
-      "innovations_en": "…two senses: An operating system for the company to be productive with AI, in a way that is safe, so that the security team can sleep at night. An operating system for AI workloads, analogous to the sense in which a traditional op…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "tile-ai/tilelang",
-      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "language": "Python",
-      "topics": [],
-      "stars": 8434,
-      "stars_delta": 13,
-      "forks": 853,
-      "forks_delta": 3,
-      "html_url": "https://github.com/tile-ai/tilelang",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-        "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
-      },
-      "strengths": {
-        "zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-        "en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…"
-      },
-      "innovations": {
-        "zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
-        "en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…"
-      },
-      "purpose_zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "purpose_en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "strengths_zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-      "strengths_en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
-      "innovations_zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
-      "innovations_en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 9993,
-      "stars_delta": 28,
-      "forks": 945,
-      "forks_delta": 6,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 16,
-      "full_name": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "stars": 7060,
-      "stars_delta": 57,
-      "forks": 872,
-      "forks_delta": 7,
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-      },
-      "strengths": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
-      },
-      "innovations": {
-        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
-      },
-      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "topics": [
-        "ai-video-generator",
-        "content-creation",
-        "ffmpeg",
-        "instagram-reels",
-        "llm",
-        "python",
-        "short-video",
-        "subtitles",
-        "text-to-speech",
-        "tiktok",
-        "video-automation",
-        "video-workflow",
-        "workflow-automation",
-        "youtube-shorts"
-      ],
-      "stars": 128696,
-      "stars_delta": 54,
-      "forks": 20125,
-      "forks_delta": 11,
-      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
-      },
-      "strengths": {
-        "zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-        "en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…"
-      },
-      "innovations": {
-        "zh": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-        "en": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…"
-      },
-      "purpose_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "purpose_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "strengths_zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-      "strengths_en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token…",
-      "innovations_zh": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-      "innovations_en": "…额度，最高赠送 ¥1000。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 18,
-      "full_name": "caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "language": "Go",
-      "topics": [
-        "acme",
-        "automatic-https",
-        "caddy",
-        "caddyfile",
-        "go",
-        "golang",
-        "http",
-        "http-server",
-        "http3",
-        "https",
-        "privacy",
-        "reverse-proxy",
-        "security",
-        "tls",
-        "web-server"
-      ],
-      "stars": 77250,
-      "stars_delta": 151,
-      "forks": 5080,
-      "forks_delta": 7,
-      "html_url": "https://github.com/caddyserver/caddy",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-        "en": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-      },
-      "strengths": {
-        "zh": "a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multip…",
-        "en": "a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multip…"
-      },
-      "innovations": {
-        "zh": "…- Overview - Full documentation - Getting help - About Features - Easy configuration with the Caddyfile - Powerful configuration with its native JSON config - Dynamic configuration with the JSON API - Config adapters if you don't…",
-        "en": "…- Overview - Full documentation - Getting help - About Features - Easy configuration with the Caddyfile - Powerful configuration with its native JSON config - Dynamic configuration with the JSON API - Config adapters if you don't…"
-      },
-      "purpose_zh": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "purpose_en": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "strengths_zh": "a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multip…",
-      "strengths_en": "a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multip…",
-      "innovations_zh": "…- Overview - Full documentation - Getting help - About Features - Easy configuration with the Caddyfile - Powerful configuration with its native JSON config - Dynamic configuration with the JSON API - Config adapters if you don't…",
-      "innovations_en": "…- Overview - Full documentation - Getting help - About Features - Easy configuration with the Caddyfile - Powerful configuration with its native JSON config - Dynamic configuration with the JSON API - Config adapters if you don't…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 19,
-      "full_name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 157405,
-      "stars_delta": 160,
-      "forks": 25384,
-      "forks_delta": 17,
-      "html_url": "https://github.com/msitarzewski/agency-agents",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-      },
-      "strengths": {
-        "zh": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
-        "en": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…"
-      },
-      "innovations": {
-        "zh": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
-        "en": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…"
-      },
-      "purpose_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "purpose_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "strengths_zh": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
-      "strengths_en": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
-      "innovations_zh": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
-      "innovations_en": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 20,
-      "full_name": "pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 4683,
-      "stars_delta": 47,
-      "forks": 415,
-      "forks_delta": 4,
-      "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "yoink any video from your terminal. no shady ads.",
-        "en": "yoink any video from your terminal. no shady ads."
-      },
-      "strengths": {
-        "zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-        "en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…"
-      },
-      "innovations": {
-        "zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-        "en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…"
-      },
-      "purpose_zh": "yoink any video from your terminal. no shady ads.",
-      "purpose_en": "yoink any video from your terminal. no shady ads.",
-      "strengths_zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-      "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-      "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-      "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 21,
-      "full_name": "mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-skills",
-        "ai-coding",
-        "claude-code",
-        "cli",
-        "codex-cli",
-        "multi-agent",
-        "multi-agent-systems",
-        "tmux",
-        "typescript"
-      ],
-      "stars": 5304,
-      "stars_delta": 82,
-      "forks": 392,
-      "forks_delta": 6,
-      "html_url": "https://github.com/mvschwarz/openrig",
-      "snapshot_at": "2026-10-06T06:31:38.076Z",
-      "purpose": {
-        "zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-        "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
-      },
-      "strengths": {
-        "zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
-        "en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…"
-      },
-      "innovations": {
-        "zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
-        "en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…"
-      },
-      "purpose_zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "purpose_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "strengths_zh": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
-      "strengths_en": "OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig is open-source software for building and…",
-      "innovations_zh": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
-      "innovations_en": "…ou want; it can coordinate specialists across teams and bring you results and decisions that need your attention. Start with a repository and one useful change, then keep the team's work and context at the same addresses. It's the…",
+      "purpose_zh": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+      "purpose_en": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
+      "strengths_zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
+      "strengths_en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
+      "innovations_zh": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
+      "innovations_en": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
       "insights_source": "readme-excerpt"
     }
   ]

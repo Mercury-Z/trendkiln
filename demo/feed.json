@@ -26,6 +26,181 @@
       "saved": false
     },
     {
+      "id": "785",
+      "title": {
+        "zh": "rust-v0.162.0-alpha.17",
+        "en": "rust-v0.162.0-alpha.17"
+      },
+      "summary": {
+        "zh": "Release 0.162.0-alpha.17",
+        "en": "Release 0.162.0-alpha.17"
+      },
+      "title_zh": "rust-v0.162.0-alpha.17",
+      "title_en": "rust-v0.162.0-alpha.17",
+      "summary_zh": "Release 0.162.0-alpha.17",
+      "summary_en": "Release 0.162.0-alpha.17",
+      "title_text": "rust-v0.162.0-alpha.17",
+      "summary_text": "Release 0.162.0-alpha.17",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.17",
+      "published_at": "2026-10-06T17:49:29.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "786",
+      "title": {
+        "zh": "AI Gateway adds confidence-based decision fallbacks",
+        "en": "AI Gateway adds confidence-based decision fallbacks"
+      },
+      "summary": {
+        "zh": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
+        "en": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…"
+      },
+      "title_zh": "AI Gateway adds confidence-based decision fallbacks",
+      "title_en": "AI Gateway adds confidence-based decision fallbacks",
+      "summary_zh": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
+      "summary_en": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
+      "title_text": "AI Gateway adds confidence-based decision fallbacks",
+      "summary_text": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
+      "published_at": "2026-10-06T17:19:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "787",
+      "title": {
+        "zh": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
+      },
+      "summary": {
+        "zh": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+        "en": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+      },
+      "title_zh": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary_zh": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "summary_en": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "title_text": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary_text": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "published_at": "2026-10-06T16:00:00.000Z",
+      "tags": [
+        "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "788",
+      "title": {
+        "zh": "Scrimshaw Jukebox",
+        "en": "Scrimshaw Jukebox"
+      },
+      "summary": {
+        "zh": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
+        "en": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…"
+      },
+      "title_zh": "Scrimshaw Jukebox",
+      "title_en": "Scrimshaw Jukebox",
+      "summary_zh": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
+      "summary_en": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
+      "title_text": "Scrimshaw Jukebox",
+      "summary_text": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "published_at": "2026-10-06T15:17:39.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "789",
+      "title": {
+        "zh": "Code scanning AI Scan enablement status in security overview",
+        "en": "Code scanning AI Scan enablement status in security overview"
+      },
+      "summary": {
+        "zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
+        "en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Code scanning AI Scan enablement status in security overview",
+      "title_en": "Code scanning AI Scan enablement status in security overview",
+      "summary_zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
+      "summary_en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
+      "title_text": "Code scanning AI Scan enablement status in security overview",
+      "summary_text": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "published_at": "2026-10-06T10:23:38.000Z",
+      "tags": [
+        "Improvement",
+        "application security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "790",
+      "title": {
+        "zh": "Advancing computer use with Ironclad",
+        "en": "Advancing computer use with Ironclad"
+      },
+      "summary": {
+        "zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+        "en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+      },
+      "title_zh": "Advancing computer use with Ironclad",
+      "title_en": "Advancing computer use with Ironclad",
+      "summary_zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "summary_en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "title_text": "Advancing computer use with Ironclad",
+      "summary_text": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published_at": "2026-10-06T10:00:00.000Z",
+      "tags": [
+        "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "791",
+      "title": {
+        "zh": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published_at": "2026-10-06T06:44:39.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "783",
       "title": {
         "zh": "[AINews] Reflection Beam - 501B-A23B American Open Model",
@@ -69,6 +244,54 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.13.1",
       "published_at": "2026-10-06T05:38:59.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "792",
+      "title": {
+        "zh": "Nano Banana 2.1 now available on AI Gateway",
+        "en": "Nano Banana 2.1 now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-base…",
+        "en": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-base…"
+      },
+      "title_zh": "Nano Banana 2.1 now available on AI Gateway",
+      "title_en": "Nano Banana 2.1 now available on AI Gateway",
+      "summary_zh": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-base…",
+      "summary_en": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-base…",
+      "title_text": "Nano Banana 2.1 now available on AI Gateway",
+      "summary_text": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-base…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+      "published_at": "2026-10-06T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "793",
+      "title": {
+        "zh": "Mistral Large 4 now available on AI Gateway",
+        "en": "Mistral Large 4 now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
+        "en": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…"
+      },
+      "title_zh": "Mistral Large 4 now available on AI Gateway",
+      "title_en": "Mistral Large 4 now available on AI Gateway",
+      "summary_zh": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
+      "summary_en": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
+      "title_text": "Mistral Large 4 now available on AI Gateway",
+      "summary_text": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
+      "published_at": "2026-10-06T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -513,30 +736,6 @@
       "source_name": "Latent Space",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
       "published_at": "2026-10-03T08:45:15.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "758",
-      "title": {
-        "zh": "0.162.0-alpha.9",
-        "en": "0.162.0-alpha.9"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.9",
-        "en": "Release 0.162.0-alpha.9"
-      },
-      "title_zh": "0.162.0-alpha.9",
-      "title_en": "0.162.0-alpha.9",
-      "summary_zh": "Release 0.162.0-alpha.9",
-      "summary_en": "Release 0.162.0-alpha.9",
-      "title_text": "0.162.0-alpha.9",
-      "summary_text": "Release 0.162.0-alpha.9",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.9",
-      "published_at": "2026-10-03T01:36:18.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1057,33 +1256,6 @@
       "url": "https://openai.com/index/chatham-financial",
       "published_at": "2026-10-02T00:00:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "717",
-      "title": {
-        "zh": "Rate limits for private vulnerability reports",
-        "en": "Rate limits for private vulnerability reports"
-      },
-      "summary": {
-        "zh": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
-        "en": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Rate limits for private vulnerability reports",
-      "title_en": "Rate limits for private vulnerability reports",
-      "summary_zh": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
-      "summary_en": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
-      "title_text": "Rate limits for private vulnerability reports",
-      "summary_text": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "published_at": "2026-10-01T19:57:39.000Z",
-      "tags": [
-        "Improvement",
-        "supply chain security"
-      ],
       "read_at": null,
       "saved": false
     },
@@ -1812,180 +1984,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "published_at": "2026-09-29T13:07:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "674",
-      "title": {
-        "zh": "Search trace spans from the Vercel CLI",
-        "en": "Search trace spans from the Vercel CLI"
-      },
-      "summary": {
-        "zh": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
-        "en": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…"
-      },
-      "title_zh": "Search trace spans from the Vercel CLI",
-      "title_en": "Search trace spans from the Vercel CLI",
-      "summary_zh": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
-      "summary_en": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
-      "title_text": "Search trace spans from the Vercel CLI",
-      "summary_text": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
-      "published_at": "2026-09-29T13:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "676",
-      "title": {
-        "zh": "DevDay 2026 Recap",
-        "en": "DevDay 2026 Recap"
-      },
-      "summary": {
-        "zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-        "en": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-      },
-      "title_zh": "DevDay 2026 Recap",
-      "title_en": "DevDay 2026 Recap",
-      "summary_zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "summary_en": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "title_text": "DevDay 2026 Recap",
-      "summary_text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published_at": "2026-09-29T10:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "675",
-      "title": {
-        "zh": "Introducing GPT-6.1 Sol",
-        "en": "Introducing GPT-6.1 Sol"
-      },
-      "summary": {
-        "zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-        "en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
-      },
-      "title_zh": "Introducing GPT-6.1 Sol",
-      "title_en": "Introducing GPT-6.1 Sol",
-      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "summary_en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "title_text": "Introducing GPT-6.1 Sol",
-      "summary_text": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published_at": "2026-09-29T10:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "657",
-      "title": {
-        "zh": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-        "en": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more"
-      },
-      "summary": {
-        "zh": "Congrats team!",
-        "en": "Congrats team!"
-      },
-      "title_zh": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "title_en": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "summary_zh": "Congrats team!",
-      "summary_en": "Congrats team!",
-      "title_text": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "summary_text": "Congrats team!",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "published_at": "2026-09-29T02:55:27.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "658",
-      "title": {
-        "zh": "[AINews] Opus 5.5 is good at explainer videos",
-        "en": "[AINews] Opus 5.5 is good at explainer videos"
-      },
-      "summary": {
-        "zh": "a rare feature of a capability",
-        "en": "a rare feature of a capability"
-      },
-      "title_zh": "[AINews] Opus 5.5 is good at explainer videos",
-      "title_en": "[AINews] Opus 5.5 is good at explainer videos",
-      "summary_zh": "a rare feature of a capability",
-      "summary_en": "a rare feature of a capability",
-      "title_text": "[AINews] Opus 5.5 is good at explainer videos",
-      "summary_text": "a rare feature of a capability",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "published_at": "2026-09-29T02:44:29.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "659",
-      "title": {
-        "zh": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-        "en": "Claude Code’s Next Era — Thariq Shihipar, Anthropic"
-      },
-      "summary": {
-        "zh": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-        "en": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
-      },
-      "title_zh": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "title_en": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "summary_zh": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-      "summary_en": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-      "title_text": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "summary_text": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/thariq",
-      "published_at": "2026-09-29T01:48:18.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "677",
-      "title": {
-        "zh": "Introducing dots",
-        "en": "Introducing dots"
-      },
-      "summary": {
-        "zh": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-        "en": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-      },
-      "title_zh": "Introducing dots",
-      "title_en": "Introducing dots",
-      "summary_zh": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "summary_en": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "title_text": "Introducing dots",
-      "summary_text": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-dots",
-      "published_at": "2026-09-29T00:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
       "read_at": null,
       "saved": false
     }
