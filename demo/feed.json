@@ -26,6 +26,160 @@
       "saved": false
     },
     {
+      "id": "772",
+      "title": {
+        "zh": "Quoting Felix Rieseberg",
+        "en": "Quoting Felix Rieseberg"
+      },
+      "summary": {
+        "zh": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
+        "en": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…"
+      },
+      "title_zh": "Quoting Felix Rieseberg",
+      "title_en": "Quoting Felix Rieseberg",
+      "summary_zh": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
+      "summary_en": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
+      "title_text": "Quoting Felix Rieseberg",
+      "summary_text": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "published_at": "2026-10-05T23:56:47.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "773",
+      "title": {
+        "zh": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "en": "Secret scanning adds detectors for Lovable, Supabase, and more"
+      },
+      "summary": {
+        "zh": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
+        "en": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "summary_zh": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
+      "summary_en": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
+      "title_text": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "summary_text": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "published_at": "2026-10-05T22:42:14.000Z",
+      "tags": [
+        "Improvement",
+        "application security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "774",
+      "title": {
+        "zh": "0.162.0-alpha.16",
+        "en": "0.162.0-alpha.16"
+      },
+      "summary": {
+        "zh": "Release 0.162.0-alpha.16",
+        "en": "Release 0.162.0-alpha.16"
+      },
+      "title_zh": "0.162.0-alpha.16",
+      "title_en": "0.162.0-alpha.16",
+      "summary_zh": "Release 0.162.0-alpha.16",
+      "summary_en": "Release 0.162.0-alpha.16",
+      "title_text": "0.162.0-alpha.16",
+      "summary_text": "Release 0.162.0-alpha.16",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.16",
+      "published_at": "2026-10-05T21:50:17.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "775",
+      "title": {
+        "zh": "0.160.1",
+        "en": "0.160.1"
+      },
+      "summary": {
+        "zh": "Bug Fixes Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. Changelog #51121 : Backport Windows remote MCP environment preservation to 0.160.",
+        "en": "Bug Fixes Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. Changelog #51121 : Backport Windows remote MCP environment preservation to 0.160."
+      },
+      "title_zh": "0.160.1",
+      "title_en": "0.160.1",
+      "summary_zh": "Bug Fixes Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. Changelog #51121 : Backport Windows remote MCP environment preservation to 0.160.",
+      "summary_en": "Bug Fixes Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. Changelog #51121 : Backport Windows remote MCP environment preservation to 0.160.",
+      "title_text": "0.160.1",
+      "summary_text": "Bug Fixes Preserve SYSTEMROOT , TEMP , and TMP when launching remote stdio MCP servers with explicitly configured remote environment variables, allowing Unix hosts to retain the Windows executor's startup environment. Changelog #51121 : Backport Windows remote MCP environment preservation to 0.160.",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.1",
+      "published_at": "2026-10-05T18:31:33.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "776",
+      "title": {
+        "zh": "ReviewBench: An open benchmark for AI code review",
+        "en": "ReviewBench: An open benchmark for AI code review"
+      },
+      "summary": {
+        "zh": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
+        "en": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog ."
+      },
+      "title_zh": "ReviewBench: An open benchmark for AI code review",
+      "title_en": "ReviewBench: An open benchmark for AI code review",
+      "summary_zh": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
+      "summary_en": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
+      "title_text": "ReviewBench: An open benchmark for AI code review",
+      "summary_text": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
+      "source_id": "5",
+      "source_name": "GitHub AI & ML",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "published_at": "2026-10-05T15:59:40.000Z",
+      "tags": [
+        "AI & ML",
+        "GitHub Copilot",
+        "AI",
+        "benchmarking"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "777",
+      "title": {
+        "zh": "Our approach to EU text provenance rules",
+        "en": "Our approach to EU text provenance rules"
+      },
+      "summary": {
+        "zh": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+        "en": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+      },
+      "title_zh": "Our approach to EU text provenance rules",
+      "title_en": "Our approach to EU text provenance rules",
+      "summary_zh": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "summary_en": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "title_text": "Our approach to EU text provenance rules",
+      "summary_text": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "published_at": "2026-10-05T15:00:00.000Z",
+      "tags": [
+        "Safety"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "770",
       "title": {
         "zh": "0.162.0-alpha.15",
@@ -95,6 +249,30 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.14",
       "published_at": "2026-10-05T02:17:14.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "778",
+      "title": {
+        "zh": "Qwen3.8 27B addition in words",
+        "en": "Qwen3.8 27B addition in words"
+      },
+      "summary": {
+        "zh": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat …",
+        "en": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat …"
+      },
+      "title_zh": "Qwen3.8 27B addition in words",
+      "title_en": "Qwen3.8 27B addition in words",
+      "summary_zh": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat …",
+      "summary_en": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat …",
+      "title_text": "Qwen3.8 27B addition in words",
+      "summary_text": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat …",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "published_at": "2026-10-04T23:34:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -419,6 +597,60 @@
       "saved": false
     },
     {
+      "id": "779",
+      "title": {
+        "zh": "Unvalidated npm trusted publishing configurations now expire",
+        "en": "Unvalidated npm trusted publishing configurations now expire"
+      },
+      "summary": {
+        "zh": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes… The post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog .",
+        "en": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes… The post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Unvalidated npm trusted publishing configurations now expire",
+      "title_en": "Unvalidated npm trusted publishing configurations now expire",
+      "summary_zh": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes… The post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog .",
+      "summary_en": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes… The post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog .",
+      "title_text": "Unvalidated npm trusted publishing configurations now expire",
+      "summary_text": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes… The post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire",
+      "published_at": "2026-10-02T19:07:04.000Z",
+      "tags": [
+        "Retired",
+        "supply chain security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "780",
+      "title": {
+        "zh": "npm staged publishing now supports creating new packages",
+        "en": "npm staged publishing now supports creating new packages"
+      },
+      "summary": {
+        "zh": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages… The post npm staged publishing now supports creating new packages appeared first on The GitHub Blog .",
+        "en": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages… The post npm staged publishing now supports creating new packages appeared first on The GitHub Blog ."
+      },
+      "title_zh": "npm staged publishing now supports creating new packages",
+      "title_en": "npm staged publishing now supports creating new packages",
+      "summary_zh": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages… The post npm staged publishing now supports creating new packages appeared first on The GitHub Blog .",
+      "summary_en": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages… The post npm staged publishing now supports creating new packages appeared first on The GitHub Blog .",
+      "title_text": "npm staged publishing now supports creating new packages",
+      "summary_text": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages… The post npm staged publishing now supports creating new packages appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
+      "published_at": "2026-10-02T19:05:17.000Z",
+      "tags": [
+        "Improvement",
+        "supply chain security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "745",
       "title": {
         "zh": "Selected models in GitHub Copilot deprecated",
@@ -442,30 +674,6 @@
         "Retired",
         "copilot"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "739",
-      "title": {
-        "zh": "0.162.0-alpha.7",
-        "en": "0.162.0-alpha.7"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.7",
-        "en": "Release 0.162.0-alpha.7"
-      },
-      "title_zh": "0.162.0-alpha.7",
-      "title_en": "0.162.0-alpha.7",
-      "summary_zh": "Release 0.162.0-alpha.7",
-      "summary_en": "Release 0.162.0-alpha.7",
-      "title_text": "0.162.0-alpha.7",
-      "summary_text": "Release 0.162.0-alpha.7",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.7",
-      "published_at": "2026-10-02T17:06:46.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -685,30 +893,6 @@
       "saved": false
     },
     {
-      "id": "740",
-      "title": {
-        "zh": "0.162.0-alpha.6",
-        "en": "0.162.0-alpha.6"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.6",
-        "en": "Release 0.162.0-alpha.6"
-      },
-      "title_zh": "0.162.0-alpha.6",
-      "title_en": "0.162.0-alpha.6",
-      "summary_zh": "Release 0.162.0-alpha.6",
-      "summary_en": "Release 0.162.0-alpha.6",
-      "title_text": "0.162.0-alpha.6",
-      "summary_text": "Release 0.162.0-alpha.6",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.6",
-      "published_at": "2026-10-02T11:55:35.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "754",
       "title": {
         "zh": "Jev for Python engineers",
@@ -880,84 +1064,26 @@
       "saved": false
     },
     {
-      "id": "718",
+      "id": "781",
       "title": {
-        "zh": "Structured forms for private vulnerability reports",
-        "en": "Structured forms for private vulnerability reports"
+        "zh": "pwasm 0.2a0",
+        "en": "pwasm 0.2a0"
       },
       "summary": {
-        "zh": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
-        "en": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog ."
+        "zh": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate cu…",
+        "en": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate cu…"
       },
-      "title_zh": "Structured forms for private vulnerability reports",
-      "title_en": "Structured forms for private vulnerability reports",
-      "summary_zh": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
-      "summary_en": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
-      "title_text": "Structured forms for private vulnerability reports",
-      "summary_text": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "published_at": "2026-10-01T19:57:28.000Z",
-      "tags": [
-        "Release",
-        "supply chain security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "719",
-      "title": {
-        "zh": "GitHub Copilot can now interact with desktop apps with computer use",
-        "en": "GitHub Copilot can now interact with desktop apps with computer use"
-      },
-      "summary": {
-        "zh": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
-        "en": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog ."
-      },
-      "title_zh": "GitHub Copilot can now interact with desktop apps with computer use",
-      "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-      "summary_zh": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
-      "summary_en": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
-      "title_text": "GitHub Copilot can now interact with desktop apps with computer use",
-      "summary_text": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "published_at": "2026-10-01T19:11:26.000Z",
-      "tags": [
-        "Release",
-        "client apps",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "720",
-      "title": {
-        "zh": "GitHub Actions: macOS 14 runner image retirement",
-        "en": "GitHub Actions: macOS 14 runner image retirement"
-      },
-      "summary": {
-        "zh": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
-        "en": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog ."
-      },
-      "title_zh": "GitHub Actions: macOS 14 runner image retirement",
-      "title_en": "GitHub Actions: macOS 14 runner image retirement",
-      "summary_zh": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
-      "summary_en": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
-      "title_text": "GitHub Actions: macOS 14 runner image retirement",
-      "summary_text": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "published_at": "2026-10-01T19:11:23.000Z",
-      "tags": [
-        "Retired",
-        "actions"
-      ],
+      "title_zh": "pwasm 0.2a0",
+      "title_en": "pwasm 0.2a0",
+      "summary_zh": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate cu…",
+      "summary_en": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate cu…",
+      "title_text": "pwasm 0.2a0",
+      "summary_text": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate cu…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+      "published_at": "2026-10-01T17:10:31.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1373,6 +1499,30 @@
       "source_name": "Latent Space",
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "published_at": "2026-09-30T05:53:10.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "782",
+      "title": {
+        "zh": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+        "en": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while…",
+        "en": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while…"
+      },
+      "title_zh": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+      "title_en": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+      "summary_zh": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while…",
+      "summary_en": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while…",
+      "title_text": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+      "summary_text": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/voyage-rerank-3-and-rerank-3-lite-are-now-available-on-ai-gateway",
+      "published_at": "2026-09-30T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1835,156 +1985,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
       "published_at": "2026-09-29T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "643",
-      "title": {
-        "zh": "Claude Sonnet 5.5",
-        "en": "Claude Sonnet 5.5"
-      },
-      "summary": {
-        "zh": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same …",
-        "en": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same …"
-      },
-      "title_zh": "Claude Sonnet 5.5",
-      "title_en": "Claude Sonnet 5.5",
-      "summary_zh": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same …",
-      "summary_en": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same …",
-      "title_text": "Claude Sonnet 5.5",
-      "summary_text": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same …",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "published_at": "2026-09-28T22:07:38.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "646",
-      "title": {
-        "zh": "Quoting @joedaroo",
-        "en": "Quoting @joedaroo"
-      },
-      "summary": {
-        "zh": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ing…",
-        "en": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ing…"
-      },
-      "title_zh": "Quoting @joedaroo",
-      "title_en": "Quoting @joedaroo",
-      "summary_zh": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ing…",
-      "summary_en": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ing…",
-      "title_text": "Quoting @joedaroo",
-      "summary_text": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ing…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-      "published_at": "2026-09-28T19:11:42.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "660",
-      "title": {
-        "zh": "How we will do better for Australia",
-        "en": "How we will do better for Australia"
-      },
-      "summary": {
-        "zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-        "en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-      },
-      "title_zh": "How we will do better for Australia",
-      "title_en": "How we will do better for Australia",
-      "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "summary_en": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "title_text": "How we will do better for Australia",
-      "summary_text": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "664",
-      "title": {
-        "zh": "Towards safety cases for frontier AI training",
-        "en": "Towards safety cases for frontier AI training"
-      },
-      "summary": {
-        "zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-        "en": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-      },
-      "title_zh": "Towards safety cases for frontier AI training",
-      "title_en": "Towards safety cases for frontier AI training",
-      "summary_zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "summary_en": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "title_text": "Towards safety cases for frontier AI training",
-      "summary_text": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "tags": [
-        "Safety"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "647",
-      "title": {
-        "zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-      },
-      "summary": {
-        "zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-      },
-      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "title_text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "tags": [
-        "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "641",
-      "title": {
-        "zh": "Holo4: powering generalist computer-use agents",
-        "en": "Holo4: powering generalist computer-use agents"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Holo4: powering generalist computer-use agents",
-      "title_en": "Holo4: powering generalist computer-use agents",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Holo4: powering generalist computer-use agents",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "published_at": "2026-09-28T09:44:05.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
