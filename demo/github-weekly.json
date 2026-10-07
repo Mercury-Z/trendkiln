@@ -34,12 +34,12 @@
         "tmux",
         "typescript"
       ],
-      "stars": 5563,
-      "stars_delta": 112,
-      "forks": 404,
-      "forks_delta": 6,
+      "stars": 5642,
+      "stars_delta": 79,
+      "forks": 413,
+      "forks_delta": 9,
       "html_url": "https://github.com/mvschwarz/openrig",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
         "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
@@ -62,6 +62,46 @@
     },
     {
       "rank": 2,
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "stars": 8590,
+      "stars_delta": 1604,
+      "forks": 637,
+      "forks_delta": 115,
+      "html_url": "https://github.com/boykopovar/AnyPS5",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
+      "purpose": {
+        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+      },
+      "strengths": {
+        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
+      },
+      "innovations": {
+        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
+      },
+      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -78,12 +118,12 @@
         "typescript",
         "video"
       ],
-      "stars": 58076,
-      "stars_delta": 282,
-      "forks": 5172,
-      "forks_delta": 15,
+      "stars": 58277,
+      "stars_delta": 201,
+      "forks": 5192,
+      "forks_delta": 20,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -105,17 +145,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 10147,
-      "stars_delta": 72,
-      "forks": 962,
-      "forks_delta": 7,
+      "stars": 10190,
+      "stars_delta": 43,
+      "forks": 968,
+      "forks_delta": 6,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -137,17 +177,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "full_name": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "topics": [],
-      "stars": 15178,
-      "stars_delta": 80,
-      "forks": 1718,
-      "forks_delta": 3,
+      "stars": 15218,
+      "stars_delta": 40,
+      "forks": 1719,
+      "forks_delta": 1,
       "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "en": "OpenShell is the safe, private runtime for autonomous AI agents."
@@ -169,52 +209,57 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "rank": 6,
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "context-engineering",
-        "information-retrieval",
-        "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
       ],
-      "stars": 38823,
-      "stars_delta": 64,
-      "forks": 3362,
-      "forks_delta": 5,
-      "html_url": "https://github.com/VectifyAI/PageIndex",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "stars": 92979,
+      "stars_delta": 216,
+      "forks": 8145,
+      "forks_delta": 11,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
-        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
       },
       "strengths": {
-        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
+        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
       },
       "innovations": {
-        "zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
-        "en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…"
+        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
       },
-      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "innovations_zh": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
-      "innovations_en": "…at entirely on your machine with your own LLM key, or point the same client at PageIndex Cloud with an API key. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in Page…",
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
+      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -240,12 +285,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 97288,
-      "stars_delta": 256,
-      "forks": 8572,
-      "forks_delta": 18,
+      "stars": 97453,
+      "stars_delta": 165,
+      "forks": 8584,
+      "forks_delta": 12,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -267,17 +312,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "full_name": "pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4928,
-      "stars_delta": 119,
-      "forks": 427,
+      "stars": 5001,
+      "stars_delta": 73,
+      "forks": 435,
       "forks_delta": 8,
       "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "yoink any video from your terminal. no shady ads.",
         "en": "yoink any video from your terminal. no shady ads."
@@ -296,58 +341,6 @@
       "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
       "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
       "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "topics": [
-        "cybersecurity",
-        "fyp",
-        "hacking",
-        "hacking-tool",
-        "indonesia",
-        "information",
-        "information-gathering",
-        "ip-geolocation",
-        "linux",
-        "osint",
-        "osint-python",
-        "osint-tool",
-        "pentesting",
-        "phone-number",
-        "python",
-        "python-hacking",
-        "termux",
-        "termux-hacks",
-        "termux-tool"
-      ],
-      "stars": 17269,
-      "stars_delta": 80,
-      "forks": 2349,
-      "forks_delta": 8,
-      "html_url": "https://github.com/HunxByts/GhostTrack",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
-      "purpose": {
-        "zh": "Useful tool to track location or mobile number",
-        "en": "Useful tool to track location or mobile number"
-      },
-      "strengths": {
-        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
-      },
-      "innovations": {
-        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
-        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
-      },
-      "purpose_zh": "Useful tool to track location or mobile number",
-      "purpose_en": "Useful tool to track location or mobile number",
-      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
-      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
-      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
       "insights_source": "readme-excerpt"
     },
     {
@@ -375,12 +368,12 @@
         "weightlifting",
         "workout-tracker"
       ],
-      "stars": 5988,
-      "stars_delta": 600,
-      "forks": 813,
-      "forks_delta": 61,
+      "stars": 6445,
+      "stars_delta": 457,
+      "forks": 862,
+      "forks_delta": 49,
       "html_url": "https://github.com/DuarteSantos8/openGym",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
         "zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
         "en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
@@ -403,132 +396,86 @@
     },
     {
       "rank": 10,
-      "full_name": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "topics": [
-        "anyps5",
-        "dynamic-library",
-        "game-porting",
-        "ps5",
-        "ps5-tools",
-        "spir-v",
-        "vulkan"
-      ],
-      "stars": 6986,
-      "stars_delta": 1007,
-      "forks": 522,
-      "forks_delta": 77,
-      "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "full_name": "tile-ai/tilelang",
+      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "topics": [],
+      "stars": 8463,
+      "stars_delta": 675,
+      "forks": 856,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tile-ai/tilelang",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
-        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+        "zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
       },
       "strengths": {
-        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
+        "zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+        "en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…"
       },
       "innovations": {
-        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
+        "zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
+        "en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…"
       },
-      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "purpose_zh": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "purpose_en": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "strengths_zh": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+      "strengths_en": "Tile Language Documentation · Installation · Examples · Releases · Contributing · TileLang (Ascend 950) Tile Language (tile-lang) is a concise domain-specific language designed to streamline the development of high-performance GPU…",
+      "innovations_zh": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
+      "innovations_en": "…e-lang allows developers to focus on productivity without sacrificing the low-level optimizations necessary for state-of-the-art performance. Latest News - 2026-09-30 — Ascend 950 backend: TileLang now officially supports Huawei A…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 11,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "full_name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
         "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
       ],
-      "stars": 92763,
-      "stars_delta": 241,
-      "forks": 8134,
-      "forks_delta": 20,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
+      "stars": 17311,
+      "stars_delta": 42,
+      "forks": 2353,
+      "forks_delta": 4,
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "snapshot_at": "2026-10-07T13:36:14.728Z",
       "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        "zh": "Useful tool to track location or mobile number",
+        "en": "Useful tool to track location or mobile number"
       },
       "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
+        "zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+        "en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…"
       },
       "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
+        "zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+        "en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts"
       },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "byoungd/up",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-literacy",
-        "chinese",
-        "english-learning",
-        "lifelong-learning",
-        "open-education",
-        "self-directed-learning",
-        "tutorial"
-      ],
-      "stars": 67568,
-      "stars_delta": 75,
-      "forks": 6707,
-      "forks_delta": 12,
-      "html_url": "https://github.com/byoungd/up",
-      "snapshot_at": "2026-10-07T06:10:28.167Z",
-      "purpose": {
-        "zh": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-        "en": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth."
-      },
-      "strengths": {
-        "zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-        "en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…"
-      },
-      "innovations": {
-        "zh": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
-        "en": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…"
-      },
-      "purpose_zh": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "purpose_en": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "strengths_zh": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-      "strengths_en": "--- title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-10-04 --- 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） 副标题：AI 时代终身学习指南。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持…",
-      "innovations_zh": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
-      "innovations_en": "…不知道从哪里开始 用阅读指南按问题选择入口，知道何时留下证据、何时回来复查。 我想在今天做成一件事 先用五分钟写下真实问题、已有证据、最小动作和边界，再决定是否需要完整记录。 我想先测一项英语能力 从一个真实场景开始，保存首版，再选择听、说、读、写中的一条训练线。 AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得到一份解释、一段代码、一张计划表，甚至一个看似笃定的人生建议。可真正稀缺的东西并没有因此消失：知道什么问题值得追问，辨别什么证据可以相信，…",
+      "purpose_zh": "Useful tool to track location or mobile number",
+      "purpose_en": "Useful tool to track location or mobile number",
+      "strengths_zh": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "strengths_en": "GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering New update : Instalation on Linux (deb) Instalation on Termux Usage Tool Display on the menu on the IP Track…",
+      "innovations_zh": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
+      "innovations_en": "…e target phone number Display on the menu on this menu you can search for information from the target username on social media :zap: Author : - HunxByts",
       "insights_source": "readme-excerpt"
     }
   ]
