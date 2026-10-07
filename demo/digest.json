@@ -1,7 +1,7 @@
 {
   "source": "db",
-  "digest_date": "2026-10-06",
-  "headline": "Trendkiln · 2026-10-06",
+  "digest_date": "2026-10-07",
+  "headline": "Trendkiln · 2026-10-07",
   "items": [
     {
       "id": "1",
@@ -15,22 +15,48 @@
         "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
       },
       "signal": {
-        "zh": "+2,963 星标",
-        "en": "+2,963 stars"
+        "zh": "+2,304 星标",
+        "en": "+2,304 stars"
       },
       "title_zh": "morluto/rea 星标异动",
       "title_en": "morluto/rea star surge",
       "subtitle_zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "subtitle_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "signal_zh": "+2,963 星标",
-      "signal_en": "+2,963 stars",
+      "signal_zh": "+2,304 星标",
+      "signal_en": "+2,304 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/morluto/rea",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
       "entity_id": "repo:morluto/rea"
     },
     {
       "id": "2",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Ideogram 4.0 Fast (Quality) 排名变化",
+        "en": "Ideogram 4.0 Fast (Quality) rank change"
+      },
+      "subtitle": {
+        "zh": "#55 · Fal",
+        "en": "#55 · Fal"
+      },
+      "signal": {
+        "zh": "排名 ↑4",
+        "en": "rank ↑4"
+      },
+      "title_zh": "Ideogram 4.0 Fast (Quality) 排名变化",
+      "title_en": "Ideogram 4.0 Fast (Quality) rank change",
+      "subtitle_zh": "#55 · Fal",
+      "subtitle_en": "#55 · Fal",
+      "signal_zh": "排名 ↑4",
+      "signal_en": "rank ↑4",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:Ideogram 4.0 Fast (Quality)"
+    },
+    {
+      "id": "3",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.141 (Insiders)",
@@ -56,82 +82,56 @@
       "entity_id": "feed:686"
     },
     {
-      "id": "3",
-      "type": "github_surge",
-      "title": {
-        "zh": "mattpocock/skills 星标异动",
-        "en": "mattpocock/skills star surge"
-      },
-      "subtitle": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "signal": {
-        "zh": "+972 星标",
-        "en": "+972 stars"
-      },
-      "title_zh": "mattpocock/skills 星标异动",
-      "title_en": "mattpocock/skills star surge",
-      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "signal_zh": "+972 星标",
-      "signal_en": "+972 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/mattpocock/skills",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:mattpocock/skills"
-    },
-    {
       "id": "4",
-      "type": "github_surge",
+      "type": "model_rank_change",
       "title": {
-        "zh": "tester-army/e2e 星标异动",
-        "en": "tester-army/e2e star surge"
+        "zh": "Ming-Image-0.1-Design 排名变化",
+        "en": "Ming-Image-0.1-Design rank change"
       },
       "subtitle": {
-        "zh": "Next generation e2e testing framework for web and mobile apps.",
-        "en": "Next generation e2e testing framework for web and mobile apps."
+        "zh": "#47 · InclusionAI",
+        "en": "#47 · InclusionAI"
       },
       "signal": {
-        "zh": "+879 星标",
-        "en": "+879 stars"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "tester-army/e2e 星标异动",
-      "title_en": "tester-army/e2e star surge",
-      "subtitle_zh": "Next generation e2e testing framework for web and mobile apps.",
-      "subtitle_en": "Next generation e2e testing framework for web and mobile apps.",
-      "signal_zh": "+879 星标",
-      "signal_en": "+879 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/tester-army/e2e",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:tester-army/e2e"
+      "title_zh": "Ming-Image-0.1-Design 排名变化",
+      "title_en": "Ming-Image-0.1-Design rank change",
+      "subtitle_zh": "#47 · InclusionAI",
+      "subtitle_en": "#47 · InclusionAI",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:Ming-Image-0.1-Design"
     },
     {
       "id": "5",
-      "type": "feed_must_read",
+      "type": "github_surge",
       "title": {
-        "zh": "rust-v0.162.0-alpha.17",
-        "en": "rust-v0.162.0-alpha.17"
+        "zh": "boykopovar/AnyPS5 星标异动",
+        "en": "boykopovar/AnyPS5 star surge"
       },
       "subtitle": {
-        "zh": "Release 0.162.0-alpha.17",
-        "en": "Release 0.162.0-alpha.17"
+        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
       },
       "signal": {
-        "zh": "资讯",
-        "en": "feed"
+        "zh": "+1,007 星标",
+        "en": "+1,007 stars"
       },
-      "title_zh": "rust-v0.162.0-alpha.17",
-      "title_en": "rust-v0.162.0-alpha.17",
-      "subtitle_zh": "Release 0.162.0-alpha.17",
-      "subtitle_en": "Release 0.162.0-alpha.17",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.17",
-      "occurred_at": "2026-10-06T17:49:29.000Z",
-      "entity_id": "feed:785"
+      "title_zh": "boykopovar/AnyPS5 星标异动",
+      "title_en": "boykopovar/AnyPS5 star surge",
+      "subtitle_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "subtitle_en": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "signal_zh": "+1,007 星标",
+      "signal_en": "+1,007 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
+      "entity_id": "repo:boykopovar/AnyPS5"
     },
     {
       "id": "6",
@@ -145,308 +145,230 @@
         "en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
       },
       "signal": {
-        "zh": "+869 星标",
-        "en": "+869 stars"
+        "zh": "+600 星标",
+        "en": "+600 stars"
       },
       "title_zh": "DuarteSantos8/openGym 星标异动",
       "title_en": "DuarteSantos8/openGym star surge",
       "subtitle_zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "subtitle_en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "signal_zh": "+869 星标",
-      "signal_en": "+869 stars",
+      "signal_zh": "+600 星标",
+      "signal_en": "+600 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
       "entity_id": "repo:DuarteSantos8/openGym"
     },
     {
       "id": "7",
-      "type": "github_surge",
+      "type": "model_rank_change",
       "title": {
-        "zh": "boykopovar/AnyPS5 星标异动",
-        "en": "boykopovar/AnyPS5 star surge"
+        "zh": "HunyuanImage 3.0 (Tencent Cloud) 排名变化",
+        "en": "HunyuanImage 3.0 (Tencent Cloud) rank change"
       },
       "subtitle": {
-        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+        "zh": "#63 · Tencent",
+        "en": "#63 · Tencent"
       },
       "signal": {
-        "zh": "+851 星标",
-        "en": "+851 stars"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "boykopovar/AnyPS5 星标异动",
-      "title_en": "boykopovar/AnyPS5 star surge",
-      "subtitle_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "subtitle_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "signal_zh": "+851 星标",
-      "signal_en": "+851 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:boykopovar/AnyPS5"
+      "title_zh": "HunyuanImage 3.0 (Tencent Cloud) 排名变化",
+      "title_en": "HunyuanImage 3.0 (Tencent Cloud) rank change",
+      "subtitle_zh": "#63 · Tencent",
+      "subtitle_en": "#63 · Tencent",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:HunyuanImage 3.0 (Tencent Cloud)"
     },
     {
       "id": "8",
       "type": "feed_must_read",
       "title": {
-        "zh": "AI Gateway adds confidence-based decision fallbacks",
-        "en": "AI Gateway adds confidence-based decision fallbacks"
+        "zh": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+        "en": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics"
       },
       "subtitle": {
-        "zh": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
-        "en": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…"
+        "zh": "Our head hurts.",
+        "en": "Our head hurts."
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "AI Gateway adds confidence-based decision fallbacks",
-      "title_en": "AI Gateway adds confidence-based decision fallbacks",
-      "subtitle_zh": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
-      "subtitle_en": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks…",
+      "title_zh": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "title_en": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "subtitle_zh": "Our head hurts.",
+      "subtitle_en": "Our head hurts.",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
-      "occurred_at": "2026-10-06T17:19:00.000Z",
-      "entity_id": "feed:786"
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "occurred_at": "2026-10-07T04:55:44.000Z",
+      "entity_id": "feed:794"
     },
     {
       "id": "9",
-      "type": "github_surge",
+      "type": "model_rank_change",
       "title": {
-        "zh": "pbakaus/impeccable 星标异动",
-        "en": "pbakaus/impeccable star surge"
+        "zh": "ERNIE Image 排名变化",
+        "en": "ERNIE Image rank change"
       },
       "subtitle": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
+        "zh": "#96 · Baidu",
+        "en": "#96 · Baidu"
       },
       "signal": {
-        "zh": "+609 星标",
-        "en": "+609 stars"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "pbakaus/impeccable 星标异动",
-      "title_en": "pbakaus/impeccable star surge",
-      "subtitle_zh": "The design language that makes your AI harness better at design.",
-      "subtitle_en": "The design language that makes your AI harness better at design.",
-      "signal_zh": "+609 星标",
-      "signal_en": "+609 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/pbakaus/impeccable",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:pbakaus/impeccable"
+      "title_zh": "ERNIE Image 排名变化",
+      "title_en": "ERNIE Image rank change",
+      "subtitle_zh": "#96 · Baidu",
+      "subtitle_en": "#96 · Baidu",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:ERNIE Image"
     },
     {
       "id": "10",
       "type": "github_surge",
       "title": {
-        "zh": "deepseek-ai/DeepGEMM 星标异动",
-        "en": "deepseek-ai/DeepGEMM star surge"
+        "zh": "tester-army/e2e 星标异动",
+        "en": "tester-army/e2e star surge"
       },
       "subtitle": {
-        "zh": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-        "en": "DeepGEMM: clean and efficient BLAS kernel library on GPU"
+        "zh": "Next generation e2e testing framework for web and mobile apps.",
+        "en": "Next generation e2e testing framework for web and mobile apps."
       },
       "signal": {
-        "zh": "+363 星标",
-        "en": "+363 stars"
+        "zh": "+567 星标",
+        "en": "+567 stars"
       },
-      "title_zh": "deepseek-ai/DeepGEMM 星标异动",
-      "title_en": "deepseek-ai/DeepGEMM star surge",
-      "subtitle_zh": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "subtitle_en": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "signal_zh": "+363 星标",
-      "signal_en": "+363 stars",
+      "title_zh": "tester-army/e2e 星标异动",
+      "title_en": "tester-army/e2e star surge",
+      "subtitle_zh": "Next generation e2e testing framework for web and mobile apps.",
+      "subtitle_en": "Next generation e2e testing framework for web and mobile apps.",
+      "signal_zh": "+567 星标",
+      "signal_en": "+567 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:deepseek-ai/DeepGEMM"
+      "url": "https://github.com/tester-army/e2e",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
+      "entity_id": "repo:tester-army/e2e"
     },
     {
       "id": "11",
-      "type": "feed_must_read",
+      "type": "github_surge",
       "title": {
-        "zh": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
+        "zh": "mattpocock/skills 星标异动",
+        "en": "mattpocock/skills star surge"
       },
       "subtitle": {
-        "zh": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-        "en": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
       },
       "signal": {
-        "zh": "资讯",
-        "en": "feed"
+        "zh": "+538 星标",
+        "en": "+538 stars"
       },
-      "title_zh": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "subtitle_zh": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "subtitle_en": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "OpenAI Blog",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "occurred_at": "2026-10-06T16:00:00.000Z",
-      "entity_id": "feed:787"
+      "title_zh": "mattpocock/skills 星标异动",
+      "title_en": "mattpocock/skills star surge",
+      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "signal_zh": "+538 星标",
+      "signal_en": "+538 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
+      "entity_id": "repo:mattpocock/skills"
     },
     {
       "id": "12",
-      "type": "github_surge",
+      "type": "model_rank_change",
       "title": {
-        "zh": "ayghri/i-have-adhd 星标异动",
-        "en": "ayghri/i-have-adhd star surge"
+        "zh": "Krea 2 Medium Turbo 排名变化",
+        "en": "Krea 2 Medium Turbo rank change"
       },
       "subtitle": {
-        "zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+        "zh": "#25 · Krea",
+        "en": "#25 · Krea"
       },
       "signal": {
-        "zh": "+318 星标",
-        "en": "+318 stars"
+        "zh": "排名 ↑2",
+        "en": "rank ↑2"
       },
-      "title_zh": "ayghri/i-have-adhd 星标异动",
-      "title_en": "ayghri/i-have-adhd star surge",
-      "subtitle_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "subtitle_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "signal_zh": "+318 星标",
-      "signal_en": "+318 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:ayghri/i-have-adhd"
+      "title_zh": "Krea 2 Medium Turbo 排名变化",
+      "title_en": "Krea 2 Medium Turbo rank change",
+      "subtitle_zh": "#25 · Krea",
+      "subtitle_en": "#25 · Krea",
+      "signal_zh": "排名 ↑2",
+      "signal_en": "rank ↑2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:Krea 2 Medium Turbo"
     },
     {
       "id": "13",
-      "type": "github_surge",
-      "title": {
-        "zh": "earthtojake/text-to-cad 星标异动",
-        "en": "earthtojake/text-to-cad star surge"
-      },
-      "subtitle": {
-        "zh": "Give your agent CAD superpowers.",
-        "en": "Give your agent CAD superpowers."
-      },
-      "signal": {
-        "zh": "+299 星标",
-        "en": "+299 stars"
-      },
-      "title_zh": "earthtojake/text-to-cad 星标异动",
-      "title_en": "earthtojake/text-to-cad star surge",
-      "subtitle_zh": "Give your agent CAD superpowers.",
-      "subtitle_en": "Give your agent CAD superpowers.",
-      "signal_zh": "+299 星标",
-      "signal_en": "+299 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:earthtojake/text-to-cad"
-    },
-    {
-      "id": "14",
       "type": "feed_must_read",
       "title": {
-        "zh": "Scrimshaw Jukebox",
-        "en": "Scrimshaw Jukebox"
+        "zh": "Quoting Jake Boggan",
+        "en": "Quoting Jake Boggan"
       },
       "subtitle": {
-        "zh": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
-        "en": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…"
+        "zh": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few da…",
+        "en": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few da…"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Scrimshaw Jukebox",
-      "title_en": "Scrimshaw Jukebox",
-      "subtitle_zh": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
-      "subtitle_en": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for musi…",
+      "title_zh": "Quoting Jake Boggan",
+      "title_en": "Quoting Jake Boggan",
+      "subtitle_zh": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few da…",
+      "subtitle_en": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few da…",
       "signal_zh": "资讯",
       "signal_en": "feed",
       "source": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "occurred_at": "2026-10-06T15:17:39.000Z",
-      "entity_id": "feed:788"
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "occurred_at": "2026-10-07T04:47:55.000Z",
+      "entity_id": "feed:795"
+    },
+    {
+      "id": "14",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Recraft V4.1 Utility 排名变化",
+        "en": "Recraft V4.1 Utility rank change"
+      },
+      "subtitle": {
+        "zh": "#27 · Recraft",
+        "en": "#27 · Recraft"
+      },
+      "signal": {
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
+      },
+      "title_zh": "Recraft V4.1 Utility 排名变化",
+      "title_en": "Recraft V4.1 Utility rank change",
+      "subtitle_zh": "#27 · Recraft",
+      "subtitle_en": "#27 · Recraft",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:Recraft V4.1 Utility"
     },
     {
       "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "thedotmack/claude-mem 星标异动",
-        "en": "thedotmack/claude-mem star surge"
-      },
-      "subtitle": {
-        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
-      },
-      "signal": {
-        "zh": "+298 星标",
-        "en": "+298 stars"
-      },
-      "title_zh": "thedotmack/claude-mem 星标异动",
-      "title_en": "thedotmack/claude-mem star surge",
-      "subtitle_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "subtitle_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "signal_zh": "+298 星标",
-      "signal_en": "+298 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:thedotmack/claude-mem"
-    },
-    {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "msitarzewski/agency-agents 星标异动",
-        "en": "msitarzewski/agency-agents star surge"
-      },
-      "subtitle": {
-        "zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-      },
-      "signal": {
-        "zh": "+289 星标",
-        "en": "+289 stars"
-      },
-      "title_zh": "msitarzewski/agency-agents 星标异动",
-      "title_en": "msitarzewski/agency-agents star surge",
-      "subtitle_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "subtitle_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "signal_zh": "+289 星标",
-      "signal_en": "+289 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
-      "entity_id": "repo:msitarzewski/agency-agents"
-    },
-    {
-      "id": "17",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Code scanning AI Scan enablement status in security overview",
-        "en": "Code scanning AI Scan enablement status in security overview"
-      },
-      "subtitle": {
-        "zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-        "en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog ."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Code scanning AI Scan enablement status in security overview",
-      "title_en": "Code scanning AI Scan enablement status in security overview",
-      "subtitle_zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-      "subtitle_en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "occurred_at": "2026-10-06T10:23:38.000Z",
-      "entity_id": "feed:789"
-    },
-    {
-      "id": "18",
       "type": "github_surge",
       "title": {
         "zh": "cathrynlavery/diagram-design 星标异动",
@@ -457,71 +379,149 @@
         "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
       },
       "signal": {
-        "zh": "+227 星标",
-        "en": "+227 stars"
+        "zh": "+335 星标",
+        "en": "+335 stars"
       },
       "title_zh": "cathrynlavery/diagram-design 星标异动",
       "title_en": "cathrynlavery/diagram-design star surge",
       "subtitle_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "subtitle_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "signal_zh": "+227 星标",
-      "signal_en": "+227 stars",
+      "signal_zh": "+335 星标",
+      "signal_en": "+335 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "occurred_at": "2026-10-06T18:28:38.153Z",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
       "entity_id": "repo:cathrynlavery/diagram-design"
     },
     {
-      "id": "19",
-      "type": "feed_must_read",
+      "id": "16",
+      "type": "github_surge",
       "title": {
-        "zh": "Advancing computer use with Ironclad",
-        "en": "Advancing computer use with Ironclad"
+        "zh": "pbakaus/impeccable 星标异动",
+        "en": "pbakaus/impeccable star surge"
       },
       "subtitle": {
-        "zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-        "en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "signal": {
+        "zh": "+306 星标",
+        "en": "+306 stars"
+      },
+      "title_zh": "pbakaus/impeccable 星标异动",
+      "title_en": "pbakaus/impeccable star surge",
+      "subtitle_zh": "The design language that makes your AI harness better at design.",
+      "subtitle_en": "The design language that makes your AI harness better at design.",
+      "signal_zh": "+306 星标",
+      "signal_en": "+306 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/pbakaus/impeccable",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
+      "entity_id": "repo:pbakaus/impeccable"
+    },
+    {
+      "id": "17",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "MAI-Image-2-Efficient 排名变化",
+        "en": "MAI-Image-2-Efficient rank change"
+      },
+      "subtitle": {
+        "zh": "#51 · Microsoft AI",
+        "en": "#51 · Microsoft AI"
+      },
+      "signal": {
+        "zh": "排名 ↑2",
+        "en": "rank ↑2"
+      },
+      "title_zh": "MAI-Image-2-Efficient 排名变化",
+      "title_en": "MAI-Image-2-Efficient rank change",
+      "subtitle_zh": "#51 · Microsoft AI",
+      "subtitle_en": "#51 · Microsoft AI",
+      "signal_zh": "排名 ↑2",
+      "signal_en": "rank ↑2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:MAI-Image-2-Efficient"
+    },
+    {
+      "id": "18",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.162.0-alpha.18",
+        "en": "0.162.0-alpha.18"
+      },
+      "subtitle": {
+        "zh": "Release 0.162.0-alpha.18",
+        "en": "Release 0.162.0-alpha.18"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Advancing computer use with Ironclad",
-      "title_en": "Advancing computer use with Ironclad",
-      "subtitle_zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "subtitle_en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "title_zh": "0.162.0-alpha.18",
+      "title_en": "0.162.0-alpha.18",
+      "subtitle_zh": "Release 0.162.0-alpha.18",
+      "subtitle_en": "Release 0.162.0-alpha.18",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "OpenAI Blog",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "occurred_at": "2026-10-06T10:00:00.000Z",
-      "entity_id": "feed:790"
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.18",
+      "occurred_at": "2026-10-07T02:16:44.000Z",
+      "entity_id": "feed:796"
+    },
+    {
+      "id": "19",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Recraft V4.1 排名变化",
+        "en": "Recraft V4.1 rank change"
+      },
+      "subtitle": {
+        "zh": "#53 · Recraft",
+        "en": "#53 · Recraft"
+      },
+      "signal": {
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
+      },
+      "title_zh": "Recraft V4.1 排名变化",
+      "title_en": "Recraft V4.1 rank change",
+      "subtitle_zh": "#53 · Recraft",
+      "subtitle_en": "#53 · Recraft",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-10-07T06:10:32.890Z",
+      "entity_id": "model:Recraft V4.1"
     },
     {
       "id": "20",
-      "type": "feed_must_read",
+      "type": "github_surge",
       "title": {
-        "zh": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
+        "zh": "msitarzewski/agency-agents 星标异动",
+        "en": "msitarzewski/agency-agents star surge"
       },
       "subtitle": {
-        "zh": "",
-        "en": ""
+        "zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
       },
       "signal": {
-        "zh": "资讯",
-        "en": "feed"
+        "zh": "+276 星标",
+        "en": "+276 stars"
       },
-      "title_zh": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "subtitle_zh": "",
-      "subtitle_en": "",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "occurred_at": "2026-10-06T06:44:39.000Z",
-      "entity_id": "feed:791"
+      "title_zh": "msitarzewski/agency-agents 星标异动",
+      "title_en": "msitarzewski/agency-agents star surge",
+      "subtitle_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "subtitle_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "signal_zh": "+276 星标",
+      "signal_en": "+276 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "occurred_at": "2026-10-07T06:10:26.115Z",
+      "entity_id": "repo:msitarzewski/agency-agents"
     }
   ]
 }
