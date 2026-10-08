@@ -29,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 44348,
-      "stars_delta": 116,
-      "forks": 3206,
+      "stars": 44496,
+      "stars_delta": 148,
+      "forks": 3216,
       "forks_delta": 10,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -57,6 +57,59 @@
     },
     {
       "rank": 2,
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "stars": 55013,
+      "stars_delta": 34563,
+      "forks": 6170,
+      "forks_delta": 0,
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+      },
+      "strengths": {
+        "zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+        "en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…"
+      },
+      "innovations": {
+        "zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+        "en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…"
+      },
+      "purpose_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths_zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "strengths_en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "innovations_zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+      "innovations_en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
@@ -74,12 +127,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 48868,
-      "stars_delta": 131,
-      "forks": 9926,
-      "forks_delta": 15,
+      "stars": 49022,
+      "stars_delta": 154,
+      "forks": 9943,
+      "forks_delta": 17,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -101,58 +154,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "stars": 275066,
-      "stars_delta": 150,
-      "forks": 41033,
-      "forks_delta": 23,
-      "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-      },
-      "strengths": {
-        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
-      },
-      "innovations": {
-        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
-      },
-      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 4,
       "full_name": "anthropics/financial-services",
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 38977,
-      "stars_delta": 36,
-      "forks": 5567,
-      "forks_delta": 3,
+      "stars": 39015,
+      "stars_delta": 38,
+      "forks": 5565,
+      "forks_delta": 0,
       "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -179,12 +191,12 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "topics": [],
-      "stars": 98562,
-      "stars_delta": 124,
-      "forks": 16644,
-      "forks_delta": 10,
+      "stars": 98704,
+      "stars_delta": 142,
+      "forks": 16662,
+      "forks_delta": 18,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -207,42 +219,44 @@
     },
     {
       "rank": 6,
-      "full_name": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
       "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
         "developer-tools",
+        "llm",
+        "mcp",
         "productivity"
       ],
-      "stars": 55355,
-      "stars_delta": 283,
-      "forks": 3166,
-      "forks_delta": 8,
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "stars": 275276,
+      "stars_delta": 210,
+      "forks": 41065,
+      "forks_delta": 32,
+      "html_url": "https://github.com/affaan-m/ECC",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
-        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
       },
       "strengths": {
-        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
+        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
       },
       "innovations": {
-        "zh": "【创新点】Action first.",
-        "en": "Action first."
+        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
       },
-      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
-      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
-      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
-      "innovations_zh": "【创新点】Action first.",
-      "innovations_en": "Action first.",
-      "insights_source": "readme"
+      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
@@ -255,12 +269,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 46956,
-      "stars_delta": 158,
-      "forks": 5965,
-      "forks_delta": 7,
+      "stars": 47126,
+      "stars_delta": 170,
+      "forks": 5966,
+      "forks_delta": 1,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -283,38 +297,6 @@
     },
     {
       "rank": 8,
-      "full_name": "spotify/portal-ai-plugins",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 2425,
-      "stars_delta": 12,
-      "forks": 198,
-      "forks_delta": 0,
-      "html_url": "https://github.com/spotify/portal-ai-plugins",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
-        "en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…"
-      },
-      "innovations": {
-        "zh": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
-        "en": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
-      "strengths_en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
-      "innovations_zh": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
-      "innovations_en": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -340,12 +322,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 32501,
-      "stars_delta": 75,
-      "forks": 4327,
-      "forks_delta": 9,
+      "stars": 32581,
+      "stars_delta": 80,
+      "forks": 4342,
+      "forks_delta": 15,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -367,17 +349,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "full_name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 149808,
-      "stars_delta": 37,
-      "forks": 25721,
-      "forks_delta": 2,
+      "stars": 149853,
+      "stars_delta": 45,
+      "forks": 25726,
+      "forks_delta": 5,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -399,7 +381,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -412,12 +394,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 7831,
-      "stars_delta": 124,
-      "forks": 938,
-      "forks_delta": 11,
+      "stars": 7944,
+      "stars_delta": 113,
+      "forks": 955,
+      "forks_delta": 17,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -439,7 +421,71 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 11,
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "topics": [],
+      "stars": 4571,
+      "stars_delta": 25,
+      "forks": 527,
+      "forks_delta": 1,
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "Agent Substrate: the core system",
+        "en": "Agent Substrate: the core system"
+      },
+      "strengths": {
+        "zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+        "en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…"
+      },
+      "innovations": {
+        "zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+        "en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…"
+      },
+      "purpose_zh": "Agent Substrate: the core system",
+      "purpose_en": "Agent Substrate: the core system",
+      "strengths_zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "strengths_en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "innovations_zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "innovations_en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 12,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 15427,
+      "stars_delta": 70,
+      "forks": 1740,
+      "forks_delta": 9,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -465,12 +511,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 25652,
-      "stars_delta": 32,
-      "forks": 1848,
-      "forks_delta": 4,
+      "stars": 25682,
+      "stars_delta": 30,
+      "forks": 1854,
+      "forks_delta": 6,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -492,71 +538,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "topics": [],
-      "stars": 4546,
-      "stars_delta": 29,
-      "forks": 526,
-      "forks_delta": 1,
-      "html_url": "https://github.com/agent-substrate/substrate",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "Agent Substrate: the core system",
-        "en": "Agent Substrate: the core system"
-      },
-      "strengths": {
-        "zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-        "en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…"
-      },
-      "innovations": {
-        "zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-        "en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…"
-      },
-      "purpose_zh": "Agent Substrate: the core system",
-      "purpose_en": "Agent Substrate: the core system",
-      "strengths_zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-      "strengths_en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-      "innovations_zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-      "innovations_en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 14,
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 15357,
-      "stars_delta": 72,
-      "forks": 1731,
-      "forks_delta": 7,
-      "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
-      },
-      "strengths": {
-        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
-      },
-      "innovations": {
-        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
-      },
-      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -573,12 +555,12 @@
         "typescript",
         "video"
       ],
-      "stars": 58706,
-      "stars_delta": 200,
-      "forks": 5223,
-      "forks_delta": 16,
+      "stars": 58940,
+      "stars_delta": 234,
+      "forks": 5244,
+      "forks_delta": 21,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -600,92 +582,49 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 16,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 157824,
-      "stars_delta": 270,
-      "forks": 8478,
-      "forks_delta": 13,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "rank": 15,
+      "full_name": "spotify/portal-ai-plugins",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 2434,
+      "stars_delta": 9,
+      "forks": 198,
+      "forks_delta": 0,
+      "html_url": "https://github.com/spotify/portal-ai-plugins",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        "zh": "",
+        "en": ""
       },
       "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…"
+        "zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
+        "en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…"
       },
       "innovations": {
-        "zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
-        "en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…"
+        "zh": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
+        "en": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…"
       },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
-      "innovations_zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
-      "innovations_en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
+      "strengths_en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, and Cursor. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run diagn…",
+      "innovations_zh": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
+      "innovations_en": "…tication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation details.…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 10286,
-      "stars_delta": 36,
-      "forks": 978,
-      "forks_delta": 6,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
-      },
-      "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
-      },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "full_name": "JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "topics": [],
-      "stars": 40384,
-      "stars_delta": 70,
-      "forks": 4440,
+      "stars": 40457,
+      "stars_delta": 73,
+      "forks": 4447,
       "forks_delta": 7,
       "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
@@ -705,6 +644,77 @@
       "innovations_zh": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…",
       "innovations_en": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…",
       "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 27296,
+      "stars_delta": 93,
+      "forks": 3183,
+      "forks_delta": 5,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 18,
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "stars": 55638,
+      "stars_delta": 283,
+      "forks": 3174,
+      "forks_delta": 8,
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+        "en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      },
+      "strengths": {
+        "zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+        "en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…"
+      },
+      "innovations": {
+        "zh": "【创新点】Action first.",
+        "en": "Action first."
+      },
+      "purpose_zh": "ayghri/i-have-adhd：阻止您的编码代理埋葬答案的技能。ADHD友好的输出。",
+      "purpose_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "strengths_zh": "基于 Python 构建；关注领域：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity；核心能力：Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let m",
+      "strengths_en": "Built with Python; Focus: adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity; ADHD-friendly outputs. No ADHD diagnosis needed!; A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this…; Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token…",
+      "innovations_zh": "【创新点】Action first.",
+      "innovations_en": "Action first.",
+      "insights_source": "readme"
     },
     {
       "rank": 19,
@@ -731,12 +741,12 @@
         "windows",
         "windows-sandbox"
       ],
-      "stars": 28870,
-      "stars_delta": 148,
-      "forks": 2041,
-      "forks_delta": 3,
+      "stars": 28984,
+      "stars_delta": 114,
+      "forks": 2045,
+      "forks_delta": 4,
       "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
@@ -759,16 +769,48 @@
     },
     {
       "rank": 20,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 10331,
+      "stars_delta": 45,
+      "forks": 981,
+      "forks_delta": 3,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
+      "purpose": {
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "innovations": {
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 21,
       "full_name": "tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 31811,
-      "stars_delta": 142,
-      "forks": 4436,
-      "forks_delta": 13,
+      "stars": 31978,
+      "stars_delta": 167,
+      "forks": 4448,
+      "forks_delta": 12,
       "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
@@ -790,88 +832,46 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 21,
-      "full_name": "tt-a1i/archify",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "rank": 22,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "topics": [
         "agent-skills",
         "ai-agents",
-        "architecture-diagram",
+        "claude",
         "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-agents",
-        "deepseek-harness",
+        "claude-code-plugin",
+        "cursor-rules",
         "developer-tools",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "flowchart",
         "llm",
-        "mermaid",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "visualization"
+        "prompt-engineering",
+        "yagni"
       ],
-      "stars": 79411,
-      "stars_delta": 215,
-      "forks": 5326,
-      "forks_delta": 12,
-      "html_url": "https://github.com/tt-a1i/archify",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "stars": 158191,
+      "stars_delta": 367,
+      "forks": 8491,
+      "forks_delta": 13,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
-        "zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-        "en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
       },
       "strengths": {
-        "zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-        "en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p"
+        "zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
+        "en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…"
       },
       "innovations": {
-        "zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-        "en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**"
+        "zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
+        "en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…"
       },
-      "purpose_zh": "tt-a1i/archify：美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。",
-      "purpose_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "strengths_zh": "基于 JavaScript 构建；关注领域：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex；核心能力：Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation",
-      "strengths_en": "Built with JavaScript; Focus: agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex; Turn a codebase or system description into a polished, interactive system map — directly in chat.**; Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce…; Open it and present** — five diagram types, four p",
-      "innovations_zh": "【创新点】Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "innovations_en": "Turn a codebase or system description into a polished, interactive system map — directly in chat.**",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 22,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 27203,
-      "stars_delta": 75,
-      "forks": 3178,
-      "forks_delta": 8,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe Real Claude Code sessions editing a real FastAPI + React repo, the same agent with an…",
+      "innovations_zh": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
+      "innovations_en": "…onytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. The prompt Ponytail is o…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -887,12 +887,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 102987,
-      "stars_delta": 219,
-      "forks": 10783,
-      "forks_delta": 17,
+      "stars": 103221,
+      "stars_delta": 234,
+      "forks": 10803,
+      "forks_delta": 20,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -926,12 +926,12 @@
         "git",
         "worktrees"
       ],
-      "stars": 8982,
-      "stars_delta": 19,
+      "stars": 9002,
+      "stars_delta": 20,
       "forks": 325,
-      "forks_delta": 2,
+      "forks_delta": 0,
       "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
+      "snapshot_at": "2026-10-08T13:42:08.260Z",
       "purpose": {
         "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
@@ -950,42 +950,6 @@
       "strengths_en": "&nbsp;&nbsp;Worktrunk September 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
       "innovations_zh": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
       "innovations_en": "…ment, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, includin…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 25,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "topics": [
-        "disassembler",
-        "reverse-engineering",
-        "software-analysis"
-      ],
-      "stars": 81515,
-      "stars_delta": 109,
-      "forks": 9049,
-      "forks_delta": 10,
-      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-08T06:17:54.963Z",
-      "purpose": {
-        "zh": "Ghidra is a software reverse engineering (SRE) framework",
-        "en": "Ghidra is a software reverse engineering (SRE) framework"
-      },
-      "strengths": {
-        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
-      },
-      "innovations": {
-        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
-      },
-      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
-      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
-      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
       "insights_source": "readme-excerpt"
     }
   ]
