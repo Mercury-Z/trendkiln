@@ -26,6 +26,177 @@
       "saved": false
     },
     {
+      "id": "865",
+      "title": {
+        "zh": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis"
+      },
+      "summary": {
+        "zh": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis appeared first on The GitHub Blog .",
+        "en": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis appeared first on The GitHub Blog ."
+      },
+      "title_zh": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "summary_zh": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis appeared first on The GitHub Blog .",
+      "summary_en": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis appeared first on The GitHub Blog .",
+      "title_text": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "summary_text": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "published_at": "2026-10-09T21:32:54.000Z",
+      "tags": [
+        "Improvement",
+        "application security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "866",
+      "title": {
+        "zh": "Agents can now buy domains with the Vercel CLI",
+        "en": "Agents can now buy domains with the Vercel CLI"
+      },
+      "summary": {
+        "zh": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. R…",
+        "en": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. R…"
+      },
+      "title_zh": "Agents can now buy domains with the Vercel CLI",
+      "title_en": "Agents can now buy domains with the Vercel CLI",
+      "summary_zh": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. R…",
+      "summary_en": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. R…",
+      "title_text": "Agents can now buy domains with the Vercel CLI",
+      "summary_text": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. R…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+      "published_at": "2026-10-09T20:24:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "867",
+      "title": {
+        "zh": "0.162.1",
+        "en": "0.162.1"
+      },
+      "summary": {
+        "zh": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit co…",
+        "en": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit co…"
+      },
+      "title_zh": "0.162.1",
+      "title_en": "0.162.1",
+      "summary_zh": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit co…",
+      "summary_en": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit co…",
+      "title_text": "0.162.1",
+      "summary_text": "Bug Fixes Fixed a TUI crash when asynchronous questions contain multiple lines, preserving line breaks and complete hyperlink destinations. ( #51866 ) Fixed startup failures caused by differences between a running background server's feature settings and CLI defaults. Compatibility checks now apply only to explicit co…",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1",
+      "published_at": "2026-10-09T19:47:24.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "868",
+      "title": {
+        "zh": "New Pro teams now default to 30-day deployment retention",
+        "en": "New Pro teams now default to 30-day deployment retention"
+      },
+      "summary": {
+        "zh": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retent…",
+        "en": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retent…"
+      },
+      "title_zh": "New Pro teams now default to 30-day deployment retention",
+      "title_en": "New Pro teams now default to 30-day deployment retention",
+      "summary_zh": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retent…",
+      "summary_en": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retent…",
+      "title_text": "New Pro teams now default to 30-day deployment retention",
+      "summary_text": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retent…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+      "published_at": "2026-10-09T18:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "869",
+      "title": {
+        "zh": "Deployment Storage billing begins for existing Pro teams",
+        "en": "Deployment Storage billing begins for existing Pro teams"
+      },
+      "summary": {
+        "zh": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting Octo…",
+        "en": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting Octo…"
+      },
+      "title_zh": "Deployment Storage billing begins for existing Pro teams",
+      "title_en": "Deployment Storage billing begins for existing Pro teams",
+      "summary_zh": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting Octo…",
+      "summary_en": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting Octo…",
+      "title_text": "Deployment Storage billing begins for existing Pro teams",
+      "summary_text": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting Octo…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
+      "published_at": "2026-10-09T18:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "870",
+      "title": {
+        "zh": "Impactful scheduling for GPU clusters",
+        "en": "Impactful scheduling for GPU clusters"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Impactful scheduling for GPU clusters",
+      "title_en": "Impactful scheduling for GPU clusters",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Impactful scheduling for GPU clusters",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published_at": "2026-10-09T15:20:29.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "871",
+      "title": {
+        "zh": "Quoting Matthew Green",
+        "en": "Quoting Matthew Green"
+      },
+      "summary": {
+        "zh": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI p…",
+        "en": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI p…"
+      },
+      "title_zh": "Quoting Matthew Green",
+      "title_en": "Quoting Matthew Green",
+      "summary_zh": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI p…",
+      "summary_en": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI p…",
+      "title_text": "Quoting Matthew Green",
+      "summary_text": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI p…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "published_at": "2026-10-09T15:02:29.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "862",
       "title": {
         "zh": "0.163.0-alpha.4",
@@ -44,7 +215,7 @@
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.4",
-      "published_at": "2026-10-09T13:28:44.000Z",
+      "published_at": "2026-10-09T13:45:56.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -98,6 +269,54 @@
       "saved": false
     },
     {
+      "id": "872",
+      "title": {
+        "zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
+      },
+      "summary": {
+        "zh": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+      },
+      "title_zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary_zh": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "summary_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title_text": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary_text": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published_at": "2026-10-09T07:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "873",
+      "title": {
+        "zh": "How Rillet ships 3× faster with AI agents on Vercel",
+        "en": "How Rillet ships 3× faster with AI agents on Vercel"
+      },
+      "summary": {
+        "zh": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder ac…",
+        "en": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder ac…"
+      },
+      "title_zh": "How Rillet ships 3× faster with AI agents on Vercel",
+      "title_en": "How Rillet ships 3× faster with AI agents on Vercel",
+      "summary_zh": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder ac…",
+      "summary_en": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder ac…",
+      "title_text": "How Rillet ships 3× faster with AI agents on Vercel",
+      "summary_text": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder ac…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "published_at": "2026-10-09T04:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "857",
       "title": {
         "zh": "0.163.0-alpha.2",
@@ -141,6 +360,30 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/9/ttok/",
       "published_at": "2026-10-09T00:34:43.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "874",
+      "title": {
+        "zh": "Liquid AI's d1 is available on AI Gateway",
+        "en": "Liquid AI's d1 is available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images …",
+        "en": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images …"
+      },
+      "title_zh": "Liquid AI's d1 is available on AI Gateway",
+      "title_en": "Liquid AI's d1 is available on AI Gateway",
+      "summary_zh": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images …",
+      "summary_en": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images …",
+      "title_text": "Liquid AI's d1 is available on AI Gateway",
+      "summary_text": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
+      "published_at": "2026-10-09T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -238,6 +481,33 @@
       "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
       "published_at": "2026-10-08T21:05:44.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "875",
+      "title": {
+        "zh": "Copilot code review: New organization billing options and controls",
+        "en": "Copilot code review: New organization billing options and controls"
+      },
+      "summary": {
+        "zh": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+        "en": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Copilot code review: New organization billing options and controls",
+      "title_en": "Copilot code review: New organization billing options and controls",
+      "summary_zh": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+      "summary_en": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+      "title_text": "Copilot code review: New organization billing options and controls",
+      "summary_text": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "published_at": "2026-10-08T19:43:05.000Z",
+      "tags": [
+        "Improvement",
+        "copilot"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -609,30 +879,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.19",
       "published_at": "2026-10-08T00:13:21.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "815",
-      "title": {
-        "zh": "0.162.0-alpha.17.1",
-        "en": "0.162.0-alpha.17.1"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.17.1",
-        "en": "Release 0.162.0-alpha.17.1"
-      },
-      "title_zh": "0.162.0-alpha.17.1",
-      "title_en": "0.162.0-alpha.17.1",
-      "summary_zh": "Release 0.162.0-alpha.17.1",
-      "summary_en": "Release 0.162.0-alpha.17.1",
-      "title_text": "0.162.0-alpha.17.1",
-      "summary_text": "Release 0.162.0-alpha.17.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.17.1",
-      "published_at": "2026-10-08T00:07:10.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1583,33 +1829,6 @@
       "saved": false
     },
     {
-      "id": "805",
-      "title": {
-        "zh": "Stacked pull requests generally available",
-        "en": "Stacked pull requests generally available"
-      },
-      "summary": {
-        "zh": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public… The post Stacked pull requests generally available appeared first on The GitHub Blog .",
-        "en": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public… The post Stacked pull requests generally available appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Stacked pull requests generally available",
-      "title_en": "Stacked pull requests generally available",
-      "summary_zh": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public… The post Stacked pull requests generally available appeared first on The GitHub Blog .",
-      "summary_en": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public… The post Stacked pull requests generally available appeared first on The GitHub Blog .",
-      "title_text": "Stacked pull requests generally available",
-      "summary_text": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public… The post Stacked pull requests generally available appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "published_at": "2026-10-06T20:16:41.000Z",
-      "tags": [
-        "Release",
-        "collaboration tools"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "806",
       "title": {
         "zh": "Using Parseable with Datasette for OpenTelemetry traces",
@@ -1752,234 +1971,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
       "published_at": "2026-10-06T15:17:39.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "809",
-      "title": {
-        "zh": "How Jump Trading is scaling quant research with ChatGPT",
-        "en": "How Jump Trading is scaling quant research with ChatGPT"
-      },
-      "summary": {
-        "zh": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-        "en": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-      },
-      "title_zh": "How Jump Trading is scaling quant research with ChatGPT",
-      "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary_zh": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "summary_en": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "title_text": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary_text": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/jump-trading",
-      "published_at": "2026-10-06T12:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "810",
-      "title": {
-        "zh": "Sharing AI progress in mathematics",
-        "en": "Sharing AI progress in mathematics"
-      },
-      "summary": {
-        "zh": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-        "en": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-      },
-      "title_zh": "Sharing AI progress in mathematics",
-      "title_en": "Sharing AI progress in mathematics",
-      "summary_zh": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "summary_en": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "title_text": "Sharing AI progress in mathematics",
-      "summary_text": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published_at": "2026-10-06T12:00:00.000Z",
-      "tags": [
-        "Research"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "789",
-      "title": {
-        "zh": "Code scanning AI Scan enablement status in security overview",
-        "en": "Code scanning AI Scan enablement status in security overview"
-      },
-      "summary": {
-        "zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-        "en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Code scanning AI Scan enablement status in security overview",
-      "title_en": "Code scanning AI Scan enablement status in security overview",
-      "summary_zh": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-      "summary_en": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-      "title_text": "Code scanning AI Scan enablement status in security overview",
-      "summary_text": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "published_at": "2026-10-06T10:23:38.000Z",
-      "tags": [
-        "Improvement",
-        "application security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "790",
-      "title": {
-        "zh": "Advancing computer use with Ironclad",
-        "en": "Advancing computer use with Ironclad"
-      },
-      "summary": {
-        "zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-        "en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-      },
-      "title_zh": "Advancing computer use with Ironclad",
-      "title_en": "Advancing computer use with Ironclad",
-      "summary_zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "summary_en": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "title_text": "Advancing computer use with Ironclad",
-      "summary_text": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published_at": "2026-10-06T10:00:00.000Z",
-      "tags": [
-        "Publication"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "783",
-      "title": {
-        "zh": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-        "en": "[AINews] Reflection Beam - 501B-A23B American Open Model"
-      },
-      "summary": {
-        "zh": "A small win for US open source",
-        "en": "A small win for US open source"
-      },
-      "title_zh": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "summary_zh": "A small win for US open source",
-      "summary_en": "A small win for US open source",
-      "title_text": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "summary_text": "A small win for US open source",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "published_at": "2026-10-06T06:28:43.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "792",
-      "title": {
-        "zh": "Nano Banana 2.1 now available on AI Gateway",
-        "en": "Nano Banana 2.1 now available on AI Gateway"
-      },
-      "summary": {
-        "zh": "Nano Banana 2.1 from Google is now available on AI Gateway as google/gemini-nano-banana-2.1 . Compared with earlier Nano Banana models, it improves image generation and editing, including product recontextualization, mask- and ink-based editing, and factuality. In practice, that means placing products in new scenes, l…",
-        "en": "Nano Banana 2.1 from Google is now available on AI Gateway as google/gemini-nano-banana-2.1 . Compared with earlier Nano Banana models, it improves image generation and editing, including product recontextualization, mask- and ink-based editing, and factuality. In practice, that means placing products in new scenes, l…"
-      },
-      "title_zh": "Nano Banana 2.1 now available on AI Gateway",
-      "title_en": "Nano Banana 2.1 now available on AI Gateway",
-      "summary_zh": "Nano Banana 2.1 from Google is now available on AI Gateway as google/gemini-nano-banana-2.1 . Compared with earlier Nano Banana models, it improves image generation and editing, including product recontextualization, mask- and ink-based editing, and factuality. In practice, that means placing products in new scenes, l…",
-      "summary_en": "Nano Banana 2.1 from Google is now available on AI Gateway as google/gemini-nano-banana-2.1 . Compared with earlier Nano Banana models, it improves image generation and editing, including product recontextualization, mask- and ink-based editing, and factuality. In practice, that means placing products in new scenes, l…",
-      "title_text": "Nano Banana 2.1 now available on AI Gateway",
-      "summary_text": "Nano Banana 2.1 from Google is now available on AI Gateway as google/gemini-nano-banana-2.1 . Compared with earlier Nano Banana models, it improves image generation and editing, including product recontextualization, mask- and ink-based editing, and factuality. In practice, that means placing products in new scenes, l…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
-      "published_at": "2026-10-06T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "793",
-      "title": {
-        "zh": "Mistral Large 4 now available on AI Gateway",
-        "en": "Mistral Large 4 now available on AI Gateway"
-      },
-      "summary": {
-        "zh": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
-        "en": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…"
-      },
-      "title_zh": "Mistral Large 4 now available on AI Gateway",
-      "title_en": "Mistral Large 4 now available on AI Gateway",
-      "summary_zh": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
-      "summary_en": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
-      "title_text": "Mistral Large 4 now available on AI Gateway",
-      "summary_text": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral accoun…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
-      "published_at": "2026-10-06T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "772",
-      "title": {
-        "zh": "Quoting Felix Rieseberg",
-        "en": "Quoting Felix Rieseberg"
-      },
-      "summary": {
-        "zh": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
-        "en": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…"
-      },
-      "title_zh": "Quoting Felix Rieseberg",
-      "title_en": "Quoting Felix Rieseberg",
-      "summary_zh": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
-      "summary_en": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
-      "title_text": "Quoting Felix Rieseberg",
-      "summary_text": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude b…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "published_at": "2026-10-05T23:56:47.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "776",
-      "title": {
-        "zh": "ReviewBench: An open benchmark for AI code review",
-        "en": "ReviewBench: An open benchmark for AI code review"
-      },
-      "summary": {
-        "zh": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
-        "en": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog ."
-      },
-      "title_zh": "ReviewBench: An open benchmark for AI code review",
-      "title_en": "ReviewBench: An open benchmark for AI code review",
-      "summary_zh": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
-      "summary_en": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
-      "title_text": "ReviewBench: An open benchmark for AI code review",
-      "summary_text": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .",
-      "source_id": "5",
-      "source_name": "GitHub AI & ML",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "published_at": "2026-10-05T15:59:40.000Z",
-      "tags": [
-        "AI & ML",
-        "GitHub Copilot",
-        "AI",
-        "benchmarking"
-      ],
       "read_at": null,
       "saved": false
     }
