@@ -30,12 +30,12 @@
         "spir-v",
         "vulkan"
       ],
-      "stars": 16880,
-      "stars_delta": 1402,
-      "forks": 1346,
-      "forks_delta": 126,
+      "stars": 19317,
+      "stars_delta": 2437,
+      "forks": 1526,
+      "forks_delta": 180,
       "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
         "en": "Tool for automatic PS5 executables porting to Linux and Windows"
@@ -74,12 +74,12 @@
         "tmux",
         "typescript"
       ],
-      "stars": 6222,
-      "stars_delta": 86,
-      "forks": 453,
-      "forks_delta": 4,
+      "stars": 6303,
+      "stars_delta": 81,
+      "forks": 460,
+      "forks_delta": 7,
       "html_url": "https://github.com/mvschwarz/openrig",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
         "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
@@ -102,6 +102,38 @@
     },
     {
       "rank": 3,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 282063,
+      "stars_delta": 597,
+      "forks": 23635,
+      "forks_delta": 42,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -118,12 +150,12 @@
         "typescript",
         "video"
       ],
-      "stars": 59342,
-      "stars_delta": 172,
-      "forks": 5289,
-      "forks_delta": 16,
+      "stars": 59524,
+      "stars_delta": 182,
+      "forks": 5307,
+      "forks_delta": 18,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -145,49 +177,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "topics": [],
-      "stars": 8170,
-      "stars_delta": 75,
-      "forks": 391,
-      "forks_delta": 0,
-      "html_url": "https://github.com/EpicGames/raddebugger",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
-      "purpose": {
-        "zh": "A native, user-mode, multi-process, graphical debugger.",
-        "en": "A native, user-mode, multi-process, graphical debugger."
-      },
-      "strengths": {
-        "zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-        "en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…"
-      },
-      "innovations": {
-        "zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-        "en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…"
-      },
-      "purpose_zh": "A native, user-mode, multi-process, graphical debugger.",
-      "purpose_en": "A native, user-mode, multi-process, graphical debugger.",
-      "strengths_zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "strengths_en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "innovations_zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "innovations_en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 5,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 10444,
-      "stars_delta": 52,
+      "stars": 10509,
+      "stars_delta": 65,
       "forks": 988,
-      "forks_delta": 3,
+      "forks_delta": 0,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -210,6 +210,38 @@
     },
     {
       "rank": 6,
+      "full_name": "EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "topics": [],
+      "stars": 8223,
+      "stars_delta": 53,
+      "forks": 394,
+      "forks_delta": 3,
+      "html_url": "https://github.com/EpicGames/raddebugger",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
+      "purpose": {
+        "zh": "A native, user-mode, multi-process, graphical debugger.",
+        "en": "A native, user-mode, multi-process, graphical debugger."
+      },
+      "strengths": {
+        "zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+        "en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…"
+      },
+      "innovations": {
+        "zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+        "en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…"
+      },
+      "purpose_zh": "A native, user-mode, multi-process, graphical debugger.",
+      "purpose_en": "A native, user-mode, multi-process, graphical debugger.",
+      "strengths_zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+      "strengths_en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+      "innovations_zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+      "innovations_en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -235,12 +267,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 98678,
-      "stars_delta": 247,
-      "forks": 8651,
-      "forks_delta": 18,
+      "stars": 98872,
+      "stars_delta": 194,
+      "forks": 8664,
+      "forks_delta": 13,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -262,39 +294,81 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 281466,
-      "stars_delta": 448,
-      "forks": 23593,
-      "forks_delta": 38,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "rank": 8,
+      "full_name": "earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "stars": 18644,
+      "stars_delta": 100,
+      "forks": 1850,
+      "forks_delta": 10,
+      "html_url": "https://github.com/earthtojake/text-to-cad",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "Give your agent CAD superpowers.",
+        "en": "Give your agent CAD superpowers."
       },
       "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
       },
       "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
       },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "purpose_zh": "Give your agent CAD superpowers.",
+      "purpose_en": "Give your agent CAD superpowers.",
+      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "full_name": "pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 26519,
+      "stars_delta": 2317,
+      "forks": 6905,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
+      },
+      "innovations": {
+        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
@@ -317,12 +391,12 @@
         "xiaohongshu",
         "youtube-transcript"
       ],
-      "stars": 94337,
-      "stars_delta": 220,
-      "forks": 8246,
-      "forks_delta": 15,
+      "stars": 94616,
+      "stars_delta": 279,
+      "forks": 8267,
+      "forks_delta": 21,
       "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
@@ -344,49 +418,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "stars": 18544,
-      "stars_delta": 78,
-      "forks": 1840,
-      "forks_delta": 7,
-      "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
-      "purpose": {
-        "zh": "Give your agent CAD superpowers.",
-        "en": "Give your agent CAD superpowers."
-      },
-      "strengths": {
-        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
-      },
-      "innovations": {
-        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
-      },
-      "purpose_zh": "Give your agent CAD superpowers.",
-      "purpose_en": "Give your agent CAD superpowers.",
-      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "full_name": "DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
@@ -410,12 +442,12 @@
         "weightlifting",
         "workout-tracker"
       ],
-      "stars": 8168,
-      "stars_delta": 187,
-      "forks": 1035,
-      "forks_delta": 15,
+      "stars": 8374,
+      "stars_delta": 206,
+      "forks": 1052,
+      "forks_delta": 17,
       "html_url": "https://github.com/DuarteSantos8/openGym",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
+      "snapshot_at": "2026-10-09T13:28:49.320Z",
       "purpose": {
         "zh": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
         "en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
@@ -434,38 +466,6 @@
       "strengths_en": "A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your phone, synced across your devices, behind your own passkey login. Website · Live demo ·…",
       "innovations_zh": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…",
       "innovations_en": "…workout apps keep your data on their servers, push you towards a subscription, or vanish when the company does. openGym runs on your own box, keeps your data in a folder you control, and is yours to fork. It still behaves like a m…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 5482,
-      "stars_delta": 107,
-      "forks": 463,
-      "forks_delta": 5,
-      "html_url": "https://github.com/pablostanley/yoinks",
-      "snapshot_at": "2026-10-09T06:20:02.051Z",
-      "purpose": {
-        "zh": "yoink any video from your terminal. no shady ads.",
-        "en": "yoink any video from your terminal. no shady ads."
-      },
-      "strengths": {
-        "zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-        "en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…"
-      },
-      "innovations": {
-        "zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-        "en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…"
-      },
-      "purpose_zh": "yoink any video from your terminal. no shady ads.",
-      "purpose_en": "yoink any video from your terminal. no shady ads.",
-      "strengths_zh": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-      "strengths_en": "yoinks yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites — right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups…",
-      "innovations_zh": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
-      "innovations_en": "…automatically. Usage yoinks takes over the terminal (full-screen, centered — and restores your scrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and hit enter. esc goes back, ^c quits. Or just use the mouse — t…",
       "insights_source": "readme-excerpt"
     }
   ]

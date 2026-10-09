@@ -18,87 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "topics": [
-        "anyps5",
-        "dynamic-library",
-        "game-porting",
-        "ps5",
-        "ps5-tools",
-        "spir-v",
-        "vulkan"
-      ],
-      "stars": 16880,
-      "stars_delta": 1402,
-      "forks": 1346,
-      "forks_delta": 126,
-      "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
-      "purpose": {
-        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
-      },
-      "strengths": {
-        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
-      },
-      "innovations": {
-        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
-      },
-      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "stars": 46800,
-      "stars_delta": 538,
-      "forks": 2975,
-      "forks_delta": 31,
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
-      "purpose": {
-        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-      },
-      "strengths": {
-        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
-      },
-      "innovations": {
-        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
-      },
-      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
@@ -124,12 +43,12 @@
         "reverse-engineering",
         "static-analysis"
       ],
-      "stars": 30503,
-      "stars_delta": 4957,
-      "forks": 3658,
-      "forks_delta": 798,
+      "stars": 36256,
+      "stars_delta": 5753,
+      "forks": 5080,
+      "forks_delta": 1422,
       "html_url": "https://github.com/morluto/rea",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
         "zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
@@ -151,17 +70,57 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "stars": 19317,
+      "stars_delta": 2437,
+      "forks": 1526,
+      "forks_delta": 180,
+      "html_url": "https://github.com/boykopovar/AnyPS5",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
+      "purpose": {
+        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
+      },
+      "strengths": {
+        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
+      },
+      "innovations": {
+        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
+      },
+      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
+      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 281466,
-      "stars_delta": 448,
-      "forks": 23593,
-      "forks_delta": 38,
+      "stars": 282062,
+      "stars_delta": 596,
+      "forks": 23635,
+      "forks_delta": 42,
       "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
         "zh": "Skills for Real Engineers. Straight from my .agents directory.",
         "en": "Skills for Real Engineers. Straight from my .agents directory."
@@ -183,102 +142,97 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
+      "rank": 4,
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
       "topics": [
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "anthropic",
-        "artificial-intelligence",
-        "chromadb",
-        "claude",
-        "claude-agent-sdk",
-        "claude-agents",
+        "agent-skills",
         "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "embeddings",
-        "long-term-memory",
-        "mem0",
-        "memory-engine",
-        "openmemory",
-        "rag",
-        "sqlite",
-        "supermemory"
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
       ],
-      "stars": 98678,
-      "stars_delta": 247,
-      "forks": 8651,
-      "forks_delta": 18,
-      "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "stars": 47396,
+      "stars_delta": 596,
+      "forks": 3005,
+      "forks_delta": 30,
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
-        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
       },
       "strengths": {
-        "zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-        "en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…"
+        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
       },
       "innovations": {
-        "zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
-        "en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…"
+        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
       },
-      "purpose_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "purpose_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "strengths_zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-      "strengths_en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-      "innovations_zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
-      "innovations_en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
+      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
       "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "stars": 44865,
+      "stars_delta": 323,
+      "forks": 3249,
+      "forks_delta": 0,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
+      "purpose": {
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
+      },
+      "strengths": {
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
+      },
+      "innovations": {
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
+      },
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
+      "insights_source": "readme"
     },
     {
       "rank": 6,
-      "full_name": "EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "topics": [],
-      "stars": 8170,
-      "stars_delta": 75,
-      "forks": 391,
-      "forks_delta": 0,
-      "html_url": "https://github.com/EpicGames/raddebugger",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
-      "purpose": {
-        "zh": "A native, user-mode, multi-process, graphical debugger.",
-        "en": "A native, user-mode, multi-process, graphical debugger."
-      },
-      "strengths": {
-        "zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-        "en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…"
-      },
-      "innovations": {
-        "zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-        "en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…"
-      },
-      "purpose_zh": "A native, user-mode, multi-process, graphical debugger.",
-      "purpose_en": "A native, user-mode, multi-process, graphical debugger.",
-      "strengths_zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "strengths_en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "innovations_zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "innovations_en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
       "full_name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 27816,
-      "stars_delta": 313,
-      "forks": 3220,
-      "forks_delta": 27,
+      "stars": 28006,
+      "stars_delta": 190,
+      "forks": 3230,
+      "forks_delta": 10,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -300,7 +254,95 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 7,
+      "full_name": "BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "topics": [
+        "ai-gateway",
+        "anthropic",
+        "azure-openai",
+        "bedrock",
+        "gateway",
+        "langchain",
+        "litellm",
+        "llm",
+        "llm-gateway",
+        "llmops",
+        "mcp-gateway",
+        "openai",
+        "openai-proxy",
+        "rust",
+        "rust-ai",
+        "vertex-ai"
+      ],
+      "stars": 60484,
+      "stars_delta": 95,
+      "forks": 12172,
+      "forks_delta": 0,
+      "html_url": "https://github.com/BerriAI/litellm",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
+      "purpose": {
+        "zh": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+        "en": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
+      },
+      "strengths": {
+        "zh": "🚅 LiteLLM LiteLLM AI Gateway Open Source AI Gateway for 100+ LLMs. Self-hosted. Enterprise-ready. Call any LLM in OpenAI format. LiteLLM Proxy Server (AI Gateway) Hosted Proxy Enterprise Tier Website --- What is LiteLLM LiteLLM i…",
+        "en": "🚅 LiteLLM LiteLLM AI Gateway Open Source AI Gateway for 100+ LLMs. Self-hosted. Enterprise-ready. Call any LLM in OpenAI format. LiteLLM Proxy Server (AI Gateway) Hosted Proxy Enterprise Tier Website --- What is LiteLLM LiteLLM i…"
+      },
+      "innovations": {
+        "zh": "…format. Use it as a Python SDK for direct library integration, or deploy the AI Gateway (Proxy Server) as a centralized service for your team or organization. Jump to LiteLLM Proxy (LLM Gateway) Docs Jump to Supported LLM Provide…",
+        "en": "…format. Use it as a Python SDK for direct library integration, or deploy the AI Gateway (Proxy Server) as a centralized service for your team or organization. Jump to LiteLLM Proxy (LLM Gateway) Docs Jump to Supported LLM Provide…"
+      },
+      "purpose_zh": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "purpose_en": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "strengths_zh": "🚅 LiteLLM LiteLLM AI Gateway Open Source AI Gateway for 100+ LLMs. Self-hosted. Enterprise-ready. Call any LLM in OpenAI format. LiteLLM Proxy Server (AI Gateway) Hosted Proxy Enterprise Tier Website --- What is LiteLLM LiteLLM i…",
+      "strengths_en": "🚅 LiteLLM LiteLLM AI Gateway Open Source AI Gateway for 100+ LLMs. Self-hosted. Enterprise-ready. Call any LLM in OpenAI format. LiteLLM Proxy Server (AI Gateway) Hosted Proxy Enterprise Tier Website --- What is LiteLLM LiteLLM i…",
+      "innovations_zh": "…format. Use it as a Python SDK for direct library integration, or deploy the AI Gateway (Proxy Server) as a centralized service for your team or organization. Jump to LiteLLM Proxy (LLM Gateway) Docs Jump to Supported LLM Provide…",
+      "innovations_en": "…format. Use it as a Python SDK for direct library integration, or deploy the AI Gateway (Proxy Server) as a centralized service for your team or organization. Jump to LiteLLM Proxy (LLM Gateway) Docs Jump to Supported LLM Provide…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 8,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "stars": 103671,
+      "stars_delta": 751,
+      "forks": 10843,
+      "forks_delta": 0,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
+      "purpose": {
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
+      },
+      "strengths": {
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+      },
+      "innovations": {
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+      },
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
       "full_name": "storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
@@ -311,12 +353,12 @@
         "filmmaking",
         "imagegeneration"
       ],
-      "stars": 8789,
-      "stars_delta": 1002,
-      "forks": 1285,
-      "forks_delta": 214,
+      "stars": 9964,
+      "stars_delta": 1175,
+      "forks": 1484,
+      "forks_delta": 199,
       "html_url": "https://github.com/storytold/artcraft",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
         "zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
@@ -338,35 +380,67 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": "",
+      "rank": 10,
+      "full_name": "Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
       "topics": [],
-      "stars": 24909,
-      "stars_delta": 337,
-      "forks": 4630,
-      "forks_delta": 33,
-      "html_url": "https://github.com/liquidslr/system-design-notes",
-      "snapshot_at": "2026-10-09T06:19:57.473Z",
+      "stars": 17560,
+      "stars_delta": 109,
+      "forks": 1942,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Robbyant/lingbot-map",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
       "purpose": {
-        "zh": "Notes of the book System Desgin Interview - An Insider's Guide",
-        "en": "Notes of the book System Desgin Interview - An Insider's Guide"
+        "zh": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+        "en": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction"
       },
       "strengths": {
-        "zh": "System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-x…",
-        "en": "System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-x…"
+        "zh": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab ----- 🗺️ Meet LingBot-Map! We've built a feed-forward 3D fou…",
+        "en": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab ----- 🗺️ Meet LingBot-Map! We've built a feed-forward 3D fou…"
       },
       "innovations": {
-        "zh": "…m Design Interviews Chapter 4 - Design A Rate Limiter Chapter 5 - Design Consistent Hashing Chapter 6 - Design A Key-Value Store Chapter 7 - Design A Unique ID Generator In Distributed Systems Chapter 8 - Design A URL Shortener Ch…",
-        "en": "…m Design Interviews Chapter 4 - Design A Rate Limiter Chapter 5 - Design Consistent Hashing Chapter 6 - Design A Key-Value Store Chapter 7 - Design A Unique ID Generator In Distributed Systems Chapter 8 - Design A URL Shortener Ch…"
+        "zh": "…etric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. - High-Efficiency Streaming Inference: A feed-forward architecture with paged KV…",
+        "en": "…etric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. - High-Efficiency Streaming Inference: A feed-forward architecture with paged KV…"
       },
-      "purpose_zh": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "purpose_en": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "strengths_zh": "System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-x…",
-      "strengths_en": "System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-x…",
-      "innovations_zh": "…m Design Interviews Chapter 4 - Design A Rate Limiter Chapter 5 - Design Consistent Hashing Chapter 6 - Design A Key-Value Store Chapter 7 - Design A Unique ID Generator In Distributed Systems Chapter 8 - Design A URL Shortener Ch…",
-      "innovations_en": "…m Design Interviews Chapter 4 - Design A Rate Limiter Chapter 5 - Design Consistent Hashing Chapter 6 - Design A Key-Value Store Chapter 7 - Design A Unique ID Generator In Distributed Systems Chapter 8 - Design A URL Shortener Ch…",
+      "purpose_zh": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "purpose_en": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "strengths_zh": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab ----- 🗺️ Meet LingBot-Map! We've built a feed-forward 3D fou…",
+      "strengths_en": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab ----- 🗺️ Meet LingBot-Map! We've built a feed-forward 3D fou…",
+      "innovations_zh": "…etric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. - High-Efficiency Streaming Inference: A feed-forward architecture with paged KV…",
+      "innovations_en": "…etric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. - High-Efficiency Streaming Inference: A feed-forward architecture with paged KV…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "",
+      "topics": [],
+      "stars": 5246,
+      "stars_delta": 88,
+      "forks": 191,
+      "forks_delta": 0,
+      "html_url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "snapshot_at": "2026-10-09T13:28:46.594Z",
+      "purpose": {
+        "zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "en": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+      },
+      "strengths": {
+        "zh": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+        "en": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…"
+      },
+      "innovations": {
+        "zh": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
+        "en": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…"
+      },
+      "purpose_zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "purpose_en": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "strengths_zh": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+      "strengths_en": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+      "innovations_zh": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
+      "innovations_en": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
       "insights_source": "readme-excerpt"
     }
   ]
