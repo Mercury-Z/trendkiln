@@ -26,6 +26,58 @@
       "saved": false
     },
     {
+      "id": "884",
+      "title": {
+        "zh": "New controls and chat improvements in Copilot for JetBrains",
+        "en": "New controls and chat improvements in Copilot for JetBrains"
+      },
+      "summary": {
+        "zh": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog .",
+        "en": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog ."
+      },
+      "title_zh": "New controls and chat improvements in Copilot for JetBrains",
+      "title_en": "New controls and chat improvements in Copilot for JetBrains",
+      "summary_zh": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog .",
+      "summary_en": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog .",
+      "title_text": "New controls and chat improvements in Copilot for JetBrains",
+      "summary_text": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+      "published_at": "2026-10-10T18:53:39.000Z",
+      "tags": [
+        "Release",
+        "copilot",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "885",
+      "title": {
+        "zh": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+        "en": "Building AI for Reliable Execution: Lessons From Industrial Robotics"
+      },
+      "summary": {
+        "zh": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+        "en": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments."
+      },
+      "title_zh": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "title_en": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "summary_zh": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "summary_en": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "title_text": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "summary_text": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://www.latent.space/p/standard-bots",
+      "published_at": "2026-10-10T14:04:11.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "883",
       "title": {
         "zh": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
@@ -1410,33 +1462,6 @@
       "saved": false
     },
     {
-      "id": "822",
-      "title": {
-        "zh": "Discover local models in GitHub Copilot CLI",
-        "en": "Discover local models in GitHub Copilot CLI"
-      },
-      "summary": {
-        "zh": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog .",
-        "en": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Discover local models in GitHub Copilot CLI",
-      "title_en": "Discover local models in GitHub Copilot CLI",
-      "summary_zh": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "summary_en": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "title_text": "Discover local models in GitHub Copilot CLI",
-      "summary_text": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "published_at": "2026-10-07T15:46:13.000Z",
-      "tags": [
-        "Improvement",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "823",
       "title": {
         "zh": "Anti-Patterns in Software Blogging",
@@ -1761,15 +1786,15 @@
         "en": "Claude Haiku 5.5 now available on AI Gateway"
       },
       "summary": {
-        "zh": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, w…",
-        "en": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, w…"
+        "zh": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It's the fastest Claude model at standard speed, …",
+        "en": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It's the fastest Claude model at standard speed, …"
       },
       "title_zh": "Claude Haiku 5.5 now available on AI Gateway",
       "title_en": "Claude Haiku 5.5 now available on AI Gateway",
-      "summary_zh": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, w…",
-      "summary_en": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, w…",
+      "summary_zh": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It's the fastest Claude model at standard speed, …",
+      "summary_en": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It's the fastest Claude model at standard speed, …",
       "title_text": "Claude Haiku 5.5 now available on AI Gateway",
-      "summary_text": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, w…",
+      "summary_text": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It's the fastest Claude model at standard speed, …",
       "source_id": "7",
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway",
@@ -1785,15 +1810,15 @@
         "en": "Glyph Cluster is now available in stealth for free on AI Gateway"
       },
       "summary": {
-        "zh": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantit…",
-        "en": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantit…"
+        "zh": "Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review code, debug failures…",
+        "en": "Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review code, debug failures…"
       },
       "title_zh": "Glyph Cluster is now available in stealth for free on AI Gateway",
       "title_en": "Glyph Cluster is now available in stealth for free on AI Gateway",
-      "summary_zh": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantit…",
-      "summary_en": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantit…",
+      "summary_zh": "Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review code, debug failures…",
+      "summary_en": "Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review code, debug failures…",
       "title_text": "Glyph Cluster is now available in stealth for free on AI Gateway",
-      "summary_text": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantit…",
+      "summary_text": "Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review code, debug failures…",
       "source_id": "7",
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
@@ -1942,30 +1967,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
       "published_at": "2026-10-06T20:18:19.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "806",
-      "title": {
-        "zh": "Using Parseable with Datasette for OpenTelemetry traces",
-        "en": "Using Parseable with Datasette for OpenTelemetry traces"
-      },
-      "summary": {
-        "zh": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelem…",
-        "en": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelem…"
-      },
-      "title_zh": "Using Parseable with Datasette for OpenTelemetry traces",
-      "title_en": "Using Parseable with Datasette for OpenTelemetry traces",
-      "summary_zh": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelem…",
-      "summary_en": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelem…",
-      "title_text": "Using Parseable with Datasette for OpenTelemetry traces",
-      "summary_text": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelem…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "published_at": "2026-10-06T19:07:31.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
