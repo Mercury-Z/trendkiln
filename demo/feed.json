@@ -26,6 +26,78 @@
       "saved": false
     },
     {
+      "id": "886",
+      "title": {
+        "zh": "Dwarf Fortress uses version control now",
+        "en": "Dwarf Fortress uses version control now"
+      },
+      "summary": {
+        "zh": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version co…",
+        "en": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version co…"
+      },
+      "title_zh": "Dwarf Fortress uses version control now",
+      "title_en": "Dwarf Fortress uses version control now",
+      "summary_zh": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version co…",
+      "summary_en": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version co…",
+      "title_text": "Dwarf Fortress uses version control now",
+      "summary_text": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version co…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "published_at": "2026-10-11T00:52:37.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "887",
+      "title": {
+        "zh": "Python 3.15.0 added to actions/python-versions",
+        "en": "Python 3.15.0 added to actions/python-versions"
+      },
+      "summary": {
+        "zh": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you …",
+        "en": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you …"
+      },
+      "title_zh": "Python 3.15.0 added to actions/python-versions",
+      "title_en": "Python 3.15.0 added to actions/python-versions",
+      "summary_zh": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you …",
+      "summary_en": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you …",
+      "title_text": "Python 3.15.0 added to actions/python-versions",
+      "summary_text": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you …",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "published_at": "2026-10-10T23:58:04.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "888",
+      "title": {
+        "zh": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+        "en": "[Subscriber Exclusive] NYC Subscriber Meetups!"
+      },
+      "summary": {
+        "zh": "Tomorrow and Tuesday. If you see this you’re in!",
+        "en": "Tomorrow and Tuesday. If you see this you’re in!"
+      },
+      "title_zh": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "title_en": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "summary_zh": "Tomorrow and Tuesday. If you see this you’re in!",
+      "summary_en": "Tomorrow and Tuesday. If you see this you’re in!",
+      "title_text": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "summary_text": "Tomorrow and Tuesday. If you see this you’re in!",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://www.latent.space/p/nyc2026",
+      "published_at": "2026-10-10T22:07:17.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "884",
       "title": {
         "zh": "New controls and chat improvements in Copilot for JetBrains",
@@ -1895,78 +1967,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
       "published_at": "2026-10-06T23:04:13.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "802",
-      "title": {
-        "zh": "llm-mistral 0.16",
-        "en": "llm-mistral 0.16"
-      },
-      "summary": {
-        "zh": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
-        "en": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning"
-      },
-      "title_zh": "llm-mistral 0.16",
-      "title_en": "llm-mistral 0.16",
-      "summary_zh": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
-      "summary_en": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
-      "title_text": "llm-mistral 0.16",
-      "summary_text": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-      "published_at": "2026-10-06T21:32:34.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "803",
-      "title": {
-        "zh": "EmbeddingGemma 2",
-        "en": "EmbeddingGemma 2"
-      },
-      "summary": {
-        "zh": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions…",
-        "en": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions…"
-      },
-      "title_zh": "EmbeddingGemma 2",
-      "title_en": "EmbeddingGemma 2",
-      "summary_zh": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions…",
-      "summary_en": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions…",
-      "title_text": "EmbeddingGemma 2",
-      "summary_text": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "published_at": "2026-10-06T20:37:53.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "804",
-      "title": {
-        "zh": "Introducing Mistral Large 4: Le chonk",
-        "en": "Introducing Mistral Large 4: Le chonk"
-      },
-      "summary": {
-        "zh": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open…",
-        "en": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open…"
-      },
-      "title_zh": "Introducing Mistral Large 4: Le chonk",
-      "title_en": "Introducing Mistral Large 4: Le chonk",
-      "summary_zh": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open…",
-      "summary_en": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open…",
-      "title_text": "Introducing Mistral Large 4: Le chonk",
-      "summary_text": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "published_at": "2026-10-06T20:18:19.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
