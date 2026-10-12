@@ -43,12 +43,12 @@
         "reverse-engineering",
         "static-analysis"
       ],
-      "stars": 117248,
-      "stars_delta": 16132,
-      "forks": 26339,
-      "forks_delta": 4126,
+      "stars": 140685,
+      "stars_delta": 23437,
+      "forks": 32190,
+      "forks_delta": 5851,
       "html_url": "https://github.com/morluto/rea",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
       "purpose": {
         "zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
@@ -71,125 +71,6 @@
     },
     {
       "rank": 2,
-      "full_name": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "topics": [
-        "anyps5",
-        "dynamic-library",
-        "game-porting",
-        "ps5",
-        "ps5-tools",
-        "spir-v",
-        "vulkan"
-      ],
-      "stars": 30813,
-      "stars_delta": 999,
-      "forks": 2655,
-      "forks_delta": 93,
-      "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
-      "purpose": {
-        "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "en": "Tool for automatic PS5 executables porting to Linux and Windows"
-      },
-      "strengths": {
-        "zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-        "en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…"
-      },
-      "innovations": {
-        "zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-        "en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…"
-      },
-      "purpose_zh": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "purpose_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "strengths_zh": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "strengths_en": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emul…",
-      "innovations_zh": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "innovations_en": "…he functions known to the project so far (declared in core/libs/prx), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "topics": [
-        "3d-graphics",
-        "ai",
-        "aivideo",
-        "filmmaking",
-        "imagegeneration"
-      ],
-      "stars": 18823,
-      "stars_delta": 1254,
-      "forks": 3081,
-      "forks_delta": 212,
-      "html_url": "https://github.com/storytold/artcraft",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
-      "purpose": {
-        "zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-      },
-      "strengths": {
-        "zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-        "en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…"
-      },
-      "innovations": {
-        "zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
-        "en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…"
-      },
-      "purpose_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "purpose_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "strengths_zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-      "strengths_en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-      "innovations_zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
-      "innovations_en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "stars": 50892,
-      "stars_delta": 676,
-      "forks": 3227,
-      "forks_delta": 38,
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
-      "purpose": {
-        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-      },
-      "strengths": {
-        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
-      },
-      "innovations": {
-        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
-      },
-      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
       "full_name": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
@@ -207,12 +88,12 @@
         "webgl",
         "worldview"
       ],
-      "stars": 52128,
-      "stars_delta": 626,
-      "forks": 10431,
-      "forks_delta": 83,
+      "stars": 52989,
+      "stars_delta": 861,
+      "forks": 10528,
+      "forks_delta": 97,
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
       "purpose": {
         "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
@@ -234,44 +115,183 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
+      "rank": 3,
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
       "topics": [
-        "autograd",
-        "deep-learning",
-        "gpu",
-        "machine-learning",
-        "neural-network",
-        "numpy",
-        "python",
-        "tensor"
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
       ],
-      "stars": 104621,
-      "stars_delta": 179,
-      "forks": 32175,
-      "forks_delta": 86,
-      "html_url": "https://github.com/pytorch/pytorch",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
+      "stars": 26968,
+      "stars_delta": 485,
+      "forks": 1931,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mksglu/context-mode",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
       "purpose": {
-        "zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+        "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
       },
       "strengths": {
-        "zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-        "en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…"
+        "zh": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+        "en": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…"
       },
       "innovations": {
-        "zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-        "en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…"
+        "zh": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+        "en": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…"
       },
-      "purpose_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "purpose_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "strengths_zh": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "strengths_en": "-------------------------------------------------------------------------------- PyTorch is a Python package that provides two high-level features: - Tensor computation (like NumPy) with strong GPU acceleration - Deep neural netwo…",
-      "innovations_zh": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
-      "innovations_en": "…ntinuous Integration signals) can be found at hud.pytorch.org. - More About PyTorch - A GPU-Ready Tensor Library - Dynamic Neural Networks: Tape-Based Autograd - Python First - Imperative Experiences - Fast and Lean - Extensions W…",
+      "purpose_zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "purpose_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "strengths_zh": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+      "strengths_en": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log —…",
+      "innovations_zh": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+      "innovations_en": "…n progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
+      "stars": 20552,
+      "stars_delta": 1729,
+      "forks": 3322,
+      "forks_delta": 241,
+      "html_url": "https://github.com/storytold/artcraft",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
+      "purpose": {
+        "zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+      },
+      "strengths": {
+        "zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
+        "en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…"
+      },
+      "innovations": {
+        "zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
+        "en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…"
+      },
+      "purpose_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "purpose_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "strengths_zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
+      "strengths_en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
+      "innovations_zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
+      "innovations_en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "stars": 154613,
+      "stars_delta": 142,
+      "forks": 22621,
+      "forks_delta": 0,
+      "html_url": "https://github.com/open-webui/open-webui",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
+      "purpose": {
+        "zh": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "en": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+      },
+      "strengths": {
+        "zh": "Open WebUI 👋 Open WebUI is a home for AI, a self-hosted AI platform that's extensible, feature-rich, user-friendly, and built to run entirely offline. With support for Ollama and OpenAI-compatible APIs, it gives you a powerful, p…",
+        "en": "Open WebUI 👋 Open WebUI is a home for AI, a self-hosted AI platform that's extensible, feature-rich, user-friendly, and built to run entirely offline. With support for Ollama and OpenAI-compatible APIs, it gives you a powerful, p…"
+      },
+      "innovations": {
+        "zh": "…Sales Team Today! For more information, be sure to check out our Open WebUI Documentation. Key Features of Open WebUI ⭐ - 🚀 Effortless Setup: Install seamlessly via pip, uv, Docker, or Kubernetes (kubectl, kustomize, or helm), w…",
+        "en": "…Sales Team Today! For more information, be sure to check out our Open WebUI Documentation. Key Features of Open WebUI ⭐ - 🚀 Effortless Setup: Install seamlessly via pip, uv, Docker, or Kubernetes (kubectl, kustomize, or helm), w…"
+      },
+      "purpose_zh": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "purpose_en": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "strengths_zh": "Open WebUI 👋 Open WebUI is a home for AI, a self-hosted AI platform that's extensible, feature-rich, user-friendly, and built to run entirely offline. With support for Ollama and OpenAI-compatible APIs, it gives you a powerful, p…",
+      "strengths_en": "Open WebUI 👋 Open WebUI is a home for AI, a self-hosted AI platform that's extensible, feature-rich, user-friendly, and built to run entirely offline. With support for Ollama and OpenAI-compatible APIs, it gives you a powerful, p…",
+      "innovations_zh": "…Sales Team Today! For more information, be sure to check out our Open WebUI Documentation. Key Features of Open WebUI ⭐ - 🚀 Effortless Setup: Install seamlessly via pip, uv, Docker, or Kubernetes (kubectl, kustomize, or helm), w…",
+      "innovations_en": "…Sales Team Today! For more information, be sure to check out our Open WebUI Documentation. Key Features of Open WebUI ⭐ - 🚀 Effortless Setup: Install seamlessly via pip, uv, Docker, or Kubernetes (kubectl, kustomize, or helm), w…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "stars": 52040,
+      "stars_delta": 1148,
+      "forks": 3277,
+      "forks_delta": 50,
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
+      "purpose": {
+        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+      },
+      "strengths": {
+        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
+      },
+      "innovations": {
+        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
+      },
+      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -294,12 +314,12 @@
         "open-source-models",
         "qlora"
       ],
-      "stars": 36717,
-      "stars_delta": 309,
-      "forks": 3826,
-      "forks_delta": 12,
+      "stars": 37192,
+      "stars_delta": 475,
+      "forks": 3855,
+      "forks_delta": 29,
       "html_url": "https://github.com/lyogavin/airllm",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
       "purpose": {
         "zh": "AirLLM 70B inference with single 4GB GPU",
         "en": "AirLLM 70B inference with single 4GB GPU"
@@ -322,39 +342,66 @@
     },
     {
       "rank": 8,
-      "full_name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "topics": [
-        "agc",
-        "apollo",
-        "hacktoberfest",
-        "nasa"
-      ],
-      "stars": 74392,
-      "stars_delta": 205,
-      "forks": 8114,
-      "forks_delta": 17,
-      "html_url": "https://github.com/chrislgarry/Apollo-11",
-      "snapshot_at": "2026-10-12T06:10:05.289Z",
+      "full_name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "topics": [],
+      "stars": 40788,
+      "stars_delta": 195,
+      "forks": 3800,
+      "forks_delta": 0,
+      "html_url": "https://github.com/microsoft/BitNet",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
       "purpose": {
-        "zh": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+        "zh": "Official inference framework for 1-bit LLMs",
+        "en": "Official inference framework for 1-bit LLMs"
       },
       "strengths": {
-        "zh": "Apollo-11 [![NASA][1]][2] [![SWH]][SWHURL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], […",
-        "en": "Apollo-11 [![NASA][1]][2] [![SWH]][SWHURL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], […"
+        "zh": "bitnet.cpp 📰 News 07/23/2026: 📣 We released VibeASR.cpp — a real-time multilingual ASR inference engine on CPU using BitNet I2S quantization, achieving RTF Code ] [ Models ] [ Report ] 07/20/2026: 📣 We released BitNet-embedding…",
+        "en": "bitnet.cpp 📰 News 07/23/2026: 📣 We released VibeASR.cpp — a real-time multilingual ASR inference engine on CPU using BitNet I2S quantization, achieving RTF Code ] [ Models ] [ Report ] 07/20/2026: 📣 We released BitNet-embedding…"
       },
       "innovations": {
-        "zh": "…tuguês][PTBR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά][GR], [Беларуская мова][BE], [Русский][RU], [Українська][UK], [العربية][AR], [فارسی][FA], [नेपाली भाषा][NE] [हिंदी][HIIN], [অসমীয়া…",
-        "en": "…tuguês][PTBR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά][GR], [Беларуская мова][BE], [Русский][RU], [Українська][UK], [العربية][AR], [فارسی][FA], [नेपाली भाषा][NE] [हिंदी][HIIN], [অসমীয়া…"
+        "zh": "…- 1.42x to 2.28x speedup over F16 on BitNet-embedding-0.6B prefill (8 threads) - 1.32x to 1.74x speedup over F16 on BitNet-embedding-270M prefill (8 threads) - Supports I2S conversion with optimized kernels on x86 CPUs - Lossless…",
+        "en": "…- 1.42x to 2.28x speedup over F16 on BitNet-embedding-0.6B prefill (8 threads) - 1.32x to 1.74x speedup over F16 on BitNet-embedding-270M prefill (8 threads) - Supports I2S conversion with optimized kernels on x86 CPUs - Lossless…"
       },
-      "purpose_zh": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "purpose_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "strengths_zh": "Apollo-11 [![NASA][1]][2] [![SWH]][SWHURL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], […",
-      "strengths_en": "Apollo-11 [![NASA][1]][2] [![SWH]][SWHURL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], […",
-      "innovations_zh": "…tuguês][PTBR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά][GR], [Беларуская мова][BE], [Русский][RU], [Українська][UK], [العربية][AR], [فارسی][FA], [नेपाली भाषा][NE] [हिंदी][HIIN], [অসমীয়া…",
-      "innovations_en": "…tuguês][PTBR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά][GR], [Беларуская мова][BE], [Русский][RU], [Українська][UK], [العربية][AR], [فارسی][FA], [नेपाली भाषा][NE] [हिंदी][HIIN], [অসমীয়া…",
+      "purpose_zh": "Official inference framework for 1-bit LLMs",
+      "purpose_en": "Official inference framework for 1-bit LLMs",
+      "strengths_zh": "bitnet.cpp 📰 News 07/23/2026: 📣 We released VibeASR.cpp — a real-time multilingual ASR inference engine on CPU using BitNet I2S quantization, achieving RTF Code ] [ Models ] [ Report ] 07/20/2026: 📣 We released BitNet-embedding…",
+      "strengths_en": "bitnet.cpp 📰 News 07/23/2026: 📣 We released VibeASR.cpp — a real-time multilingual ASR inference engine on CPU using BitNet I2S quantization, achieving RTF Code ] [ Models ] [ Report ] 07/20/2026: 📣 We released BitNet-embedding…",
+      "innovations_zh": "…- 1.42x to 2.28x speedup over F16 on BitNet-embedding-0.6B prefill (8 threads) - 1.32x to 1.74x speedup over F16 on BitNet-embedding-270M prefill (8 threads) - Supports I2S conversion with optimized kernels on x86 CPUs - Lossless…",
+      "innovations_en": "…- 1.42x to 2.28x speedup over F16 on BitNet-embedding-0.6B prefill (8 threads) - 1.32x to 1.74x speedup over F16 on BitNet-embedding-270M prefill (8 threads) - Supports I2S conversion with optimized kernels on x86 CPUs - Lossless…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "topics": [],
+      "stars": 58557,
+      "stars_delta": 705,
+      "forks": 9270,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "snapshot_at": "2026-10-12T15:43:22.742Z",
+      "purpose": {
+        "zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+      },
+      "strengths": {
+        "zh": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get - 61 ToS-friendly providers.…",
+        "en": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get - 61 ToS-friendly providers.…"
+      },
+      "innovations": {
+        "zh": "…removes integrations if they stop being allowed. - 11 coding agents. One model catalog. Run Claude Code, Codex, Pi, OpenCode, Cline, Hermes, DeepSeek Harness, Grok Build, Muse Code, Aider, or VS Code Chat with your FCC models. -…",
+        "en": "…removes integrations if they stop being allowed. - 11 coding agents. One model catalog. Run Claude Code, Codex, Pi, OpenCode, Cline, Hermes, DeepSeek Harness, Grok Build, Muse Code, Aider, or VS Code Chat with your FCC models. -…"
+      },
+      "purpose_zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "purpose_en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "strengths_zh": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get - 61 ToS-friendly providers.…",
+      "strengths_en": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get - 61 ToS-friendly providers.…",
+      "innovations_zh": "…removes integrations if they stop being allowed. - 11 coding agents. One model catalog. Run Claude Code, Codex, Pi, OpenCode, Cline, Hermes, DeepSeek Harness, Grok Build, Muse Code, Aider, or VS Code Chat with your FCC models. -…",
+      "innovations_en": "…removes integrations if they stop being allowed. - 11 coding agents. One model catalog. Run Claude Code, Codex, Pi, OpenCode, Cline, Hermes, DeepSeek Harness, Grok Build, Muse Code, Aider, or VS Code Chat with your FCC models. -…",
       "insights_source": "readme-excerpt"
     }
   ]

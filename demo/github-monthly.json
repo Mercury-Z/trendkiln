@@ -29,12 +29,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 46291,
-      "stars_delta": 135,
-      "forks": 3362,
-      "forks_delta": 14,
+      "stars": 46443,
+      "stars_delta": 152,
+      "forks": 3380,
+      "forks_delta": 18,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
         "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
@@ -82,12 +82,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 59138,
-      "stars_delta": 531,
-      "forks": 6629,
-      "forks_delta": 47,
+      "stars": 59887,
+      "stars_delta": 749,
+      "forks": 6720,
+      "forks_delta": 91,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -110,48 +110,37 @@
     },
     {
       "rank": 3,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 39429,
-      "stars_delta": 47,
-      "forks": 5586,
-      "forks_delta": 1,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "topics": [],
-      "stars": 100495,
-      "stars_delta": 167,
-      "forks": 16920,
-      "forks_delta": 18,
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ],
+      "stars": 100769,
+      "stars_delta": 274,
+      "forks": 16955,
+      "forks_delta": 35,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -173,6 +162,38 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 4,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 39500,
+      "stars_delta": 71,
+      "forks": 5589,
+      "forks_delta": 3,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 5,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
@@ -183,12 +204,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 48531,
-      "stars_delta": 133,
-      "forks": 6005,
-      "forks_delta": 5,
+      "stars": 48731,
+      "stars_delta": 200,
+      "forks": 6012,
+      "forks_delta": 7,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -224,12 +245,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 277373,
-      "stars_delta": 206,
-      "forks": 41371,
-      "forks_delta": 27,
+      "stars": 277671,
+      "stars_delta": 298,
+      "forks": 41407,
+      "forks_delta": 36,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -256,12 +277,12 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 29162,
-      "stars_delta": 57,
-      "forks": 3311,
-      "forks_delta": 10,
+      "stars": 29250,
+      "stars_delta": 88,
+      "forks": 3317,
+      "forks_delta": 6,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -288,12 +309,12 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 150271,
-      "stars_delta": 55,
-      "forks": 26289,
-      "forks_delta": 70,
+      "stars": 150363,
+      "stars_delta": 92,
+      "forks": 26304,
+      "forks_delta": 15,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -341,12 +362,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 33317,
-      "stars_delta": 119,
-      "forks": 4443,
-      "forks_delta": 25,
+      "stars": 33478,
+      "stars_delta": 161,
+      "forks": 4460,
+      "forks_delta": 17,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -369,50 +390,6 @@
     },
     {
       "rank": 10,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 61168,
-      "stars_delta": 261,
-      "forks": 5467,
-      "forks_delta": 18,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -425,12 +402,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 8742,
-      "stars_delta": 82,
-      "forks": 1070,
-      "forks_delta": 11,
+      "stars": 8861,
+      "stars_delta": 119,
+      "forks": 1091,
+      "forks_delta": 21,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -452,17 +429,61 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 11,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 61550,
+      "stars_delta": 382,
+      "forks": 5508,
+      "forks_delta": 41,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 12,
       "full_name": "agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "topics": [],
-      "stars": 4887,
-      "stars_delta": 30,
-      "forks": 550,
-      "forks_delta": 1,
+      "stars": 4927,
+      "stars_delta": 40,
+      "forks": 553,
+      "forks_delta": 3,
       "html_url": "https://github.com/agent-substrate/substrate",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Agent Substrate: the core system",
         "en": "Agent Substrate: the core system"
@@ -489,12 +510,12 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "topics": [],
-      "stars": 15881,
-      "stars_delta": 48,
-      "forks": 1766,
-      "forks_delta": 2,
+      "stars": 15942,
+      "stars_delta": 61,
+      "forks": 1770,
+      "forks_delta": 4,
       "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "en": "OpenShell is the safe, private runtime for autonomous AI agents."
@@ -521,12 +542,12 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "topics": [],
-      "stars": 41315,
-      "stars_delta": 82,
-      "forks": 4553,
-      "forks_delta": 11,
+      "stars": 41432,
+      "stars_delta": 117,
+      "forks": 4576,
+      "forks_delta": 23,
       "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
@@ -549,6 +570,77 @@
     },
     {
       "rank": 15,
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 33724,
+      "stars_delta": 287,
+      "forks": 4643,
+      "forks_delta": 31,
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
+      "purpose": {
+        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+      },
+      "strengths": {
+        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
+      },
+      "innovations": {
+        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
+      },
+      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "stars": 105417,
+      "stars_delta": 253,
+      "forks": 11001,
+      "forks_delta": 19,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
+      "purpose": {
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
+      },
+      "strengths": {
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+      },
+      "innovations": {
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+      },
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
       "full_name": "trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
@@ -572,12 +664,12 @@
         "windows",
         "windows-sandbox"
       ],
-      "stars": 29418,
-      "stars_delta": 28,
-      "forks": 2092,
-      "forks_delta": 5,
+      "stars": 29475,
+      "stars_delta": 57,
+      "forks": 2098,
+      "forks_delta": 6,
       "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
@@ -596,77 +688,6 @@
       "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
       "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
       "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "stars": 105164,
-      "stars_delta": 184,
-      "forks": 10982,
-      "forks_delta": 24,
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
-      "purpose": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
-      },
-      "strengths": {
-        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
-      },
-      "innovations": {
-        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
-      },
-      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
-      "purpose_en": "Production-grade engineering skills for AI coding agents.",
-      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 33437,
-      "stars_delta": 137,
-      "forks": 4612,
-      "forks_delta": 8,
-      "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
-      "purpose": {
-        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-      },
-      "strengths": {
-        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
-      },
-      "innovations": {
-        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
-      },
-      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -696,12 +717,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 26729,
-      "stars_delta": 68,
-      "forks": 1918,
-      "forks_delta": 3,
+      "stars": 26969,
+      "stars_delta": 240,
+      "forks": 1931,
+      "forks_delta": 13,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -728,12 +749,12 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 10944,
-      "stars_delta": 56,
-      "forks": 1054,
+      "stars": 11010,
+      "stars_delta": 66,
+      "forks": 1065,
       "forks_delta": 11,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -756,51 +777,6 @@
     },
     {
       "rank": 20,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "topics": [
-        "3d-globe",
-        "cesium",
-        "flight-tracking",
-        "geospatial",
-        "geospatial-intelligence",
-        "gis",
-        "osint",
-        "photogrammetry",
-        "satellite-tracking",
-        "spatial-intelligence",
-        "webgl",
-        "worldview"
-      ],
-      "stars": 52128,
-      "stars_delta": 625,
-      "forks": 10431,
-      "forks_delta": 83,
-      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
-      "purpose": {
-        "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-      },
-      "strengths": {
-        "zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-        "en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…"
-      },
-      "innovations": {
-        "zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-        "en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…"
-      },
-      "purpose_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "strengths_zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-      "strengths_en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-      "innovations_zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-      "innovations_en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 21,
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
@@ -809,12 +785,12 @@
         "reverse-engineering",
         "software-analysis"
       ],
-      "stars": 83792,
-      "stars_delta": 398,
-      "forks": 9321,
-      "forks_delta": 44,
+      "stars": 84606,
+      "stars_delta": 814,
+      "forks": 9387,
+      "forks_delta": 66,
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
         "zh": "Ghidra is a software reverse engineering (SRE) framework",
         "en": "Ghidra is a software reverse engineering (SRE) framework"
@@ -836,53 +812,101 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 22,
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
+      "rank": 21,
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
       "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
       ],
-      "stars": 96188,
-      "stars_delta": 217,
-      "forks": 8422,
-      "forks_delta": 18,
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-12T06:10:09.437Z",
+      "stars": 52990,
+      "stars_delta": 862,
+      "forks": 10528,
+      "forks_delta": 97,
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
       "purpose": {
-        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+        "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
       },
       "strengths": {
-        "zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-        "en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…"
+        "zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
+        "en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…"
       },
       "innovations": {
-        "zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-        "en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…"
+        "zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
+        "en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…"
       },
-      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "strengths_zh": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "strengths_en": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 --- ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览…",
-      "innovations_zh": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
-      "innovations_en": "…对话丝滑接入 Agent Reach，给你的 OpenClaw 一键装上互联网能力。 CoreClaw 网页抓取平台与现成数据采集工具，CoreClaw 提供 100+ 现成数据采集工具，支持 Amazon、TikTok、Google Maps、Instagram、Facebook、YouTube 等平台，无需代码，支持 JSON/CSV 导出，仅对成功结果计费。 免费$3测试！ 优刻得星图astraflow大模型 ，支持200+模型一键调用：内置 Kim…",
+      "purpose_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "strengths_zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
+      "strengths_en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
+      "innovations_zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
+      "innovations_en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 22,
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "stars": 67916,
+      "stars_delta": 13378,
+      "forks": 11900,
+      "forks_delta": 0,
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "snapshot_at": "2026-10-12T15:43:27.675Z",
+      "purpose": {
+        "zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+        "en": "Learn AI Engineering! Learn it. Build it. Ship it for others."
+      },
+      "strengths": {
+        "zh": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
+        "en": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…"
+      },
+      "innovations": {
+        "zh": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
+        "en": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…"
+      },
+      "purpose_zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "purpose_en": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "strengths_zh": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
+      "strengths_en": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
+      "innovations_zh": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
+      "innovations_en": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
       "insights_source": "readme-excerpt"
     }
   ]
