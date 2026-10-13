@@ -26,6 +26,213 @@
       "saved": false
     },
     {
+      "id": "897",
+      "title": {
+        "zh": "rust-v0.163.0-alpha.9",
+        "en": "rust-v0.163.0-alpha.9"
+      },
+      "summary": {
+        "zh": "Release 0.163.0-alpha.9",
+        "en": "Release 0.163.0-alpha.9"
+      },
+      "title_zh": "rust-v0.163.0-alpha.9",
+      "title_en": "rust-v0.163.0-alpha.9",
+      "summary_zh": "Release 0.163.0-alpha.9",
+      "summary_en": "Release 0.163.0-alpha.9",
+      "title_text": "rust-v0.163.0-alpha.9",
+      "summary_text": "Release 0.163.0-alpha.9",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.9",
+      "published_at": "2026-10-13T14:15:28.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "898",
+      "title": {
+        "zh": "Improved detection for withdrawn Dependabot alerts",
+        "en": "Improved detection for withdrawn Dependabot alerts"
+      },
+      "summary": {
+        "zh": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+        "en": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Improved detection for withdrawn Dependabot alerts",
+      "title_en": "Improved detection for withdrawn Dependabot alerts",
+      "summary_zh": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+      "summary_en": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+      "title_text": "Improved detection for withdrawn Dependabot alerts",
+      "summary_text": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "published_at": "2026-10-13T14:03:57.000Z",
+      "tags": [
+        "Improvement",
+        "supply chain security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "899",
+      "title": {
+        "zh": "0.163.0-alpha.8",
+        "en": "0.163.0-alpha.8"
+      },
+      "summary": {
+        "zh": "Release 0.163.0-alpha.8",
+        "en": "Release 0.163.0-alpha.8"
+      },
+      "title_zh": "0.163.0-alpha.8",
+      "title_en": "0.163.0-alpha.8",
+      "summary_zh": "Release 0.163.0-alpha.8",
+      "summary_en": "Release 0.163.0-alpha.8",
+      "title_text": "0.163.0-alpha.8",
+      "summary_text": "Release 0.163.0-alpha.8",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.8",
+      "published_at": "2026-10-13T13:44:03.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "900",
+      "title": {
+        "zh": "Quoting Geoffrey Huntley",
+        "en": "Quoting Geoffrey Huntley"
+      },
+      "summary": {
+        "zh": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling t…",
+        "en": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling t…"
+      },
+      "title_zh": "Quoting Geoffrey Huntley",
+      "title_en": "Quoting Geoffrey Huntley",
+      "summary_zh": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling t…",
+      "summary_en": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling t…",
+      "title_text": "Quoting Geoffrey Huntley",
+      "summary_text": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling t…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "published_at": "2026-10-13T13:32:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "901",
+      "title": {
+        "zh": "Search and filter for budgets now available",
+        "en": "Search and filter for budgets now available"
+      },
+      "summary": {
+        "zh": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog .",
+        "en": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Search and filter for budgets now available",
+      "title_en": "Search and filter for budgets now available",
+      "summary_zh": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog .",
+      "summary_en": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog .",
+      "title_text": "Search and filter for budgets now available",
+      "summary_text": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+      "published_at": "2026-10-13T12:06:09.000Z",
+      "tags": [
+        "Improvement",
+        "account management",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "902",
+      "title": {
+        "zh": "Code scanning AI Scan metrics in security overview",
+        "en": "Code scanning AI Scan metrics in security overview"
+      },
+      "summary": {
+        "zh": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+        "en": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Code scanning AI Scan metrics in security overview",
+      "title_en": "Code scanning AI Scan metrics in security overview",
+      "summary_zh": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+      "summary_en": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+      "title_text": "Code scanning AI Scan metrics in security overview",
+      "summary_text": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "published_at": "2026-10-13T12:03:17.000Z",
+      "tags": [
+        "Improvement",
+        "application security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "903",
+      "title": {
+        "zh": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+        "en": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model"
+      },
+      "summary": {
+        "zh": "MSL’s emergence as a frontier lab is finally complete.",
+        "en": "MSL’s emergence as a frontier lab is finally complete."
+      },
+      "title_zh": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "title_en": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "summary_zh": "MSL’s emergence as a frontier lab is finally complete.",
+      "summary_en": "MSL’s emergence as a frontier lab is finally complete.",
+      "title_text": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "summary_text": "MSL’s emergence as a frontier lab is finally complete.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "published_at": "2026-10-13T09:37:04.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "904",
+      "title": {
+        "zh": "Client telemetry user attribution and configurable capture",
+        "en": "Client telemetry user attribution and configurable capture"
+      },
+      "summary": {
+        "zh": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…",
+        "en": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…"
+      },
+      "title_zh": "Client telemetry user attribution and configurable capture",
+      "title_en": "Client telemetry user attribution and configurable capture",
+      "summary_zh": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…",
+      "summary_en": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…",
+      "title_text": "Client telemetry user attribution and configurable capture",
+      "summary_text": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The G…",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "published_at": "2026-10-12T22:38:00.000Z",
+      "tags": [
+        "Improvement",
+        "client apps",
+        "copilot",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "889",
       "title": {
         "zh": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
@@ -1035,33 +1242,6 @@
       "saved": false
     },
     {
-      "id": "843",
-      "title": {
-        "zh": "Triage role users or higher can now archive pull requests",
-        "en": "Triage role users or higher can now archive pull requests"
-      },
-      "summary": {
-        "zh": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
-        "en": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Triage role users or higher can now archive pull requests",
-      "title_en": "Triage role users or higher can now archive pull requests",
-      "summary_zh": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
-      "summary_en": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
-      "title_text": "Triage role users or higher can now archive pull requests",
-      "summary_text": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-      "published_at": "2026-10-08T19:01:42.000Z",
-      "tags": [
-        "Improvement",
-        "collaboration tools"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "844",
       "title": {
         "zh": "0.162.0",
@@ -1134,34 +1314,6 @@
       "saved": false
     },
     {
-      "id": "847",
-      "title": {
-        "zh": "Screen readers can navigate timelines as lists",
-        "en": "Screen readers can navigate timelines as lists"
-      },
-      "summary": {
-        "zh": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog .",
-        "en": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Screen readers can navigate timelines as lists",
-      "title_en": "Screen readers can navigate timelines as lists",
-      "summary_zh": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog .",
-      "summary_en": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog .",
-      "title_text": "Screen readers can navigate timelines as lists",
-      "summary_text": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,… The post Screen readers can navigate timelines as lists appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "published_at": "2026-10-08T16:00:56.000Z",
-      "tags": [
-        "Improvement",
-        "ecosystem & accessibility",
-        "projects & issues"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "848",
       "title": {
         "zh": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -1182,33 +1334,6 @@
       "url": "https://openai.com/index/oracle",
       "published_at": "2026-10-08T16:00:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "849",
-      "title": {
-        "zh": "Draft pull requests count toward pull request limits",
-        "en": "Draft pull requests count toward pull request limits"
-      },
-      "summary": {
-        "zh": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count toward pull request limits appeared first on The GitHub Blog .",
-        "en": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count toward pull request limits appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Draft pull requests count toward pull request limits",
-      "title_en": "Draft pull requests count toward pull request limits",
-      "summary_zh": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count toward pull request limits appeared first on The GitHub Blog .",
-      "summary_en": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count toward pull request limits appeared first on The GitHub Blog .",
-      "title_text": "Draft pull requests count toward pull request limits",
-      "summary_text": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,… The post Draft pull requests count toward pull request limits appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "published_at": "2026-10-08T14:25:53.000Z",
-      "tags": [
-        "Improvement",
-        "collaboration tools"
-      ],
       "read_at": null,
       "saved": false
     },
@@ -1311,30 +1436,6 @@
       "saved": false
     },
     {
-      "id": "835",
-      "title": {
-        "zh": "0.162.0-alpha.18.1",
-        "en": "0.162.0-alpha.18.1"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.18.1",
-        "en": "Release 0.162.0-alpha.18.1"
-      },
-      "title_zh": "0.162.0-alpha.18.1",
-      "title_en": "0.162.0-alpha.18.1",
-      "summary_zh": "Release 0.162.0-alpha.18.1",
-      "summary_en": "Release 0.162.0-alpha.18.1",
-      "title_text": "0.162.0-alpha.18.1",
-      "summary_text": "Release 0.162.0-alpha.18.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.18.1",
-      "published_at": "2026-10-08T02:58:48.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "836",
       "title": {
         "zh": "0.162.0-alpha.20",
@@ -1354,30 +1455,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.20",
       "published_at": "2026-10-08T02:42:40.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "837",
-      "title": {
-        "zh": "rust-v0.162.0-alpha.19",
-        "en": "rust-v0.162.0-alpha.19"
-      },
-      "summary": {
-        "zh": "Release 0.162.0-alpha.19",
-        "en": "Release 0.162.0-alpha.19"
-      },
-      "title_zh": "rust-v0.162.0-alpha.19",
-      "title_en": "rust-v0.162.0-alpha.19",
-      "summary_zh": "Release 0.162.0-alpha.19",
-      "summary_en": "Release 0.162.0-alpha.19",
-      "title_text": "rust-v0.162.0-alpha.19",
-      "summary_text": "Release 0.162.0-alpha.19",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.19",
-      "published_at": "2026-10-08T00:13:21.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1573,33 +1650,6 @@
       "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
       "published_at": "2026-10-07T20:56:21.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "817",
-      "title": {
-        "zh": "Claude Haiku 5.5 in GitHub Copilot",
-        "en": "Claude Haiku 5.5 in GitHub Copilot"
-      },
-      "summary": {
-        "zh": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
-        "en": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Claude Haiku 5.5 in GitHub Copilot",
-      "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-      "summary_zh": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
-      "summary_en": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
-      "title_text": "Claude Haiku 5.5 in GitHub Copilot",
-      "summary_text": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "published_at": "2026-10-07T20:12:18.000Z",
-      "tags": [
-        "Release",
-        "copilot"
-      ],
       "read_at": null,
       "saved": false
     },
@@ -1920,56 +1970,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
       "published_at": "2026-10-07T00:16:45.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "827",
-      "title": {
-        "zh": "GPT-6 and Intelligent UI for everyone",
-        "en": "GPT-6 and Intelligent UI for everyone"
-      },
-      "summary": {
-        "zh": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-        "en": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-      },
-      "title_zh": "GPT-6 and Intelligent UI for everyone",
-      "title_en": "GPT-6 and Intelligent UI for everyone",
-      "summary_zh": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "summary_en": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "title_text": "GPT-6 and Intelligent UI for everyone",
-      "summary_text": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "published_at": "2026-10-07T00:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "828",
-      "title": {
-        "zh": "Microfrontends Routing is now free for Firewall-mitigated traffic",
-        "en": "Microfrontends Routing is now free for Firewall-mitigated traffic"
-      },
-      "summary": {
-        "zh": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall docume…",
-        "en": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall docume…"
-      },
-      "title_zh": "Microfrontends Routing is now free for Firewall-mitigated traffic",
-      "title_en": "Microfrontends Routing is now free for Firewall-mitigated traffic",
-      "summary_zh": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall docume…",
-      "summary_en": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall docume…",
-      "title_text": "Microfrontends Routing is now free for Firewall-mitigated traffic",
-      "summary_text": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall docume…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/microfrontends-routing-is-now-free-for-firewall-mitigated-traffic",
-      "published_at": "2026-10-07T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
