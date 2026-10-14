@@ -29,7 +29,6 @@
         "cli",
         "codex",
         "cordis",
-        "ctf",
         "decompiler",
         "developer-tools",
         "dsh",
@@ -41,14 +40,15 @@
         "model-context-protocol",
         "rea",
         "reverse-engineering",
-        "static-analysis"
+        "static-analysis",
+        "touhou"
       ],
-      "stars": 215224,
-      "stars_delta": 9937,
-      "forks": 53056,
-      "forks_delta": 3079,
+      "stars": 226573,
+      "stars_delta": 11349,
+      "forks": 56238,
+      "forks_delta": 3182,
       "html_url": "https://github.com/morluto/rea",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
         "zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
@@ -71,51 +71,6 @@
     },
     {
       "rank": 2,
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "topics": [
-        "3d-globe",
-        "cesium",
-        "flight-tracking",
-        "geospatial",
-        "geospatial-intelligence",
-        "gis",
-        "osint",
-        "photogrammetry",
-        "satellite-tracking",
-        "spatial-intelligence",
-        "webgl",
-        "worldview"
-      ],
-      "stars": 55709,
-      "stars_delta": 431,
-      "forks": 10872,
-      "forks_delta": 59,
-      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
-      "purpose": {
-        "zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-      },
-      "strengths": {
-        "zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-        "en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…"
-      },
-      "innovations": {
-        "zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-        "en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…"
-      },
-      "purpose_zh": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "purpose_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "strengths_zh": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-      "strengths_en": "🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands…",
-      "innovations_zh": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-      "innovations_en": "…· 25M+ across socials 🏆 Reached #1 on GitHub Trending, daily and weekly · August 2026 #8 Product of the Day · Hunted by Chris Messina, creator of the hashtag “pretty cool” — Brendan Eich, creator of JavaScript and co-founder of…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -140,12 +95,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 63924,
-      "stars_delta": 847,
-      "forks": 7107,
-      "forks_delta": 87,
+      "stars": 64894,
+      "stars_delta": 970,
+      "forks": 7192,
+      "forks_delta": 85,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -167,7 +122,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -193,12 +148,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 28414,
-      "stars_delta": 238,
-      "forks": 2000,
-      "forks_delta": 12,
+      "stars": 28705,
+      "stars_delta": 291,
+      "forks": 2017,
+      "forks_delta": 17,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -220,164 +175,275 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
+      "rank": 4,
+      "full_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
       "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
+        "bash",
+        "install",
+        "lts",
+        "node",
+        "node-js",
+        "nodejs",
+        "nvm",
+        "nvmrc",
+        "posix",
+        "posix-compliant",
+        "shell",
+        "version-manager",
+        "zsh"
       ],
-      "stars": 54484,
-      "stars_delta": 473,
-      "forks": 3448,
-      "forks_delta": 21,
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "stars": 95364,
+      "stars_delta": 45,
+      "forks": 10506,
+      "forks_delta": 0,
+      "html_url": "https://github.com/nvm-sh/nvm",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
-        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+        "zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
       },
       "strengths": {
-        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
+        "zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+        "en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…"
       },
       "innovations": {
-        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
+        "zh": "…ackages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Setting Custom Colors - P…",
+        "en": "…ackages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Setting Custom Colors - P…"
       },
-      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "purpose_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "purpose_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "strengths_zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+      "strengths_en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+      "innovations_zh": "…ackages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Setting Custom Colors - P…",
+      "innovations_en": "…ackages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Setting Custom Colors - P…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "stars": 48871,
+      "stars_delta": 146,
+      "forks": 4390,
+      "forks_delta": 0,
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
+      "purpose": {
+        "zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+      },
+      "strengths": {
+        "zh": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
+        "en": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…"
+      },
+      "innovations": {
+        "zh": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
+        "en": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…"
+      },
+      "purpose_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "purpose_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "strengths_zh": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
+      "strengths_en": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
+      "innovations_zh": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
+      "innovations_en": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 6,
-      "full_name": "vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "language": "TypeScript",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
       "topics": [],
-      "stars": 34668,
-      "stars_delta": 217,
-      "forks": 2956,
-      "forks_delta": 6,
-      "html_url": "https://github.com/vercel-labs/skills",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "stars": 52171,
+      "stars_delta": 94,
+      "forks": 4757,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
-        "zh": "The open agent skills tool - npx skills",
-        "en": "The open agent skills tool - npx skills"
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
       },
       "strengths": {
-        "zh": "skills The CLI for the open agent skills ecosystem. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent inte…",
-        "en": "skills The CLI for the open agent skills ecosystem. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent inte…"
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
       },
       "innovations": {
-        "zh": "…t unless --agent is provided. With --agent, it starts one supported agent interactively with the generated prompt. Source Formats Private Repositories Use the same command for public and private repositories. The CLI uses the auth…",
-        "en": "…t unless --agent is provided. With --agent, it starts one supported agent interactively with the generated prompt. Source Formats Private Repositories Use the same command for public and private repositories. The CLI uses the auth…"
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
       },
-      "purpose_zh": "The open agent skills tool - npx skills",
-      "purpose_en": "The open agent skills tool - npx skills",
-      "strengths_zh": "skills The CLI for the open agent skills ecosystem. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent inte…",
-      "strengths_en": "skills The CLI for the open agent skills ecosystem. Supports OpenCode, Claude Code, Codex, Cursor, and 75 more. Install a Skill Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent inte…",
-      "innovations_zh": "…t unless --agent is provided. With --agent, it starts one supported agent interactively with the generated prompt. Source Formats Private Repositories Use the same command for public and private repositories. The CLI uses the auth…",
-      "innovations_en": "…t unless --agent is provided. With --agent, it starts one supported agent interactively with the generated prompt. Source Formats Private Repositories Use the same command for public and private repositories. The CLI uses the auth…",
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
-      "full_name": "lyogavin/airllm",
-      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
+      "full_name": "ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
       "topics": [
-        "chinese-llm",
-        "chinese-nlp",
-        "finetune",
-        "generative-ai",
-        "instruct-gpt",
-        "instruction-set",
-        "llama",
-        "llm",
-        "lora",
-        "open-models",
-        "open-source",
-        "open-source-models",
-        "qlora"
+        "agent-evaluation",
+        "ai",
+        "ai-alignment",
+        "ai-evaluation",
+        "ai-governance",
+        "ai-safety",
+        "cli",
+        "diagnostic-tool",
+        "eu-ai-act",
+        "hallucination-detection",
+        "iso-42001",
+        "llm-evaluation",
+        "llm-security",
+        "nist-ai-rmf",
+        "owasp-llm",
+        "prompt-injection",
+        "python",
+        "responsible-ai",
+        "risk-assessment",
+        "risk-management"
       ],
-      "stars": 38444,
-      "stars_delta": 159,
-      "forks": 3931,
-      "forks_delta": 15,
-      "html_url": "https://github.com/lyogavin/airllm",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "stars": 26604,
+      "stars_delta": 2143,
+      "forks": 1474,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ifixai-ai/iFixAi",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
-        "zh": "AirLLM 70B inference with single 4GB GPU",
-        "en": "AirLLM 70B inference with single 4GB GPU"
+        "zh": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+        "en": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
       },
       "strengths": {
-        "zh": "Quickstart Configurations MacOS Example notebooks FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can eve…",
-        "en": "Quickstart Configurations MacOS Example notebooks FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can eve…"
+        "zh": "English · 简体中文 · 日本語 · 한국어 Catch your agent's mistakes and blind spots before the shit hits the fan. Quick start • Three ways to run • Test your agent • Scoring • Docs • Contributing --- What it is The existing Eval, Red-teaming,…",
+        "en": "English · 简体中文 · 日本語 · 한국어 Catch your agent's mistakes and blind spots before the shit hits the fan. Quick start • Three ways to run • Test your agent • Scoring • Docs • Contributing --- What it is The existing Eval, Red-teaming,…"
       },
       "innovations": {
-        "zh": "…rt training huge models on small VRAM: Qwen3.8-Flash-Next (125B) under 6GB. AI Agents Recommendation: Best AI Game Sprite Generator Best AI Facial Expression Editor Updates [2026/09] Training support: stream frozen weights one lay…",
-        "en": "…rt training huge models on small VRAM: Qwen3.8-Flash-Next (125B) under 6GB. AI Agents Recommendation: Best AI Game Sprite Generator Best AI Facial Expression Editor Updates [2026/09] Training support: stream frozen weights one lay…"
+        "zh": "…ion. Is the agent doing the job it is supposed to do based on the business KPIs and Organizational Structure? iFixAi gives you this answer in less than 120 seconds by striking the right balance between AI-Red Teaming and Operation…",
+        "en": "…ion. Is the agent doing the job it is supposed to do based on the business KPIs and Organizational Structure? iFixAi gives you this answer in less than 120 seconds by striking the right balance between AI-Red Teaming and Operation…"
       },
-      "purpose_zh": "AirLLM 70B inference with single 4GB GPU",
-      "purpose_en": "AirLLM 70B inference with single 4GB GPU",
-      "strengths_zh": "Quickstart Configurations MacOS Example notebooks FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can eve…",
-      "strengths_en": "Quickstart Configurations MacOS Example notebooks FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can eve…",
-      "innovations_zh": "…rt training huge models on small VRAM: Qwen3.8-Flash-Next (125B) under 6GB. AI Agents Recommendation: Best AI Game Sprite Generator Best AI Facial Expression Editor Updates [2026/09] Training support: stream frozen weights one lay…",
-      "innovations_en": "…rt training huge models on small VRAM: Qwen3.8-Flash-Next (125B) under 6GB. AI Agents Recommendation: Best AI Game Sprite Generator Best AI Facial Expression Editor Updates [2026/09] Training support: stream frozen weights one lay…",
+      "purpose_zh": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "purpose_en": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "strengths_zh": "English · 简体中文 · 日本語 · 한국어 Catch your agent's mistakes and blind spots before the shit hits the fan. Quick start • Three ways to run • Test your agent • Scoring • Docs • Contributing --- What it is The existing Eval, Red-teaming,…",
+      "strengths_en": "English · 简体中文 · 日本語 · 한국어 Catch your agent's mistakes and blind spots before the shit hits the fan. Quick start • Three ways to run • Test your agent • Scoring • Docs • Contributing --- What it is The existing Eval, Red-teaming,…",
+      "innovations_zh": "…ion. Is the agent doing the job it is supposed to do based on the business KPIs and Organizational Structure? iFixAi gives you this answer in less than 120 seconds by striking the right balance between AI-Red Teaming and Operation…",
+      "innovations_en": "…ion. Is the agent doing the job it is supposed to do based on the business KPIs and Organizational Structure? iFixAi gives you this answer in less than 120 seconds by striking the right balance between AI-Red Teaming and Operation…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
+      "full_name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
       "topics": [
-        "3d-graphics",
-        "ai",
-        "aivideo",
-        "filmmaking",
-        "imagegeneration"
+        "ai-agents",
+        "ai-security-tool",
+        "anthropic",
+        "autonomous-agents",
+        "golang",
+        "gpt",
+        "graphql",
+        "multi-agent-system",
+        "offensive-security",
+        "open-source",
+        "openai",
+        "penetration-testing",
+        "penetration-testing-tools",
+        "react",
+        "security-automation",
+        "security-testing",
+        "security-tools",
+        "self-hosted"
       ],
-      "stars": 26222,
-      "stars_delta": 728,
-      "forks": 4106,
-      "forks_delta": 97,
-      "html_url": "https://github.com/storytold/artcraft",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "stars": 28707,
+      "stars_delta": 1819,
+      "forks": 4320,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vxcontrol/pentagi",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
-        "zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+        "zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
       },
       "strengths": {
-        "zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-        "en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…"
+        "zh": "PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentA…",
+        "en": "PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentA…"
       },
       "innovations": {
-        "zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
-        "en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…"
+        "zh": "…PentAGI After Login - API Access - LLM Provider Configuration - Azure OpenAI - Ollama - OpenAI - Anthropic - Google AI (Gemini) - AWS Bedrock - DeepSeek - GLM - Kimi - Qwen - MiniMax - Mistral - xAI (Grok) - Advanced Setup - Lang…",
+        "en": "…PentAGI After Login - API Access - LLM Provider Configuration - Azure OpenAI - Ollama - OpenAI - Anthropic - Google AI (Gemini) - AWS Bedrock - DeepSeek - GLM - Kimi - Qwen - MiniMax - Mistral - xAI (Grok) - Advanced Setup - Lang…"
       },
-      "purpose_zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "purpose_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "strengths_zh": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-      "strengths_en": "ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the ID…",
-      "innovations_zh": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
-      "innovations_en": "…for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it a…",
+      "purpose_zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "purpose_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "strengths_zh": "PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentA…",
+      "strengths_en": "PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentA…",
+      "innovations_zh": "…PentAGI After Login - API Access - LLM Provider Configuration - Azure OpenAI - Ollama - OpenAI - Anthropic - Google AI (Gemini) - AWS Bedrock - DeepSeek - GLM - Kimi - Qwen - MiniMax - Mistral - xAI (Grok) - Advanced Setup - Lang…",
+      "innovations_en": "…PentAGI After Login - API Access - LLM Provider Configuration - Azure OpenAI - Ollama - OpenAI - Anthropic - Google AI (Gemini) - AWS Bedrock - DeepSeek - GLM - Kimi - Qwen - MiniMax - Mistral - xAI (Grok) - Advanced Setup - Lang…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
+      "full_name": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "language",
+        "rust"
+      ],
+      "stars": 119988,
+      "stars_delta": 205,
+      "forks": 18644,
+      "forks_delta": 0,
+      "html_url": "https://github.com/rust-lang/rust",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
+      "purpose": {
+        "zh": "Empowering everyone to build reliable and efficient software.",
+        "en": "Empowering everyone to build reliable and efficient software."
+      },
+      "strengths": {
+        "zh": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
+        "en": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…"
+      },
+      "innovations": {
+        "zh": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
+        "en": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…"
+      },
+      "purpose_zh": "Empowering everyone to build reliable and efficient software.",
+      "purpose_en": "Empowering everyone to build reliable and efficient software.",
+      "strengths_zh": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
+      "strengths_en": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
+      "innovations_zh": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
+      "innovations_en": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "xtool-org/xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
@@ -389,12 +455,12 @@
         "windows",
         "xcode"
       ],
-      "stars": 9659,
-      "stars_delta": 396,
-      "forks": 410,
-      "forks_delta": 17,
+      "stars": 10061,
+      "stars_delta": 402,
+      "forks": 431,
+      "forks_delta": 21,
       "html_url": "https://github.com/xtool-org/xtool",
-      "snapshot_at": "2026-10-14T05:03:03.590Z",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
       "purpose": {
         "zh": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
         "en": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
@@ -413,6 +479,74 @@
       "strengths_en": "xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. Overview xtool is a cross-platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. ✅ Buil…",
       "innovations_zh": "…tool - Installation (Linux/Windows) - Installation (macOS) 2. Create and run your first xtool-powered app by following the tutorial! Examples Screenshot Command line interface Library xtool includes a library that you can use to i…",
       "innovations_en": "…tool - Installation (Linux/Windows) - Installation (macOS) 2. Create and run your first xtool-powered app by following the tutorial! Examples Screenshot Command line interface Library xtool includes a library that you can use to i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "topics": [],
+      "stars": 20023,
+      "stars_delta": 132,
+      "forks": 1544,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ntdevlabs/tiny11builder",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
+      "purpose": {
+        "zh": "WinUI app for building smaller, customized Windows 11 images.",
+        "en": "WinUI app for building smaller, customized Windows 11 images."
+      },
+      "strengths": {
+        "zh": "Tiny11 Builder Build a smaller Windows 11 ISO with a native WinUI app. Download an official Windows image or use your own, choose what to remove, and create your ISO. Download Get the latest version Choose x64 for Intel/AMD PCs or…",
+        "en": "Tiny11 Builder Build a smaller Windows 11 ISO with a native WinUI app. Download an official Windows image or use your own, choose what to remove, and create your ISO. Download Get the latest version Choose x64 for Intel/AMD PCs or…"
+      },
+      "innovations": {
+        "zh": "…es bundled apps and unwanted features while keeping updates, Defender and recovery. Tiny11 Core Trims further by removing servicing and recovery support and disabling Defender. Custom Choose individual apps, components, features a…",
+        "en": "…es bundled apps and unwanted features while keeping updates, Defender and recovery. Tiny11 Core Trims further by removing servicing and recovery support and disabling Defender. Custom Choose individual apps, components, features a…"
+      },
+      "purpose_zh": "WinUI app for building smaller, customized Windows 11 images.",
+      "purpose_en": "WinUI app for building smaller, customized Windows 11 images.",
+      "strengths_zh": "Tiny11 Builder Build a smaller Windows 11 ISO with a native WinUI app. Download an official Windows image or use your own, choose what to remove, and create your ISO. Download Get the latest version Choose x64 for Intel/AMD PCs or…",
+      "strengths_en": "Tiny11 Builder Build a smaller Windows 11 ISO with a native WinUI app. Download an official Windows image or use your own, choose what to remove, and create your ISO. Download Get the latest version Choose x64 for Intel/AMD PCs or…",
+      "innovations_zh": "…es bundled apps and unwanted features while keeping updates, Defender and recovery. Tiny11 Core Trims further by removing servicing and recovery support and disabling Defender. Custom Choose individual apps, components, features a…",
+      "innovations_en": "…es bundled apps and unwanted features while keeping updates, Defender and recovery. Tiny11 Core Trims further by removing servicing and recovery support and disabling Defender. Custom Choose individual apps, components, features a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "stars": 86804,
+      "stars_delta": 1550,
+      "forks": 9691,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "snapshot_at": "2026-10-14T12:05:29.921Z",
+      "purpose": {
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "strengths": {
+        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
+      },
+      "innovations": {
+        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
+      },
+      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
       "insights_source": "readme-excerpt"
     }
   ]

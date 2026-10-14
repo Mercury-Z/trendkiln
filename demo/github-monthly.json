@@ -18,45 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "stars": 46971,
-      "stars_delta": 78,
-      "forks": 3411,
-      "forks_delta": 8,
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
-      },
-      "strengths": {
-        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
-      },
-      "innovations": {
-        "zh": "【创新点】OpenCodeReview",
-        "en": "OpenCodeReview"
-      },
-      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
-      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
-      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
-      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
-      "innovations_zh": "【创新点】OpenCodeReview",
-      "innovations_en": "OpenCodeReview",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 2,
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
@@ -82,12 +43,12 @@
         "project-management",
         "workflow-automation"
       ],
-      "stars": 101664,
-      "stars_delta": 129,
-      "forks": 17049,
-      "forks_delta": 14,
+      "stars": 101860,
+      "stars_delta": 196,
+      "forks": 17069,
+      "forks_delta": 20,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -109,17 +70,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "full_name": "anthropics/financial-services",
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 39738,
-      "stars_delta": 23,
-      "forks": 5596,
-      "forks_delta": 1,
+      "stars": 39790,
+      "stars_delta": 52,
+      "forks": 5602,
+      "forks_delta": 6,
       "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -141,7 +102,83 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 3,
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "stars": 47092,
+      "stars_delta": 121,
+      "forks": 3424,
+      "forks_delta": 13,
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+        "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…"
+      },
+      "strengths": {
+        "zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+        "en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…"
+      },
+      "innovations": {
+        "zh": "【创新点】OpenCodeReview",
+        "en": "OpenCodeReview"
+      },
+      "purpose_zh": "alibaba/open-code-review：快速、高效、经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent ，精确的行级注释，内置多语言规则集（ NPE、线程安全、XSS、SQL注入） ， OpenAI & …",
+      "purpose_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &…",
+      "strengths_zh": "使用⟦Go构建⟧；焦点： agent、agent-skills、code-review、code-review-assistant、harness、repository-level-context ； OpenCodeReview ； Open Code Review是一个基于AI的代码审查CLI工具。它起源于阿里巴巴集团的内部官方AI代码…;它读取Git差异，⟧通过具有工具使用功能的代理将更改的文件发送到可配置的⟦LLM ，并生成…",
+      "strengths_en": "Built with Go; Focus: agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context; OpenCodeReview; Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code…; It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates…",
+      "innovations_zh": "【创新点】OpenCodeReview",
+      "innovations_en": "OpenCodeReview",
+      "insights_source": "readme"
+    },
+    {
       "rank": 4,
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai-memory",
+        "memory"
+      ],
+      "stars": 49488,
+      "stars_delta": 140,
+      "forks": 6050,
+      "forks_delta": 12,
+      "html_url": "https://github.com/vectorize-io/hindsight",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "Hindsight: Agent Memory That Learns",
+        "en": "Hindsight: Agent Memory That Learns"
+      },
+      "strengths": {
+        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
+      },
+      "innovations": {
+        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
+      },
+      "purpose_zh": "Hindsight: Agent Memory That Learns",
+      "purpose_en": "Hindsight: Agent Memory That Learns",
+      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
+      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -166,12 +203,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 63924,
-      "stars_delta": 847,
-      "forks": 7107,
-      "forks_delta": 87,
+      "stars": 64894,
+      "stars_delta": 970,
+      "forks": 7192,
+      "forks_delta": 85,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -193,117 +230,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai-memory",
-        "memory"
-      ],
-      "stars": 49348,
-      "stars_delta": 102,
-      "forks": 6038,
-      "forks_delta": 5,
-      "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "Hindsight: Agent Memory That Learns",
-        "en": "Hindsight: Agent Memory That Learns"
-      },
-      "strengths": {
-        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
-      },
-      "innovations": {
-        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
-      },
-      "purpose_zh": "Hindsight: Agent Memory That Learns",
-      "purpose_en": "Hindsight: Agent Memory That Learns",
-      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 6,
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "stars": 278704,
-      "stars_delta": 140,
-      "forks": 41511,
-      "forks_delta": 17,
-      "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-      },
-      "strengths": {
-        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
-      },
-      "innovations": {
-        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
-      },
-      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 29569,
-      "stars_delta": 35,
-      "forks": 3355,
-      "forks_delta": 4,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -320,12 +247,12 @@
         "typescript",
         "video"
       ],
-      "stars": 62978,
-      "stars_delta": 258,
-      "forks": 5650,
-      "forks_delta": 23,
+      "stars": 63261,
+      "stars_delta": 283,
+      "forks": 5672,
+      "forks_delta": 22,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -347,17 +274,154 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 7,
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "stars": 278913,
+      "stars_delta": 209,
+      "forks": 41535,
+      "forks_delta": 24,
+      "html_url": "https://github.com/affaan-m/ECC",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+      },
+      "strengths": {
+        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
+      },
+      "innovations": {
+        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
+      },
+      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 29614,
+      "stars_delta": 45,
+      "forks": 3361,
+      "forks_delta": 6,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 9,
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "topics": [],
+      "stars": 5116,
+      "stars_delta": 38,
+      "forks": 566,
+      "forks_delta": 0,
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "Agent Substrate: the core system",
+        "en": "Agent Substrate: the core system"
+      },
+      "strengths": {
+        "zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+        "en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…"
+      },
+      "innovations": {
+        "zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+        "en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…"
+      },
+      "purpose_zh": "Agent Substrate: the core system",
+      "purpose_en": "Agent Substrate: the core system",
+      "strengths_zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "strengths_en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
+      "innovations_zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "innovations_en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 16178,
+      "stars_delta": 39,
+      "forks": 1782,
+      "forks_delta": 2,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 150687,
-      "stars_delta": 39,
-      "forks": 26490,
-      "forks_delta": 48,
+      "stars": 150753,
+      "stars_delta": 66,
+      "forks": 26524,
+      "forks_delta": 34,
       "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
@@ -379,7 +443,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
@@ -392,12 +456,12 @@
         "local-first",
         "long-term-memory"
       ],
-      "stars": 9214,
-      "stars_delta": 72,
-      "forks": 1131,
-      "forks_delta": 8,
+      "stars": 9280,
+      "stars_delta": 66,
+      "forks": 1143,
+      "forks_delta": 12,
       "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -419,7 +483,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "full_name": "Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
@@ -445,12 +509,12 @@
         "vector-search",
         "wiki"
       ],
-      "stars": 33834,
-      "stars_delta": 75,
-      "forks": 4497,
-      "forks_delta": 7,
+      "stars": 33911,
+      "stars_delta": 77,
+      "forks": 4509,
+      "forks_delta": 12,
       "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
         "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -472,120 +536,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 12,
-      "full_name": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "topics": [],
-      "stars": 5078,
-      "stars_delta": 30,
-      "forks": 566,
-      "forks_delta": 3,
-      "html_url": "https://github.com/agent-substrate/substrate",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "Agent Substrate: the core system",
-        "en": "Agent Substrate: the core system"
-      },
-      "strengths": {
-        "zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-        "en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…"
-      },
-      "innovations": {
-        "zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-        "en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…"
-      },
-      "purpose_zh": "Agent Substrate: the core system",
-      "purpose_en": "Agent Substrate: the core system",
-      "strengths_zh": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-      "strengths_en": "Agent Substrate What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…",
-      "innovations_zh": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-      "innovations_en": "…It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 16139,
-      "stars_delta": 33,
-      "forks": 1780,
-      "forks_delta": 4,
-      "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
-      },
-      "strengths": {
-        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
-      },
-      "innovations": {
-        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
-      },
-      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 14,
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "stars": 106307,
-      "stars_delta": 127,
-      "forks": 11081,
-      "forks_delta": 11,
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
-      },
-      "strengths": {
-        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
-      },
-      "innovations": {
-        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
-      },
-      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
-      "purpose_en": "Production-grade engineering skills for AI coding agents.",
-      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
       "full_name": "tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 34811,
-      "stars_delta": 135,
-      "forks": 4737,
-      "forks_delta": 13,
+      "stars": 34991,
+      "stars_delta": 180,
+      "forks": 4758,
+      "forks_delta": 21,
       "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
@@ -607,58 +568,46 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 16,
-      "full_name": "trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "Rust",
+      "rank": 15,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
       "topics": [
-        "agent",
-        "ai-agent",
-        "apple",
-        "computer-use",
-        "computer-use-agent",
-        "containerization",
-        "cua",
-        "desktop-automation",
-        "hacktoberfest",
-        "lume",
-        "macos",
-        "manus",
-        "operator",
-        "swift",
-        "virtualization",
-        "virtualization-framework",
-        "windows",
-        "windows-sandbox"
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
       ],
-      "stars": 29654,
-      "stars_delta": 27,
-      "forks": 2121,
+      "stars": 106463,
+      "stars_delta": 156,
+      "forks": 11085,
       "forks_delta": 4,
-      "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
-        "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
       },
       "strengths": {
-        "zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-        "en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…"
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
       },
       "innovations": {
-        "zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-        "en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…"
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
       },
-      "purpose_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "purpose_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "strengths_zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-      "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-      "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-      "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -684,12 +633,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 28414,
-      "stars_delta": 238,
-      "forks": 2000,
-      "forks_delta": 12,
+      "stars": 28705,
+      "stars_delta": 291,
+      "forks": 2017,
+      "forks_delta": 17,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -711,39 +660,58 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 18,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 11254,
-      "stars_delta": 37,
-      "forks": 1093,
+      "rank": 17,
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
+      ],
+      "stars": 29696,
+      "stars_delta": 42,
+      "forks": 2126,
       "forks_delta": 5,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "html_url": "https://github.com/trycua/cua",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
+        "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
       },
       "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+        "en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…"
       },
       "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+        "en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…"
       },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
+      "purpose_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "purpose_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "strengths_zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+      "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+      "insights_source": "readme-excerpt"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
@@ -752,12 +720,12 @@
         "reverse-engineering",
         "software-analysis"
       ],
-      "stars": 86508,
-      "stars_delta": 235,
-      "forks": 9652,
-      "forks_delta": 48,
+      "stars": 86804,
+      "stars_delta": 296,
+      "forks": 9691,
+      "forks_delta": 39,
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Ghidra is a software reverse engineering (SRE) framework",
         "en": "Ghidra is a software reverse engineering (SRE) framework"
@@ -779,39 +747,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 20,
-      "full_name": "JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
+      "rank": 19,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
       "topics": [],
-      "stars": 41790,
-      "stars_delta": 46,
-      "forks": 4623,
-      "forks_delta": 5,
-      "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "stars": 11304,
+      "stars_delta": 50,
+      "forks": 1103,
+      "forks_delta": 10,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
-        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
       },
       "strengths": {
-        "zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treatin…",
-        "en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treatin…"
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
       "innovations": {
-        "zh": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…",
-        "en": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…"
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
-      "purpose_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "strengths_zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treatin…",
-      "strengths_en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treatin…",
-      "innovations_zh": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…",
-      "innovations_en": "…(975B), Kimi K3 (2.8T), DeepSeek V4 Flash (284B), DeepSeek V4.1 Flash (552B, with vision), Qwen3.8-Flash-Next (125B + 51B n-gram), Qwen3.6 (35B-A3B) and OLMoE (7B) — one C file each, the same coli chat / coli serve / coli web fro…",
-      "insights_source": "readme-excerpt"
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -837,12 +805,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 68760,
-      "stars_delta": 116,
-      "forks": 12038,
-      "forks_delta": 19,
+      "stars": 68905,
+      "stars_delta": 145,
+      "forks": 12069,
+      "forks_delta": 31,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
         "en": "Learn AI Engineering! Learn it. Build it. Ship it for others."
@@ -864,45 +832,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 22,
-      "full_name": "google/artemis",
-      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "android",
-        "google",
-        "test-automation",
-        "testing"
-      ],
-      "stars": 11594,
-      "stars_delta": 62,
-      "forks": 1189,
-      "forks_delta": 4,
-      "html_url": "https://github.com/google/artemis",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
-      "purpose": {
-        "zh": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-        "en": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark."
-      },
-      "strengths": {
-        "zh": "Let AI assistants and test suites use real phones like a human. English • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs • Benchmarks • Discord Community Live Demo: Setup driving routes and calculate total durations in Goog…",
-        "en": "Let AI assistants and test suites use real phones like a human. English • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs • Benchmarks • Discord Community Live Demo: Setup driving routes and calculate total durations in Goog…"
-      },
-      "innovations": {
-        "zh": "…structions. Multimodal Targeting: Uses element indices when available, with coordinate and visual locating fallbacks for custom interfaces. IDE Diagnostics: Model Context Protocol (MCP) integration lets Antigravity, Claude Code, a…",
-        "en": "…structions. Multimodal Targeting: Uses element indices when available, with coordinate and visual locating fallbacks for custom interfaces. IDE Diagnostics: Model Context Protocol (MCP) integration lets Antigravity, Claude Code, a…"
-      },
-      "purpose_zh": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-      "purpose_en": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-      "strengths_zh": "Let AI assistants and test suites use real phones like a human. English • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs • Benchmarks • Discord Community Live Demo: Setup driving routes and calculate total durations in Goog…",
-      "strengths_en": "Let AI assistants and test suites use real phones like a human. English • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs • Benchmarks • Discord Community Live Demo: Setup driving routes and calculate total durations in Goog…",
-      "innovations_zh": "…structions. Multimodal Targeting: Uses element indices when available, with coordinate and visual locating fallbacks for custom interfaces. IDE Diagnostics: Model Context Protocol (MCP) integration lets Antigravity, Claude Code, a…",
-      "innovations_en": "…structions. Multimodal Targeting: Uses element indices when available, with coordinate and visual locating fallbacks for custom interfaces. IDE Diagnostics: Model Context Protocol (MCP) integration lets Antigravity, Claude Code, a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "full_name": "longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
@@ -912,12 +842,12 @@
         "rust",
         "uikit"
       ],
-      "stars": 17245,
-      "stars_delta": 65,
-      "forks": 1057,
-      "forks_delta": 2,
+      "stars": 17337,
+      "stars_delta": 92,
+      "forks": 1062,
+      "forks_delta": 5,
       "html_url": "https://github.com/longbridge/gpui-kit",
-      "snapshot_at": "2026-10-14T05:03:07.790Z",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
       "purpose": {
         "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
         "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
@@ -936,6 +866,59 @@
       "strengths_en": "GPUI Kit English 简体中文 Build fantastic, high-performance desktop apps with Rust and GPUI. GPUI Kit is a comprehensive Rust desktop application framework. It combines a production-ready UI system with application-grade data, layout,…",
       "innovations_zh": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
       "innovations_en": "…support, AccessKit accessibility, UI integration testing, and an optional JavaScript extension runtime. Documentation: gpui-kit pins the matching GPUI release and re-exports GPUI, base, component, and assets, so a Rust applicatio…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 22,
+      "full_name": "Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "bubbletea",
+        "charm",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "go",
+        "golang",
+        "multiplexer",
+        "pty",
+        "ssh",
+        "terminal",
+        "terminal-emulator",
+        "terminal-multiplexer",
+        "tiling-window-manager",
+        "tmux-alternative",
+        "tui",
+        "window-manager"
+      ],
+      "stars": 5270,
+      "stars_delta": 1659,
+      "forks": 246,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Gaurav-Gosain/tuios",
+      "snapshot_at": "2026-10-14T12:05:37.460Z",
+      "purpose": {
+        "zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+        "en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent."
+      },
+      "strengths": {
+        "zh": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
+        "en": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…"
+      },
+      "innovations": {
+        "zh": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
+        "en": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…"
+      },
+      "purpose_zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "purpose_en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "strengths_zh": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
+      "strengths_en": "TUIOS: Terminal UI Operating System TUIOS is a modern terminal multiplexer and window manager built with Go. It provides a vim-like modal interface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol supp…",
+      "innovations_zh": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
+      "innovations_en": "…in your panes report their state and message each other. Built on the Charm stack (Bubble Tea v2, Lipgloss v2), TUIOS features event-driven rendering for near-zero idle CPU usage, flicker-free kitty image passthrough, and comprehe…",
       "insights_source": "readme-excerpt"
     }
   ]

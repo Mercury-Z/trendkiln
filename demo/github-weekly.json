@@ -18,6 +18,59 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "touhou"
+      ],
+      "stars": 226577,
+      "stars_delta": 183758,
+      "forks": 56238,
+      "forks_delta": 0,
+      "html_url": "https://github.com/morluto/rea",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
+      "purpose": {
+        "zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      },
+      "strengths": {
+        "zh": "English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Qu…",
+        "en": "English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Qu…"
+      },
+      "innovations": {
+        "zh": "…how and Tell --- See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a v…",
+        "en": "…how and Tell --- See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a v…"
+      },
+      "purpose_zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "purpose_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "strengths_zh": "English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Qu…",
+      "strengths_en": "English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Qu…",
+      "innovations_zh": "…how and Tell --- See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a v…",
+      "innovations_en": "…how and Tell --- See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a v…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
       "full_name": "boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
@@ -30,12 +83,12 @@
         "spir-v",
         "vulkan"
       ],
-      "stars": 35668,
-      "stars_delta": 459,
-      "forks": 3098,
-      "forks_delta": 48,
+      "stars": 36219,
+      "stars_delta": 551,
+      "forks": 3163,
+      "forks_delta": 65,
       "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
         "en": "Tool for automatic PS5 executables porting to Linux and Windows"
@@ -57,17 +110,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "full_name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 289963,
-      "stars_delta": 390,
-      "forks": 24337,
-      "forks_delta": 33,
+      "stars": 290507,
+      "stars_delta": 544,
+      "forks": 24384,
+      "forks_delta": 47,
       "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Skills for Real Engineers. Straight from my .agents directory.",
         "en": "Skills for Real Engineers. Straight from my .agents directory."
@@ -89,79 +142,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "language": "TypeScript",
-      "topics": [
-        "e2e",
-        "e2e-testing",
-        "end-to-end-testing",
-        "mobile",
-        "mobile-testing",
-        "playwright",
-        "web"
-      ],
-      "stars": 10193,
-      "stars_delta": 120,
-      "forks": 492,
-      "forks_delta": 5,
-      "html_url": "https://github.com/tester-army/e2e",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
-      "purpose": {
-        "zh": "Next generation e2e testing framework for web and mobile apps.",
-        "en": "Next generation e2e testing framework for web and mobile apps."
-      },
-      "strengths": {
-        "zh": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
-        "en": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…"
-      },
-      "innovations": {
-        "zh": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
-        "en": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…"
-      },
-      "purpose_zh": "Next generation e2e testing framework for web and mobile apps.",
-      "purpose_en": "Next generation e2e testing framework for web and mobile apps.",
-      "strengths_zh": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
-      "strengths_en": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
-      "innovations_zh": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
-      "innovations_en": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 4,
-      "full_name": "EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "topics": [],
-      "stars": 8492,
-      "stars_delta": 12,
-      "forks": 413,
-      "forks_delta": 1,
-      "html_url": "https://github.com/EpicGames/raddebugger",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
-      "purpose": {
-        "zh": "A native, user-mode, multi-process, graphical debugger.",
-        "en": "A native, user-mode, multi-process, graphical debugger."
-      },
-      "strengths": {
-        "zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-        "en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…"
-      },
-      "innovations": {
-        "zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-        "en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…"
-      },
-      "purpose_zh": "A native, user-mode, multi-process, graphical debugger.",
-      "purpose_en": "A native, user-mode, multi-process, graphical debugger.",
-      "strengths_zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "strengths_en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
-      "innovations_zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "innovations_en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -178,12 +159,12 @@
         "typescript",
         "video"
       ],
-      "stars": 62978,
-      "stars_delta": 258,
-      "forks": 5650,
-      "forks_delta": 23,
+      "stars": 63261,
+      "stars_delta": 283,
+      "forks": 5672,
+      "forks_delta": 22,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -205,7 +186,79 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 5,
+      "full_name": "EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "topics": [],
+      "stars": 8505,
+      "stars_delta": 13,
+      "forks": 414,
+      "forks_delta": 1,
+      "html_url": "https://github.com/EpicGames/raddebugger",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
+      "purpose": {
+        "zh": "A native, user-mode, multi-process, graphical debugger.",
+        "en": "A native, user-mode, multi-process, graphical debugger."
+      },
+      "strengths": {
+        "zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+        "en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…"
+      },
+      "innovations": {
+        "zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+        "en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…"
+      },
+      "purpose_zh": "A native, user-mode, multi-process, graphical debugger.",
+      "purpose_en": "A native, user-mode, multi-process, graphical debugger.",
+      "strengths_zh": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+      "strengths_en": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and…",
+      "innovations_zh": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+      "innovations_en": "…RAD Debugger is a native, user-mode, multi-process, graphical debugger. It currently only supports local-machine Windows x64 debugging with PDBs, with plans to expand and port in the future. In the future we'll expand to also sup…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 6,
+      "full_name": "tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "topics": [
+        "e2e",
+        "e2e-testing",
+        "end-to-end-testing",
+        "mobile",
+        "mobile-testing",
+        "playwright",
+        "web"
+      ],
+      "stars": 10349,
+      "stars_delta": 156,
+      "forks": 501,
+      "forks_delta": 9,
+      "html_url": "https://github.com/tester-army/e2e",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
+      "purpose": {
+        "zh": "Next generation e2e testing framework for web and mobile apps.",
+        "en": "Next generation e2e testing framework for web and mobile apps."
+      },
+      "strengths": {
+        "zh": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
+        "en": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…"
+      },
+      "innovations": {
+        "zh": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
+        "en": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…"
+      },
+      "purpose_zh": "Next generation e2e testing framework for web and mobile apps.",
+      "purpose_en": "Next generation e2e testing framework for web and mobile apps.",
+      "strengths_zh": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
+      "strengths_en": "e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. An agent step that a…",
+      "innovations_zh": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
+      "innovations_en": "…own subscription, API key, or local model. Quick start init asks for an engine, web or mobile, and a model provider, then writes a config and an example test. The quickstart covers the rest. To see a finished setup in your stack,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -231,12 +284,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 100508,
-      "stars_delta": 88,
-      "forks": 8806,
-      "forks_delta": 7,
+      "stars": 100608,
+      "stars_delta": 100,
+      "forks": 8815,
+      "forks_delta": 9,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -258,39 +311,80 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 11254,
-      "stars_delta": 37,
-      "forks": 1093,
-      "forks_delta": 5,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "rank": 8,
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "stars": 54988,
+      "stars_delta": 504,
+      "forks": 3466,
+      "forks_delta": 18,
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
+        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
       },
       "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
       },
       "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
       },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
+      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
+      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "",
+      "topics": [],
+      "stars": 5895,
+      "stars_delta": 911,
+      "forks": 217,
+      "forks_delta": 0,
+      "html_url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
+      "purpose": {
+        "zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "en": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+      },
+      "strengths": {
+        "zh": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+        "en": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…"
+      },
+      "innovations": {
+        "zh": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
+        "en": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…"
+      },
+      "purpose_zh": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "purpose_en": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "strengths_zh": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+      "strengths_en": "SwiftUI Agent Skill for AI Coding Assistants An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigatio…",
+      "innovations_zh": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
+      "innovations_en": "…cy Pro - Swift Testing Pro Find more agent skills for Swift and Apple platform development at Swift Agent Skills. The skill builds upon my existing AGENTS.md file, meaning that you can bring years of knowledge and practical experi…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
@@ -305,12 +399,12 @@
         "stp",
         "text-to-cad"
       ],
-      "stars": 20058,
-      "stars_delta": 104,
-      "forks": 1971,
-      "forks_delta": 11,
+      "stars": 20184,
+      "stars_delta": 126,
+      "forks": 1986,
+      "forks_delta": 15,
       "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Give your agent CAD superpowers.",
         "en": "Give your agent CAD superpowers."
@@ -332,7 +426,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "full_name": "flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
@@ -357,12 +451,12 @@
         "web-framework",
         "windows"
       ],
-      "stars": 180126,
-      "stars_delta": 27,
-      "forks": 34047,
-      "forks_delta": 55,
+      "stars": 180171,
+      "stars_delta": 45,
+      "forks": 34080,
+      "forks_delta": 33,
       "html_url": "https://github.com/flutter/flutter",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
         "zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
         "en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
@@ -384,44 +478,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
+      "rank": 12,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
       "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
       ],
-      "stars": 54484,
-      "stars_delta": 473,
-      "forks": 3448,
-      "forks_delta": 21,
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-10-14T05:03:05.680Z",
+      "stars": 86804,
+      "stars_delta": 4986,
+      "forks": 9691,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "snapshot_at": "2026-10-14T12:05:34.926Z",
       "purpose": {
-        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
       },
       "strengths": {
-        "zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-        "en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…"
+        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
       },
       "innovations": {
-        "zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-        "en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…"
+        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
       },
-      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "strengths_zh": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "strengths_en": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more l…",
-      "innovations_zh": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
-      "innovations_en": "…Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boun…",
+      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
       "insights_source": "readme-excerpt"
     }
   ]
