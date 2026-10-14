@@ -26,6 +26,106 @@
       "saved": false
     },
     {
+      "id": "920",
+      "title": {
+        "zh": "0.163.0-alpha.11",
+        "en": "0.163.0-alpha.11"
+      },
+      "summary": {
+        "zh": "Release 0.163.0-alpha.11",
+        "en": "Release 0.163.0-alpha.11"
+      },
+      "title_zh": "0.163.0-alpha.11",
+      "title_en": "0.163.0-alpha.11",
+      "summary_zh": "Release 0.163.0-alpha.11",
+      "summary_en": "Release 0.163.0-alpha.11",
+      "title_text": "0.163.0-alpha.11",
+      "summary_text": "Release 0.163.0-alpha.11",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11",
+      "published_at": "2026-10-14T03:34:27.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "921",
+      "title": {
+        "zh": "GitHub App improvements for least privilege and management",
+        "en": "GitHub App improvements for least privilege and management"
+      },
+      "summary": {
+        "zh": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for… The post GitHub App improvements for least privilege and management appeared first on The GitHub Blog .",
+        "en": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for… The post GitHub App improvements for least privilege and management appeared first on The GitHub Blog ."
+      },
+      "title_zh": "GitHub App improvements for least privilege and management",
+      "title_en": "GitHub App improvements for least privilege and management",
+      "summary_zh": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for… The post GitHub App improvements for least privilege and management appeared first on The GitHub Blog .",
+      "summary_en": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for… The post GitHub App improvements for least privilege and management appeared first on The GitHub Blog .",
+      "title_text": "GitHub App improvements for least privilege and management",
+      "summary_text": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for… The post GitHub App improvements for least privilege and management appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "published_at": "2026-10-13T23:17:55.000Z",
+      "tags": [
+        "Improvement",
+        "enterprise management tools",
+        "platform governance"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "922",
+      "title": {
+        "zh": "Redesigning source control at Anthropic",
+        "en": "Redesigning source control at Anthropic"
+      },
+      "summary": {
+        "zh": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of Sept…",
+        "en": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of Sept…"
+      },
+      "title_zh": "Redesigning source control at Anthropic",
+      "title_en": "Redesigning source control at Anthropic",
+      "summary_zh": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of Sept…",
+      "summary_en": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of Sept…",
+      "title_text": "Redesigning source control at Anthropic",
+      "summary_text": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of Sept…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "published_at": "2026-10-13T23:00:06.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "923",
+      "title": {
+        "zh": "llm-gemini 0.35",
+        "en": "llm-gemini 0.35"
+      },
+      "summary": {
+        "zh": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, …",
+        "en": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, …"
+      },
+      "title_zh": "llm-gemini 0.35",
+      "title_en": "llm-gemini 0.35",
+      "summary_zh": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, …",
+      "summary_en": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, …",
+      "title_text": "llm-gemini 0.35",
+      "summary_text": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, …",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "published_at": "2026-10-13T22:28:54.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "905",
       "title": {
         "zh": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
@@ -469,6 +569,54 @@
       "saved": false
     },
     {
+      "id": "924",
+      "title": {
+        "zh": "web-edit 0.1a1",
+        "en": "web-edit 0.1a1"
+      },
+      "summary": {
+        "zh": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
+        "en": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects"
+      },
+      "title_zh": "web-edit 0.1a1",
+      "title_en": "web-edit 0.1a1",
+      "summary_zh": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
+      "summary_en": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
+      "title_text": "web-edit 0.1a1",
+      "summary_text": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "published_at": "2026-10-13T01:40:05.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "925",
+      "title": {
+        "zh": "Drama 3 now available on AI Gateway",
+        "en": "Drama 3 now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Descr…",
+        "en": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Descr…"
+      },
+      "title_zh": "Drama 3 now available on AI Gateway",
+      "title_en": "Drama 3 now available on AI Gateway",
+      "summary_zh": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Descr…",
+      "summary_en": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Descr…",
+      "title_text": "Drama 3 now available on AI Gateway",
+      "summary_text": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Descr…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
+      "published_at": "2026-10-13T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "915",
       "title": {
         "zh": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
@@ -743,33 +891,6 @@
       "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
       "published_at": "2026-10-12T15:54:36.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "894",
-      "title": {
-        "zh": "Anonymous organization-level registries for Dependabot",
-        "en": "Anonymous organization-level registries for Dependabot"
-      },
-      "summary": {
-        "zh": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .",
-        "en": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Anonymous organization-level registries for Dependabot",
-      "title_en": "Anonymous organization-level registries for Dependabot",
-      "summary_zh": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .",
-      "summary_en": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .",
-      "title_text": "Anonymous organization-level registries for Dependabot",
-      "summary_text": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "published_at": "2026-10-12T14:04:16.000Z",
-      "tags": [
-        "Improvement",
-        "supply chain security"
-      ],
       "read_at": null,
       "saved": false
     },
@@ -1518,30 +1639,6 @@
       "saved": false
     },
     {
-      "id": "844",
-      "title": {
-        "zh": "0.162.0",
-        "en": "0.162.0"
-      },
-      "summary": {
-        "zh": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy…",
-        "en": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy…"
-      },
-      "title_zh": "0.162.0",
-      "title_en": "0.162.0",
-      "summary_zh": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy…",
-      "summary_en": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy…",
-      "title_text": "0.162.0",
-      "summary_text": "New Features Add tools for creating and listing managed Git worktrees from trusted local projects when the worktrees feature is enabled. ( #50148 ) Pin tasks in the agent Command Center with p and keep them in a shared Pinned group when supported by the server. ( #51500 ) Navigate and copy transcript blocks with /copy…",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0",
-      "published_at": "2026-10-08T18:58:03.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "845",
       "title": {
         "zh": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
@@ -1877,107 +1974,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
       "published_at": "2026-10-07T23:14:58.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "816",
-      "title": {
-        "zh": "Claude Haiku 5.5",
-        "en": "Claude Haiku 5.5"
-      },
-      "summary": {
-        "zh": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI…",
-        "en": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI…"
-      },
-      "title_zh": "Claude Haiku 5.5",
-      "title_en": "Claude Haiku 5.5",
-      "summary_zh": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI…",
-      "summary_en": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI…",
-      "title_text": "Claude Haiku 5.5",
-      "summary_text": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "published_at": "2026-10-07T20:56:21.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "818",
-      "title": {
-        "zh": "Secret protection must scale with software",
-        "en": "Secret protection must scale with software"
-      },
-      "summary": {
-        "zh": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-        "en": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Secret protection must scale with software",
-      "title_en": "Secret protection must scale with software",
-      "summary_zh": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-      "summary_en": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-      "title_text": "Secret protection must scale with software",
-      "summary_text": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-      "source_id": "5",
-      "source_name": "GitHub AI & ML",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-      "published_at": "2026-10-07T17:45:34.000Z",
-      "tags": [
-        "AI & ML",
-        "Generative AI",
-        "GitHub Copilot",
-        "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "686",
-      "title": {
-        "zh": "Visual Studio Code 1.141",
-        "en": "Visual Studio Code 1.141"
-      },
-      "summary": {
-        "zh": "Learn what's new in Visual Studio Code 1.141 Read the full article",
-        "en": "Learn what's new in Visual Studio Code 1.141 Read the full article"
-      },
-      "title_zh": "Visual Studio Code 1.141",
-      "title_en": "Visual Studio Code 1.141",
-      "summary_zh": "Learn what's new in Visual Studio Code 1.141 Read the full article",
-      "summary_en": "Learn what's new in Visual Studio Code 1.141 Read the full article",
-      "title_text": "Visual Studio Code 1.141",
-      "summary_text": "Learn what's new in Visual Studio Code 1.141 Read the full article",
-      "source_id": "1",
-      "source_name": "VS Code Blog",
-      "url": "https://code.visualstudio.com/updates/v1_141",
-      "published_at": "2026-10-07T17:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "823",
-      "title": {
-        "zh": "Anti-Patterns in Software Blogging",
-        "en": "Anti-Patterns in Software Blogging"
-      },
-      "summary": {
-        "zh": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain termin…",
-        "en": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain termin…"
-      },
-      "title_zh": "Anti-Patterns in Software Blogging",
-      "title_en": "Anti-Patterns in Software Blogging",
-      "summary_zh": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain termin…",
-      "summary_en": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain termin…",
-      "title_text": "Anti-Patterns in Software Blogging",
-      "summary_text": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain termin…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-      "published_at": "2026-10-07T14:53:51.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
