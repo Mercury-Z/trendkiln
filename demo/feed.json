@@ -50,6 +50,30 @@
       "saved": false
     },
     {
+      "id": "945",
+      "title": {
+        "zh": "Tree Appreciator",
+        "en": "Tree Appreciator"
+      },
+      "summary": {
+        "zh": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreci…",
+        "en": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreci…"
+      },
+      "title_zh": "Tree Appreciator",
+      "title_en": "Tree Appreciator",
+      "summary_zh": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreci…",
+      "summary_en": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreci…",
+      "title_text": "Tree Appreciator",
+      "summary_text": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreci…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "published_at": "2026-10-14T21:23:01.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "938",
       "title": {
         "zh": "0.163.0-alpha.10.1",
@@ -344,6 +368,30 @@
       "tags": [
         "Startup"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "946",
+      "title": {
+        "zh": "How Block is building AI-powered security with OpenAI technology",
+        "en": "How Block is building AI-powered security with OpenAI technology"
+      },
+      "summary": {
+        "zh": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+      },
+      "title_zh": "How Block is building AI-powered security with OpenAI technology",
+      "title_en": "How Block is building AI-powered security with OpenAI technology",
+      "summary_zh": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "summary_en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "title_text": "How Block is building AI-powered security with OpenAI technology",
+      "summary_text": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "published_at": "2026-10-14T07:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1925,54 +1973,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
       "published_at": "2026-10-08T21:05:44.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "845",
-      "title": {
-        "zh": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-        "en": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk"
-      },
-      "summary": {
-        "zh": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
-        "en": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!"
-      },
-      "title_zh": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "title_en": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "summary_zh": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
-      "summary_en": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
-      "title_text": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "summary_text": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/periodic",
-      "published_at": "2026-10-08T16:27:54.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "846",
-      "title": {
-        "zh": "Skip sending request bodies to Routing Middleware",
-        "en": "Skip sending request bodies to Routing Middleware"
-      },
-      "summary": {
-        "zh": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t rea…",
-        "en": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t rea…"
-      },
-      "title_zh": "Skip sending request bodies to Routing Middleware",
-      "title_en": "Skip sending request bodies to Routing Middleware",
-      "summary_zh": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t rea…",
-      "summary_en": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t rea…",
-      "title_text": "Skip sending request bodies to Routing Middleware",
-      "summary_text": "You can now skip sending client request bodies to Routing Middleware with skipMiddlewareRequestBody . This reduces incoming Fast Origin Transfer usage for middleware invocations and can improve time to first byte, especially for requests with large bodies. Enable this option only if your Routing Middleware doesn’t rea…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
-      "published_at": "2026-10-08T16:05:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
