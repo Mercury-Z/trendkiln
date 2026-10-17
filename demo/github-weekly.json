@@ -43,12 +43,12 @@
         "static-analysis",
         "touhou"
       ],
-      "stars": 293431,
-      "stars_delta": 3860,
-      "forks": 73968,
-      "forks_delta": 1083,
+      "stars": 298021,
+      "stars_delta": 4590,
+      "forks": 75296,
+      "forks_delta": 1328,
       "html_url": "https://github.com/morluto/rea",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "en": "Reverse engineer anything with agents, from app behavior down to native binaries."
@@ -81,12 +81,12 @@
         "filmmaking",
         "imagegeneration"
       ],
-      "stars": 30785,
-      "stars_delta": 298,
-      "forks": 4887,
-      "forks_delta": 45,
+      "stars": 31116,
+      "stars_delta": 331,
+      "forks": 4937,
+      "forks_delta": 50,
       "html_url": "https://github.com/storytold/artcraft",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
@@ -121,12 +121,12 @@
         "spir-v",
         "vulkan"
       ],
-      "stars": 40053,
+      "stars": 40315,
       "stars_delta": 262,
-      "forks": 3586,
-      "forks_delta": 28,
+      "forks": 3616,
+      "forks_delta": 30,
       "html_url": "https://github.com/boykopovar/AnyPS5",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "Tool for automatic PS5 executables porting to Linux and Windows",
         "en": "Tool for automatic PS5 executables porting to Linux and Windows"
@@ -162,12 +162,12 @@
         "mermaid",
         "svg"
       ],
-      "stars": 56515,
-      "stars_delta": 131,
-      "forks": 3587,
-      "forks_delta": 14,
+      "stars": 56655,
+      "stars_delta": 140,
+      "forks": 3605,
+      "forks_delta": 18,
       "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
@@ -190,6 +190,42 @@
     },
     {
       "rank": 5,
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "stars": 41096,
+      "stars_delta": 325,
+      "forks": 4430,
+      "forks_delta": 18,
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
+      "purpose": {
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      "strengths": {
+        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
+      },
+      "innovations": {
+        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
+      },
+      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
@@ -206,12 +242,12 @@
         "typescript",
         "video"
       ],
-      "stars": 65421,
-      "stars_delta": 189,
-      "forks": 5896,
-      "forks_delta": 17,
+      "stars": 65586,
+      "stars_delta": 165,
+      "forks": 5914,
+      "forks_delta": 18,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -233,75 +269,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 294231,
-      "stars_delta": 254,
-      "forks": 24663,
-      "forks_delta": 15,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 7,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "topics": [
-        "disassembler",
-        "reverse-engineering",
-        "software-analysis"
-      ],
-      "stars": 89730,
-      "stars_delta": 169,
-      "forks": 10034,
-      "forks_delta": 24,
-      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
-      "purpose": {
-        "zh": "Ghidra is a software reverse engineering (SRE) framework",
-        "en": "Ghidra is a software reverse engineering (SRE) framework"
-      },
-      "strengths": {
-        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
-      },
-      "innovations": {
-        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
-      },
-      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
-      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
-      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -327,12 +295,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 30288,
-      "stars_delta": 113,
-      "forks": 2133,
-      "forks_delta": 9,
+      "stars": 30387,
+      "stars_delta": 99,
+      "forks": 2184,
+      "forks_delta": 51,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -354,19 +322,87 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 8,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "stars": 89896,
+      "stars_delta": 166,
+      "forks": 10057,
+      "forks_delta": 23,
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
+      "purpose": {
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "strengths": {
+        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
+      },
+      "innovations": {
+        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
+      },
+      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 9,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 294482,
+      "stars_delta": 251,
+      "forks": 24694,
+      "forks_delta": 31,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "ranxianglei/billion-context",
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "topics": [
         "dsh-plugin"
       ],
-      "stars": 1568,
-      "stars_delta": 38,
-      "forks": 123,
-      "forks_delta": 2,
+      "stars": 1608,
+      "stars_delta": 40,
+      "forks": 130,
+      "forks_delta": 7,
       "html_url": "https://github.com/ranxianglei/billion-context",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
+      "snapshot_at": "2026-10-17T10:55:26.763Z",
       "purpose": {
         "zh": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
         "en": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need"
@@ -385,84 +421,6 @@
       "strengths_en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
       "innovations_zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
       "innovations_en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "stars": 40771,
-      "stars_delta": 371,
-      "forks": 4412,
-      "forks_delta": 15,
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
-      "purpose": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "strengths": {
-        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
-      },
-      "innovations": {
-        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
-      },
-      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "stars": 21043,
-      "stars_delta": 79,
-      "forks": 2077,
-      "forks_delta": 6,
-      "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-10-17T04:39:53.981Z",
-      "purpose": {
-        "zh": "Give your agent CAD superpowers.",
-        "en": "Give your agent CAD superpowers."
-      },
-      "strengths": {
-        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
-      },
-      "innovations": {
-        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
-      },
-      "purpose_zh": "Give your agent CAD superpowers.",
-      "purpose_en": "Give your agent CAD superpowers.",
-      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
       "insights_source": "readme-excerpt"
     }
   ]
