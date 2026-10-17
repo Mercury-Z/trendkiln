@@ -26,6 +26,30 @@
       "saved": false
     },
     {
+      "id": "1003",
+      "title": {
+        "zh": "AI Gateway logs now show session affinity",
+        "en": "AI Gateway logs now show session affinity"
+      },
+      "summary": {
+        "zh": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn.…",
+        "en": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn.…"
+      },
+      "title_zh": "AI Gateway logs now show session affinity",
+      "title_en": "AI Gateway logs now show session affinity",
+      "summary_zh": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn.…",
+      "summary_en": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn.…",
+      "title_text": "AI Gateway logs now show session affinity",
+      "summary_text": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn.…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+      "published_at": "2026-10-17T20:03:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "999",
       "title": {
         "zh": "[AINews] High Taste Testers Ep. 1",
@@ -1938,30 +1962,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "published_at": "2026-10-13T22:28:54.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "905",
-      "title": {
-        "zh": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-        "en": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics"
-      },
-      "summary": {
-        "zh": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
-        "en": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI"
-      },
-      "title_zh": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "title_en": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "summary_zh": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
-      "summary_en": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
-      "title_text": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "summary_text": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/dyna",
-      "published_at": "2026-10-13T22:25:55.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
