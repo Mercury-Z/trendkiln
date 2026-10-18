@@ -18,42 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "stars": 41936,
-      "stars_delta": 350,
-      "forks": 4474,
-      "forks_delta": 22,
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "strengths": {
-        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
-      },
-      "innovations": {
-        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
-      },
-      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
@@ -71,12 +35,12 @@
         "latex",
         "resume"
       ],
-      "stars": 50727,
-      "stars_delta": 603,
-      "forks": 16966,
-      "forks_delta": 76,
+      "stars": 51321,
+      "stars_delta": 594,
+      "forks": 17055,
+      "forks_delta": 89,
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
       "purpose": {
         "zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
@@ -98,343 +62,53 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
+      "rank": 2,
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
       "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
         "claude-code",
-        "developer-tools",
-        "llm",
         "mcp",
-        "productivity"
-      ],
-      "stars": 282656,
-      "stars_delta": 308,
-      "forks": 41998,
-      "forks_delta": 29,
-      "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-      },
-      "strengths": {
-        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
-      },
-      "innovations": {
-        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
-      },
-      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "topics": [],
-      "stars": 54156,
-      "stars_delta": 178,
-      "forks": 4909,
-      "forks_delta": 7,
-      "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-      },
-      "strengths": {
-        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
-      },
-      "innovations": {
-        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
-      },
-      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "stars": 52354,
-      "stars_delta": 186,
-      "forks": 4638,
-      "forks_delta": 20,
-      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
-      },
-      "strengths": {
-        "zh": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
-        "en": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…"
-      },
-      "innovations": {
-        "zh": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
-        "en": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…"
-      },
-      "purpose_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "purpose_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "strengths_zh": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
-      "strengths_en": "Scientific Agent Skills 🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility — now works with any AI agent that supports the open Agent Skills standard, not just Claude. New: K-Dense BYOK…",
-      "innovations_zh": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
-      "innovations_en": "…h workspace with web search, file handling, 100+ scientific databases, and access to all 177 skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via Modal for heavy workloads. Get s…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "topics": [],
-      "stars": 10015,
-      "stars_delta": 171,
-      "forks": 726,
-      "forks_delta": 15,
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-      },
-      "strengths": {
-        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…"
-      },
-      "innovations": {
-        "zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-        "en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…"
-      },
-      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "innovations_zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "innovations_en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "android/skills",
-      "description": "",
-      "language": "Kotlin",
-      "topics": [
         "skills"
       ],
-      "stars": 8484,
-      "stars_delta": 107,
-      "forks": 556,
-      "forks_delta": 5,
-      "html_url": "https://github.com/android/skills",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
+      "stars": 42255,
+      "stars_delta": 319,
+      "forks": 4501,
+      "forks_delta": 27,
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
       "purpose": {
-        "zh": "",
-        "en": ""
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
       },
       "strengths": {
-        "zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-        "en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…"
+        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
       },
       "innovations": {
-        "zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
-        "en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…"
+        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
       },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-      "strengths_en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-      "innovations_zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
-      "innovations_en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "automation",
-        "bot",
-        "claude-code",
-        "codex",
-        "ghostty",
-        "grok-bot",
-        "hermes-agent",
-        "mobile-app",
-        "muse",
-        "openclaw",
-        "opencode",
-        "orchestration",
-        "pi",
-        "runtime",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "stars": 95591,
-      "stars_delta": 330,
-      "forks": 6121,
-      "forks_delta": 25,
-      "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-      },
-      "strengths": {
-        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
-      },
-      "innovations": {
-        "zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-        "en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…"
-      },
-      "purpose_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "purpose_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "innovations_zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-      "innovations_en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 151877,
-      "stars_delta": 255,
-      "forks": 26886,
-      "forks_delta": 19,
-      "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-      },
-      "strengths": {
-        "zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-        "en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…"
-      },
-      "innovations": {
-        "zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-        "en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…"
-      },
-      "purpose_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "purpose_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "strengths_zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "strengths_en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "innovations_zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-      "innovations_en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "stars": 73673,
-      "stars_delta": 635,
-      "forks": 8060,
-      "forks_delta": 73,
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
-      "purpose": {
-        "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-      },
-      "strengths": {
-        "zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
-        "en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…"
-      },
-      "innovations": {
-        "zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
-        "en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…"
-      },
-      "purpose_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "strengths_zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
-      "strengths_en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
-      "innovations_zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
-      "innovations_en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
+      "rank": 3,
       "full_name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 215561,
-      "stars_delta": 463,
-      "forks": 28882,
-      "forks_delta": 32,
+      "stars": 215905,
+      "stars_delta": 344,
+      "forks": 28918,
+      "forks_delta": 36,
       "html_url": "https://github.com/anomalyco/opencode",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
       "purpose": {
         "zh": "The open source coding agent.",
         "en": "The open source coding agent."
@@ -456,7 +130,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
+      "rank": 4,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 12498,
+      "stars_delta": 351,
+      "forks": 1225,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "innovations": {
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+      },
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
+    },
+    {
+      "rank": 5,
       "full_name": "ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
@@ -482,12 +188,12 @@
         "swarm-intelligence",
         "typescript"
       ],
-      "stars": 76149,
-      "stars_delta": 164,
-      "forks": 9006,
-      "forks_delta": 8,
+      "stars": 76284,
+      "stars_delta": 135,
+      "forks": 9015,
+      "forks_delta": 9,
       "html_url": "https://github.com/ruvnet/ruflo",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
       "purpose": {
         "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
@@ -509,56 +215,315 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "rank": 6,
+      "full_name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "topics": [
-        "ai-search",
-        "ai-search-algorithms",
-        "ai-search-engine",
-        "ai-search-free",
-        "ai-search-module",
-        "ai-search-optimization",
-        "ai-searchengine",
-        "bm25-search",
-        "elastic-search",
-        "elasticsearch",
-        "elasticstack",
-        "graph-search",
-        "graph-semantic-search",
-        "hybrid-search",
-        "hybrid-semantic-search",
-        "search-api",
-        "search-engine",
-        "semantic-search",
-        "vector-database",
-        "vector-search"
-      ],
-      "stars": 7931,
-      "stars_delta": 240,
-      "forks": 423,
-      "forks_delta": 19,
-      "html_url": "https://github.com/xerj-org/xerj",
-      "snapshot_at": "2026-10-18T04:45:20.863Z",
+      "topics": [],
+      "stars": 10173,
+      "stars_delta": 158,
+      "forks": 735,
+      "forks_delta": 9,
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
       "purpose": {
-        "zh": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-        "en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
       },
       "strengths": {
-        "zh": "XERJ English 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is…",
-        "en": "XERJ English 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is…"
+        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
+        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…"
       },
       "innovations": {
-        "zh": "…em before writing its own code. In a controlled study that cut a coding agent's output tokens by 2.7x at the same 16/16 solve rate (case study), and people report roughly 5x in everyday work (field reports). It is enough for a sma…",
-        "en": "…em before writing its own code. In a controlled study that cut a coding agent's output tokens by 2.7x at the same 16/16 solve rate (case study), and people report roughly 5x in everyday work (field reports). It is enough for a sma…"
+        "zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
+        "en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…"
       },
-      "purpose_zh": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "purpose_en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "strengths_zh": "XERJ English 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is…",
-      "strengths_en": "XERJ English 简体中文 XERJ is a community-trusted local AI search that indexes any folder automatically, so your coding agent stops burning tokens reading files one by one and pulls the exact code it needs instead. Reference coding is…",
-      "innovations_zh": "…em before writing its own code. In a controlled study that cut a coding agent's output tokens by 2.7x at the same 16/16 solve rate (case study), and people report roughly 5x in everyday work (field reports). It is enough for a sma…",
-      "innovations_en": "…em before writing its own code. In a controlled study that cut a coding agent's output tokens by 2.7x at the same 16/16 solve rate (case study), and people report roughly 5x in everyday work (field reports). It is enough for a sma…",
+      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
+      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
+      "innovations_zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
+      "innovations_en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "automation",
+        "bot",
+        "claude-code",
+        "codex",
+        "ghostty",
+        "grok-bot",
+        "hermes-agent",
+        "mobile-app",
+        "muse",
+        "openclaw",
+        "opencode",
+        "orchestration",
+        "pi",
+        "runtime",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "stars": 95917,
+      "stars_delta": 326,
+      "forks": 6135,
+      "forks_delta": 14,
+      "html_url": "https://github.com/stablyai/orca",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      "strengths": {
+        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
+      },
+      "innovations": {
+        "zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+        "en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…"
+      },
+      "purpose_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "purpose_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "innovations_zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+      "innovations_en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "topics": [],
+      "stars": 54320,
+      "stars_delta": 164,
+      "forks": 4925,
+      "forks_delta": 16,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      },
+      "strengths": {
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
+      },
+      "innovations": {
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
+      },
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "stars": 74145,
+      "stars_delta": 472,
+      "forks": 8117,
+      "forks_delta": 57,
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+      },
+      "strengths": {
+        "zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+        "en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…"
+      },
+      "innovations": {
+        "zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+        "en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…"
+      },
+      "purpose_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths_zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "strengths_en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "innovations_zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+      "innovations_en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "topics": [
+        "skills"
+      ],
+      "stars": 8596,
+      "stars_delta": 112,
+      "forks": 560,
+      "forks_delta": 4,
+      "html_url": "https://github.com/android/skills",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+        "en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…"
+      },
+      "innovations": {
+        "zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+        "en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+      "strengths_en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+      "innovations_zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+      "innovations_en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "language": "",
+      "topics": [
+        "course",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "roadmap"
+      ],
+      "stars": 83760,
+      "stars_delta": 81,
+      "forks": 9770,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mlabonne/llm-course",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "en": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
+      },
+      "strengths": {
+        "zh": "𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 1. 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural netwo…",
+        "en": "𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 1. 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural netwo…"
+      },
+      "innovations": {
+        "zh": "…and deploying them. [!NOTE] Based on this course, I co-wrote the LLM Engineer's Handbook, a hands-on book that covers an end-to-end LLM application from design to deployment. The LLM course will always stay free, but you can suppo…",
+        "en": "…and deploying them. [!NOTE] Based on this course, I co-wrote the LLM Engineer's Handbook, a hands-on book that covers an end-to-end LLM application from design to deployment. The LLM course will always stay free, but you can suppo…"
+      },
+      "purpose_zh": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "purpose_en": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "strengths_zh": "𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 1. 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural netwo…",
+      "strengths_en": "𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 1. 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural netwo…",
+      "innovations_zh": "…and deploying them. [!NOTE] Based on this course, I co-wrote the LLM Engineer's Handbook, a hands-on book that covers an end-to-end LLM application from design to deployment. The LLM course will always stay free, but you can suppo…",
+      "innovations_en": "…and deploying them. [!NOTE] Based on this course, I co-wrote the LLM Engineer's Handbook, a hands-on book that covers an end-to-end LLM application from design to deployment. The LLM course will always stay free, but you can suppo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "Kruk2/jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "topics": [],
+      "stars": 2191,
+      "stars_delta": 115,
+      "forks": 171,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Kruk2/jasna",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "Video restoration tool",
+        "en": "Video restoration tool"
+      },
+      "strengths": {
+        "zh": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
+        "en": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…"
+      },
+      "innovations": {
+        "zh": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
+        "en": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…"
+      },
+      "purpose_zh": "Video restoration tool",
+      "purpose_en": "Video restoration tool",
+      "strengths_zh": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
+      "strengths_en": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
+      "innovations_zh": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
+      "innovations_en": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "stars": 138132,
+      "stars_delta": 155,
+      "forks": 16455,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "snapshot_at": "2026-10-18T11:22:00.988Z",
+      "purpose": {
+        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+      },
+      "strengths": {
+        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
+      },
+      "innovations": {
+        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
+      },
+      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
       "insights_source": "readme-excerpt"
     }
   ]

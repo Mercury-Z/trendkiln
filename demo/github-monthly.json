@@ -18,38 +18,6 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 30766,
-      "stars_delta": 132,
-      "forks": 1924,
-      "forks_delta": 7,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
@@ -75,12 +43,12 @@
         "project-management",
         "workflow-automation"
       ],
-      "stars": 103724,
-      "stars_delta": 149,
-      "forks": 17345,
-      "forks_delta": 30,
+      "stars": 103852,
+      "stars_delta": 128,
+      "forks": 17365,
+      "forks_delta": 20,
       "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "The open-source app everyone uses to manage agents at work",
         "en": "The open-source app everyone uses to manage agents at work"
@@ -102,83 +70,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stars": 40207,
-      "stars_delta": 33,
-      "forks": 5640,
-      "forks_delta": 2,
-      "html_url": "https://github.com/anthropics/financial-services",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
-      },
-      "innovations": {
-        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
-      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "stars": 66092,
-      "stars_delta": 195,
-      "forks": 5971,
-      "forks_delta": 24,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -203,12 +95,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 73673,
-      "stars_delta": 635,
-      "forks": 8060,
-      "forks_delta": 73,
+      "stars": 74145,
+      "stars_delta": 472,
+      "forks": 8117,
+      "forks_delta": 57,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -230,7 +122,83 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "stars": 66285,
+      "stars_delta": 193,
+      "forks": 5990,
+      "forks_delta": 19,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 40230,
+      "stars_delta": 23,
+      "forks": 5643,
+      "forks_delta": 3,
+      "html_url": "https://github.com/anthropics/financial-services",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+        "en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…"
+      },
+      "innovations": {
+        "zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+        "en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "strengths_en": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl…",
+      "innovations_zh": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "innovations_en": "…same skills — you choose where it runs. [!IMPORTANT] Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — f…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
@@ -240,12 +208,12 @@
         "ai-memory",
         "memory"
       ],
-      "stars": 50924,
-      "stars_delta": 101,
-      "forks": 6133,
-      "forks_delta": 10,
+      "stars": 51011,
+      "stars_delta": 87,
+      "forks": 6137,
+      "forks_delta": 4,
       "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Hindsight: Agent Memory That Learns",
         "en": "Hindsight: Agent Memory That Learns"
@@ -267,17 +235,49 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 6,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 30893,
+      "stars_delta": 127,
+      "forks": 1933,
+      "forks_delta": 9,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 7,
       "full_name": "agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "topics": [],
-      "stars": 5433,
-      "stars_delta": 30,
-      "forks": 594,
-      "forks_delta": 4,
+      "stars": 5455,
+      "stars_delta": 22,
+      "forks": 595,
+      "forks_delta": 1,
       "html_url": "https://github.com/agent-substrate/substrate",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Agent Substrate: the core system",
         "en": "Agent Substrate: the core system"
@@ -300,47 +300,6 @@
     },
     {
       "rank": 8,
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "stars": 282656,
-      "stars_delta": 308,
-      "forks": 41998,
-      "forks_delta": 29,
-      "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-      },
-      "strengths": {
-        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
-      },
-      "innovations": {
-        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
-      },
-      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
-      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -366,12 +325,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 30547,
-      "stars_delta": 59,
-      "forks": 2213,
-      "forks_delta": 24,
+      "stars": 30598,
+      "stars_delta": 51,
+      "forks": 2240,
+      "forks_delta": 27,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -393,49 +352,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 30028,
-      "stars_delta": 37,
-      "forks": 3392,
-      "forks_delta": 2,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "full_name": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "topics": [],
-      "stars": 16554,
-      "stars_delta": 27,
-      "forks": 1808,
-      "forks_delta": 1,
+      "stars": 16582,
+      "stars_delta": 28,
+      "forks": 1811,
+      "forks_delta": 3,
       "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "en": "OpenShell is the safe, private runtime for autonomous AI agents."
@@ -457,17 +384,58 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "stars": 282933,
+      "stars_delta": 277,
+      "forks": 42017,
+      "forks_delta": 19,
+      "html_url": "https://github.com/affaan-m/ECC",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+      },
+      "strengths": {
+        "zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+        "en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…"
+      },
+      "innovations": {
+        "zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+        "en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…"
+      },
+      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "strengths_zh": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "strengths_en": "Language: English Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/E…",
+      "innovations_zh": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "innovations_en": "…mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one and do not stack a full manua…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 36688,
-      "stars_delta": 109,
-      "forks": 4968,
-      "forks_delta": 19,
+      "stars": 36829,
+      "stars_delta": 141,
+      "forks": 4980,
+      "forks_delta": 12,
       "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
@@ -489,6 +457,38 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 12,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 30075,
+      "stars_delta": 47,
+      "forks": 3395,
+      "forks_delta": 3,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 13,
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
@@ -498,12 +498,12 @@
         "reverse-engineering",
         "software-analysis"
       ],
-      "stars": 90368,
-      "stars_delta": 187,
-      "forks": 10117,
-      "forks_delta": 25,
+      "stars": 90514,
+      "stars_delta": 146,
+      "forks": 10137,
+      "forks_delta": 20,
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Ghidra is a software reverse engineering (SRE) framework",
         "en": "Ghidra is a software reverse engineering (SRE) framework"
@@ -526,97 +526,38 @@
     },
     {
       "rank": 14,
-      "full_name": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "stars": 9797,
-      "stars_delta": 36,
-      "forks": 1255,
-      "forks_delta": 11,
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 12498,
+      "stars_delta": 101,
+      "forks": 1225,
+      "forks_delta": 12,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+        "zh": "cursor/plugins：Cursor插件规范和官方插件",
+        "en": "Cursor plugin specification and official plugins"
       },
       "strengths": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
+        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
       "innovations": {
-        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
+        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
       },
-      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "insights_source": "readme-excerpt"
+      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
+      "insights_source": "readme"
     },
     {
       "rank": 15,
-      "full_name": "trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "language": "Rust",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "apple",
-        "computer-use",
-        "computer-use-agent",
-        "containerization",
-        "cua",
-        "desktop-automation",
-        "hacktoberfest",
-        "lume",
-        "macos",
-        "manus",
-        "operator",
-        "swift",
-        "virtualization",
-        "virtualization-framework",
-        "windows",
-        "windows-sandbox"
-      ],
-      "stars": 30049,
-      "stars_delta": 14,
-      "forks": 2156,
-      "forks_delta": 1,
-      "html_url": "https://github.com/trycua/cua",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
-      },
-      "strengths": {
-        "zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-        "en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…"
-      },
-      "innovations": {
-        "zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-        "en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…"
-      },
-      "purpose_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "purpose_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "strengths_zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-      "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
-      "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-      "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -642,12 +583,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 70730,
-      "stars_delta": 92,
-      "forks": 12447,
-      "forks_delta": 12,
+      "stars": 70826,
+      "stars_delta": 96,
+      "forks": 12460,
+      "forks_delta": 13,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
         "en": "Learn AI Engineering! Learn it. Build it. Ship it for others."
@@ -669,74 +610,130 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 12397,
-      "stars_delta": 136,
-      "forks": 1213,
-      "forks_delta": 24,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "rank": 16,
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "stars": 42255,
+      "stars_delta": 5112,
+      "forks": 4501,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
-        "zh": "cursor/plugins：Cursor插件规范和官方插件",
-        "en": "Cursor plugin specification and official plugins"
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
       },
       "strengths": {
-        "zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
       },
       "innovations": {
-        "zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-        "en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…"
+        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
       },
-      "purpose_zh": "cursor/plugins：Cursor插件规范和官方插件",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "基于 TypeScript 构建；核心能力：Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "strengths_en": "Built with TypeScript; Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_zh": "【创新点】Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "innovations_en": "Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone…",
-      "insights_source": "readme"
+      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "stars": 9832,
+      "stars_delta": 35,
+      "forks": 1262,
+      "forks_delta": 7,
+      "html_url": "https://github.com/TencentCloud/Octop",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
+      "purpose": {
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      },
+      "strengths": {
+        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
+      },
+      "innovations": {
+        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
+      },
+      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
+      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
+      "insights_source": "readme-excerpt"
     },
     {
       "rank": 18,
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
       "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
       ],
-      "stars": 107901,
-      "stars_delta": 98,
-      "forks": 11244,
-      "forks_delta": 12,
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "stars": 30074,
+      "stars_delta": 25,
+      "forks": 2159,
+      "forks_delta": 3,
+      "html_url": "https://github.com/trycua/cua",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
+        "zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
       },
       "strengths": {
-        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+        "zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+        "en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…"
       },
       "innovations": {
-        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+        "zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+        "en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…"
       },
-      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
-      "purpose_en": "Production-grade engineering skills for AI coding agents.",
-      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "purpose_zh": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "purpose_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "strengths_zh": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "strengths_en": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run…",
+      "innovations_zh": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
+      "innovations_en": "…ions. - Cua Driver: Operate Calculator and verify its result. - Lume: Create a Tahoe VM and connect over SSH. - Cua Bench: Create and verify a simulated task. Bring your own agent and model, or explore CUA-S1 for specialized decis…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -750,12 +747,12 @@
         "rust",
         "uikit"
       ],
-      "stars": 17994,
-      "stars_delta": 50,
-      "forks": 1093,
-      "forks_delta": 6,
+      "stars": 18032,
+      "stars_delta": 38,
+      "forks": 1096,
+      "forks_delta": 3,
       "html_url": "https://github.com/longbridge/gpui-kit",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
         "zh": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
         "en": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
@@ -778,87 +775,34 @@
     },
     {
       "rank": 20,
-      "full_name": "Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "stars": 34541,
-      "stars_delta": 31,
-      "forks": 4599,
-      "forks_delta": 2,
-      "html_url": "https://github.com/Tencent/WeKnora",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
-      "purpose": {
-        "zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
-        "en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-      },
-      "strengths": {
-        "zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-        "en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*"
-      },
-      "innovations": {
-        "zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-        "en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide"
-      },
-      "purpose_zh": "Tencent/WeKnora：开源LLM知识平台：将原始文档转换为可查询的RAG、自主推理代理和自我维护的Wiki。",
-      "purpose_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "strengths_zh": "基于 Go 构建；关注领域：agent, agentic, ai, chatbot, dsh-plugin, embeddings；核心能力：Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-      "strengths_en": "Built with Go; Focus: agent, agentic, ai, chatbot, dsh-plugin, embeddings; Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide; **WeKnora** is an open-source, LLM-powered knowledge framework built for enterprise-grade document understanding…; 2:25 · 1080p · English narration & captions.*",
-      "innovations_zh": "【创新点】Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-      "innovations_en": "Overview • Architecture • Key Features • Getting Started • API Reference • Developer Guide",
-      "insights_source": "readme"
-    },
-    {
-      "rank": 21,
-      "full_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "full_name": "pingdotgg/t3code",
+      "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 151877,
-      "stars_delta": 254,
-      "forks": 26886,
-      "forks_delta": 19,
-      "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-18T04:45:25.025Z",
+      "stars": 28208,
+      "stars_delta": 5326,
+      "forks": 7520,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "snapshot_at": "2026-10-18T11:22:05.457Z",
       "purpose": {
-        "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+        "zh": "",
+        "en": ""
       },
       "strengths": {
-        "zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-        "en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…"
+        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
       },
       "innovations": {
-        "zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-        "en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…"
+        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
       },
-      "purpose_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "purpose_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "strengths_zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "strengths_en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "innovations_zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-      "innovations_en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
       "insights_source": "readme-excerpt"
     }
   ]
