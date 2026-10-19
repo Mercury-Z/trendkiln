@@ -26,6 +26,54 @@
       "saved": false
     },
     {
+      "id": "1006",
+      "title": {
+        "zh": "llm-tools-datasette 0.1.1",
+        "en": "llm-tools-datasette 0.1.1"
+      },
+      "summary": {
+        "zh": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+        "en": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm"
+      },
+      "title_zh": "llm-tools-datasette 0.1.1",
+      "title_en": "llm-tools-datasette 0.1.1",
+      "summary_zh": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "summary_en": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "title_text": "llm-tools-datasette 0.1.1",
+      "summary_text": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "published_at": "2026-10-18T23:43:09.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1007",
+      "title": {
+        "zh": "llm-echo 0.5",
+        "en": "llm-echo 0.5"
+      },
+      "summary": {
+        "zh": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+        "en": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…"
+      },
+      "title_zh": "llm-echo 0.5",
+      "title_en": "llm-echo 0.5",
+      "summary_zh": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+      "summary_en": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+      "title_text": "llm-echo 0.5",
+      "summary_text": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "published_at": "2026-10-18T23:16:16.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1003",
       "title": {
         "zh": "AI Gateway logs now show session affinity",
@@ -1915,54 +1963,6 @@
       "tags": [
         "Global Affairs"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "944",
-      "title": {
-        "zh": "Amazon S3 joins the Vercel Marketplace",
-        "en": "Amazon S3 joins the Vercel Marketplace"
-      },
-      "summary": {
-        "zh": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AW…",
-        "en": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AW…"
-      },
-      "title_zh": "Amazon S3 joins the Vercel Marketplace",
-      "title_en": "Amazon S3 joins the Vercel Marketplace",
-      "summary_zh": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AW…",
-      "summary_en": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AW…",
-      "title_text": "Amazon S3 joins the Vercel Marketplace",
-      "summary_text": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AW…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
-      "published_at": "2026-10-14T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "936",
-      "title": {
-        "zh": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-        "en": "Nemotron 3.5 Lightning now available on AI Gateway for free"
-      },
-      "summary": {
-        "zh": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per toke…",
-        "en": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per toke…"
-      },
-      "title_zh": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-      "title_en": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-      "summary_zh": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per toke…",
-      "summary_en": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per toke…",
-      "title_text": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-      "summary_text": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per toke…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
-      "published_at": "2026-10-14T00:00:00.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     }

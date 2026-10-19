@@ -1,7 +1,7 @@
 {
   "source": "db",
-  "digest_date": "2026-10-18",
-  "headline": "Trendkiln · 2026-10-18",
+  "digest_date": "2026-10-19",
+  "headline": "Trendkiln · 2026-10-19",
   "items": [
     {
       "id": "1",
@@ -15,18 +15,18 @@
         "en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
       },
       "signal": {
-        "zh": "+708 星标",
-        "en": "+708 stars"
+        "zh": "+1,213 星标",
+        "en": "+1,213 stars"
       },
       "title_zh": "MadsLorentzen/ai-job-search 星标异动",
       "title_en": "MadsLorentzen/ai-job-search star surge",
       "subtitle_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "subtitle_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "signal_zh": "+708 星标",
-      "signal_en": "+708 stars",
+      "signal_zh": "+1,213 星标",
+      "signal_en": "+1,213 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
       "entity_id": "repo:MadsLorentzen/ai-job-search"
     },
     {
@@ -67,22 +67,74 @@
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
       },
       "signal": {
-        "zh": "+412 星标",
-        "en": "+412 stars"
+        "zh": "+889 星标",
+        "en": "+889 stars"
       },
       "title_zh": "debpalash/VoiceStudio 星标异动",
       "title_en": "debpalash/VoiceStudio star surge",
       "subtitle_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "subtitle_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "signal_zh": "+412 星标",
-      "signal_en": "+412 stars",
+      "signal_zh": "+889 星标",
+      "signal_en": "+889 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
       "entity_id": "repo:debpalash/VoiceStudio"
     },
     {
       "id": "4",
+      "type": "github_surge",
+      "title": {
+        "zh": "stablyai/orca 星标异动",
+        "en": "stablyai/orca star surge"
+      },
+      "subtitle": {
+        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      "signal": {
+        "zh": "+528 星标",
+        "en": "+528 stars"
+      },
+      "title_zh": "stablyai/orca 星标异动",
+      "title_en": "stablyai/orca star surge",
+      "subtitle_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "subtitle_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "signal_zh": "+528 星标",
+      "signal_en": "+528 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/stablyai/orca",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:stablyai/orca"
+    },
+    {
+      "id": "5",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "llm-tools-datasette 0.1.1",
+        "en": "llm-tools-datasette 0.1.1"
+      },
+      "subtitle": {
+        "zh": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+        "en": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "llm-tools-datasette 0.1.1",
+      "title_en": "llm-tools-datasette 0.1.1",
+      "subtitle_zh": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "subtitle_en": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "occurred_at": "2026-10-18T23:43:09.000Z",
+      "entity_id": "feed:1006"
+    },
+    {
+      "id": "6",
       "type": "github_surge",
       "title": {
         "zh": "anomalyco/opencode 星标异动",
@@ -93,22 +145,126 @@
         "en": "The open source coding agent."
       },
       "signal": {
-        "zh": "+264 星标",
-        "en": "+264 stars"
+        "zh": "+370 星标",
+        "en": "+370 stars"
       },
       "title_zh": "anomalyco/opencode 星标异动",
       "title_en": "anomalyco/opencode star surge",
       "subtitle_zh": "The open source coding agent.",
       "subtitle_en": "The open source coding agent.",
-      "signal_zh": "+264 星标",
-      "signal_en": "+264 stars",
+      "signal_zh": "+370 星标",
+      "signal_en": "+370 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/anomalyco/opencode",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
       "entity_id": "repo:anomalyco/opencode"
     },
     {
-      "id": "5",
+      "id": "7",
+      "type": "github_surge",
+      "title": {
+        "zh": "Comfy-Org/ComfyUI 星标异动",
+        "en": "Comfy-Org/ComfyUI star surge"
+      },
+      "subtitle": {
+        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+      },
+      "signal": {
+        "zh": "+285 星标",
+        "en": "+285 stars"
+      },
+      "title_zh": "Comfy-Org/ComfyUI 星标异动",
+      "title_en": "Comfy-Org/ComfyUI star surge",
+      "subtitle_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "subtitle_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "signal_zh": "+285 星标",
+      "signal_en": "+285 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:Comfy-Org/ComfyUI"
+    },
+    {
+      "id": "8",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "llm-echo 0.5",
+        "en": "llm-echo 0.5"
+      },
+      "subtitle": {
+        "zh": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+        "en": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "llm-echo 0.5",
+      "title_en": "llm-echo 0.5",
+      "subtitle_zh": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+      "subtitle_en": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to ta…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "occurred_at": "2026-10-18T23:16:16.000Z",
+      "entity_id": "feed:1007"
+    },
+    {
+      "id": "9",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/claude-plugins-official 星标异动",
+        "en": "anthropics/claude-plugins-official star surge"
+      },
+      "subtitle": {
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      "signal": {
+        "zh": "+258 星标",
+        "en": "+258 stars"
+      },
+      "title_zh": "anthropics/claude-plugins-official 星标异动",
+      "title_en": "anthropics/claude-plugins-official star surge",
+      "subtitle_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "subtitle_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "signal_zh": "+258 星标",
+      "signal_en": "+258 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:anthropics/claude-plugins-official"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "akitaonrails/ai-memory 星标异动",
+        "en": "akitaonrails/ai-memory star surge"
+      },
+      "subtitle": {
+        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      },
+      "signal": {
+        "zh": "+243 星标",
+        "en": "+243 stars"
+      },
+      "title_zh": "akitaonrails/ai-memory 星标异动",
+      "title_en": "akitaonrails/ai-memory star surge",
+      "subtitle_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "subtitle_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "signal_zh": "+243 星标",
+      "signal_en": "+243 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:akitaonrails/ai-memory"
+    },
+    {
+      "id": "11",
       "type": "feed_must_read",
       "title": {
         "zh": "AI Gateway logs now show session affinity",
@@ -134,59 +290,59 @@
       "entity_id": "feed:1003"
     },
     {
-      "id": "6",
+      "id": "12",
       "type": "github_surge",
       "title": {
-        "zh": "stablyai/orca 星标异动",
-        "en": "stablyai/orca star surge"
+        "zh": "ruvnet/ruflo 星标异动",
+        "en": "ruvnet/ruflo star surge"
       },
       "subtitle": {
-        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
       },
       "signal": {
-        "zh": "+259 星标",
-        "en": "+259 stars"
+        "zh": "+210 星标",
+        "en": "+210 stars"
       },
-      "title_zh": "stablyai/orca 星标异动",
-      "title_en": "stablyai/orca star surge",
-      "subtitle_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "subtitle_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "signal_zh": "+259 星标",
-      "signal_en": "+259 stars",
+      "title_zh": "ruvnet/ruflo 星标异动",
+      "title_en": "ruvnet/ruflo star surge",
+      "subtitle_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "subtitle_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "signal_zh": "+210 星标",
+      "signal_en": "+210 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/stablyai/orca",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:stablyai/orca"
+      "url": "https://github.com/ruvnet/ruflo",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:ruvnet/ruflo"
     },
     {
-      "id": "7",
+      "id": "13",
       "type": "github_surge",
       "title": {
-        "zh": "Comfy-Org/ComfyUI 星标异动",
-        "en": "Comfy-Org/ComfyUI star surge"
+        "zh": "HKUDS/CLI-Anything 星标异动",
+        "en": "HKUDS/CLI-Anything star surge"
       },
       "subtitle": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
       },
       "signal": {
-        "zh": "+183 星标",
-        "en": "+183 stars"
+        "zh": "+202 星标",
+        "en": "+202 stars"
       },
-      "title_zh": "Comfy-Org/ComfyUI 星标异动",
-      "title_en": "Comfy-Org/ComfyUI star surge",
-      "subtitle_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "subtitle_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "signal_zh": "+183 星标",
-      "signal_en": "+183 stars",
+      "title_zh": "HKUDS/CLI-Anything 星标异动",
+      "title_en": "HKUDS/CLI-Anything star surge",
+      "subtitle_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "subtitle_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "signal_zh": "+202 星标",
+      "signal_en": "+202 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:Comfy-Org/ComfyUI"
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:HKUDS/CLI-Anything"
     },
     {
-      "id": "8",
+      "id": "14",
       "type": "feed_must_read",
       "title": {
         "zh": "Inline rendering with document​.currentScript",
@@ -212,33 +368,7 @@
       "entity_id": "feed:1004"
     },
     {
-      "id": "9",
-      "type": "github_surge",
-      "title": {
-        "zh": "anthropics/claude-plugins-official 星标异动",
-        "en": "anthropics/claude-plugins-official star surge"
-      },
-      "subtitle": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "signal": {
-        "zh": "+162 星标",
-        "en": "+162 stars"
-      },
-      "title_zh": "anthropics/claude-plugins-official 星标异动",
-      "title_en": "anthropics/claude-plugins-official star surge",
-      "subtitle_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "subtitle_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "signal_zh": "+162 星标",
-      "signal_en": "+162 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:anthropics/claude-plugins-official"
-    },
-    {
-      "id": "10",
+      "id": "15",
       "type": "github_surge",
       "title": {
         "zh": "mlabonne/llm-course 星标异动",
@@ -249,22 +379,48 @@
         "en": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
       },
       "signal": {
-        "zh": "+109 星标",
-        "en": "+109 stars"
+        "zh": "+191 星标",
+        "en": "+191 stars"
       },
       "title_zh": "mlabonne/llm-course 星标异动",
       "title_en": "mlabonne/llm-course star surge",
       "subtitle_zh": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
       "subtitle_en": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-      "signal_zh": "+109 星标",
-      "signal_en": "+109 stars",
+      "signal_zh": "+191 星标",
+      "signal_en": "+191 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/mlabonne/llm-course",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
       "entity_id": "repo:mlabonne/llm-course"
     },
     {
-      "id": "11",
+      "id": "16",
+      "type": "github_surge",
+      "title": {
+        "zh": "Kruk2/jasna 星标异动",
+        "en": "Kruk2/jasna star surge"
+      },
+      "subtitle": {
+        "zh": "Video restoration tool",
+        "en": "Video restoration tool"
+      },
+      "signal": {
+        "zh": "+173 星标",
+        "en": "+173 stars"
+      },
+      "title_zh": "Kruk2/jasna 星标异动",
+      "title_en": "Kruk2/jasna star surge",
+      "subtitle_zh": "Video restoration tool",
+      "subtitle_en": "Video restoration tool",
+      "signal_zh": "+173 星标",
+      "signal_en": "+173 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/Kruk2/jasna",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:Kruk2/jasna"
+    },
+    {
+      "id": "17",
       "type": "feed_must_read",
       "title": {
         "zh": "web-edit 0.1a2",
@@ -290,59 +446,59 @@
       "entity_id": "feed:1005"
     },
     {
-      "id": "12",
+      "id": "18",
       "type": "github_surge",
       "title": {
-        "zh": "HKUDS/CLI-Anything 星标异动",
-        "en": "HKUDS/CLI-Anything star surge"
+        "zh": "android/skills 星标异动",
+        "en": "android/skills star surge"
       },
       "subtitle": {
-        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+        "zh": "android/skills",
+        "en": "android/skills"
       },
       "signal": {
-        "zh": "+107 星标",
-        "en": "+107 stars"
+        "zh": "+140 星标",
+        "en": "+140 stars"
       },
-      "title_zh": "HKUDS/CLI-Anything 星标异动",
-      "title_en": "HKUDS/CLI-Anything star surge",
-      "subtitle_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "subtitle_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "signal_zh": "+107 星标",
-      "signal_en": "+107 stars",
+      "title_zh": "android/skills 星标异动",
+      "title_en": "android/skills star surge",
+      "subtitle_zh": "android/skills",
+      "subtitle_en": "android/skills",
+      "signal_zh": "+140 星标",
+      "signal_en": "+140 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:HKUDS/CLI-Anything"
+      "url": "https://github.com/android/skills",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:android/skills"
     },
     {
-      "id": "13",
+      "id": "19",
       "type": "github_surge",
       "title": {
-        "zh": "akitaonrails/ai-memory 星标异动",
-        "en": "akitaonrails/ai-memory star surge"
+        "zh": "cursor/plugins 星标异动",
+        "en": "cursor/plugins star surge"
       },
       "subtitle": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+        "zh": "Cursor plugin specification and official plugins",
+        "en": "Cursor plugin specification and official plugins"
       },
       "signal": {
-        "zh": "+104 星标",
-        "en": "+104 stars"
+        "zh": "+129 星标",
+        "en": "+129 stars"
       },
-      "title_zh": "akitaonrails/ai-memory 星标异动",
-      "title_en": "akitaonrails/ai-memory star surge",
-      "subtitle_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "subtitle_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "signal_zh": "+104 星标",
-      "signal_en": "+104 stars",
+      "title_zh": "cursor/plugins 星标异动",
+      "title_en": "cursor/plugins star surge",
+      "subtitle_zh": "Cursor plugin specification and official plugins",
+      "subtitle_en": "Cursor plugin specification and official plugins",
+      "signal_zh": "+129 星标",
+      "signal_en": "+129 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:akitaonrails/ai-memory"
+      "url": "https://github.com/cursor/plugins",
+      "occurred_at": "2026-10-19T04:53:15.916Z",
+      "entity_id": "repo:cursor/plugins"
     },
     {
-      "id": "14",
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "[AINews] High Taste Testers Ep. 1",
@@ -366,162 +522,6 @@
       "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
       "occurred_at": "2026-10-17T07:47:38.000Z",
       "entity_id": "feed:999"
-    },
-    {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "cursor/plugins 星标异动",
-        "en": "cursor/plugins star surge"
-      },
-      "subtitle": {
-        "zh": "Cursor plugin specification and official plugins",
-        "en": "Cursor plugin specification and official plugins"
-      },
-      "signal": {
-        "zh": "+87 星标",
-        "en": "+87 stars"
-      },
-      "title_zh": "cursor/plugins 星标异动",
-      "title_en": "cursor/plugins star surge",
-      "subtitle_zh": "Cursor plugin specification and official plugins",
-      "subtitle_en": "Cursor plugin specification and official plugins",
-      "signal_zh": "+87 星标",
-      "signal_en": "+87 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/cursor/plugins",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:cursor/plugins"
-    },
-    {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "ruvnet/ruflo 星标异动",
-        "en": "ruvnet/ruflo star surge"
-      },
-      "subtitle": {
-        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
-      },
-      "signal": {
-        "zh": "+77 星标",
-        "en": "+77 stars"
-      },
-      "title_zh": "ruvnet/ruflo 星标异动",
-      "title_en": "ruvnet/ruflo star surge",
-      "subtitle_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "subtitle_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "signal_zh": "+77 星标",
-      "signal_en": "+77 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ruvnet/ruflo",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:ruvnet/ruflo"
-    },
-    {
-      "id": "17",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.164.0-alpha.3",
-        "en": "0.164.0-alpha.3"
-      },
-      "subtitle": {
-        "zh": "Release 0.164.0-alpha.3",
-        "en": "Release 0.164.0-alpha.3"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.164.0-alpha.3",
-      "title_en": "0.164.0-alpha.3",
-      "subtitle_zh": "Release 0.164.0-alpha.3",
-      "subtitle_en": "Release 0.164.0-alpha.3",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.3",
-      "occurred_at": "2026-10-17T04:12:09.000Z",
-      "entity_id": "feed:994"
-    },
-    {
-      "id": "18",
-      "type": "github_surge",
-      "title": {
-        "zh": "android/skills 星标异动",
-        "en": "android/skills star surge"
-      },
-      "subtitle": {
-        "zh": "android/skills",
-        "en": "android/skills"
-      },
-      "signal": {
-        "zh": "+62 星标",
-        "en": "+62 stars"
-      },
-      "title_zh": "android/skills 星标异动",
-      "title_en": "android/skills star surge",
-      "subtitle_zh": "android/skills",
-      "subtitle_en": "android/skills",
-      "signal_zh": "+62 星标",
-      "signal_en": "+62 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/android/skills",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:android/skills"
-    },
-    {
-      "id": "19",
-      "type": "github_surge",
-      "title": {
-        "zh": "Kruk2/jasna 星标异动",
-        "en": "Kruk2/jasna star surge"
-      },
-      "subtitle": {
-        "zh": "Video restoration tool",
-        "en": "Video restoration tool"
-      },
-      "signal": {
-        "zh": "+61 星标",
-        "en": "+61 stars"
-      },
-      "title_zh": "Kruk2/jasna 星标异动",
-      "title_en": "Kruk2/jasna star surge",
-      "subtitle_zh": "Video restoration tool",
-      "subtitle_en": "Video restoration tool",
-      "signal_zh": "+61 星标",
-      "signal_en": "+61 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/Kruk2/jasna",
-      "occurred_at": "2026-10-18T20:53:22.985Z",
-      "entity_id": "repo:Kruk2/jasna"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-        "en": "DeepSeek V4.1 Flash 1017 now available on AI Gateway"
-      },
-      "subtitle": {
-        "zh": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-s…",
-        "en": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-s…"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-      "title_en": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-      "subtitle_zh": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-s…",
-      "subtitle_en": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-s…",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
-      "occurred_at": "2026-10-17T00:00:00.000Z",
-      "entity_id": "feed:1000"
     }
   ]
 }
