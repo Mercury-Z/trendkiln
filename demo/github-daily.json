@@ -35,12 +35,12 @@
         "latex",
         "resume"
       ],
-      "stars": 57902,
-      "stars_delta": 908,
-      "forks": 18330,
-      "forks_delta": 186,
+      "stars": 59036,
+      "stars_delta": 1134,
+      "forks": 18537,
+      "forks_delta": 207,
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
       "purpose": {
         "zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
@@ -63,162 +63,38 @@
     },
     {
       "rank": 2,
-      "full_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 218011,
-      "stars_delta": 287,
-      "forks": 29132,
-      "forks_delta": 28,
-      "html_url": "https://github.com/anomalyco/opencode",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
+      "stars": 33077,
+      "stars_delta": 849,
+      "forks": 2070,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
       "purpose": {
-        "zh": "The open source coding agent.",
-        "en": "The open source coding agent."
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "strengths": {
-        "zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-        "en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…"
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
       },
       "innovations": {
-        "zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-        "en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…"
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
       },
-      "purpose_zh": "The open source coding agent.",
-      "purpose_en": "The open source coding agent.",
-      "strengths_zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "strengths_en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "innovations_zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-      "innovations_en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
-      "full_name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "topics": [],
-      "stars": 11506,
-      "stars_delta": 233,
-      "forks": 817,
-      "forks_delta": 19,
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-      },
-      "strengths": {
-        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…"
-      },
-      "innovations": {
-        "zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-        "en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…"
-      },
-      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "innovations_zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "innovations_en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "stars": 139952,
-      "stars_delta": 310,
-      "forks": 16600,
-      "forks_delta": 21,
-      "html_url": "https://github.com/Comfy-Org/ComfyUI",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-      },
-      "strengths": {
-        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
-      },
-      "innovations": {
-        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
-      },
-      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "topics": [
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "agents",
-        "ai-agents",
-        "ai-assistant",
-        "ai-skills",
-        "autonomous-agents",
-        "claude",
-        "codex",
-        "dsh-plugin",
-        "harness",
-        "mcp-server",
-        "multi-agent",
-        "multi-agent-systems",
-        "npm",
-        "skills",
-        "swarm",
-        "swarm-intelligence",
-        "typescript"
-      ],
-      "stars": 77326,
-      "stars_delta": 189,
-      "forks": 9113,
-      "forks_delta": 13,
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
-      },
-      "strengths": {
-        "zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-        "en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…"
-      },
-      "innovations": {
-        "zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-        "en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…"
-      },
-      "purpose_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "purpose_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "strengths_zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-      "strengths_en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-      "innovations_zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-      "innovations_en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
       "full_name": "stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
@@ -244,12 +120,12 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 98536,
-      "stars_delta": 377,
-      "forks": 6287,
-      "forks_delta": 28,
+      "stars": 99029,
+      "stars_delta": 493,
+      "forks": 6308,
+      "forks_delta": 21,
       "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
       "purpose": {
         "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
@@ -271,7 +147,299 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 4,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 168672,
+      "stars_delta": 1007,
+      "forks": 9168,
+      "forks_delta": 0,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+        "en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…"
+      },
+      "innovations": {
+        "zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+        "en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+      "innovations_zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+      "innovations_en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "stars": 140313,
+      "stars_delta": 361,
+      "forks": 16623,
+      "forks_delta": 23,
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+      },
+      "strengths": {
+        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
+      },
+      "innovations": {
+        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
+      },
+      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai-agents",
+        "ai-assistant",
+        "ai-skills",
+        "autonomous-agents",
+        "claude",
+        "codex",
+        "dsh-plugin",
+        "harness",
+        "mcp-server",
+        "multi-agent",
+        "multi-agent-systems",
+        "npm",
+        "skills",
+        "swarm",
+        "swarm-intelligence",
+        "typescript"
+      ],
+      "stars": 77508,
+      "stars_delta": 182,
+      "forks": 9124,
+      "forks_delta": 11,
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+      },
+      "strengths": {
+        "zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+        "en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…"
+      },
+      "innovations": {
+        "zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+        "en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…"
+      },
+      "purpose_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "purpose_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "strengths_zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+      "strengths_en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+      "innovations_zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+      "innovations_en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 7,
+      "full_name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphify",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "stars": 129517,
+      "stars_delta": 751,
+      "forks": 12483,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+      },
+      "strengths": {
+        "zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
+        "en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…"
+      },
+      "innovations": {
+        "zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+        "en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…"
+      },
+      "purpose_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "purpose_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "strengths_zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
+      "strengths_en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
+      "innovations_zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+      "innovations_en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "language": "JavaScript",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-plugins",
+        "harness-jailbreak",
+        "jailbreak",
+        "llm-jailbreak"
+      ],
+      "stars": 10407,
+      "stars_delta": 1168,
+      "forks": 2186,
+      "forks_delta": 0,
+      "html_url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+        "en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
+      },
+      "strengths": {
+        "zh": "⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.74 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 说句人话。 我被裁了，现在没有稳定收入。这个仓库一直…",
+        "en": "⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.74 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 说句人话。 我被裁了，现在没有稳定收入。这个仓库一直…"
+      },
+      "innovations": {
+        "zh": "…用。许可改成商业许可，见下面。 官方 Web 和官方桌面端都支持。 官方 dsh web 用 profile web；官方桌面 EXE（DeepSeek Harness 0.2.0-rc.2 / 0.2.1-rc.2）用 profile desktop。两边分开安装、分开点「应用」。当前版本只适配 dsh 0.2；更早的 dsh 用对应的老版本插件。社区桌面端不维护。 写进 profile 还不会改宿主。点会话标题旁的 dsh-purge → 清洗 → 应…",
+        "en": "…用。许可改成商业许可，见下面。 官方 Web 和官方桌面端都支持。 官方 dsh web 用 profile web；官方桌面 EXE（DeepSeek Harness 0.2.0-rc.2 / 0.2.1-rc.2）用 profile desktop。两边分开安装、分开点「应用」。当前版本只适配 dsh 0.2；更早的 dsh 用对应的老版本插件。社区桌面端不维护。 写进 profile 还不会改宿主。点会话标题旁的 dsh-purge → 清洗 → 应…"
+      },
+      "purpose_zh": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "purpose_en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "strengths_zh": "⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.74 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 说句人话。 我被裁了，现在没有稳定收入。这个仓库一直…",
+      "strengths_en": "⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge） Version 1.1.74 DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 中文 · English 说句人话。 我被裁了，现在没有稳定收入。这个仓库一直…",
+      "innovations_zh": "…用。许可改成商业许可，见下面。 官方 Web 和官方桌面端都支持。 官方 dsh web 用 profile web；官方桌面 EXE（DeepSeek Harness 0.2.0-rc.2 / 0.2.1-rc.2）用 profile desktop。两边分开安装、分开点「应用」。当前版本只适配 dsh 0.2；更早的 dsh 用对应的老版本插件。社区桌面端不维护。 写进 profile 还不会改宿主。点会话标题旁的 dsh-purge → 清洗 → 应…",
+      "innovations_en": "…用。许可改成商业许可，见下面。 官方 Web 和官方桌面端都支持。 官方 dsh web 用 profile web；官方桌面 EXE（DeepSeek Harness 0.2.0-rc.2 / 0.2.1-rc.2）用 profile desktop。两边分开安装、分开点「应用」。当前版本只适配 dsh 0.2；更早的 dsh 用对应的老版本插件。社区桌面端不维护。 写进 profile 还不会改宿主。点会话标题旁的 dsh-purge → 清洗 → 应…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 218368,
+      "stars_delta": 357,
+      "forks": 29165,
+      "forks_delta": 33,
+      "html_url": "https://github.com/anomalyco/opencode",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "The open source coding agent.",
+        "en": "The open source coding agent."
+      },
+      "strengths": {
+        "zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+        "en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…"
+      },
+      "innovations": {
+        "zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+        "en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…"
+      },
+      "purpose_zh": "The open source coding agent.",
+      "purpose_en": "The open source coding agent.",
+      "strengths_zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+      "strengths_en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+      "innovations_zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "innovations_en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 161979,
+      "stars_delta": 590,
+      "forks": 26222,
+      "forks_delta": 0,
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+      },
+      "strengths": {
+        "zh": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
+        "en": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…"
+      },
+      "innovations": {
+        "zh": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
+        "en": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…"
+      },
+      "purpose_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "purpose_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "strengths_zh": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
+      "strengths_en": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expe…",
+      "innovations_zh": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
+      "innovations_en": "…and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app --- 🚀 What Is This? Born from a Reddit thread…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
@@ -297,12 +465,12 @@
         "tokens",
         "typescript"
       ],
-      "stars": 76350,
-      "stars_delta": 152,
-      "forks": 5929,
-      "forks_delta": 7,
+      "stars": 76512,
+      "stars_delta": 162,
+      "forks": 5938,
+      "forks_delta": 9,
       "html_url": "https://github.com/headroomlabs-ai/headroom",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
       "purpose": {
         "zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
@@ -324,145 +492,102 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "withmarbleapp/os-taxonomy",
-      "description": "",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 6262,
-      "stars_delta": 179,
-      "forks": 1019,
-      "forks_delta": 21,
-      "html_url": "https://github.com/withmarbleapp/os-taxonomy",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum stand…",
-        "en": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum stand…"
-      },
-      "innovations": {
-        "zh": "…thread is a prerequisite (full-quality video). Explore it interactively at withmarble.com/curriculum — tap any concept to trace everything a learner must master before it. What this is Most curriculum data is either a flat list o…",
-        "en": "…thread is a prerequisite (full-quality video). Explore it interactively at withmarble.com/curriculum — tap any concept to trace everything a learner must master before it. What this is Most curriculum data is either a flat list o…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum stand…",
-      "strengths_en": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum stand…",
-      "innovations_zh": "…thread is a prerequisite (full-quality video). Explore it interactively at withmarble.com/curriculum — tap any concept to trace everything a learner must master before it. What this is Most curriculum data is either a flat list o…",
-      "innovations_en": "…thread is a prerequisite (full-quality video). Explore it interactively at withmarble.com/curriculum — tap any concept to trace everything a learner must master before it. What this is Most curriculum data is either a flat list o…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "Kruk2/jasna",
-      "description": "Video restoration tool",
-      "language": "Python",
-      "topics": [],
-      "stars": 3011,
-      "stars_delta": 148,
-      "forks": 217,
-      "forks_delta": 5,
-      "html_url": "https://github.com/Kruk2/jasna",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "Video restoration tool",
-        "en": "Video restoration tool"
-      },
-      "strengths": {
-        "zh": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
-        "en": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…"
-      },
-      "innovations": {
-        "zh": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
-        "en": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…"
-      },
-      "purpose_zh": "Video restoration tool",
-      "purpose_en": "Video restoration tool",
-      "strengths_zh": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
-      "strengths_en": "The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 Jasna Jasna rest…",
-      "innovations_zh": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
-      "innovations_en": "…art - Help and community - Supporting the project (supporter models) Advanced - How Jasna works - Command line - All guides - Benchmarks - Licensing - Acknowledgments What Jasna does - Finds mosaics in a video and restores them. T…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "topics": [],
-      "stars": 55369,
-      "stars_delta": 186,
-      "forks": 4995,
-      "forks_delta": 18,
-      "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-      },
-      "strengths": {
-        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
-      },
-      "innovations": {
-        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
-      },
-      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
-      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 152747,
-      "stars_delta": 135,
-      "forks": 27146,
-      "forks_delta": 10,
-      "html_url": "https://github.com/anthropics/claude-code",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
-      "purpose": {
-        "zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-      },
-      "strengths": {
-        "zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-        "en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…"
-      },
-      "innovations": {
-        "zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-        "en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…"
-      },
-      "purpose_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "purpose_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "strengths_zh": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "strengths_en": "Claude Code [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, u…",
-      "innovations_zh": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-      "innovations_en": "…ds. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation. Get started [!NOTE] Installation via npm is deprecated. Use one of the recommended methods below. For more installation options,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 12,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 30608,
+      "stars_delta": 262,
+      "forks": 3454,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic-skills",
+        "ai-agent-skills",
+        "ai-agents",
+        "ai-coding",
+        "ai-workflows",
+        "antigravity",
+        "antigravity-skills",
+        "claude-code",
+        "claude-code-skills",
+        "codex-cli",
+        "codex-skills",
+        "cursor",
+        "cursor-skills",
+        "developer-tools",
+        "gemini-cli",
+        "gemini-skills",
+        "kiro",
+        "mcp",
+        "skill-library"
+      ],
+      "stars": 48001,
+      "stars_delta": 58,
+      "forks": 7009,
+      "forks_delta": 0,
+      "html_url": "https://github.com/sickn33/agentic-awesome-skills",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+        "en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench."
+      },
+      "strengths": {
+        "zh": "AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,715+ installable SKILL.md…",
+        "en": "AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,715+ installable SKILL.md…"
+      },
+      "innovations": {
+        "zh": "…get. Core does not rank or recommend skills. Current release: V19.11.0. AAS Core supports local catalog inspection, agent-owned selection, stack validation, and plan preview. Apply and recovery remain experimental. Read the AAS Co…",
+        "en": "…get. Core does not rank or recommend skills. Current release: V19.11.0. AAS Core supports local catalog inspection, agent-owned selection, stack validation, and plan preview. Apply and recovery remain experimental. Read the AAS Co…"
+      },
+      "purpose_zh": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "purpose_en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "strengths_zh": "AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,715+ installable SKILL.md…",
+      "strengths_en": "AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse. Agentic Awesome Skills is a library of 2,715+ installable SKILL.md…",
+      "innovations_zh": "…get. Core does not rank or recommend skills. Current release: V19.11.0. AAS Core supports local catalog inspection, agent-owned selection, stack validation, and plan preview. Apply and recovery remain experimental. Read the AAS Co…",
+      "innovations_en": "…get. Core does not rank or recommend skills. Current release: V19.11.0. AAS Core supports local catalog inspection, agent-owned selection, stack validation, and plan preview. Apply and recovery remain experimental. Read the AAS Co…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
       "full_name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "topics": [],
-      "stars": 41810,
-      "stars_delta": 210,
-      "forks": 6940,
-      "forks_delta": 21,
+      "stars": 42033,
+      "stars_delta": 223,
+      "forks": 6966,
+      "forks_delta": 26,
       "html_url": "https://github.com/shiyu-coder/Kronos",
-      "snapshot_at": "2026-10-20T05:00:33.796Z",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
       "purpose": {
         "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
         "en": "Kronos: A Foundation Model for the Language of Financial Markets"
@@ -481,6 +606,59 @@
       "strengths_en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
       "innovations_zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
       "innovations_en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "stars": 94229,
+      "stars_delta": 98,
+      "forks": 23638,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vllm-project/vllm",
+      "snapshot_at": "2026-10-20T11:50:01.970Z",
+      "purpose": {
+        "zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "en": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+      },
+      "strengths": {
+        "zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
+        "en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…"
+      },
+      "innovations": {
+        "zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
+        "en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…"
+      },
+      "purpose_zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "purpose_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "strengths_zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
+      "strengths_en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
+      "innovations_zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
+      "innovations_en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
       "insights_source": "readme-excerpt"
     }
   ]
