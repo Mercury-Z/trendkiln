@@ -50,26 +50,302 @@
       "saved": false
     },
     {
-      "id": "1049",
+      "id": "1052",
       "title": {
-        "zh": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-        "en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories"
+        "zh": "Routing Middleware now supports Python",
+        "en": "Routing Middleware now supports Python"
+      },
+      "summary": {
+        "zh": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately f…",
+        "en": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately f…"
+      },
+      "title_zh": "Routing Middleware now supports Python",
+      "title_en": "Routing Middleware now supports Python",
+      "summary_zh": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately f…",
+      "summary_en": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately f…",
+      "title_text": "Routing Middleware now supports Python",
+      "summary_text": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately f…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
+      "published_at": "2026-10-21T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1053",
+      "title": {
+        "zh": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens"
+      },
+      "summary": {
+        "zh": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens appeared first on The GitHub Blog .",
+        "en": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens appeared first on The GitHub Blog ."
+      },
+      "title_zh": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "summary_zh": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens appeared first on The GitHub Blog .",
+      "summary_en": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens appeared first on The GitHub Blog .",
+      "title_text": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "summary_text": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "published_at": "2026-10-21T16:43:23.000Z",
+      "tags": [
+        "Release",
+        "application security",
+        "client apps"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1054",
+      "title": {
+        "zh": "Panache — RTS Belle Époque pour mobile",
+        "en": "Panache — RTS Belle Époque pour mobile"
+      },
+      "summary": {
+        "zh": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile …",
+        "en": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile …"
+      },
+      "title_zh": "Panache — RTS Belle Époque pour mobile",
+      "title_en": "Panache — RTS Belle Époque pour mobile",
+      "summary_zh": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile …",
+      "summary_en": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile …",
+      "title_text": "Panache — RTS Belle Époque pour mobile",
+      "summary_text": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile …",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "published_at": "2026-10-21T16:25:16.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1055",
+      "title": {
+        "zh": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium."
       },
       "summary": {
         "zh": "",
         "en": ""
       },
-      "title_zh": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "title_en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "title_zh": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "summary_zh": "",
       "summary_en": "",
-      "title_text": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "title_text": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "summary_text": "",
       "source_id": "8",
       "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-      "published_at": "2026-10-21T10:59:42.000Z",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published_at": "2026-10-21T16:04:43.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1056",
+      "title": {
+        "zh": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published_at": "2026-10-21T14:58:18.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1057",
+      "title": {
+        "zh": "0.164.0-alpha.9",
+        "en": "0.164.0-alpha.9"
+      },
+      "summary": {
+        "zh": "Release 0.164.0-alpha.9",
+        "en": "Release 0.164.0-alpha.9"
+      },
+      "title_zh": "0.164.0-alpha.9",
+      "title_en": "0.164.0-alpha.9",
+      "summary_zh": "Release 0.164.0-alpha.9",
+      "summary_en": "Release 0.164.0-alpha.9",
+      "title_text": "0.164.0-alpha.9",
+      "summary_text": "Release 0.164.0-alpha.9",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.9",
+      "published_at": "2026-10-21T14:19:35.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1058",
+      "title": {
+        "zh": "Claude Mods: Flipping the Harness Inside Out",
+        "en": "Claude Mods: Flipping the Harness Inside Out"
+      },
+      "summary": {
+        "zh": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+        "en": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human."
+      },
+      "title_zh": "Claude Mods: Flipping the Harness Inside Out",
+      "title_en": "Claude Mods: Flipping the Harness Inside Out",
+      "summary_zh": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "summary_en": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "title_text": "Claude Mods: Flipping the Harness Inside Out",
+      "summary_text": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://www.latent.space/p/claude-mods",
+      "published_at": "2026-10-21T13:04:19.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1059",
+      "title": {
+        "zh": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+      },
+      "summary": {
+        "zh": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+        "en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+      },
+      "title_zh": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary_zh": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "summary_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "title_text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary_text": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published_at": "2026-10-21T13:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1060",
+      "title": {
+        "zh": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "published_at": "2026-10-21T12:51:24.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1061",
+      "title": {
+        "zh": "OpenAI models are coming to Google Cloud",
+        "en": "OpenAI models are coming to Google Cloud"
+      },
+      "summary": {
+        "zh": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+        "en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+      },
+      "title_zh": "OpenAI models are coming to Google Cloud",
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "summary_zh": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "title_text": "OpenAI models are coming to Google Cloud",
+      "summary_text": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published_at": "2026-10-21T12:00:00.000Z",
+      "tags": [
+        "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1062",
+      "title": {
+        "zh": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "en": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+      },
+      "summary": {
+        "zh": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+        "en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+      },
+      "title_zh": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "title_en": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary_zh": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "summary_en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "title_text": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary_text": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published_at": "2026-10-21T07:00:00.000Z",
+      "tags": [
+        "Security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1063",
+      "title": {
+        "zh": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "en": "How we built ChatGPT’s novel ad stack for user trust and relevance"
+      },
+      "summary": {
+        "zh": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+        "en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+      },
+      "title_zh": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "title_en": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary_zh": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "summary_en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "title_text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary_text": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published_at": "2026-10-21T07:00:00.000Z",
+      "tags": [
+        "Engineering"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -122,6 +398,32 @@
       "saved": false
     },
     {
+      "id": "1064",
+      "title": {
+        "zh": "Using thousands of AI agents to uncover new leads in biological data",
+        "en": "Using thousands of AI agents to uncover new leads in biological data"
+      },
+      "summary": {
+        "zh": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+        "en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+      },
+      "title_zh": "Using thousands of AI agents to uncover new leads in biological data",
+      "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary_zh": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "summary_en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "title_text": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary_text": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published_at": "2026-10-21T04:50:00.000Z",
+      "tags": [
+        "Publication"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1045",
       "title": {
         "zh": "Southeast Asia’s digital economy to hit $368 billion",
@@ -145,6 +447,30 @@
         "Google in Asia",
         "AI"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1065",
+      "title": {
+        "zh": "Skipped monorepo deployments no longer count against limits",
+        "en": "Skipped monorepo deployments no longer count against limits"
+      },
+      "summary": {
+        "zh": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and loc…",
+        "en": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and loc…"
+      },
+      "title_zh": "Skipped monorepo deployments no longer count against limits",
+      "title_en": "Skipped monorepo deployments no longer count against limits",
+      "summary_zh": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and loc…",
+      "summary_en": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and loc…",
+      "title_text": "Skipped monorepo deployments no longer count against limits",
+      "summary_text": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and loc…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1369,34 +1695,6 @@
       "saved": false
     },
     {
-      "id": "988",
-      "title": {
-        "zh": "Open source license compliance generally available",
-        "en": "Open source license compliance generally available"
-      },
-      "summary": {
-        "zh": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Bl…",
-        "en": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Bl…"
-      },
-      "title_zh": "Open source license compliance generally available",
-      "title_en": "Open source license compliance generally available",
-      "summary_zh": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Bl…",
-      "summary_en": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Bl…",
-      "title_text": "Open source license compliance generally available",
-      "summary_text": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Bl…",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "published_at": "2026-10-16T14:00:32.000Z",
-      "tags": [
-        "Release",
-        "supply chain security",
-        "universe26"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "989",
       "title": {
         "zh": "Vercel and Shopify make agents first-class shoppers",
@@ -1445,28 +1743,26 @@
       "saved": false
     },
     {
-      "id": "992",
+      "id": "1066",
       "title": {
-        "zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "en": "Stack Overflow for Agents triples signups with ChatGPT plugin"
+        "zh": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+        "en": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
       },
       "summary": {
-        "zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-        "en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+        "zh": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive us…",
+        "en": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive us…"
       },
-      "title_zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "summary_en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "title_text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_text": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published_at": "2026-10-16T00:00:00.000Z",
-      "tags": [
-        "Startup"
-      ],
+      "title_zh": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "title_en": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "summary_zh": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive us…",
+      "summary_en": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive us…",
+      "title_text": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "summary_text": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive us…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+      "published_at": "2026-10-16T01:58:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1491,6 +1787,32 @@
       "url": "https://openai.com/index/benefit-street-partners",
       "published_at": "2026-10-16T00:00:00.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "992",
+      "title": {
+        "zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "en": "Stack Overflow for Agents triples signups with ChatGPT plugin"
+      },
+      "summary": {
+        "zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+      },
+      "title_zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary_zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "summary_en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title_text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary_text": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "tags": [
+        "Startup"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -1615,30 +1937,6 @@
       "saved": false
     },
     {
-      "id": "958",
-      "title": {
-        "zh": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "published_at": "2026-10-15T20:34:01.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "960",
       "title": {
         "zh": "Chirp Pong",
@@ -1685,296 +1983,6 @@
       "tags": [
         "Research"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "948",
-      "title": {
-        "zh": "0.163.0-alpha.10.2",
-        "en": "0.163.0-alpha.10.2"
-      },
-      "summary": {
-        "zh": "Release 0.163.0-alpha.10.2",
-        "en": "Release 0.163.0-alpha.10.2"
-      },
-      "title_zh": "0.163.0-alpha.10.2",
-      "title_en": "0.163.0-alpha.10.2",
-      "summary_zh": "Release 0.163.0-alpha.10.2",
-      "summary_en": "Release 0.163.0-alpha.10.2",
-      "title_text": "0.163.0-alpha.10.2",
-      "summary_text": "Release 0.163.0-alpha.10.2",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.10.2",
-      "published_at": "2026-10-15T18:33:04.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "983",
-      "title": {
-        "zh": "Vercel Ship 2026 recap",
-        "en": "Vercel Ship 2026 recap"
-      },
-      "summary": {
-        "zh": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and thousands of people gathered across London, Berlin, New York, Sydney, and San Francisco to do just that at Vercel Ship …",
-        "en": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and thousands of people gathered across London, Berlin, New York, Sydney, and San Francisco to do just that at Vercel Ship …"
-      },
-      "title_zh": "Vercel Ship 2026 recap",
-      "title_en": "Vercel Ship 2026 recap",
-      "summary_zh": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and thousands of people gathered across London, Berlin, New York, Sydney, and San Francisco to do just that at Vercel Ship …",
-      "summary_en": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and thousands of people gathered across London, Berlin, New York, Sydney, and San Francisco to do just that at Vercel Ship …",
-      "title_text": "Vercel Ship 2026 recap",
-      "summary_text": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and thousands of people gathered across London, Berlin, New York, Sydney, and San Francisco to do just that at Vercel Ship …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-      "published_at": "2026-10-15T16:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "952",
-      "title": {
-        "zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
-      },
-      "summary": {
-        "zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the ar…",
-        "en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the ar…"
-      },
-      "title_zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "title_en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary_zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the ar…",
-      "summary_en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the ar…",
-      "title_text": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary_text": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the ar…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "published_at": "2026-10-15T13:04:03.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "953",
-      "title": {
-        "zh": "Teaching students to think and learn through questions",
-        "en": "Teaching students to think and learn through questions"
-      },
-      "summary": {
-        "zh": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-        "en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      },
-      "title_zh": "Teaching students to think and learn through questions",
-      "title_en": "Teaching students to think and learn through questions",
-      "summary_zh": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "summary_en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "title_text": "Teaching students to think and learn through questions",
-      "summary_text": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published_at": "2026-10-15T13:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "947",
-      "title": {
-        "zh": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-        "en": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr"
-      },
-      "summary": {
-        "zh": "Sandboxes are all you need.",
-        "en": "Sandboxes are all you need."
-      },
-      "title_zh": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "title_en": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summary_zh": "Sandboxes are all you need.",
-      "summary_en": "Sandboxes are all you need.",
-      "title_text": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summary_text": "Sandboxes are all you need.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "published_at": "2026-10-15T10:08:08.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1012",
-      "title": {
-        "zh": "Apertus 1.5 Release Notes",
-        "en": "Apertus 1.5 Release Notes"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Apertus 1.5 Release Notes",
-      "title_en": "Apertus 1.5 Release Notes",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Apertus 1.5 Release Notes",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published_at": "2026-10-15T09:08:45.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "962",
-      "title": {
-        "zh": "Open weight takes 71.5% of tokens and 23% of spend",
-        "en": "Open weight takes 71.5% of tokens and 23% of spend"
-      },
-      "summary": {
-        "zh": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August…",
-        "en": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August…"
-      },
-      "title_zh": "Open weight takes 71.5% of tokens and 23% of spend",
-      "title_en": "Open weight takes 71.5% of tokens and 23% of spend",
-      "summary_zh": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August…",
-      "summary_en": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August…",
-      "title_text": "Open weight takes 71.5% of tokens and 23% of spend",
-      "summary_text": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "963",
-      "title": {
-        "zh": "Vercel for Enterprise",
-        "en": "Vercel for Enterprise"
-      },
-      "summary": {
-        "zh": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders c…",
-        "en": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders c…"
-      },
-      "title_zh": "Vercel for Enterprise",
-      "title_en": "Vercel for Enterprise",
-      "summary_zh": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders c…",
-      "summary_en": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders c…",
-      "title_text": "Vercel for Enterprise",
-      "summary_text": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders c…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/vercel-for-enterprise",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "964",
-      "title": {
-        "zh": "Introducing Vercel Drives: persistent storage for agents",
-        "en": "Introducing Vercel Drives: persistent storage for agents"
-      },
-      "summary": {
-        "zh": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its ex…",
-        "en": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its ex…"
-      },
-      "title_zh": "Introducing Vercel Drives: persistent storage for agents",
-      "title_en": "Introducing Vercel Drives: persistent storage for agents",
-      "summary_zh": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its ex…",
-      "summary_en": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its ex…",
-      "title_text": "Introducing Vercel Drives: persistent storage for agents",
-      "summary_text": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its ex…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "965",
-      "title": {
-        "zh": "Backends on Vercel: Python, containers, and Daemons",
-        "en": "Backends on Vercel: Python, containers, and Daemons"
-      },
-      "summary": {
-        "zh": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backe…",
-        "en": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backe…"
-      },
-      "title_zh": "Backends on Vercel: Python, containers, and Daemons",
-      "title_en": "Backends on Vercel: Python, containers, and Daemons",
-      "summary_zh": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backe…",
-      "summary_en": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backe…",
-      "title_text": "Backends on Vercel: Python, containers, and Daemons",
-      "summary_text": "Last year, we expanded zero-config support for Python and TypeScript backend frameworks. By this summer, developers could deploy their frontend and backend together with Vercel Services and coordinate background work with queues and durable workflows . Today at Vercel Ship in San Francisco , we are expanding the backe…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "966",
-      "title": {
-        "zh": "Python on Vercel is now generally available",
-        "en": "Python on Vercel is now generally available"
-      },
-      "summary": {
-        "zh": "Python on Vercel is now generally available. Build and run Python applications with the frameworks, libraries, and tools you already use. Vercel automatically detects supported frameworks and configures the build and deployment. Your applications run on Fluid compute, which manages concurrent requests and scales with …",
-        "en": "Python on Vercel is now generally available. Build and run Python applications with the frameworks, libraries, and tools you already use. Vercel automatically detects supported frameworks and configures the build and deployment. Your applications run on Fluid compute, which manages concurrent requests and scales with …"
-      },
-      "title_zh": "Python on Vercel is now generally available",
-      "title_en": "Python on Vercel is now generally available",
-      "summary_zh": "Python on Vercel is now generally available. Build and run Python applications with the frameworks, libraries, and tools you already use. Vercel automatically detects supported frameworks and configures the build and deployment. Your applications run on Fluid compute, which manages concurrent requests and scales with …",
-      "summary_en": "Python on Vercel is now generally available. Build and run Python applications with the frameworks, libraries, and tools you already use. Vercel automatically detects supported frameworks and configures the build and deployment. Your applications run on Fluid compute, which manages concurrent requests and scales with …",
-      "title_text": "Python on Vercel is now generally available",
-      "summary_text": "Python on Vercel is now generally available. Build and run Python applications with the frameworks, libraries, and tools you already use. Vercel automatically detects supported frameworks and configures the build and deployment. Your applications run on Fluid compute, which manages concurrent requests and scales with …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/python-on-vercel-is-now-generally-available",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "967",
-      "title": {
-        "zh": "Introducing Token Pass",
-        "en": "Introducing Token Pass"
-      },
-      "summary": {
-        "zh": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , s…",
-        "en": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , s…"
-      },
-      "title_zh": "Introducing Token Pass",
-      "title_en": "Introducing Token Pass",
-      "summary_zh": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , s…",
-      "summary_en": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , s…",
-      "title_text": "Introducing Token Pass",
-      "summary_text": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , s…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/introducing-token-pass",
-      "published_at": "2026-10-15T07:00:00.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     }
