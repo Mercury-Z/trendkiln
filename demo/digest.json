@@ -15,18 +15,18 @@
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "signal": {
-        "zh": "+1,015 星标",
-        "en": "+1,015 stars"
+        "zh": "+1,007 星标",
+        "en": "+1,007 stars"
       },
       "title_zh": "cloudflare/security-audit-skill 星标异动",
       "title_en": "cloudflare/security-audit-skill star surge",
       "subtitle_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "subtitle_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "signal_zh": "+1,015 星标",
-      "signal_en": "+1,015 stars",
+      "signal_zh": "+1,007 星标",
+      "signal_en": "+1,007 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
       "entity_id": "repo:cloudflare/security-audit-skill"
     },
     {
@@ -67,48 +67,308 @@
         "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
       },
       "signal": {
-        "zh": "+552 星标",
-        "en": "+552 stars"
+        "zh": "+593 星标",
+        "en": "+593 stars"
       },
       "title_zh": "DietrichGebert/ponytail 星标异动",
       "title_en": "DietrichGebert/ponytail star surge",
       "subtitle_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "subtitle_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "signal_zh": "+552 星标",
-      "signal_en": "+552 stars",
+      "signal_zh": "+593 星标",
+      "signal_en": "+593 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
       "entity_id": "repo:DietrichGebert/ponytail"
     },
     {
       "id": "4",
       "type": "github_surge",
       "title": {
-        "zh": "stablyai/orca 星标异动",
-        "en": "stablyai/orca star surge"
+        "zh": "luongnv89/claude-howto 星标异动",
+        "en": "luongnv89/claude-howto star surge"
       },
       "subtitle": {
-        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+        "zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
       },
       "signal": {
-        "zh": "+506 星标",
-        "en": "+506 stars"
+        "zh": "+428 星标",
+        "en": "+428 stars"
       },
-      "title_zh": "stablyai/orca 星标异动",
-      "title_en": "stablyai/orca star surge",
-      "subtitle_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "subtitle_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "signal_zh": "+506 星标",
-      "signal_en": "+506 stars",
+      "title_zh": "luongnv89/claude-howto 星标异动",
+      "title_en": "luongnv89/claude-howto star surge",
+      "subtitle_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "subtitle_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "signal_zh": "+428 星标",
+      "signal_en": "+428 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/stablyai/orca",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:stablyai/orca"
+      "url": "https://github.com/luongnv89/claude-howto",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:luongnv89/claude-howto"
     },
     {
       "id": "5",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.164.0-alpha.12",
+        "en": "0.164.0-alpha.12"
+      },
+      "subtitle": {
+        "zh": "Release 0.164.0-alpha.12",
+        "en": "Release 0.164.0-alpha.12"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "0.164.0-alpha.12",
+      "title_en": "0.164.0-alpha.12",
+      "subtitle_zh": "Release 0.164.0-alpha.12",
+      "subtitle_en": "Release 0.164.0-alpha.12",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.12",
+      "occurred_at": "2026-10-22T11:27:02.000Z",
+      "entity_id": "feed:1078"
+    },
+    {
+      "id": "6",
+      "type": "github_surge",
+      "title": {
+        "zh": "Graphify-Labs/graphify 星标异动",
+        "en": "Graphify-Labs/graphify star surge"
+      },
+      "subtitle": {
+        "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+      },
+      "signal": {
+        "zh": "+414 星标",
+        "en": "+414 stars"
+      },
+      "title_zh": "Graphify-Labs/graphify 星标异动",
+      "title_en": "Graphify-Labs/graphify star surge",
+      "subtitle_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "subtitle_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "signal_zh": "+414 星标",
+      "signal_en": "+414 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:Graphify-Labs/graphify"
+    },
+    {
+      "id": "7",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/knowledge-work-plugins 星标异动",
+        "en": "anthropics/knowledge-work-plugins star surge"
+      },
+      "subtitle": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "signal": {
+        "zh": "+303 星标",
+        "en": "+303 stars"
+      },
+      "title_zh": "anthropics/knowledge-work-plugins 星标异动",
+      "title_en": "anthropics/knowledge-work-plugins star surge",
+      "subtitle_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "subtitle_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "signal_zh": "+303 星标",
+      "signal_en": "+303 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:anthropics/knowledge-work-plugins"
+    },
+    {
+      "id": "8",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Ensemble forecasting with IBM Granite time-series models",
+        "en": "Ensemble forecasting with IBM Granite time-series models"
+      },
+      "subtitle": {
+        "zh": "",
+        "en": ""
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Ensemble forecasting with IBM Granite time-series models",
+      "title_en": "Ensemble forecasting with IBM Granite time-series models",
+      "subtitle_zh": "",
+      "subtitle_en": "",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "occurred_at": "2026-10-22T07:51:31.000Z",
+      "entity_id": "feed:1079"
+    },
+    {
+      "id": "9",
+      "type": "github_surge",
+      "title": {
+        "zh": "supabase/supabase 星标异动",
+        "en": "supabase/supabase star surge"
+      },
+      "subtitle": {
+        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+      },
+      "signal": {
+        "zh": "+148 星标",
+        "en": "+148 stars"
+      },
+      "title_zh": "supabase/supabase 星标异动",
+      "title_en": "supabase/supabase star surge",
+      "subtitle_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "subtitle_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "signal_zh": "+148 星标",
+      "signal_en": "+148 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/supabase/supabase",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:supabase/supabase"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "Meloong-Git/PCL 星标异动",
+        "en": "Meloong-Git/PCL star surge"
+      },
+      "subtitle": {
+        "zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+        "en": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
+      },
+      "signal": {
+        "zh": "+115 星标",
+        "en": "+115 stars"
+      },
+      "title_zh": "Meloong-Git/PCL 星标异动",
+      "title_en": "Meloong-Git/PCL star surge",
+      "subtitle_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "subtitle_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "signal_zh": "+115 星标",
+      "signal_en": "+115 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:Meloong-Git/PCL"
+    },
+    {
+      "id": "11",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+        "en": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months"
+      },
+      "subtitle": {
+        "zh": "The Big Hardening begins",
+        "en": "The Big Hardening begins"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "title_en": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "subtitle_zh": "The Big Hardening begins",
+      "subtitle_en": "The Big Hardening begins",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "occurred_at": "2026-10-22T07:42:44.000Z",
+      "entity_id": "feed:1080"
+    },
+    {
+      "id": "12",
+      "type": "github_surge",
+      "title": {
+        "zh": "php/php-src 星标异动",
+        "en": "php/php-src star surge"
+      },
+      "subtitle": {
+        "zh": "The PHP Interpreter",
+        "en": "The PHP Interpreter"
+      },
+      "signal": {
+        "zh": "+110 星标",
+        "en": "+110 stars"
+      },
+      "title_zh": "php/php-src 星标异动",
+      "title_en": "php/php-src star surge",
+      "subtitle_zh": "The PHP Interpreter",
+      "subtitle_en": "The PHP Interpreter",
+      "signal_zh": "+110 星标",
+      "signal_en": "+110 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/php/php-src",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:php/php-src"
+    },
+    {
+      "id": "13",
+      "type": "github_surge",
+      "title": {
+        "zh": "fastapi/fastapi 星标异动",
+        "en": "fastapi/fastapi star surge"
+      },
+      "subtitle": {
+        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+      },
+      "signal": {
+        "zh": "+96 星标",
+        "en": "+96 stars"
+      },
+      "title_zh": "fastapi/fastapi 星标异动",
+      "title_en": "fastapi/fastapi star surge",
+      "subtitle_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "subtitle_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "signal_zh": "+96 星标",
+      "signal_en": "+96 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/fastapi/fastapi",
+      "occurred_at": "2026-10-22T12:04:51.613Z",
+      "entity_id": "repo:fastapi/fastapi"
+    },
+    {
+      "id": "14",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.163.0-alpha.11.2",
+        "en": "0.163.0-alpha.11.2"
+      },
+      "subtitle": {
+        "zh": "Release 0.163.0-alpha.11.2",
+        "en": "Release 0.163.0-alpha.11.2"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "0.163.0-alpha.11.2",
+      "title_en": "0.163.0-alpha.11.2",
+      "subtitle_zh": "Release 0.163.0-alpha.11.2",
+      "subtitle_en": "Release 0.163.0-alpha.11.2",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11.2",
+      "occurred_at": "2026-10-22T06:47:07.000Z",
+      "entity_id": "feed:1081"
+    },
+    {
+      "id": "15",
       "type": "feed_must_read",
       "title": {
         "zh": "0.164.0-alpha.11",
@@ -134,59 +394,7 @@
       "entity_id": "feed:1074"
     },
     {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "Graphify-Labs/graphify 星标异动",
-        "en": "Graphify-Labs/graphify star surge"
-      },
-      "subtitle": {
-        "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
-      },
-      "signal": {
-        "zh": "+360 星标",
-        "en": "+360 stars"
-      },
-      "title_zh": "Graphify-Labs/graphify 星标异动",
-      "title_en": "Graphify-Labs/graphify star surge",
-      "subtitle_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "subtitle_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "signal_zh": "+360 星标",
-      "signal_en": "+360 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:Graphify-Labs/graphify"
-    },
-    {
-      "id": "7",
-      "type": "github_surge",
-      "title": {
-        "zh": "twentyhq/twenty 星标异动",
-        "en": "twentyhq/twenty star surge"
-      },
-      "subtitle": {
-        "zh": "The open alternative to Salesforce, designed for AI.",
-        "en": "The open alternative to Salesforce, designed for AI."
-      },
-      "signal": {
-        "zh": "+216 星标",
-        "en": "+216 stars"
-      },
-      "title_zh": "twentyhq/twenty 星标异动",
-      "title_en": "twentyhq/twenty star surge",
-      "subtitle_zh": "The open alternative to Salesforce, designed for AI.",
-      "subtitle_en": "The open alternative to Salesforce, designed for AI.",
-      "signal_zh": "+216 星标",
-      "signal_en": "+216 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/twentyhq/twenty",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:twentyhq/twenty"
-    },
-    {
-      "id": "8",
+      "id": "16",
       "type": "feed_must_read",
       "title": {
         "zh": "0.164.0-alpha.10",
@@ -212,59 +420,7 @@
       "entity_id": "feed:1075"
     },
     {
-      "id": "9",
-      "type": "github_surge",
-      "title": {
-        "zh": "Comfy-Org/ComfyUI 星标异动",
-        "en": "Comfy-Org/ComfyUI star surge"
-      },
-      "subtitle": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-      },
-      "signal": {
-        "zh": "+202 星标",
-        "en": "+202 stars"
-      },
-      "title_zh": "Comfy-Org/ComfyUI 星标异动",
-      "title_en": "Comfy-Org/ComfyUI star surge",
-      "subtitle_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "subtitle_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "signal_zh": "+202 星标",
-      "signal_en": "+202 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:Comfy-Org/ComfyUI"
-    },
-    {
-      "id": "10",
-      "type": "github_surge",
-      "title": {
-        "zh": "akitaonrails/ai-memory 星标异动",
-        "en": "akitaonrails/ai-memory star surge"
-      },
-      "subtitle": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-      },
-      "signal": {
-        "zh": "+202 星标",
-        "en": "+202 stars"
-      },
-      "title_zh": "akitaonrails/ai-memory 星标异动",
-      "title_en": "akitaonrails/ai-memory star surge",
-      "subtitle_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "subtitle_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "signal_zh": "+202 星标",
-      "signal_en": "+202 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:akitaonrails/ai-memory"
-    },
-    {
-      "id": "11",
+      "id": "17",
       "type": "feed_must_read",
       "title": {
         "zh": "0.163.0-alpha.11.1",
@@ -290,59 +446,7 @@
       "entity_id": "feed:1067"
     },
     {
-      "id": "12",
-      "type": "github_surge",
-      "title": {
-        "zh": "supabase/supabase 星标异动",
-        "en": "supabase/supabase star surge"
-      },
-      "subtitle": {
-        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-      },
-      "signal": {
-        "zh": "+192 星标",
-        "en": "+192 stars"
-      },
-      "title_zh": "supabase/supabase 星标异动",
-      "title_en": "supabase/supabase star surge",
-      "subtitle_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "subtitle_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "signal_zh": "+192 星标",
-      "signal_en": "+192 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/supabase/supabase",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:supabase/supabase"
-    },
-    {
-      "id": "13",
-      "type": "github_surge",
-      "title": {
-        "zh": "strelov1/freehire 星标异动",
-        "en": "strelov1/freehire star surge"
-      },
-      "subtitle": {
-        "zh": "freehire — the open-source search engine for job seekers",
-        "en": "freehire — the open-source search engine for job seekers"
-      },
-      "signal": {
-        "zh": "+191 星标",
-        "en": "+191 stars"
-      },
-      "title_zh": "strelov1/freehire 星标异动",
-      "title_en": "strelov1/freehire star surge",
-      "subtitle_zh": "freehire — the open-source search engine for job seekers",
-      "subtitle_en": "freehire — the open-source search engine for job seekers",
-      "signal_zh": "+191 星标",
-      "signal_en": "+191 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/strelov1/freehire",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:strelov1/freehire"
-    },
-    {
-      "id": "14",
+      "id": "18",
       "type": "feed_must_read",
       "title": {
         "zh": "Broad access through consistent standards",
@@ -368,59 +472,7 @@
       "entity_id": "feed:1076"
     },
     {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "headroomlabs-ai/headroom 星标异动",
-        "en": "headroomlabs-ai/headroom star surge"
-      },
-      "subtitle": {
-        "zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
-      },
-      "signal": {
-        "zh": "+156 星标",
-        "en": "+156 stars"
-      },
-      "title_zh": "headroomlabs-ai/headroom 星标异动",
-      "title_en": "headroomlabs-ai/headroom star surge",
-      "subtitle_zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "subtitle_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "signal_zh": "+156 星标",
-      "signal_en": "+156 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:headroomlabs-ai/headroom"
-    },
-    {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "shiyu-coder/Kronos 星标异动",
-        "en": "shiyu-coder/Kronos star surge"
-      },
-      "subtitle": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets"
-      },
-      "signal": {
-        "zh": "+151 星标",
-        "en": "+151 stars"
-      },
-      "title_zh": "shiyu-coder/Kronos 星标异动",
-      "title_en": "shiyu-coder/Kronos star surge",
-      "subtitle_zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "subtitle_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "signal_zh": "+151 星标",
-      "signal_en": "+151 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:shiyu-coder/Kronos"
-    },
-    {
-      "id": "17",
+      "id": "19",
       "type": "feed_must_read",
       "title": {
         "zh": "Today's PHP Security Release, and How We're Strengthening PHP Security",
@@ -446,33 +498,7 @@
       "entity_id": "feed:1068"
     },
     {
-      "id": "18",
-      "type": "github_surge",
-      "title": {
-        "zh": "vllm-project/vllm 星标异动",
-        "en": "vllm-project/vllm star surge"
-      },
-      "subtitle": {
-        "zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "en": "A high-throughput and memory-efficient inference and serving engine for LLMs"
-      },
-      "signal": {
-        "zh": "+145 星标",
-        "en": "+145 stars"
-      },
-      "title_zh": "vllm-project/vllm 星标异动",
-      "title_en": "vllm-project/vllm star surge",
-      "subtitle_zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "subtitle_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "signal_zh": "+145 星标",
-      "signal_en": "+145 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/vllm-project/vllm",
-      "occurred_at": "2026-10-22T05:02:00.660Z",
-      "entity_id": "repo:vllm-project/vllm"
-    },
-    {
-      "id": "19",
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
@@ -496,32 +522,6 @@
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "occurred_at": "2026-10-21T18:26:30.000Z",
       "entity_id": "feed:1069"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
-      },
-      "subtitle": {
-        "zh": "",
-        "en": ""
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "title_en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "subtitle_zh": "",
-      "subtitle_en": "",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "occurred_at": "2026-10-21T17:35:36.000Z",
-      "entity_id": "feed:1070"
     }
   ]
 }

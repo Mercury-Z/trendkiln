@@ -18,197 +18,70 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
+      "full_name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
       "topics": [],
-      "stars": 37082,
-      "stars_delta": 1015,
-      "forks": 2308,
-      "forks_delta": 50,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
+      "stars": 40779,
+      "stars_delta": 110,
+      "forks": 8271,
+      "forks_delta": 0,
+      "html_url": "https://github.com/php/php-src",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
       "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        "zh": "The PHP Interpreter",
+        "en": "The PHP Interpreter"
       },
       "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+        "zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+        "en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…"
       },
       "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+        "zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+        "en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…"
       },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "purpose_zh": "The PHP Interpreter",
+      "purpose_en": "The PHP Interpreter",
+      "strengths_zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "strengths_en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "innovations_zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "innovations_en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
-      "full_name": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "topics": [
-        "amd",
-        "blackwell",
-        "cuda",
-        "deepseek",
-        "deepseek-v3",
-        "gpt",
-        "gpt-oss",
-        "inference",
-        "kimi",
-        "llama",
-        "llm",
-        "llm-serving",
-        "model-serving",
-        "moe",
-        "openai",
-        "pytorch",
-        "qwen",
-        "qwen3",
-        "tpu",
-        "transformer"
-      ],
-      "stars": 94966,
-      "stars_delta": 145,
-      "forks": 23766,
-      "forks_delta": 30,
-      "html_url": "https://github.com/vllm-project/vllm",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
+      "topics": [],
+      "stars": 31298,
+      "stars_delta": 303,
+      "forks": 3507,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
       "purpose": {
-        "zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "en": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
       },
       "strengths": {
-        "zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-        "en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…"
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
       },
       "innovations": {
-        "zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
-        "en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…"
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
       },
-      "purpose_zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "purpose_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "strengths_zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-      "strengths_en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-      "innovations_zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
-      "innovations_en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
-      "full_name": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "automation",
-        "bot",
-        "claude-code",
-        "codex",
-        "ghostty",
-        "grok-bot",
-        "hermes-agent",
-        "mobile-app",
-        "muse",
-        "openclaw",
-        "opencode",
-        "orchestration",
-        "pi",
-        "runtime",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "stars": 101629,
-      "stars_delta": 506,
-      "forks": 6426,
-      "forks_delta": 31,
-      "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-      },
-      "strengths": {
-        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
-      },
-      "innovations": {
-        "zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-        "en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…"
-      },
-      "purpose_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "purpose_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "innovations_zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-      "innovations_en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "compression",
-        "context-engineering",
-        "context-window",
-        "cursor",
-        "fastapi",
-        "langchain",
-        "llm",
-        "mcp",
-        "openai",
-        "prompt-engineering",
-        "proxy",
-        "python",
-        "rag",
-        "token-optimization",
-        "tokens",
-        "typescript"
-      ],
-      "stars": 77357,
-      "stars_delta": 156,
-      "forks": 6007,
-      "forks_delta": 18,
-      "html_url": "https://github.com/headroomlabs-ai/headroom",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
-      },
-      "strengths": {
-        "zh": "Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool out…",
-        "en": "Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool out…"
-      },
-      "innovations": {
-        "zh": "…file content is sent anywhere to be compressed. 10,144 → 1,260 tokens. The same FATAL found. What it does - Library — compress(messages) in Python or TypeScript, inline in any app. - Proxy — headroom proxy --port 8787, zero code c…",
-        "en": "…file content is sent anywhere to be compressed. 10,144 → 1,260 tokens. The same FATAL found. What it does - Library — compress(messages) in Python or TypeScript, inline in any app. - Proxy — headroom proxy --port 8787, zero code c…"
-      },
-      "purpose_zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "purpose_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "strengths_zh": "Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool out…",
-      "strengths_en": "Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything your AI agent reads — tool out…",
-      "innovations_zh": "…file content is sent anywhere to be compressed. 10,144 → 1,260 tokens. The same FATAL found. What it does - Library — compress(messages) in Python or TypeScript, inline in any app. - Proxy — headroom proxy --port 8787, zero code c…",
-      "innovations_en": "…file content is sent anywhere to be compressed. 10,144 → 1,260 tokens. The same FATAL found. What it does - Library — compress(messages) in Python or TypeScript, inline in any app. - Proxy — headroom proxy --port 8787, zero code c…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
@@ -224,12 +97,12 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 171991,
-      "stars_delta": 552,
-      "forks": 9357,
-      "forks_delta": 23,
+      "stars": 172584,
+      "stars_delta": 593,
+      "forks": 9384,
+      "forks_delta": 27,
       "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
       "purpose": {
         "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
@@ -251,265 +124,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "stars": 141653,
-      "stars_delta": 202,
-      "forks": 16738,
-      "forks_delta": 17,
-      "html_url": "https://github.com/Comfy-Org/ComfyUI",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-      },
-      "strengths": {
-        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
-      },
-      "innovations": {
-        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
-      },
-      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
-      ],
-      "stars": 113124,
-      "stars_delta": 192,
-      "forks": 16966,
-      "forks_delta": 58,
-      "html_url": "https://github.com/supabase/supabase",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-      },
-      "strengths": {
-        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
-      },
-      "innovations": {
-        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
-      },
-      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "topics": [
-        "crm",
-        "crm-system",
-        "customer",
-        "good-first-issue",
-        "graphql",
-        "hacktoberfest",
-        "javascript",
-        "marketing",
-        "monorepo",
-        "nestjs",
-        "open-source",
-        "postgresql",
-        "react",
-        "reactjs",
-        "sales",
-        "typescript",
-        "web"
-      ],
-      "stars": 59311,
-      "stars_delta": 216,
-      "forks": 9669,
-      "forks_delta": 12,
-      "html_url": "https://github.com/twentyhq/twenty",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "The open alternative to Salesforce, designed for AI.",
-        "en": "The open alternative to Salesforce, designed for AI."
-      },
-      "strengths": {
-        "zh": "The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves.…",
-        "en": "The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves.…"
-      },
-      "innovations": {
-        "zh": "…p at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date. Build an app Scaffold a new app with the Twenty CLI: Define objects, fields, and views as code: Then ship it to you…",
-        "en": "…p at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date. Build an app Scaffold a new app with the Twenty CLI: Define objects, fields, and views as code: Then ship it to you…"
-      },
-      "purpose_zh": "The open alternative to Salesforce, designed for AI.",
-      "purpose_en": "The open alternative to Salesforce, designed for AI.",
-      "strengths_zh": "The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves.…",
-      "strengths_en": "The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves.…",
-      "innovations_zh": "…p at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date. Build an app Scaffold a new app with the Twenty CLI: Define objects, fields, and views as code: Then ship it to you…",
-      "innovations_en": "…p at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date. Build an app Scaffold a new app with the Twenty CLI: Define objects, fields, and views as code: Then ship it to you…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
+      "rank": 4,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 42929,
-      "stars_delta": 151,
-      "forks": 7079,
-      "forks_delta": 14,
-      "html_url": "https://github.com/shiyu-coder/Kronos",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
+      "stars": 38089,
+      "stars_delta": 1007,
+      "forks": 2378,
+      "forks_delta": 70,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
       "purpose": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets"
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "strengths": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…"
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
       },
       "innovations": {
-        "zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
-        "en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…"
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
       },
-      "purpose_zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "purpose_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "strengths_zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-      "strengths_en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-      "innovations_zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
-      "innovations_en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "language": "Go",
-      "topics": [
-        "ats",
-        "career",
-        "careers",
-        "golang",
-        "hiring",
-        "job-aggregator",
-        "job-board",
-        "job-portal",
-        "job-scraper",
-        "job-search",
-        "jobs",
-        "langchain",
-        "llm",
-        "meilisearch",
-        "postgresql",
-        "recruitment",
-        "remote-jobs",
-        "self-hosted",
-        "svelte",
-        "sveltekit"
-      ],
-      "stars": 2519,
-      "stars_delta": 191,
-      "forks": 249,
-      "forks_delta": 6,
-      "html_url": "https://github.com/strelov1/freehire",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "freehire — the open-source search engine for job seekers",
-        "en": "freehire — the open-source search engine for job seekers"
-      },
-      "strengths": {
-        "zh": "freehire Every IT job, straight from the source. 3.3M+ live postings pulled directly from company career pages — no recruiters, no reposts, no dead links. Fully open source. Try it live → · Features · Architecture · Sources · API…",
-        "en": "freehire Every IT job, straight from the source. 3.3M+ live postings pulled directly from company career pages — no recruiters, no reposts, no dead links. Fully open source. Try it live → · Features · Architecture · Sources · API…"
-      },
-      "innovations": {
-        "zh": "…IMS and a long tail of others — and links to the original posting. No recruiter reposts, no aggregator middlemen, no dead links. - One schema, deduplicated. The same role posted to three boards collapses into one entry: every post…",
-        "en": "…IMS and a long tail of others — and links to the original posting. No recruiter reposts, no aggregator middlemen, no dead links. - One schema, deduplicated. The same role posted to three boards collapses into one entry: every post…"
-      },
-      "purpose_zh": "freehire — the open-source search engine for job seekers",
-      "purpose_en": "freehire — the open-source search engine for job seekers",
-      "strengths_zh": "freehire Every IT job, straight from the source. 3.3M+ live postings pulled directly from company career pages — no recruiters, no reposts, no dead links. Fully open source. Try it live → · Features · Architecture · Sources · API…",
-      "strengths_en": "freehire Every IT job, straight from the source. 3.3M+ live postings pulled directly from company career pages — no recruiters, no reposts, no dead links. Fully open source. Try it live → · Features · Architecture · Sources · API…",
-      "innovations_zh": "…IMS and a long tail of others — and links to the original posting. No recruiter reposts, no aggregator middlemen, no dead links. - One schema, deduplicated. The same role posted to three boards collapses into one entry: every post…",
-      "innovations_en": "…IMS and a long tail of others — and links to the original posting. No recruiter reposts, no aggregator middlemen, no dead links. - One schema, deduplicated. The same role posted to three boards collapses into one entry: every post…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "topics": [],
-      "stars": 12467,
-      "stars_delta": 202,
-      "forks": 878,
-      "forks_delta": 9,
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
-      "purpose": {
-        "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-      },
-      "strengths": {
-        "zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-        "en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…"
-      },
-      "innovations": {
-        "zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-        "en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…"
-      },
-      "purpose_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "purpose_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "strengths_zh": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "strengths_en": "Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai…",
-      "innovations_zh": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "innovations_en": "…l have the same limits: the notes live on one machine, belong to one agent, and drop out of view when you switch tools or hand the work to a teammate. ai-memory removes those limits. - It follows you across agents. More than twent…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
+      "rank": 5,
       "full_name": "Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
@@ -535,12 +182,12 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 131879,
-      "stars_delta": 360,
-      "forks": 12656,
-      "forks_delta": 30,
+      "stars": 132293,
+      "stars_delta": 414,
+      "forks": 12681,
+      "forks_delta": 25,
       "html_url": "https://github.com/Graphify-Labs/graphify",
-      "snapshot_at": "2026-10-22T05:02:00.660Z",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
       "purpose": {
         "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
@@ -559,6 +206,183 @@
       "strengths_en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
       "innovations_zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
       "innovations_en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "alternative",
+        "auth",
+        "database",
+        "deno",
+        "embeddings",
+        "example",
+        "firebase",
+        "nextjs",
+        "oauth2",
+        "pgvector",
+        "postgis",
+        "postgres",
+        "postgresql",
+        "postgrest",
+        "realtime",
+        "supabase",
+        "vectors",
+        "websockets"
+      ],
+      "stars": 113272,
+      "stars_delta": 148,
+      "forks": 16987,
+      "forks_delta": 21,
+      "html_url": "https://github.com/supabase/supabase",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
+      "purpose": {
+        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+      },
+      "strengths": {
+        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
+      },
+      "innovations": {
+        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
+      },
+      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "topics": [
+        "api",
+        "async",
+        "asyncio",
+        "fastapi",
+        "framework",
+        "json",
+        "json-schema",
+        "openapi",
+        "openapi3",
+        "pydantic",
+        "python",
+        "python-types",
+        "python3",
+        "redoc",
+        "rest",
+        "starlette",
+        "swagger",
+        "swagger-ui",
+        "uvicorn",
+        "web"
+      ],
+      "stars": 103408,
+      "stars_delta": 96,
+      "forks": 10066,
+      "forks_delta": 0,
+      "html_url": "https://github.com/fastapi/fastapi",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
+      "purpose": {
+        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+      },
+      "strengths": {
+        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…"
+      },
+      "innovations": {
+        "zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+        "en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…"
+      },
+      "purpose_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "purpose_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "strengths_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+      "strengths_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+      "innovations_zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+      "innovations_en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "guide",
+        "tutorial"
+      ],
+      "stars": 42625,
+      "stars_delta": 428,
+      "forks": 5350,
+      "forks_delta": 0,
+      "html_url": "https://github.com/luongnv89/claude-howto",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
+      "purpose": {
+        "zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+      },
+      "strengths": {
+        "zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
+        "en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…"
+      },
+      "innovations": {
+        "zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
+        "en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…"
+      },
+      "purpose_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "purpose_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "strengths_zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
+      "strengths_en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
+      "innovations_zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
+      "innovations_en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "topics": [
+        "launcher",
+        "minecraft",
+        "minecraft-launcher"
+      ],
+      "stars": 8538,
+      "stars_delta": 115,
+      "forks": 1177,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Meloong-Git/PCL",
+      "snapshot_at": "2026-10-22T12:04:51.613Z",
+      "purpose": {
+        "zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+        "en": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
+      },
+      "strengths": {
+        "zh": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
+        "en": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库"
+      },
+      "innovations": {
+        "zh": "",
+        "en": ""
+      },
+      "purpose_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "purpose_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "strengths_zh": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
+      "strengths_en": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
+      "innovations_zh": "",
+      "innovations_en": "",
       "insights_source": "readme-excerpt"
     }
   ]
