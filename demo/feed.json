@@ -26,6 +26,204 @@
       "saved": false
     },
     {
+      "id": "1113",
+      "title": {
+        "zh": "Send feedback from the Vercel MCP",
+        "en": "Send feedback from the Vercel MCP"
+      },
+      "summary": {
+        "zh": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missin…",
+        "en": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missin…"
+      },
+      "title_zh": "Send feedback from the Vercel MCP",
+      "title_en": "Send feedback from the Vercel MCP",
+      "summary_zh": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missin…",
+      "summary_en": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missin…",
+      "title_text": "Send feedback from the Vercel MCP",
+      "summary_text": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missin…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+      "published_at": "2026-10-23T20:53:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1114",
+      "title": {
+        "zh": "How Vercel Agent accesses production safely",
+        "en": "How Vercel Agent accesses production safely"
+      },
+      "summary": {
+        "zh": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve indivi…",
+        "en": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve indivi…"
+      },
+      "title_zh": "How Vercel Agent accesses production safely",
+      "title_en": "How Vercel Agent accesses production safely",
+      "summary_zh": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve indivi…",
+      "summary_en": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve indivi…",
+      "title_text": "How Vercel Agent accesses production safely",
+      "summary_text": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve indivi…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+      "published_at": "2026-10-23T20:29:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1115",
+      "title": {
+        "zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      },
+      "summary": {
+        "zh": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      },
+      "title_zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary_zh": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "summary_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "title_text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary_text": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published_at": "2026-10-23T17:00:00.000Z",
+      "tags": [
+        "Engineering"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1116",
+      "title": {
+        "zh": "Vercel Connect adds managed Stripe API keys",
+        "en": "Vercel Connect adds managed Stripe API keys"
+      },
+      "summary": {
+        "zh": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key met…",
+        "en": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key met…"
+      },
+      "title_zh": "Vercel Connect adds managed Stripe API keys",
+      "title_en": "Vercel Connect adds managed Stripe API keys",
+      "summary_zh": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key met…",
+      "summary_en": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key met…",
+      "title_text": "Vercel Connect adds managed Stripe API keys",
+      "summary_text": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key met…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+      "published_at": "2026-10-23T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1117",
+      "title": {
+        "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "published_at": "2026-10-23T16:15:50.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1118",
+      "title": {
+        "zh": "AI Is Getting Good at Math. Here’s Why.",
+        "en": "AI Is Getting Good at Math. Here’s Why."
+      },
+      "summary": {
+        "zh": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+        "en": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next."
+      },
+      "title_zh": "AI Is Getting Good at Math. Here’s Why.",
+      "title_en": "AI Is Getting Good at Math. Here’s Why.",
+      "summary_zh": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "summary_en": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "title_text": "AI Is Getting Good at Math. Here’s Why.",
+      "summary_text": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "published_at": "2026-10-23T15:19:48.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1119",
+      "title": {
+        "zh": "Enterprise installations for GitHub Apps generally available",
+        "en": "Enterprise installations for GitHub Apps generally available"
+      },
+      "summary": {
+        "zh": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+        "en": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Enterprise installations for GitHub Apps generally available",
+      "title_en": "Enterprise installations for GitHub Apps generally available",
+      "summary_zh": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+      "summary_en": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+      "title_text": "Enterprise installations for GitHub Apps generally available",
+      "summary_text": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "published_at": "2026-10-23T15:03:30.000Z",
+      "tags": [
+        "Improvement",
+        "ecosystem & accessibility",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1120",
+      "title": {
+        "zh": "0.165.0-alpha.1",
+        "en": "0.165.0-alpha.1"
+      },
+      "summary": {
+        "zh": "Release 0.165.0-alpha.1",
+        "en": "Release 0.165.0-alpha.1"
+      },
+      "title_zh": "0.165.0-alpha.1",
+      "title_en": "0.165.0-alpha.1",
+      "summary_zh": "Release 0.165.0-alpha.1",
+      "summary_en": "Release 0.165.0-alpha.1",
+      "title_text": "0.165.0-alpha.1",
+      "summary_text": "Release 0.165.0-alpha.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1",
+      "published_at": "2026-10-23T14:18:55.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1103",
       "title": {
         "zh": "[AINews] Black October",
@@ -74,6 +272,30 @@
       "saved": false
     },
     {
+      "id": "1121",
+      "title": {
+        "zh": "How Interfaze serves 50 million requests a month on Vercel",
+        "en": "How Interfaze serves 50 million requests a month on Vercel"
+      },
+      "summary": {
+        "zh": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and class…",
+        "en": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and class…"
+      },
+      "title_zh": "How Interfaze serves 50 million requests a month on Vercel",
+      "title_en": "How Interfaze serves 50 million requests a month on Vercel",
+      "summary_zh": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and class…",
+      "summary_en": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and class…",
+      "title_text": "How Interfaze serves 50 million requests a month on Vercel",
+      "summary_text": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and class…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel",
+      "published_at": "2026-10-23T04:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1098",
       "title": {
         "zh": "0.164.0-alpha.11.1",
@@ -93,6 +315,30 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.11.1",
       "published_at": "2026-10-23T02:04:18.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1122",
+      "title": {
+        "zh": "Send feedback from the Vercel CLI",
+        "en": "Send feedback from the Vercel CLI"
+      },
+      "summary": {
+        "zh": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to descr…",
+        "en": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to descr…"
+      },
+      "title_zh": "Send feedback from the Vercel CLI",
+      "title_en": "Send feedback from the Vercel CLI",
+      "summary_zh": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to descr…",
+      "summary_en": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to descr…",
+      "title_text": "Send feedback from the Vercel CLI",
+      "summary_text": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to descr…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
+      "published_at": "2026-10-23T02:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -147,6 +393,30 @@
       "tags": [
         "Global Affairs"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1123",
+      "title": {
+        "zh": "Does Your Model Run on AWS Trainium? Look It Up",
+        "en": "Does Your Model Run on AWS Trainium? Look It Up"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published_at": "2026-10-23T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -460,30 +730,6 @@
         "copilot",
         "enterprise management tools"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1083",
-      "title": {
-        "zh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "published_at": "2026-10-22T16:11:31.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1548,33 +1794,6 @@
       "saved": false
     },
     {
-      "id": "1040",
-      "title": {
-        "zh": "Updates to GitHub secret scanning",
-        "en": "Updates to GitHub secret scanning"
-      },
-      "summary": {
-        "zh": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
-        "en": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Updates to GitHub secret scanning",
-      "title_en": "Updates to GitHub secret scanning",
-      "summary_zh": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
-      "summary_en": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
-      "title_text": "Updates to GitHub secret scanning",
-      "summary_text": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "published_at": "2026-10-20T18:03:55.000Z",
-      "tags": [
-        "Improvement",
-        "application security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1028",
       "title": {
         "zh": "How 3 Java Champions are using GitHub Copilot for increased productivity",
@@ -1599,30 +1818,6 @@
         "GitHub Copilot",
         "java"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1023",
-      "title": {
-        "zh": "0.164.0-alpha.7",
-        "en": "0.164.0-alpha.7"
-      },
-      "summary": {
-        "zh": "Release 0.164.0-alpha.7",
-        "en": "Release 0.164.0-alpha.7"
-      },
-      "title_zh": "0.164.0-alpha.7",
-      "title_en": "0.164.0-alpha.7",
-      "summary_zh": "Release 0.164.0-alpha.7",
-      "summary_en": "Release 0.164.0-alpha.7",
-      "title_text": "0.164.0-alpha.7",
-      "summary_text": "Release 0.164.0-alpha.7",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.7",
-      "published_at": "2026-10-20T13:52:44.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1794,205 +1989,6 @@
       "source_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "published_at": "2026-10-20T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1025",
-      "title": {
-        "zh": "MPS in PyTorch 2.15",
-        "en": "MPS in PyTorch 2.15"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "MPS in PyTorch 2.15",
-      "title_en": "MPS in PyTorch 2.15",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "MPS in PyTorch 2.15",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published_at": "2026-10-20T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1021",
-      "title": {
-        "zh": "My obituary for programming",
-        "en": "My obituary for programming"
-      },
-      "summary": {
-        "zh": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more…",
-        "en": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more…"
-      },
-      "title_zh": "My obituary for programming",
-      "title_en": "My obituary for programming",
-      "summary_zh": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more…",
-      "summary_en": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more…",
-      "title_text": "My obituary for programming",
-      "summary_text": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "published_at": "2026-10-19T23:58:25.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1016",
-      "title": {
-        "zh": "How to continue a GitHub Copilot app session in VS Code",
-        "en": "How to continue a GitHub Copilot app session in VS Code"
-      },
-      "summary": {
-        "zh": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-        "en": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog ."
-      },
-      "title_zh": "How to continue a GitHub Copilot app session in VS Code",
-      "title_en": "How to continue a GitHub Copilot app session in VS Code",
-      "summary_zh": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "summary_en": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "title_text": "How to continue a GitHub Copilot app session in VS Code",
-      "summary_text": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "source_id": "5",
-      "source_name": "GitHub AI & ML",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "published_at": "2026-10-19T18:47:22.000Z",
-      "tags": [
-        "AI & ML",
-        "GitHub Copilot",
-        "GitHub Copilot app",
-        "GitHub Copilot app for Beginners"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1017",
-      "title": {
-        "zh": "Updates to Hobby and Pro Terms of Service",
-        "en": "Updates to Hobby and Pro Terms of Service"
-      },
-      "summary": {
-        "zh": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible…",
-        "en": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible…"
-      },
-      "title_zh": "Updates to Hobby and Pro Terms of Service",
-      "title_en": "Updates to Hobby and Pro Terms of Service",
-      "summary_zh": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible…",
-      "summary_en": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible…",
-      "title_text": "Updates to Hobby and Pro Terms of Service",
-      "summary_text": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
-      "published_at": "2026-10-19T18:39:47.247Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1044",
-      "title": {
-        "zh": "Making every harness durable",
-        "en": "Making every harness durable"
-      },
-      "summary": {
-        "zh": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running…",
-        "en": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running…"
-      },
-      "title_zh": "Making every harness durable",
-      "title_en": "Making every harness durable",
-      "summary_zh": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running…",
-      "summary_en": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running…",
-      "title_text": "Making every harness durable",
-      "summary_text": "Developers are familiar with running coding agents locally through harnesses like Pi, Claude Code, and others. They are reliable daily drivers for generating code, but keeping agents running around the clock requires your computer to be on and awake, which led to the laptop lid memes and Mac mini demand spike. Running…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/making-every-harness-durable",
-      "published_at": "2026-10-19T13:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1022",
-      "title": {
-        "zh": "Advancing coding in low‑resource programming languages",
-        "en": "Advancing coding in low‑resource programming languages"
-      },
-      "summary": {
-        "zh": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-        "en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-      },
-      "title_zh": "Advancing coding in low‑resource programming languages",
-      "title_en": "Advancing coding in low‑resource programming languages",
-      "summary_zh": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "title_text": "Advancing coding in low‑resource programming languages",
-      "summary_text": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "published_at": "2026-10-19T12:00:00.000Z",
-      "tags": [
-        "Publication"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1019",
-      "title": {
-        "zh": "Mercury 3 now available on AI Gateway",
-        "en": "Mercury 3 now available on AI Gateway"
-      },
-      "summary": {
-        "zh": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensit…",
-        "en": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensit…"
-      },
-      "title_zh": "Mercury 3 now available on AI Gateway",
-      "title_en": "Mercury 3 now available on AI Gateway",
-      "summary_zh": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensit…",
-      "summary_en": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensit…",
-      "title_text": "Mercury 3 now available on AI Gateway",
-      "summary_text": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensit…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
-      "published_at": "2026-10-19T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1011",
-      "title": {
-        "zh": "MiniMax M3.1 Flash now available on AI Gateway for free",
-        "en": "MiniMax M3.1 Flash now available on AI Gateway for free"
-      },
-      "summary": {
-        "zh": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex …",
-        "en": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex …"
-      },
-      "title_zh": "MiniMax M3.1 Flash now available on AI Gateway for free",
-      "title_en": "MiniMax M3.1 Flash now available on AI Gateway for free",
-      "summary_zh": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex …",
-      "summary_en": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex …",
-      "title_text": "MiniMax M3.1 Flash now available on AI Gateway for free",
-      "summary_text": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
-      "published_at": "2026-10-19T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
