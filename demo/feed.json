@@ -26,6 +26,30 @@
       "saved": false
     },
     {
+      "id": "1124",
+      "title": {
+        "zh": "Vercel CLI adds Spend Management",
+        "en": "Vercel CLI adds Spend Management"
+      },
+      "summary": {
+        "zh": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget…",
+        "en": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget…"
+      },
+      "title_zh": "Vercel CLI adds Spend Management",
+      "title_en": "Vercel CLI adds Spend Management",
+      "summary_zh": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget…",
+      "summary_en": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget…",
+      "title_text": "Vercel CLI adds Spend Management",
+      "summary_text": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+      "published_at": "2026-10-23T21:44:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1113",
       "title": {
         "zh": "Send feedback from the Vercel MCP",
@@ -69,6 +93,54 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
       "published_at": "2026-10-23T20:29:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1125",
+      "title": {
+        "zh": "Introducing Kimi K3.1 Pro",
+        "en": "Introducing Kimi K3.1 Pro"
+      },
+      "summary": {
+        "zh": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).…",
+        "en": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).…"
+      },
+      "title_zh": "Introducing Kimi K3.1 Pro",
+      "title_en": "Introducing Kimi K3.1 Pro",
+      "summary_zh": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).…",
+      "summary_en": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).…",
+      "title_text": "Introducing Kimi K3.1 Pro",
+      "summary_text": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "published_at": "2026-10-23T19:40:54.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1126",
+      "title": {
+        "zh": "Deployments now show build cache size",
+        "en": "Deployments now show build cache size"
+      },
+      "summary": {
+        "zh": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and…",
+        "en": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and…"
+      },
+      "title_zh": "Deployments now show build cache size",
+      "title_en": "Deployments now show build cache size",
+      "summary_zh": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and…",
+      "summary_en": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and…",
+      "title_text": "Deployments now show build cache size",
+      "summary_text": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+      "published_at": "2026-10-23T19:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -248,6 +320,32 @@
       "saved": false
     },
     {
+      "id": "1127",
+      "title": {
+        "zh": "Securing our frontier model training environment",
+        "en": "Securing our frontier model training environment"
+      },
+      "summary": {
+        "zh": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      },
+      "title_zh": "Securing our frontier model training environment",
+      "title_en": "Securing our frontier model training environment",
+      "summary_zh": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "summary_en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "title_text": "Securing our frontier model training environment",
+      "summary_text": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published_at": "2026-10-23T10:00:00.000Z",
+      "tags": [
+        "Security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1097",
       "title": {
         "zh": "0.164.0",
@@ -393,6 +491,30 @@
       "tags": [
         "Global Affairs"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1128",
+      "title": {
+        "zh": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+        "en": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway"
+      },
+      "summary": {
+        "zh": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token …",
+        "en": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token …"
+      },
+      "title_zh": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+      "title_en": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+      "summary_zh": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token …",
+      "summary_en": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token …",
+      "title_text": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+      "summary_text": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+      "published_at": "2026-10-23T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1868,128 +1990,6 @@
       "tags": [
         "Startup"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1112",
-      "title": {
-        "zh": "[AINews] not much happened today",
-        "en": "[AINews] not much happened today"
-      },
-      "summary": {
-        "zh": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-        "en": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet."
-      },
-      "title_zh": "[AINews] not much happened today",
-      "title_en": "[AINews] not much happened today",
-      "summary_zh": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "summary_en": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "title_text": "[AINews] not much happened today",
-      "summary_text": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-      "published_at": "2026-10-20T05:21:52.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1042",
-      "title": {
-        "zh": "DeepSeek V4.1 Flash is now available in Token Pass",
-        "en": "DeepSeek V4.1 Flash is now available in Token Pass"
-      },
-      "summary": {
-        "zh": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use …",
-        "en": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use …"
-      },
-      "title_zh": "DeepSeek V4.1 Flash is now available in Token Pass",
-      "title_en": "DeepSeek V4.1 Flash is now available in Token Pass",
-      "summary_zh": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use …",
-      "summary_en": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use …",
-      "title_text": "DeepSeek V4.1 Flash is now available in Token Pass",
-      "summary_text": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
-      "published_at": "2026-10-20T00:01:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1043",
-      "title": {
-        "zh": "OpenAI acquires Orchestra Bio",
-        "en": "OpenAI acquires Orchestra Bio"
-      },
-      "summary": {
-        "zh": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-        "en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-      },
-      "title_zh": "OpenAI acquires Orchestra Bio",
-      "title_en": "OpenAI acquires Orchestra Bio",
-      "summary_zh": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "summary_en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "title_text": "OpenAI acquires Orchestra Bio",
-      "summary_text": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "published_at": "2026-10-20T00:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1032",
-      "title": {
-        "zh": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-        "en": "Hugging Face ❤️ TorchTPU: TPUs, Natively"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "published_at": "2026-10-20T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1033",
-      "title": {
-        "zh": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-        "en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published_at": "2026-10-20T00:00:00.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     }
