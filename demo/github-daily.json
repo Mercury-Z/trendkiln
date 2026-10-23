@@ -18,123 +18,16 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "php/php-src",
-      "description": "The PHP Interpreter",
-      "language": "C",
-      "topics": [],
-      "stars": 41267,
-      "stars_delta": 165,
-      "forks": 8324,
-      "forks_delta": 20,
-      "html_url": "https://github.com/php/php-src",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
-      "purpose": {
-        "zh": "The PHP Interpreter",
-        "en": "The PHP Interpreter"
-      },
-      "strengths": {
-        "zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
-        "en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…"
-      },
-      "innovations": {
-        "zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
-        "en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…"
-      },
-      "purpose_zh": "The PHP Interpreter",
-      "purpose_en": "The PHP Interpreter",
-      "strengths_zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
-      "strengths_en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
-      "innovations_zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
-      "innovations_en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 31729,
-      "stars_delta": 204,
-      "forks": 3542,
-      "forks_delta": 13,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 173793,
-      "stars_delta": 488,
-      "forks": 9465,
-      "forks_delta": 34,
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
-      "purpose": {
-        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-      },
-      "strengths": {
-        "zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
-        "en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…"
-      },
-      "innovations": {
-        "zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
-        "en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…"
-      },
-      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
-      "strengths_en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
-      "innovations_zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
-      "innovations_en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
       "full_name": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 39943,
-      "stars_delta": 629,
-      "forks": 2494,
-      "forks_delta": 46,
+      "stars": 40731,
+      "stars_delta": 788,
+      "forks": 2538,
+      "forks_delta": 44,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -156,233 +49,270 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "antigravity",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-search",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "gemini",
-        "graphify",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "llm",
-        "mcp",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "stars": 133185,
-      "stars_delta": 341,
-      "forks": 12736,
-      "forks_delta": 23,
-      "html_url": "https://github.com/Graphify-Labs/graphify",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
+      "rank": 2,
+      "full_name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "topics": [],
+      "stars": 41450,
+      "stars_delta": 183,
+      "forks": 8338,
+      "forks_delta": 14,
+      "html_url": "https://github.com/php/php-src",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
       "purpose": {
-        "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+        "zh": "The PHP Interpreter",
+        "en": "The PHP Interpreter"
       },
       "strengths": {
-        "zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-        "en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…"
+        "zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+        "en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…"
       },
       "innovations": {
-        "zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
-        "en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…"
+        "zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+        "en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…"
       },
-      "purpose_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "purpose_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "strengths_zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-      "strengths_en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-      "innovations_zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
-      "innovations_en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+      "purpose_zh": "The PHP Interpreter",
+      "purpose_en": "The PHP Interpreter",
+      "strengths_zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "strengths_en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "innovations_zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "innovations_en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 31911,
+      "stars_delta": 182,
+      "forks": 3551,
+      "forks_delta": 9,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 18236,
+      "stars_delta": 211,
+      "forks": 1850,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "topics": [
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
+      ],
+      "stars": 6559,
+      "stars_delta": 547,
+      "forks": 1349,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
+      "purpose": {
+        "zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
+      },
+      "strengths": {
+        "zh": "紫微斗数 · 开源排盘引擎 中文 · English 基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据：v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB（2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 ------------------ v4.0 解…",
+        "en": "紫微斗数 · 开源排盘引擎 中文 · English 基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据：v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB（2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 ------------------ v4.0 解…"
+      },
+      "innovations": {
+        "zh": "…,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，排盘、AI 解读、命盘历史全部开放。 注：关于六亲判断 紫微斗数在六亲（父母、兄弟、子女等）判断上存在一定局限。倪师在《天纪》中指出：“斗数批六亲本来就比较差一点。”（2上 · 00:25:27）在传统术数中，铁板神数在核对六亲方面有其独特优势（2上 · 00:03:15）；倪师仍以紫微斗数为核心，是因为它能结合地理、环境与人事进行综合判断，形成…",
+        "en": "…,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，排盘、AI 解读、命盘历史全部开放。 注：关于六亲判断 紫微斗数在六亲（父母、兄弟、子女等）判断上存在一定局限。倪师在《天纪》中指出：“斗数批六亲本来就比较差一点。”（2上 · 00:25:27）在传统术数中，铁板神数在核对六亲方面有其独特优势（2上 · 00:03:15）；倪师仍以紫微斗数为核心，是因为它能结合地理、环境与人事进行综合判断，形成…"
+      },
+      "purpose_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "purpose_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "strengths_zh": "紫微斗数 · 开源排盘引擎 中文 · English 基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据：v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB（2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 ------------------ v4.0 解…",
+      "strengths_en": "紫微斗数 · 开源排盘引擎 中文 · English 基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据：v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后 56.6 GB（2026-10-15 发布）。 数据集 命盘 解读段数 解压后 覆盖年份 每张盘解读字数 ------------------ v4.0 解…",
+      "innovations_zh": "…,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，排盘、AI 解读、命盘历史全部开放。 注：关于六亲判断 紫微斗数在六亲（父母、兄弟、子女等）判断上存在一定局限。倪师在《天纪》中指出：“斗数批六亲本来就比较差一点。”（2上 · 00:25:27）在传统术数中，铁板神数在核对六亲方面有其独特优势（2上 · 00:03:15）；倪师仍以紫微斗数为核心，是因为它能结合地理、环境与人事进行综合判断，形成…",
+      "innovations_en": "…,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，排盘、AI 解读、命盘历史全部开放。 注：关于六亲判断 紫微斗数在六亲（父母、兄弟、子女等）判断上存在一定局限。倪师在《天纪》中指出：“斗数批六亲本来就比较差一点。”（2上 · 00:25:27）在传统术数中，铁板神数在核对六亲方面有其独特优势（2上 · 00:03:15）；倪师仍以紫微斗数为核心，是因为它能结合地理、环境与人事进行综合判断，形成…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 6,
-      "full_name": "supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
+      "full_name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
       "topics": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
       ],
-      "stars": 113564,
-      "stars_delta": 125,
-      "forks": 17010,
-      "forks_delta": 14,
-      "html_url": "https://github.com/supabase/supabase",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
+      "stars": 8021,
+      "stars_delta": 209,
+      "forks": 1067,
+      "forks_delta": 0,
+      "html_url": "https://github.com/SnailSploit/Claude-Red",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
       "purpose": {
-        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        "zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
       },
       "strengths": {
-        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
+        "zh": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+        "en": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…"
       },
       "innovations": {
-        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
+        "zh": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
+        "en": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…"
       },
-      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
-      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
-      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "purpose_zh": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "purpose_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "strengths_zh": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+      "strengths_en": "claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview &bull; Quickstart &bull; Categories &bull; Skill Index &bull; Roadmap &bull; Contributing -…",
+      "innovations_zh": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
+      "innovations_en": "…pert-level methodology for a specific attack surface — from SQL injection to shellcode, EDR evasion to ADCS abuse. Drop a skill into your Claude environment and it behaves like a domain specialist: it knows the techniques, the too…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
-      "full_name": "fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "full_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "topics": [
-        "api",
-        "async",
-        "asyncio",
-        "fastapi",
-        "framework",
-        "json",
-        "json-schema",
-        "openapi",
-        "openapi3",
-        "pydantic",
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
         "python",
-        "python-types",
-        "python3",
-        "redoc",
-        "rest",
-        "starlette",
-        "swagger",
-        "swagger-ui",
-        "uvicorn",
-        "web"
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
       ],
-      "stars": 103882,
-      "stars_delta": 206,
-      "forks": 10094,
-      "forks_delta": 10,
-      "html_url": "https://github.com/fastapi/fastapi",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
+      "stars": 40001,
+      "stars_delta": 144,
+      "forks": 4555,
+      "forks_delta": 0,
+      "html_url": "https://github.com/OpenBMB/VoxCPM",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
       "purpose": {
-        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
       },
       "strengths": {
-        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
-        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…"
+        "zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+        "en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…"
       },
       "innovations": {
-        "zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
-        "en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…"
+        "zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
+        "en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…"
       },
-      "purpose_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "purpose_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "strengths_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
-      "strengths_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
-      "innovations_zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
-      "innovations_en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+      "purpose_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "purpose_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "strengths_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+      "strengths_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English 中文 👋 Join our community for discussion and support! Feishu &nbsp;&nbsp; Discord &nbsp;&nbsp; 📚 MiniCPM Wiki…",
+      "innovations_zh": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
+      "innovations_en": "…ing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voi…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
+      "full_name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
       "topics": [
-        "claude-code",
-        "guide",
-        "tutorial"
+        "javascript",
+        "js",
+        "linux",
+        "macos",
+        "mit",
+        "node",
+        "nodejs",
+        "runtime",
+        "windows"
       ],
-      "stars": 43424,
-      "stars_delta": 341,
-      "forks": 5408,
-      "forks_delta": 30,
-      "html_url": "https://github.com/luongnv89/claude-howto",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
+      "stars": 122601,
+      "stars_delta": 76,
+      "forks": 39932,
+      "forks_delta": 0,
+      "html_url": "https://github.com/nodejs/node",
+      "snapshot_at": "2026-10-23T11:49:42.010Z",
       "purpose": {
-        "zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+        "zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "en": "Node.js JavaScript runtime ✨🐢🚀✨"
       },
       "strengths": {
-        "zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-        "en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…"
+        "zh": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+        "en": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…"
       },
       "innovations": {
-        "zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
-        "en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…"
+        "zh": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
+        "en": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…"
       },
-      "purpose_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "purpose_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "strengths_zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-      "strengths_en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-      "innovations_zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
-      "innovations_en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "topics": [
-        "launcher",
-        "minecraft",
-        "minecraft-launcher"
-      ],
-      "stars": 8759,
-      "stars_delta": 93,
-      "forks": 1214,
-      "forks_delta": 17,
-      "html_url": "https://github.com/Meloong-Git/PCL",
-      "snapshot_at": "2026-10-23T05:02:46.051Z",
-      "purpose": {
-        "zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-        "en": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
-      },
-      "strengths": {
-        "zh": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
-        "en": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库"
-      },
-      "innovations": {
-        "zh": "",
-        "en": ""
-      },
-      "purpose_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "purpose_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "strengths_zh": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
-      "strengths_en": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 - PCL 下载：下载可免费使用的正式版 PCL！ - PCL 功能投票：来参加投票吧，开发者会优先处理票数较高的项目！ - 帮助文档库：PCL 内置帮助文档的存储库",
-      "innovations_zh": "",
-      "innovations_en": "",
+      "purpose_zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "purpose_en": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "strengths_zh": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+      "strengths_en": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+      "innovations_zh": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
+      "innovations_en": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
       "insights_source": "readme-excerpt"
     }
   ]
