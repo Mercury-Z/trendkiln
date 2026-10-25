@@ -18,112 +18,62 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 44976,
-      "stars_delta": 764,
-      "forks": 2793,
-      "forks_delta": 39,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "full_name": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ],
+      "stars": 4410,
+      "stars_delta": 210,
+      "forks": 627,
+      "forks_delta": 23,
+      "html_url": "https://github.com/makecindy/cindy",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        "zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
       },
       "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+        "zh": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
+        "en": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…"
       },
       "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+        "zh": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
+        "en": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…"
       },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "purpose_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "purpose_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "strengths_zh": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
+      "strengths_en": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
+      "innovations_zh": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
+      "innovations_en": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 19577,
-      "stars_delta": 182,
-      "forks": 1938,
-      "forks_delta": 11,
-      "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
-      "purpose": {
-        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
-      },
-      "strengths": {
-        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
-      },
-      "innovations": {
-        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
-      },
-      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "topics": [],
-      "stars": 3181,
-      "stars_delta": 93,
-      "forks": 401,
-      "forks_delta": 6,
-      "html_url": "https://github.com/aws/agent-toolkit-for-aws",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
-      "purpose": {
-        "zh": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-        "en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
-      },
-      "strengths": {
-        "zh": "Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with th…",
-        "en": "Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with th…"
-      },
-      "innovations": {
-        "zh": "…with the AWS CLI: See the AWS CLI integration guide for setup, configuration, and usage instructions. Claude Code The plugins are available on the official Anthropic marketplace (claude-plugins-official) which is added to your Cla…",
-        "en": "…with the AWS CLI: See the AWS CLI integration guide for setup, configuration, and usage instructions. Claude Code The plugins are available on the official Anthropic marketplace (claude-plugins-official) which is added to your Cla…"
-      },
-      "purpose_zh": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "purpose_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "strengths_zh": "Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with th…",
-      "strengths_en": "Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with th…",
-      "innovations_zh": "…with the AWS CLI: See the AWS CLI integration guide for setup, configuration, and usage instructions. Claude Code The plugins are available on the official Anthropic marketplace (claude-plugins-official) which is added to your Cla…",
-      "innovations_en": "…with the AWS CLI: See the AWS CLI integration guide for setup, configuration, and usage instructions. Claude Code The plugins are available on the official Anthropic marketplace (claude-plugins-official) which is added to your Cla…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
       "full_name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "topics": [],
-      "stars": 32352,
-      "stars_delta": 352,
-      "forks": 1661,
-      "forks_delta": 17,
+      "stars": 32826,
+      "stars_delta": 474,
+      "forks": 1699,
+      "forks_delta": 38,
       "html_url": "https://github.com/Nutlope/hallmark",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
         "zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
@@ -145,53 +95,69 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
-      "full_name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "rank": 3,
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "topics": [
-        "claude-code",
-        "guide",
-        "tutorial"
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
       ],
-      "stars": 44669,
-      "stars_delta": 225,
-      "forks": 5498,
-      "forks_delta": 13,
-      "html_url": "https://github.com/luongnv89/claude-howto",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "stars": 85648,
+      "stars_delta": 1588,
+      "forks": 9496,
+      "forks_delta": 0,
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
-        "zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+        "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
       },
       "strengths": {
-        "zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-        "en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…"
+        "zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+        "en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…"
       },
       "innovations": {
-        "zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
-        "en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…"
+        "zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+        "en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…"
       },
-      "purpose_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "purpose_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "strengths_zh": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-      "strengths_en": "🌐 Language / Ngôn ngữ / 语言 / Мова: English Tiếng Việt 中文 Українська 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates,…",
-      "innovations_zh": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
-      "innovations_en": "…It Works - Not Sure Where to Start? - Get Started in 15 Minutes - What Can You Build With This? - FAQ - Contributing - License --- The Problem You installed Claude Code. You ran a few prompts. Now what? - The official docs describ…",
+      "purpose_zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "purpose_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "strengths_zh": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "strengths_en": "VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Your voice. Your workflow. Create P…",
+      "innovations_zh": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
+      "innovations_en": "…& batch jobs Optional remote workers Start with VoiceStudio (default, powered by k2-fsa/OmniVoice), or choose another engine. Features & engine catalog. Local workflows run on your hardware. Remote services are optional; usage ana…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "full_name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "topics": [],
-      "stars": 86574,
-      "stars_delta": 296,
-      "forks": 5168,
-      "forks_delta": 17,
+      "stars": 86943,
+      "stars_delta": 369,
+      "forks": 5191,
+      "forks_delta": 23,
       "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
         "zh": "The design language that makes your AI harness better at design.",
         "en": "The design language that makes your AI harness better at design."
@@ -213,17 +179,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "full_name": "pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "topics": [],
-      "stars": 11091,
-      "stars_delta": 195,
-      "forks": 1418,
-      "forks_delta": 20,
+      "stars": 11283,
+      "stars_delta": 192,
+      "forks": 1443,
+      "forks_delta": 25,
       "html_url": "https://github.com/pollen-robotics/microduck",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
         "zh": "A Tiny biped duck robot 🦆",
         "en": "A Tiny biped duck robot 🦆"
@@ -245,121 +211,255 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "language": "TypeScript",
+      "rank": 6,
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
       "topics": [
-        "ai",
-        "ai-agents",
-        "cli",
-        "gemini",
-        "gemini-api",
-        "mcp-client",
-        "mcp-server"
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
       ],
-      "stars": 108171,
-      "stars_delta": 232,
-      "forks": 14816,
-      "forks_delta": 11,
-      "html_url": "https://github.com/google-gemini/gemini-cli",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "stars": 113900,
+      "stars_delta": 309,
+      "forks": 22056,
+      "forks_delta": 0,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
-        "zh": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "en": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
       },
       "strengths": {
-        "zh": "[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Ant…",
-        "en": "[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Ant…"
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
       },
       "innovations": {
-        "zh": "…an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. Learn all about Gemini CLI in our docum…",
-        "en": "…an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. Learn all about Gemini CLI in our docum…"
+        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
       },
-      "purpose_zh": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "purpose_en": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "strengths_zh": "[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Ant…",
-      "strengths_en": "[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Ant…",
-      "innovations_zh": "…an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. Learn all about Gemini CLI in our docum…",
-      "innovations_en": "…an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. Learn all about Gemini CLI in our docum…",
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "topics": [
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
+      ],
+      "stars": 7369,
+      "stars_delta": 489,
+      "forks": 1510,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
+      "purpose": {
+        "zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
+      },
+      "strengths": {
+        "zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+        "en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…"
+      },
+      "innovations": {
+        "zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
+        "en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…"
+      },
+      "purpose_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "purpose_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "strengths_zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+      "strengths_en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+      "innovations_zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
+      "innovations_en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-coding",
+        "ai-tools",
+        "pi-agent",
+        "pi-agent-extension",
+        "spec-driven",
+        "spec-driven-coding",
+        "spec-driven-development",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "stars": 1125,
+      "stars_delta": 52,
+      "forks": 81,
+      "forks_delta": 0,
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
+      "purpose": {
+        "zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
+      },
+      "strengths": {
+        "zh": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+        "en": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…"
+      },
+      "innovations": {
+        "zh": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog ⭐ If you find ThinkRail useful, give it a star — it helps others discover it. A pi session and the change it…",
+        "en": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog ⭐ If you find ThinkRail useful, give it a star — it helps others discover it. A pi session and the change it…"
+      },
+      "purpose_zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "purpose_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "strengths_zh": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+      "strengths_en": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+      "innovations_zh": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog ⭐ If you find ThinkRail useful, give it a star — it helps others discover it. A pi session and the change it…",
+      "innovations_en": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog ⭐ If you find ThinkRail useful, give it a star — it helps others discover it. A pi session and the change it…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "jbiaojerry/ebook-treasure-chest",
-      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "language": "Python",
-      "topics": [],
-      "stars": 22778,
-      "stars_delta": 242,
-      "forks": 3198,
-      "forks_delta": 14,
-      "html_url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "full_name": "coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "topics": [
+        "coolify",
+        "databases",
+        "deployment",
+        "docker",
+        "docker-compose",
+        "inertiajs",
+        "laravel",
+        "mariadb",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "php",
+        "postgres",
+        "redis",
+        "self-hosted",
+        "self-hosting",
+        "server",
+        "static-site",
+        "svelte",
+        "svelte5"
+      ],
+      "stars": 63829,
+      "stars_delta": 150,
+      "forks": 5750,
+      "forks_delta": 0,
+      "html_url": "https://github.com/coollabsio/coolify",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
-        "zh": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-        "en": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+        "zh": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+        "en": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
       },
       "strengths": {
-        "zh": "电子书下载宝库 🌐 在线访问 GitHub Pages - 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 简介 我们从各个电子书网站上精心收集了各种电子书下载链接，并根据常用的标…",
-        "en": "电子书下载宝库 🌐 在线访问 GitHub Pages - 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 简介 我们从各个电子书网站上精心收集了各种电子书下载链接，并根据常用的标…"
+        "zh": "Coolify An open-source platform to deploy applications, databases, and services on your own servers. Open source & free forever, backed by our philosophy. Website · Documentation · Cloud · Discord · Community What is Coolify? Cool…",
+        "en": "Coolify An open-source platform to deploy applications, databases, and services on your own servers. Open source & free forever, backed by our philosophy. Website · Documentation · Cloud · Discord · Community What is Coolify? Cool…"
       },
       "innovations": {
-        "zh": "…即时显示匹配结果 - 💡 多关键词搜索：支持同时搜索多个关键词（用空格分隔） 💡 搜索技巧 - 在线搜索：访问 GitHub Pages 页面，使用实时搜索功能（推荐） - Ctrl+F：在 GitHub 页面使用浏览器搜索功能 - 热门分类：文学、历史、科普、管理、社会、推理等 - 按需查找：职场、创业、技术、投资、心理学等专业领域 ☕ 请我们喝咖啡 🌟 如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。 感谢…",
-        "en": "…即时显示匹配结果 - 💡 多关键词搜索：支持同时搜索多个关键词（用空格分隔） 💡 搜索技巧 - 在线搜索：访问 GitHub Pages 页面，使用实时搜索功能（推荐） - Ctrl+F：在 GitHub 页面使用浏览器搜索功能 - 热门分类：文学、历史、科普、管理、社会、推理等 - 按需查找：职场、创业、技术、投资、心理学等专业领域 ☕ 请我们喝咖啡 🌟 如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。 感谢…"
+        "zh": "…y need an SSH connection. You can use a VPS, a bare-metal server, a Raspberry Pi, or any other server that accepts SSH connections. Coolify gives you the convenience of a cloud platform while you keep control of your infrastructur…",
+        "en": "…y need an SSH connection. You can use a VPS, a bare-metal server, a Raspberry Pi, or any other server that accepts SSH connections. Coolify gives you the convenience of a cloud platform while you keep control of your infrastructur…"
       },
-      "purpose_zh": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "purpose_en": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "strengths_zh": "电子书下载宝库 🌐 在线访问 GitHub Pages - 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 简介 我们从各个电子书网站上精心收集了各种电子书下载链接，并根据常用的标…",
-      "strengths_en": "电子书下载宝库 🌐 在线访问 GitHub Pages - 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 简介 我们从各个电子书网站上精心收集了各种电子书下载链接，并根据常用的标…",
-      "innovations_zh": "…即时显示匹配结果 - 💡 多关键词搜索：支持同时搜索多个关键词（用空格分隔） 💡 搜索技巧 - 在线搜索：访问 GitHub Pages 页面，使用实时搜索功能（推荐） - Ctrl+F：在 GitHub 页面使用浏览器搜索功能 - 热门分类：文学、历史、科普、管理、社会、推理等 - 按需查找：职场、创业、技术、投资、心理学等专业领域 ☕ 请我们喝咖啡 🌟 如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。 感谢…",
-      "innovations_en": "…即时显示匹配结果 - 💡 多关键词搜索：支持同时搜索多个关键词（用空格分隔） 💡 搜索技巧 - 在线搜索：访问 GitHub Pages 页面，使用实时搜索功能（推荐） - Ctrl+F：在 GitHub 页面使用浏览器搜索功能 - 热门分类：文学、历史、科普、管理、社会、推理等 - 按需查找：职场、创业、技术、投资、心理学等专业领域 ☕ 请我们喝咖啡 🌟 如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。 感谢…",
+      "purpose_zh": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "purpose_en": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "strengths_zh": "Coolify An open-source platform to deploy applications, databases, and services on your own servers. Open source & free forever, backed by our philosophy. Website · Documentation · Cloud · Discord · Community What is Coolify? Cool…",
+      "strengths_en": "Coolify An open-source platform to deploy applications, databases, and services on your own servers. Open source & free forever, backed by our philosophy. Website · Documentation · Cloud · Discord · Community What is Coolify? Cool…",
+      "innovations_zh": "…y need an SSH connection. You can use a VPS, a bare-metal server, a Raspberry Pi, or any other server that accepts SSH connections. Coolify gives you the convenience of a cloud platform while you keep control of your infrastructur…",
+      "innovations_en": "…y need an SSH connection. You can use a VPS, a bare-metal server, a Raspberry Pi, or any other server that accepts SSH connections. Coolify gives you the convenience of a cloud platform while you keep control of your infrastructur…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 10,
-      "full_name": "makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-assistant",
-        "android",
-        "claude-code",
-        "codex",
-        "electron",
-        "ios",
-        "llm",
-        "macos",
-        "react-native",
-        "typescript",
-        "windows"
-      ],
-      "stars": 4200,
-      "stars_delta": 181,
-      "forks": 604,
-      "forks_delta": 27,
-      "html_url": "https://github.com/makecindy/cindy",
-      "snapshot_at": "2026-10-25T04:55:25.126Z",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 45767,
+      "stars_delta": 791,
+      "forks": 2838,
+      "forks_delta": 45,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
       "purpose": {
-        "zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "strengths": {
-        "zh": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
-        "en": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…"
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
       },
       "innovations": {
-        "zh": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
-        "en": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…"
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
       },
-      "purpose_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "purpose_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "strengths_zh": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
-      "strengths_en": "English · 简体中文 🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Re…",
-      "innovations_zh": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
-      "innovations_en": "…e and Codex — more are being added, and a native harness is in the works. Models and harnesses mix freely and can switch mid-task while your workspace, memory, skills and tools stay continuous; one task can even be planned, execut…",
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-seo",
+        "claude-code",
+        "claude-code-skill",
+        "marketing-automation",
+        "open-source",
+        "seo"
+      ],
+      "stars": 20201,
+      "stars_delta": 179,
+      "forks": 2910,
+      "forks_delta": 0,
+      "html_url": "https://github.com/AgriciDaniel/claude-seo",
+      "snapshot_at": "2026-10-25T11:45:12.125Z",
+      "purpose": {
+        "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+      },
+      "strengths": {
+        "zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+        "en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…"
+      },
+      "innovations": {
+        "zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+        "en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…"
+      },
+      "purpose_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "purpose_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "strengths_zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "strengths_en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "innovations_zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+      "innovations_en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
       "insights_source": "readme-excerpt"
     }
   ]
