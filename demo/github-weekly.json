@@ -22,12 +22,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 47240,
-      "stars_delta": 615,
-      "forks": 2933,
-      "forks_delta": 39,
+      "stars": 47895,
+      "stars_delta": 655,
+      "forks": 2981,
+      "forks_delta": 48,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -50,6 +50,38 @@
     },
     {
       "rank": 2,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 33125,
+      "stars_delta": 90,
+      "forks": 3648,
+      "forks_delta": 11,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
@@ -75,12 +107,12 @@
         "swarm-intelligence",
         "typescript"
       ],
-      "stars": 79321,
-      "stars_delta": 66,
-      "forks": 9314,
-      "forks_delta": 12,
+      "stars": 79412,
+      "stars_delta": 91,
+      "forks": 9318,
+      "forks_delta": 4,
       "html_url": "https://github.com/ruvnet/ruflo",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
@@ -102,49 +134,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 33035,
-      "stars_delta": 89,
-      "forks": 3637,
-      "forks_delta": 5,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 4,
       "full_name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 221606,
-      "stars_delta": 143,
-      "forks": 29631,
-      "forks_delta": 18,
+      "stars": 221769,
+      "stars_delta": 163,
+      "forks": 29656,
+      "forks_delta": 25,
       "html_url": "https://github.com/anomalyco/opencode",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "The open source coding agent.",
         "en": "The open source coding agent."
@@ -192,12 +192,12 @@
         "worktrees",
         "yc-backed"
       ],
-      "stars": 106071,
-      "stars_delta": 381,
-      "forks": 6711,
-      "forks_delta": 24,
+      "stars": 106567,
+      "stars_delta": 496,
+      "forks": 6726,
+      "forks_delta": 15,
       "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
@@ -220,88 +220,6 @@
     },
     {
       "rank": 6,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "animation",
-        "claude-code",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "html-to-video",
-        "mcp",
-        "motion-graphics",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video-editor"
-      ],
-      "stars": 72314,
-      "stars_delta": 244,
-      "forks": 6532,
-      "forks_delta": 16,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "android/skills",
-      "description": "",
-      "language": "Kotlin",
-      "topics": [
-        "skills"
-      ],
-      "stars": 9741,
-      "stars_delta": 34,
-      "forks": 628,
-      "forks_delta": 3,
-      "html_url": "https://github.com/android/skills",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-        "en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…"
-      },
-      "innovations": {
-        "zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
-        "en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-      "strengths_en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
-      "innovations_zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
-      "innovations_en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
       "full_name": "Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
@@ -327,12 +245,12 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 135424,
-      "stars_delta": 327,
-      "forks": 12924,
-      "forks_delta": 29,
+      "stars": 135778,
+      "stars_delta": 354,
+      "forks": 12950,
+      "forks_delta": 26,
       "html_url": "https://github.com/Graphify-Labs/graphify",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
@@ -354,17 +272,51 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "full_name": "android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "topics": [
+        "skills"
+      ],
+      "stars": 9783,
+      "stars_delta": 42,
+      "forks": 632,
+      "forks_delta": 4,
+      "html_url": "https://github.com/android/skills",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+        "en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…"
+      },
+      "innovations": {
+        "zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+        "en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+      "strengths_en": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android de…",
+      "innovations_zh": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+      "innovations_en": "…nd ground LLMs with information on specialized domains and workflows. Our Android skill development focuses on use cases and workflows where evaluations show LLMs underperform. We aren't prioritizing well-established areas where L…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
       "full_name": "akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "topics": [],
-      "stars": 13564,
-      "stars_delta": 73,
-      "forks": 960,
-      "forks_delta": 6,
+      "stars": 13668,
+      "stars_delta": 104,
+      "forks": 965,
+      "forks_delta": 5,
       "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
@@ -386,145 +338,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "stars": 143004,
-      "stars_delta": 100,
-      "forks": 16881,
-      "forks_delta": 13,
-      "html_url": "https://github.com/Comfy-Org/ComfyUI",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-      },
-      "strengths": {
-        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
-      },
-      "innovations": {
-        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
-      },
-      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "stars": 44599,
-      "stars_delta": 67,
-      "forks": 4666,
-      "forks_delta": 4,
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "strengths": {
-        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
-      },
-      "innovations": {
-        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
-      },
-      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "language": "Python",
-      "topics": [
-        "amd",
-        "blackwell",
-        "cuda",
-        "deepseek",
-        "deepseek-v3",
-        "gpt",
-        "gpt-oss",
-        "inference",
-        "kimi",
-        "llama",
-        "llm",
-        "llm-serving",
-        "model-serving",
-        "moe",
-        "openai",
-        "pytorch",
-        "qwen",
-        "qwen3",
-        "tpu",
-        "transformer"
-      ],
-      "stars": 95524,
-      "stars_delta": 50,
-      "forks": 23956,
-      "forks_delta": 15,
-      "html_url": "https://github.com/vllm-project/vllm",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
-      "purpose": {
-        "zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "en": "A high-throughput and memory-efficient inference and serving engine for LLMs"
-      },
-      "strengths": {
-        "zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-        "en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…"
-      },
-      "innovations": {
-        "zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
-        "en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…"
-      },
-      "purpose_zh": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "purpose_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "strengths_zh": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-      "strengths_en": "Easy, fast, and cheap LLM serving for everyone Documentation Blog Paper Twitter/X User Forum Developer Slack 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please…",
-      "innovations_zh": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
-      "innovations_en": "…eley, vLLM has grown into one of the most active open-source AI projects built and maintained by a diverse community of many dozens of academic institutions and companies from over 2000 contributors. vLLM is fast with: - State-of-…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
+      "rank": 9,
       "full_name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "topics": [],
-      "stars": 223948,
-      "stars_delta": 176,
-      "forks": 22417,
-      "forks_delta": 5,
+      "stars": 224192,
+      "stars_delta": 244,
+      "forks": 22438,
+      "forks_delta": 21,
       "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
@@ -546,17 +370,235 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 10,
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "stars": 115356,
+      "stars_delta": 2461,
+      "forks": 22195,
+      "forks_delta": 0,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "strengths": {
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
+      },
+      "innovations": {
+        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
+      },
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "anthropic",
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-marketplace",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "cursor-rules",
+        "github-copilot",
+        "mcp",
+        "multi-agent",
+        "opencode",
+        "pi-coding-agent",
+        "subagents"
+      ],
+      "stars": 41747,
+      "stars_delta": 726,
+      "forks": 4429,
+      "forks_delta": 0,
+      "html_url": "https://github.com/wshobson/agents",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+        "en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+      },
+      "strengths": {
+        "zh": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
+        "en": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…"
+      },
+      "innovations": {
+        "zh": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
+        "en": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…"
+      },
+      "purpose_zh": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "purpose_en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "strengths_zh": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
+      "strengths_en": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
+      "innovations_zh": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
+      "innovations_en": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "animation",
+        "claude-code",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "html-to-video",
+        "mcp",
+        "motion-graphics",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video-editor"
+      ],
+      "stars": 72667,
+      "stars_delta": 353,
+      "forks": 6566,
+      "forks_delta": 34,
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "Write HTML. Render video. Built for agents.",
+        "en": "Write HTML. Render video. Built for agents."
+      },
+      "strengths": {
+        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
+      },
+      "innovations": {
+        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
+      },
+      "purpose_zh": "Write HTML. Render video. Built for agents.",
+      "purpose_en": "Write HTML. Render video. Built for agents.",
+      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
+      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-seo",
+        "claude-code",
+        "claude-code-skill",
+        "marketing-automation",
+        "open-source",
+        "seo"
+      ],
+      "stars": 21779,
+      "stars_delta": 2492,
+      "forks": 3001,
+      "forks_delta": 0,
+      "html_url": "https://github.com/AgriciDaniel/claude-seo",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+      },
+      "strengths": {
+        "zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+        "en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…"
+      },
+      "innovations": {
+        "zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+        "en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…"
+      },
+      "purpose_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "purpose_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "strengths_zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "strengths_en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "innovations_zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+      "innovations_en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 14,
+      "full_name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "stars": 143138,
+      "stars_delta": 134,
+      "forks": 16897,
+      "forks_delta": 16,
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
+      "purpose": {
+        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+      },
+      "strengths": {
+        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
+      },
+      "innovations": {
+        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
+      },
+      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
+      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
       "full_name": "pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 30201,
-      "stars_delta": 130,
-      "forks": 8093,
-      "forks_delta": 25,
+      "stars": 30355,
+      "stars_delta": 154,
+      "forks": 8115,
+      "forks_delta": 22,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-10-26T04:58:43.942Z",
+      "snapshot_at": "2026-10-26T13:17:51.798Z",
       "purpose": {
         "zh": "",
         "en": ""

@@ -38,12 +38,12 @@
         "typescript",
         "video-editor"
       ],
-      "stars": 72314,
-      "stars_delta": 244,
-      "forks": 6532,
-      "forks_delta": 16,
+      "stars": 72667,
+      "stars_delta": 353,
+      "forks": 6566,
+      "forks_delta": 34,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -66,6 +66,38 @@
     },
     {
       "rank": 2,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 47895,
+      "stars_delta": 655,
+      "forks": 2981,
+      "forks_delta": 48,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
@@ -90,12 +122,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 87203,
-      "stars_delta": 659,
-      "forks": 9646,
-      "forks_delta": 58,
+      "stars": 88048,
+      "stars_delta": 845,
+      "forks": 9708,
+      "forks_delta": 62,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -117,49 +149,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 47240,
-      "stars_delta": 615,
-      "forks": 2933,
-      "forks_delta": 39,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 4,
       "full_name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 33035,
-      "stars_delta": 89,
-      "forks": 3637,
-      "forks_delta": 5,
+      "stars": 33125,
+      "stars_delta": 90,
+      "forks": 3648,
+      "forks_delta": 11,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -182,91 +182,6 @@
     },
     {
       "rank": 5,
-      "full_name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "topics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
-      ],
-      "stars": 107363,
-      "stars_delta": 105,
-      "forks": 17836,
-      "forks_delta": 19,
-      "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "The open-source app everyone uses to manage agents at work",
-        "en": "The open-source app everyone uses to manage agents at work"
-      },
-      "strengths": {
-        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
-      },
-      "innovations": {
-        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
-      },
-      "purpose_zh": "The open-source app everyone uses to manage agents at work",
-      "purpose_en": "The open-source app everyone uses to manage agents at work",
-      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 19920,
-      "stars_delta": 82,
-      "forks": 1971,
-      "forks_delta": 5,
-      "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
-      },
-      "strengths": {
-        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
-      },
-      "innovations": {
-        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
-      },
-      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
-      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -292,12 +207,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 32293,
-      "stars_delta": 64,
-      "forks": 2232,
+      "stars": 32364,
+      "stars_delta": 71,
+      "forks": 2233,
       "forks_delta": 1,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -319,17 +234,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14073,
-      "stars_delta": 45,
-      "forks": 1407,
+      "stars": 14136,
+      "stars_delta": 63,
+      "forks": 1415,
       "forks_delta": 8,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -351,132 +266,17 @@
       "insights_source": "readme"
     },
     {
-      "rank": 9,
-      "full_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai-memory",
-        "memory"
-      ],
-      "stars": 53820,
-      "stars_delta": 121,
-      "forks": 6252,
-      "forks_delta": 5,
-      "html_url": "https://github.com/vectorize-io/hindsight",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "Hindsight: Agent Memory That Learns",
-        "en": "Hindsight: Agent Memory That Learns"
-      },
-      "strengths": {
-        "zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-        "en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…"
-      },
-      "innovations": {
-        "zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-        "en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…"
-      },
-      "purpose_zh": "Hindsight: Agent Memory That Learns",
-      "purpose_en": "Hindsight: Agent Memory That Learns",
-      "strengths_zh": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "strengths_en": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud --- What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on rec…",
-      "innovations_zh": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "innovations_en": "…knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents - Memory Performance & Accuracy - Quick Start — server · clients · platforms · embedded - Adding Hindsight to Your Agent — LLM Wrapper…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "stars": 44599,
-      "stars_delta": 67,
-      "forks": 4666,
-      "forks_delta": 4,
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
-      },
-      "strengths": {
-        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
-      },
-      "innovations": {
-        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
-      },
-      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
-      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "stars": 23168,
-      "stars_delta": 60,
-      "forks": 2250,
-      "forks_delta": 5,
-      "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "Give your agent CAD superpowers.",
-        "en": "Give your agent CAD superpowers."
-      },
-      "strengths": {
-        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
-      },
-      "innovations": {
-        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
-      },
-      "purpose_zh": "Give your agent CAD superpowers.",
-      "purpose_en": "Give your agent CAD superpowers.",
-      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
+      "rank": 7,
       "full_name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "topics": [],
-      "stars": 87964,
-      "stars_delta": 432,
-      "forks": 5255,
-      "forks_delta": 25,
+      "stars": 88514,
+      "stars_delta": 550,
+      "forks": 5281,
+      "forks_delta": 26,
       "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "The design language that makes your AI harness better at design.",
         "en": "The design language that makes your AI harness better at design."
@@ -498,43 +298,170 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
+      "rank": 8,
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
       "topics": [
-        "disassembler",
-        "reverse-engineering",
-        "software-analysis"
+        "claude-code",
+        "mcp",
+        "skills"
       ],
-      "stars": 94380,
-      "stars_delta": 107,
-      "forks": 10601,
-      "forks_delta": 16,
-      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "stars": 44676,
+      "stars_delta": 77,
+      "forks": 4671,
+      "forks_delta": 5,
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
-        "zh": "Ghidra is a software reverse engineering (SRE) framework",
-        "en": "Ghidra is a software reverse engineering (SRE) framework"
+        "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
       },
       "strengths": {
-        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
+        "zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+        "en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…"
       },
       "innovations": {
-        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
+        "zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+        "en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…"
       },
-      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
-      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
-      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
-      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
-      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "purpose_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "purpose_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "strengths_zh": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "strengths_en": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or…",
+      "innovations_zh": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
+      "innovations_en": "…cture - /plugins - Internal plugins developed and maintained by Anthropic - /externalplugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Cod…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
+      "rank": 9,
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 20004,
+      "stars_delta": 84,
+      "forks": 1978,
+      "forks_delta": 7,
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "en": "OpenShell is the safe, private runtime for autonomous AI agents."
+      },
+      "strengths": {
+        "zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+        "en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…"
+      },
+      "innovations": {
+        "zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+        "en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…"
+      },
+      "purpose_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "purpose_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "strengths_zh": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "strengths_en": "[!IMPORTANT] New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide. OpenShell is the safe, private runtime for fleets of autonomous AI…",
+      "innovations_zh": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "innovations_en": "…tricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it. How It Works OpenShell governs what agents can do in two ways: it instruments the kernel to enforce po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "stars": 23246,
+      "stars_delta": 78,
+      "forks": 2256,
+      "forks_delta": 6,
+      "html_url": "https://github.com/earthtojake/text-to-cad",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "Give your agent CAD superpowers.",
+        "en": "Give your agent CAD superpowers."
+      },
+      "strengths": {
+        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
+      },
+      "innovations": {
+        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
+      },
+      "purpose_zh": "Give your agent CAD superpowers.",
+      "purpose_en": "Give your agent CAD superpowers.",
+      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ],
+      "stars": 107504,
+      "stars_delta": 141,
+      "forks": 17847,
+      "forks_delta": 11,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
       "full_name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
@@ -548,12 +475,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 288977,
-      "stars_delta": 217,
-      "forks": 42835,
-      "forks_delta": 20,
+      "stars": 289300,
+      "stars_delta": 323,
+      "forks": 42866,
+      "forks_delta": 31,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -575,39 +502,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 15,
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 41664,
-      "stars_delta": 148,
-      "forks": 5614,
-      "forks_delta": 16,
-      "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-      },
-      "strengths": {
-        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
-      },
-      "innovations": {
-        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
-      },
-      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -633,12 +528,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 103169,
-      "stars_delta": 86,
-      "forks": 9110,
-      "forks_delta": 3,
+      "stars": 103273,
+      "stars_delta": 104,
+      "forks": 9117,
+      "forks_delta": 7,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -660,17 +555,85 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
+      "rank": 14,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "stars": 94510,
+      "stars_delta": 130,
+      "forks": 10616,
+      "forks_delta": 15,
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "Ghidra is a software reverse engineering (SRE) framework",
+        "en": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "strengths": {
+        "zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+        "en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…"
+      },
+      "innovations": {
+        "zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+        "en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…"
+      },
+      "purpose_zh": "Ghidra is a software reverse engineering (SRE) framework",
+      "purpose_en": "Ghidra is a software reverse engineering (SRE) framework",
+      "strengths_zh": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "strengths_en": "Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-fea…",
+      "innovations_zh": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "innovations_en": "…assembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and aut…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 41889,
+      "stars_delta": 225,
+      "forks": 5655,
+      "forks_delta": 41,
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+      },
+      "strengths": {
+        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
+      },
+      "innovations": {
+        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
+      },
+      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
       "full_name": "pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 30201,
-      "stars_delta": 130,
-      "forks": 8093,
-      "forks_delta": 25,
+      "stars": 30355,
+      "stars_delta": 154,
+      "forks": 8115,
+      "forks_delta": 22,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -692,7 +655,145 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 17,
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 176680,
+      "stars_delta": 31412,
+      "forks": 9657,
+      "forks_delta": 0,
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      "strengths": {
+        "zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+        "en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…"
+      },
+      "innovations": {
+        "zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+        "en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…"
+      },
+      "purpose_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "purpose_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "strengths_zh": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+      "strengths_en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
+      "innovations_zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+      "innovations_en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 18,
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "stars": 102977,
+      "stars_delta": 17531,
+      "forks": 9134,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+      },
+      "strengths": {
+        "zh": "👁️ Agent Reach 让 AI Agent 够得着它自己上不去的互联网 登录墙后的平台、视频里的内容、中文平台、干净的结构化数据，一条命令拿到 快速开始 · English 💬 有问题、想要新平台、或者想看看别人怎么用？来 Discord 聊聊。 --- ❤️赞助商 想出现在这里？ 点击展开 Bright Data 亮数据 全球领先的数据采集基础设施。Scraper Studio 智能爬取器让你用自然语言一键生成爬虫，无需写代码；Unlocke…",
+        "en": "👁️ Agent Reach 让 AI Agent 够得着它自己上不去的互联网 登录墙后的平台、视频里的内容、中文平台、干净的结构化数据，一条命令拿到 快速开始 · English 💬 有问题、想要新平台、或者想看看别人怎么用？来 Discord 聊聊。 --- ❤️赞助商 想出现在这里？ 点击展开 Bright Data 亮数据 全球领先的数据采集基础设施。Scraper Studio 智能爬取器让你用自然语言一键生成爬虫，无需写代码；Unlocke…"
+      },
+      "innovations": {
+        "zh": "…专为开发者打造的数据采集代理解决方案，提供稳定可靠的住宅代理服务。拥有 9000 万+ 全球住宅 IP，覆盖 200+ 国家和地区，支持智能轮换与精准地理定位，可用于网页抓取、AI 数据采集与训练、SEO 监控、电商数据分析等场景，帮助提升数据采集效率与稳定性。支持 Playwright、Selenium、Puppeteer 等主流自动化框架，流量永久有效，价格低至 $0.55/GB， 支持免费测试 。 BrowserAct 支持从 Amazon、Link…",
+        "en": "…专为开发者打造的数据采集代理解决方案，提供稳定可靠的住宅代理服务。拥有 9000 万+ 全球住宅 IP，覆盖 200+ 国家和地区，支持智能轮换与精准地理定位，可用于网页抓取、AI 数据采集与训练、SEO 监控、电商数据分析等场景，帮助提升数据采集效率与稳定性。支持 Playwright、Selenium、Puppeteer 等主流自动化框架，流量永久有效，价格低至 $0.55/GB， 支持免费测试 。 BrowserAct 支持从 Amazon、Link…"
+      },
+      "purpose_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "purpose_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "strengths_zh": "👁️ Agent Reach 让 AI Agent 够得着它自己上不去的互联网 登录墙后的平台、视频里的内容、中文平台、干净的结构化数据，一条命令拿到 快速开始 · English 💬 有问题、想要新平台、或者想看看别人怎么用？来 Discord 聊聊。 --- ❤️赞助商 想出现在这里？ 点击展开 Bright Data 亮数据 全球领先的数据采集基础设施。Scraper Studio 智能爬取器让你用自然语言一键生成爬虫，无需写代码；Unlocke…",
+      "strengths_en": "👁️ Agent Reach 让 AI Agent 够得着它自己上不去的互联网 登录墙后的平台、视频里的内容、中文平台、干净的结构化数据，一条命令拿到 快速开始 · English 💬 有问题、想要新平台、或者想看看别人怎么用？来 Discord 聊聊。 --- ❤️赞助商 想出现在这里？ 点击展开 Bright Data 亮数据 全球领先的数据采集基础设施。Scraper Studio 智能爬取器让你用自然语言一键生成爬虫，无需写代码；Unlocke…",
+      "innovations_zh": "…专为开发者打造的数据采集代理解决方案，提供稳定可靠的住宅代理服务。拥有 9000 万+ 全球住宅 IP，覆盖 200+ 国家和地区，支持智能轮换与精准地理定位，可用于网页抓取、AI 数据采集与训练、SEO 监控、电商数据分析等场景，帮助提升数据采集效率与稳定性。支持 Playwright、Selenium、Puppeteer 等主流自动化框架，流量永久有效，价格低至 $0.55/GB， 支持免费测试 。 BrowserAct 支持从 Amazon、Link…",
+      "innovations_en": "…专为开发者打造的数据采集代理解决方案，提供稳定可靠的住宅代理服务。拥有 9000 万+ 全球住宅 IP，覆盖 200+ 国家和地区，支持智能轮换与精准地理定位，可用于网页抓取、AI 数据采集与训练、SEO 监控、电商数据分析等场景，帮助提升数据采集效率与稳定性。支持 Playwright、Selenium、Puppeteer 等主流自动化框架，流量永久有效，价格低至 $0.55/GB， 支持免费测试 。 BrowserAct 支持从 Amazon、Link…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 19,
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "context-engineering",
+        "information-retrieval",
+        "llm",
+        "rag",
+        "reasoning",
+        "retrieval",
+        "retrieval-augmented-generation",
+        "vector-database"
+      ],
+      "stars": 39761,
+      "stars_delta": 36,
+      "forks": 3430,
+      "forks_delta": 1,
+      "html_url": "https://github.com/VectifyAI/PageIndex",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
+      "purpose": {
+        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+      },
+      "strengths": {
+        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
+      },
+      "innovations": {
+        "zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
+        "en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…"
+      },
+      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
+      "innovations_zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
+      "innovations_en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 20,
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
@@ -718,12 +819,12 @@
         "tutorial",
         "typescript"
       ],
-      "stars": 73899,
-      "stars_delta": 148,
-      "forks": 12951,
-      "forks_delta": 19,
+      "stars": 74120,
+      "stars_delta": 221,
+      "forks": 12985,
+      "forks_delta": 34,
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
         "zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
         "en": "Learn AI Engineering! Learn it. Build it. Ship it for others."
@@ -745,141 +846,55 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 19,
-      "full_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "context-engineering",
-        "information-retrieval",
-        "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
-      ],
-      "stars": 39725,
-      "stars_delta": 39,
-      "forks": 3429,
-      "forks_delta": 0,
-      "html_url": "https://github.com/VectifyAI/PageIndex",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
-      },
-      "strengths": {
-        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
-      },
-      "innovations": {
-        "zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-        "en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…"
-      },
-      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "innovations_zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-      "innovations_en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 20,
-      "full_name": "TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "stars": 11058,
-      "stars_delta": 46,
-      "forks": 1420,
-      "forks_delta": 4,
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
-      "purpose": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-      },
-      "strengths": {
-        "zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-        "en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…"
-      },
-      "innovations": {
-        "zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-        "en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…"
-      },
-      "purpose_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "purpose_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "strengths_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "strengths_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 --- Octop is an open-source, self-hosted AI assistant. It's not just…",
-      "innovations_zh": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "innovations_en": "…ollaborative for teams, families, and individuals. Best of all, it runs entirely on your machine — the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 21,
-      "full_name": "Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-      "language": "Go",
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
       "topics": [
-        "ai-agents",
-        "bubbletea",
-        "charm",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "go",
-        "golang",
-        "multiplexer",
-        "omarchy",
-        "ssh",
-        "terminal",
-        "terminal-emulator",
-        "terminal-multiplexer",
-        "tiling-window-manager",
-        "tmux-alternative",
-        "tui",
-        "window-manager",
-        "zellij-alternative"
+        "ai",
+        "alternative",
+        "auth",
+        "database",
+        "deno",
+        "embeddings",
+        "example",
+        "firebase",
+        "nextjs",
+        "oauth2",
+        "pgvector",
+        "postgis",
+        "postgres",
+        "postgresql",
+        "postgrest",
+        "realtime",
+        "supabase",
+        "vectors",
+        "websockets"
       ],
-      "stars": 6020,
-      "stars_delta": 64,
-      "forks": 275,
+      "stars": 113969,
+      "stars_delta": 3471,
+      "forks": 16304,
       "forks_delta": 0,
-      "html_url": "https://github.com/Gaurav-Gosain/tuios",
-      "snapshot_at": "2026-10-26T04:58:46.682Z",
+      "html_url": "https://github.com/supabase/supabase",
+      "snapshot_at": "2026-10-26T13:17:54.816Z",
       "purpose": {
-        "zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-        "en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account."
+        "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
       },
       "strengths": {
-        "zh": "[!WARNING] An account on X called @tuiosdev is pretending to be tuios. It is not this project. tuios has no X or Twitter account. It lives only at tuios.dev and in this repository. There is no tuios token or presale. Please report…",
-        "en": "[!WARNING] An account on X called @tuiosdev is pretending to be tuios. It is not this project. tuios has no X or Twitter account. It lives only at tuios.dev and in this repository. There is no tuios token or presale. Please report…"
+        "zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+        "en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…"
       },
       "innovations": {
-        "zh": "…erface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol support, and a command palette, all running inside your existing terminal. A daemon keeps sessions alive, reaches sessions on your other machines…",
-        "en": "…erface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol support, and a command palette, all running inside your existing terminal. A daemon keeps sessions alive, reaches sessions on your other machines…"
+        "zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+        "en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…"
       },
-      "purpose_zh": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-      "purpose_en": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
-      "strengths_zh": "[!WARNING] An account on X called @tuiosdev is pretending to be tuios. It is not this project. tuios has no X or Twitter account. It lives only at tuios.dev and in this repository. There is no tuios token or presale. Please report…",
-      "strengths_en": "[!WARNING] An account on X called @tuiosdev is pretending to be tuios. It is not this project. tuios has no X or Twitter account. It lives only at tuios.dev and in this repository. There is no tuios token or presale. Please report…",
-      "innovations_zh": "…erface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol support, and a command palette, all running inside your existing terminal. A daemon keeps sessions alive, reaches sessions on your other machines…",
-      "innovations_en": "…erface with multiple terminal panes, workspaces, BSP tiling, kitty graphics protocol support, and a command palette, all running inside your existing terminal. A daemon keeps sessions alive, reaches sessions on your other machines…",
+      "purpose_zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "purpose_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "strengths_zh": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
+      "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
       "insights_source": "readme-excerpt"
     }
   ]

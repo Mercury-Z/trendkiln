@@ -26,6 +26,30 @@
       "saved": false
     },
     {
+      "id": "1138",
+      "title": {
+        "zh": "Faster pnpm installs",
+        "en": "Faster pnpm installs"
+      },
+      "summary": {
+        "zh": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case,…",
+        "en": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case,…"
+      },
+      "title_zh": "Faster pnpm installs",
+      "title_en": "Faster pnpm installs",
+      "summary_zh": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case,…",
+      "summary_en": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case,…",
+      "title_text": "Faster pnpm installs",
+      "summary_text": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case,…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/faster-pnpm-installs",
+      "published_at": "2026-10-26T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1137",
       "title": {
         "zh": "Seam Cutter",
@@ -1665,6 +1689,30 @@
       "saved": false
     },
     {
+      "id": "1139",
+      "title": {
+        "zh": "Redesigned Flags Explorer for sharing overrides with your team",
+        "en": "Redesigned Flags Explorer for sharing overrides with your team"
+      },
+      "summary": {
+        "zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team. Either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
+        "en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team. Either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …"
+      },
+      "title_zh": "Redesigned Flags Explorer for sharing overrides with your team",
+      "title_en": "Redesigned Flags Explorer for sharing overrides with your team",
+      "summary_zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team. Either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
+      "summary_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team. Either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
+      "title_text": "Redesigned Flags Explorer for sharing overrides with your team",
+      "summary_text": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team. Either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/redesigned-flags-explorer-for-sharing-overrides-with-your-team",
+      "published_at": "2026-10-21T09:58:21.966Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1062",
       "title": {
         "zh": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
@@ -1935,54 +1983,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
       "published_at": "2026-10-20T23:50:25.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1034",
-      "title": {
-        "zh": "0.164.0-alpha.8",
-        "en": "0.164.0-alpha.8"
-      },
-      "summary": {
-        "zh": "Release 0.164.0-alpha.8",
-        "en": "Release 0.164.0-alpha.8"
-      },
-      "title_zh": "0.164.0-alpha.8",
-      "title_en": "0.164.0-alpha.8",
-      "summary_zh": "Release 0.164.0-alpha.8",
-      "summary_en": "Release 0.164.0-alpha.8",
-      "title_text": "0.164.0-alpha.8",
-      "summary_text": "Release 0.164.0-alpha.8",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.8",
-      "published_at": "2026-10-20T22:35:19.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1035",
-      "title": {
-        "zh": "WebSocket support is now generally available",
-        "en": "WebSocket support is now generally available"
-      },
-      "summary": {
-        "zh": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's …",
-        "en": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's …"
-      },
-      "title_zh": "WebSocket support is now generally available",
-      "title_en": "WebSocket support is now generally available",
-      "summary_zh": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's …",
-      "summary_en": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's …",
-      "title_text": "WebSocket support is now generally available",
-      "summary_text": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
-      "published_at": "2026-10-20T20:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
