@@ -22,12 +22,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 48815,
-      "stars_delta": 345,
-      "forks": 3044,
-      "forks_delta": 27,
+      "stars": 49324,
+      "stars_delta": 509,
+      "forks": 3086,
+      "forks_delta": 42,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -54,12 +54,12 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 33264,
-      "stars_delta": 71,
-      "forks": 3662,
-      "forks_delta": 4,
+      "stars": 33342,
+      "stars_delta": 78,
+      "forks": 3665,
+      "forks_delta": 3,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -82,140 +82,112 @@
     },
     {
       "rank": 3,
-      "full_name": "ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
+      "full_name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
       "topics": [
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "agents",
-        "ai-agents",
-        "ai-assistant",
-        "ai-skills",
-        "autonomous-agents",
-        "claude",
-        "codex",
-        "dsh-plugin",
-        "harness",
-        "mcp-server",
-        "multi-agent",
-        "multi-agent-systems",
-        "npm",
-        "skills",
-        "swarm",
-        "swarm-intelligence",
-        "typescript"
+        "ai",
+        "ai-seo",
+        "claude-code",
+        "claude-code-skill",
+        "marketing-automation",
+        "open-source",
+        "seo"
       ],
-      "stars": 79598,
-      "stars_delta": 73,
-      "forks": 9347,
-      "forks_delta": 12,
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "stars": 22465,
+      "stars_delta": 199,
+      "forks": 3080,
+      "forks_delta": 28,
+      "html_url": "https://github.com/AgriciDaniel/claude-seo",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
-        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+        "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
       },
       "strengths": {
-        "zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-        "en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…"
+        "zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+        "en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…"
       },
       "innovations": {
-        "zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-        "en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…"
+        "zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+        "en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…"
       },
-      "purpose_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "purpose_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "strengths_zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-      "strengths_en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
-      "innovations_zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-      "innovations_en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+      "purpose_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "purpose_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "strengths_zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "strengths_en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
+      "innovations_zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
+      "innovations_en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 4,
-      "full_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
       "topics": [],
-      "stars": 222043,
-      "stars_delta": 104,
-      "forks": 29706,
-      "forks_delta": 21,
-      "html_url": "https://github.com/anomalyco/opencode",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "stars": 225178,
+      "stars_delta": 340,
+      "forks": 22507,
+      "forks_delta": 19,
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
-        "zh": "The open source coding agent.",
-        "en": "The open source coding agent."
+        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
       },
       "strengths": {
-        "zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-        "en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…"
+        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
       },
       "innovations": {
-        "zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-        "en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…"
+        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
       },
-      "purpose_zh": "The open source coding agent.",
-      "purpose_en": "The open source coding agent.",
-      "strengths_zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "strengths_en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "innovations_zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-      "innovations_en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 5,
-      "full_name": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
       "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "automation",
-        "bot",
-        "claude-code",
-        "codex",
-        "ghostty",
-        "grok-bot",
-        "hermes-agent",
-        "mobile-app",
-        "muse",
-        "openclaw",
-        "opencode",
-        "orchestration",
-        "pi",
-        "runtime",
-        "terminal",
-        "worktrees",
-        "yc-backed"
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
       ],
-      "stars": 107267,
-      "stars_delta": 269,
-      "forks": 6766,
-      "forks_delta": 14,
-      "html_url": "https://github.com/stablyai/orca",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "stars": 116969,
+      "stars_delta": 528,
+      "forks": 22399,
+      "forks_delta": 75,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
-        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
       },
       "strengths": {
-        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
       },
       "innovations": {
-        "zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-        "en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…"
+        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
       },
-      "purpose_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "purpose_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
-      "innovations_zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
-      "innovations_en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -245,12 +217,12 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 136313,
-      "stars_delta": 219,
-      "forks": 13010,
-      "forks_delta": 17,
+      "stars": 136584,
+      "stars_delta": 271,
+      "forks": 13033,
+      "forks_delta": 23,
       "html_url": "https://github.com/Graphify-Labs/graphify",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
@@ -273,18 +245,156 @@
     },
     {
       "rank": 7,
+      "full_name": "ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai-agents",
+        "ai-assistant",
+        "ai-skills",
+        "autonomous-agents",
+        "claude",
+        "codex",
+        "dsh-plugin",
+        "harness",
+        "mcp-server",
+        "multi-agent",
+        "multi-agent-systems",
+        "npm",
+        "skills",
+        "swarm",
+        "swarm-intelligence",
+        "typescript"
+      ],
+      "stars": 79669,
+      "stars_delta": 71,
+      "forks": 9354,
+      "forks_delta": 7,
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
+      "purpose": {
+        "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+      },
+      "strengths": {
+        "zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+        "en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…"
+      },
+      "innovations": {
+        "zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+        "en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…"
+      },
+      "purpose_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "purpose_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "strengths_zh": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+      "strengths_en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
+      "innovations_zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+      "innovations_en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 222192,
+      "stars_delta": 149,
+      "forks": 29729,
+      "forks_delta": 23,
+      "html_url": "https://github.com/anomalyco/opencode",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
+      "purpose": {
+        "zh": "The open source coding agent.",
+        "en": "The open source coding agent."
+      },
+      "strengths": {
+        "zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+        "en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…"
+      },
+      "innovations": {
+        "zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+        "en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…"
+      },
+      "purpose_zh": "The open source coding agent.",
+      "purpose_en": "The open source coding agent.",
+      "strengths_zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+      "strengths_en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
+      "innovations_zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "innovations_en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "automation",
+        "bot",
+        "claude-code",
+        "codex",
+        "ghostty",
+        "grok-bot",
+        "hermes-agent",
+        "mobile-app",
+        "muse",
+        "openclaw",
+        "opencode",
+        "orchestration",
+        "pi",
+        "runtime",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "stars": 107614,
+      "stars_delta": 347,
+      "forks": 6788,
+      "forks_delta": 22,
+      "html_url": "https://github.com/stablyai/orca",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
+      "purpose": {
+        "zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      "strengths": {
+        "zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+        "en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…"
+      },
+      "innovations": {
+        "zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+        "en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…"
+      },
+      "purpose_zh": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "purpose_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "strengths_zh": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "strengths_en": "Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Compani…",
+      "innovations_zh": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+      "innovations_en": "…rktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "android/skills",
       "description": "",
       "language": "Kotlin",
       "topics": [
         "skills"
       ],
-      "stars": 9854,
-      "stars_delta": 29,
-      "forks": 637,
-      "forks_delta": 2,
+      "stars": 9876,
+      "stars_delta": 22,
+      "forks": 638,
+      "forks_delta": 1,
       "html_url": "https://github.com/android/skills",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -306,17 +416,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "full_name": "akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "topics": [],
-      "stars": 13868,
-      "stars_delta": 81,
-      "forks": 986,
-      "forks_delta": 10,
+      "stars": 13938,
+      "stars_delta": 70,
+      "forks": 990,
+      "forks_delta": 4,
       "html_url": "https://github.com/akitaonrails/ai-memory",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
@@ -338,267 +448,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "topics": [],
-      "stars": 224838,
-      "stars_delta": 246,
-      "forks": 22488,
-      "forks_delta": 23,
-      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-      },
-      "strengths": {
-        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
-      },
-      "innovations": {
-        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
-      },
-      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "stars": 116441,
-      "stars_delta": 450,
-      "forks": 22324,
-      "forks_delta": 61,
-      "html_url": "https://github.com/TauricResearch/TradingAgents",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
-      },
-      "strengths": {
-        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
-      },
-      "innovations": {
-        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
-      },
-      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "anthropic",
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-marketplace",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "cursor-rules",
-        "github-copilot",
-        "mcp",
-        "multi-agent",
-        "opencode",
-        "pi-coding-agent",
-        "subagents"
-      ],
-      "stars": 41835,
-      "stars_delta": 30,
-      "forks": 4434,
-      "forks_delta": 1,
-      "html_url": "https://github.com/wshobson/agents",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-        "en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
-      },
-      "strengths": {
-        "zh": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
-        "en": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…"
-      },
-      "innovations": {
-        "zh": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
-        "en": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…"
-      },
-      "purpose_zh": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "purpose_en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "strengths_zh": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
-      "strengths_en": "Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding t…",
-      "innovations_zh": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
-      "innovations_en": "…ins 94 plugins, including 92 local plugins and 2 external entries. The local source contains 202 agents, 185 skills, and 105 commands. The components share a Markdown source, with installation and capabilities adapted to each harn…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 12,
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "animation",
-        "claude-code",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "html-to-video",
-        "mcp",
-        "motion-graphics",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video-editor"
-      ],
-      "stars": 73276,
-      "stars_delta": 266,
-      "forks": 6634,
-      "forks_delta": 30,
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "Write HTML. Render video. Built for agents.",
-        "en": "Write HTML. Render video. Built for agents."
-      },
-      "strengths": {
-        "zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-        "en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…"
-      },
-      "innovations": {
-        "zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-        "en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…"
-      },
-      "purpose_zh": "Write HTML. Render video. Built for agents.",
-      "purpose_en": "Write HTML. Render video. Built for agents.",
-      "strengths_zh": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "strengths_en": "Write HTML. Render video. Built for agents. Quickstart Showcase Playground Catalog Docs Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it lo…",
-      "innovations_zh": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "innovations_en": "…stall the versioned plugin: Enable auto-update for the hyperframes marketplace in /plugin → Marketplaces, then use /hyperframes:hyperframes. See the plugin guide for Copilot, VS Code, Cursor, Gemini CLI, updates, and migration. Fo…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-seo",
-        "claude-code",
-        "claude-code-skill",
-        "marketing-automation",
-        "open-source",
-        "seo"
-      ],
-      "stars": 22266,
-      "stars_delta": 156,
-      "forks": 3052,
-      "forks_delta": 19,
-      "html_url": "https://github.com/AgriciDaniel/claude-seo",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-        "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
-      },
-      "strengths": {
-        "zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
-        "en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…"
-      },
-      "innovations": {
-        "zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
-        "en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…"
-      },
-      "purpose_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "purpose_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "strengths_zh": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
-      "strengths_en": "Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install · Demo · Results · Team · Commands · Pricing · FAQ Claude SEO is a free SEO plugin for Claude Code. Give it any…",
-      "innovations_zh": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
-      "innovations_en": "…ld: - Technical SEO. Crawlability, indexing, sitemaps, robots.txt, redirects, page speed and Core Web Vitals. - Content quality. E-E-A-T (experience, expertise, authority and trust), thin pages and topic coverage. - Structured dat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "stars": 143353,
-      "stars_delta": 97,
-      "forks": 16934,
-      "forks_delta": 14,
-      "html_url": "https://github.com/Comfy-Org/ComfyUI",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
-      "purpose": {
-        "zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-      },
-      "strengths": {
-        "zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-        "en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…"
-      },
-      "innovations": {
-        "zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-        "en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…"
-      },
-      "purpose_zh": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "purpose_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "strengths_zh": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "strengths_en": "ComfyUI The most powerful and modular AI engine for content creation. [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shiel…",
-      "innovations_zh": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "innovations_en": "…ink] [![][github-downloads-latest-shield]][github-downloads-link] [matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white [matrix-url]: https://app.element.io/#/room/%23comfyuispace%3Amat…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
       "full_name": "pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 30551,
-      "stars_delta": 57,
-      "forks": 8167,
-      "forks_delta": 19,
+      "stars": 30662,
+      "stars_delta": 111,
+      "forks": 8198,
+      "forks_delta": 31,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-10-27T05:16:20.331Z",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -617,6 +477,59 @@
       "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
       "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
       "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "topics": [
+        "api",
+        "async",
+        "asyncio",
+        "fastapi",
+        "framework",
+        "json",
+        "json-schema",
+        "openapi",
+        "openapi3",
+        "pydantic",
+        "python",
+        "python-types",
+        "python3",
+        "redoc",
+        "rest",
+        "starlette",
+        "swagger",
+        "swagger-ui",
+        "uvicorn",
+        "web"
+      ],
+      "stars": 104256,
+      "stars_delta": 1066,
+      "forks": 10135,
+      "forks_delta": 0,
+      "html_url": "https://github.com/fastapi/fastapi",
+      "snapshot_at": "2026-10-27T12:25:48.000Z",
+      "purpose": {
+        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+      },
+      "strengths": {
+        "zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+        "en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…"
+      },
+      "innovations": {
+        "zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+        "en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…"
+      },
+      "purpose_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "purpose_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "strengths_zh": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+      "strengths_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production --- Documentation: https://fastapi.tiangolo.com Source Code: https://github.com/fastapi/fastapi --- FastAPI is a modern, fast (high-performance…",
+      "innovations_zh": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
+      "innovations_en": "…o Starlette and Pydantic). One of the fastest Python frameworks available. Fast to code: Increase the speed to develop features by about 200% to 300%. Fewer bugs: Reduce about 40% of human (developer) induced errors. Intuitive: Gr…",
       "insights_source": "readme-excerpt"
     }
   ]

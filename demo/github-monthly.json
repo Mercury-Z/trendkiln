@@ -38,12 +38,12 @@
         "typescript",
         "video-editor"
       ],
-      "stars": 73276,
-      "stars_delta": 266,
-      "forks": 6634,
+      "stars": 73556,
+      "stars_delta": 280,
+      "forks": 6664,
       "forks_delta": 30,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -70,12 +70,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 48815,
-      "stars_delta": 345,
-      "forks": 3044,
-      "forks_delta": 27,
+      "stars": 49324,
+      "stars_delta": 509,
+      "forks": 3086,
+      "forks_delta": 42,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -122,12 +122,12 @@
         "voicestudio",
         "workflow"
       ],
-      "stars": 89694,
-      "stars_delta": 602,
-      "forks": 9886,
-      "forks_delta": 60,
+      "stars": 90501,
+      "stars_delta": 807,
+      "forks": 9971,
+      "forks_delta": 85,
       "html_url": "https://github.com/debpalash/VoiceStudio",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
@@ -154,12 +154,12 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "topics": [],
-      "stars": 33264,
-      "stars_delta": 71,
-      "forks": 3662,
-      "forks_delta": 4,
+      "stars": 33342,
+      "stars_delta": 78,
+      "forks": 3665,
+      "forks_delta": 3,
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
@@ -182,6 +182,80 @@
     },
     {
       "rank": 5,
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 89875,
+      "stars_delta": 433,
+      "forks": 5343,
+      "forks_delta": 20,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
+      },
+      "strengths": {
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+      },
+      "innovations": {
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+      },
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "stars": 23448,
+      "stars_delta": 77,
+      "forks": 2275,
+      "forks_delta": 10,
+      "html_url": "https://github.com/earthtojake/text-to-cad",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "Give your agent CAD superpowers.",
+        "en": "Give your agent CAD superpowers."
+      },
+      "strengths": {
+        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
+      },
+      "innovations": {
+        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
+      },
+      "purpose_zh": "Give your agent CAD superpowers.",
+      "purpose_en": "Give your agent CAD superpowers.",
+      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
+      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
       "full_name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
@@ -207,12 +281,12 @@
         "skills",
         "zed-extension"
       ],
-      "stars": 32462,
-      "stars_delta": 35,
-      "forks": 2248,
-      "forks_delta": 8,
+      "stars": 32498,
+      "stars_delta": 36,
+      "forks": 2249,
+      "forks_delta": 1,
       "html_url": "https://github.com/mksglu/context-mode",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
         "en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
@@ -234,17 +308,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "full_name": "cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14238,
-      "stars_delta": 37,
-      "forks": 1428,
-      "forks_delta": 2,
+      "stars": 14274,
+      "stars_delta": 36,
+      "forks": 1434,
+      "forks_delta": 6,
       "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "cursor/plugins：Cursor插件规范和官方插件",
         "en": "Cursor plugin specification and official plugins"
@@ -266,39 +340,7 @@
       "insights_source": "readme"
     },
     {
-      "rank": 7,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 89442,
-      "stars_delta": 339,
-      "forks": 5323,
-      "forks_delta": 15,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
-      },
-      "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
-      },
-      "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
-      },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "full_name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
@@ -307,12 +349,12 @@
         "mcp",
         "skills"
       ],
-      "stars": 44788,
-      "stars_delta": 56,
-      "forks": 4677,
-      "forks_delta": 3,
+      "stars": 44848,
+      "stars_delta": 60,
+      "forks": 4681,
+      "forks_delta": 4,
       "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "en": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
@@ -334,17 +376,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "full_name": "NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "topics": [],
-      "stars": 20124,
-      "stars_delta": 43,
-      "forks": 1985,
-      "forks_delta": 2,
+      "stars": 20195,
+      "stars_delta": 71,
+      "forks": 1988,
+      "forks_delta": 3,
       "html_url": "https://github.com/NVIDIA/OpenShell",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "en": "OpenShell is the safe, private runtime for autonomous AI agents."
@@ -366,102 +408,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "stars": 23371,
-      "stars_delta": 53,
-      "forks": 2265,
-      "forks_delta": 4,
-      "html_url": "https://github.com/earthtojake/text-to-cad",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "Give your agent CAD superpowers.",
-        "en": "Give your agent CAD superpowers."
-      },
-      "strengths": {
-        "zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-        "en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…"
-      },
-      "innovations": {
-        "zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-        "en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…"
-      },
-      "purpose_zh": "Give your agent CAD superpowers.",
-      "purpose_en": "Give your agent CAD superpowers.",
-      "strengths_zh": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "strengths_en": "Give your agent CAD superpowers. Docs text-to-cad The text-to-cad plugin gives your agent local workflows for generating 3D models as STEP, GLB, STL or 3MF files. It also does design for manufacturing checks, generates engineering…",
-      "innovations_zh": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "innovations_en": "…rk, including Claude Code, Codex, Cursor, Gemini and Grok. 💻 Install Ask your agent (recommended) Send this message to your agent and it will install text-to-cad for you. By default, text-to-cad sends usage stats and crash report…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 11,
-      "full_name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "topics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
-      ],
-      "stars": 107737,
-      "stars_delta": 96,
-      "forks": 17869,
-      "forks_delta": 10,
-      "html_url": "https://github.com/paperclipai/paperclip",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "The open-source app everyone uses to manage agents at work",
-        "en": "The open-source app everyone uses to manage agents at work"
-      },
-      "strengths": {
-        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
-      },
-      "innovations": {
-        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
-      },
-      "purpose_zh": "The open-source app everyone uses to manage agents at work",
-      "purpose_en": "The open-source app everyone uses to manage agents at work",
-      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
-      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
       "full_name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
@@ -475,12 +422,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 290015,
-      "stars_delta": 241,
-      "forks": 42982,
-      "forks_delta": 45,
+      "stars": 290361,
+      "stars_delta": 346,
+      "forks": 43018,
+      "forks_delta": 36,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -502,7 +449,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -528,12 +475,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 103489,
-      "stars_delta": 80,
-      "forks": 9133,
-      "forks_delta": 8,
+      "stars": 103565,
+      "stars_delta": 76,
+      "forks": 9138,
+      "forks_delta": 5,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -555,7 +502,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
@@ -564,12 +511,12 @@
         "reverse-engineering",
         "software-analysis"
       ],
-      "stars": 94793,
-      "stars_delta": 103,
-      "forks": 10655,
-      "forks_delta": 18,
+      "stars": 94903,
+      "stars_delta": 110,
+      "forks": 10663,
+      "forks_delta": 8,
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Ghidra is a software reverse engineering (SRE) framework",
         "en": "Ghidra is a software reverse engineering (SRE) framework"
@@ -591,49 +538,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 15,
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 42282,
-      "stars_delta": 140,
-      "forks": 5706,
-      "forks_delta": 20,
-      "html_url": "https://github.com/tashfeenahmed/freellmapi",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-      },
-      "strengths": {
-        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
-      },
-      "innovations": {
-        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
-      },
-      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
-      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "full_name": "pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 30551,
-      "stars_delta": 57,
-      "forks": 8167,
-      "forks_delta": 19,
+      "stars": 30662,
+      "stars_delta": 111,
+      "forks": 8198,
+      "forks_delta": 31,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -655,7 +570,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "full_name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
@@ -671,12 +586,12 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 177359,
-      "stars_delta": 288,
-      "forks": 9695,
-      "forks_delta": 15,
+      "stars": 177686,
+      "stars_delta": 327,
+      "forks": 9723,
+      "forks_delta": 28,
       "html_url": "https://github.com/DietrichGebert/ponytail",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
@@ -695,6 +610,91 @@
       "strengths_en": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code &middot; -41% time &middot; -26% cost &middot; -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail:…",
       "innovations_zh": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
       "innovations_en": "…ot; 한국어 &middot; 简体中文 &middot; 日本語 --- Already built with Ponytail --- You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 42455,
+      "stars_delta": 173,
+      "forks": 5735,
+      "forks_delta": 29,
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+      },
+      "strengths": {
+        "zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+        "en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…"
+      },
+      "innovations": {
+        "zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+        "en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…"
+      },
+      "purpose_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "purpose_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "strengths_zh": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "strengths_en": "FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and aud…",
+      "innovations_zh": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "innovations_en": "…te-limited, and tracks per-key usage so you stay under every free-tier cap. freellmapi.co · browse the full catalog: 474 model families, 635 free endpoints English · 简体中文 Your router updates its own model catalog from a signed fee…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ],
+      "stars": 107834,
+      "stars_delta": 97,
+      "forks": 17882,
+      "forks_delta": 13,
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "The open-source app everyone uses to manage agents at work",
+        "en": "The open-source app everyone uses to manage agents at work"
+      },
+      "strengths": {
+        "zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+        "en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…"
+      },
+      "innovations": {
+        "zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+        "en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…"
+      },
+      "purpose_zh": "The open-source app everyone uses to manage agents at work",
+      "purpose_en": "The open-source app everyone uses to manage agents at work",
+      "strengths_zh": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "strengths_en": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee…",
+      "innovations_zh": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
+      "innovations_en": "…rack work and costs from one dashboard. It looks like a task manager. Under the hood: org charts, budgets, governance, goal alignment, and agent coordination. Manage business goals, not pull requests. Step Example ------ ---------…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -721,12 +721,12 @@
         "xiaohongshu",
         "youtube-transcript"
       ],
-      "stars": 103968,
-      "stars_delta": 487,
-      "forks": 9221,
-      "forks_delta": 42,
+      "stars": 104499,
+      "stars_delta": 531,
+      "forks": 9262,
+      "forks_delta": 41,
       "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
@@ -749,104 +749,6 @@
     },
     {
       "rank": 19,
-      "full_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "context-engineering",
-        "information-retrieval",
-        "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
-      ],
-      "stars": 39806,
-      "stars_delta": 16,
-      "forks": 3432,
-      "forks_delta": 0,
-      "html_url": "https://github.com/VectifyAI/PageIndex",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
-      },
-      "strengths": {
-        "zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-        "en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…"
-      },
-      "innovations": {
-        "zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-        "en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…"
-      },
-      "purpose_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "purpose_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "strengths_zh": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "strengths_en": "PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 D…",
-      "innovations_zh": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-      "innovations_en": "…r machine (with your own LLM API key) or on PageIndex Cloud. - [Aug '26] ⚡ PageIndex Flash: fast tree index generation for text-based PDFs, now the default indexing method in PageIndex SDK local mode. - Scale PageIndex to Millions…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 20,
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "computer-vision",
-        "course",
-        "deep-learning",
-        "dsh",
-        "from-scratch",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "python",
-        "rea",
-        "reinforcement-learning",
-        "rust",
-        "transformers",
-        "tutorial",
-        "typescript"
-      ],
-      "stars": 74451,
-      "stars_delta": 101,
-      "forks": 13049,
-      "forks_delta": 18,
-      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
-      "purpose": {
-        "zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-        "en": "Learn AI Engineering! Learn it. Build it. Ship it for others."
-      },
-      "strengths": {
-        "zh": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
-        "en": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…"
-      },
-      "innovations": {
-        "zh": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
-        "en": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…"
-      },
-      "purpose_zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "purpose_en": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "strengths_zh": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
-      "strengths_en": "Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code and evaluation results. Start learning · Choose a path · Try a lab · Build a project · Browse the curriculum Free,…",
-      "innovations_zh": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
-      "innovations_en": "…English · 🇨🇳 简体中文 · 🇹🇼 繁體中文（台灣） · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇵🇹 Português · 🇧🇷 Português (Brasil) · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇨🇿 Čeština · 🇷🇴 Română · 🇭\ud83c…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 21,
       "full_name": "supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
@@ -871,12 +773,12 @@
         "vectors",
         "websockets"
       ],
-      "stars": 114069,
-      "stars_delta": 41,
-      "forks": 16308,
-      "forks_delta": 0,
+      "stars": 114115,
+      "stars_delta": 46,
+      "forks": 16309,
+      "forks_delta": 1,
       "html_url": "https://github.com/supabase/supabase",
-      "snapshot_at": "2026-10-27T05:16:21.232Z",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
       "purpose": {
         "zh": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
         "en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
@@ -895,6 +797,90 @@
       "strengths_en": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. - [x] Hosted Postgres Database. Docs - [x] Authentication and Authorization. Docs - [x] Auto…",
       "innovations_zh": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
       "innovations_en": "…ile Storage. Docs - [x] AI + Vector/Embeddings Toolkit. Docs - [x] Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, v…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 20,
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "topics": [],
+      "stars": 57318,
+      "stars_delta": 6869,
+      "forks": 5160,
+      "forks_delta": 0,
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      },
+      "strengths": {
+        "zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+        "en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…"
+      },
+      "innovations": {
+        "zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+        "en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…"
+      },
+      "purpose_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "purpose_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "strengths_zh": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "strengths_en": "&nbsp; CLI-Anything: Making ALL Software Agent-Native &#32; &#32; Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub: pip in…",
+      "innovations_zh": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "innovations_en": "…mos: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI]: Join…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 21,
+      "full_name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "topics": [
+        "android",
+        "app-framework",
+        "cross-platform",
+        "dart",
+        "dart-platform",
+        "desktop",
+        "flutter",
+        "flutter-package",
+        "fuchsia",
+        "ios",
+        "linux-desktop",
+        "macos",
+        "material-design",
+        "mobile",
+        "mobile-development",
+        "skia",
+        "web",
+        "web-framework",
+        "windows"
+      ],
+      "stars": 180389,
+      "stars_delta": 1863,
+      "forks": 33318,
+      "forks_delta": 0,
+      "html_url": "https://github.com/flutter/flutter",
+      "snapshot_at": "2026-10-27T12:25:50.704Z",
+      "purpose": {
+        "zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+      },
+      "strengths": {
+        "zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+        "en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…"
+      },
+      "innovations": {
+        "zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
+        "en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…"
+      },
+      "purpose_zh": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "purpose_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "strengths_zh": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+      "strengths_en": "[![Discord badge][]][Discord instructions] [![Twitter handle][]][Twitter badge] [![BlueSky badge][]][BlueSky handle] Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single…",
+      "innovations_zh": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
+      "innovations_en": "…ocumentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking changes across releases. Terms of service The Flutter tool m…",
       "insights_source": "readme-excerpt"
     }
   ]
