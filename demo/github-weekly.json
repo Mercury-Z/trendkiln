@@ -22,12 +22,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 51920,
-      "stars_delta": 335,
-      "forks": 3313,
-      "forks_delta": 38,
+      "stars": 52336,
+      "stars_delta": 416,
+      "forks": 3348,
+      "forks_delta": 35,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -50,6 +50,38 @@
     },
     {
       "rank": 2,
+      "full_name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "topics": [],
+      "stars": 41709,
+      "stars_delta": 1201,
+      "forks": 8482,
+      "forks_delta": 0,
+      "html_url": "https://github.com/php/php-src",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
+      "purpose": {
+        "zh": "The PHP Interpreter",
+        "en": "The PHP Interpreter"
+      },
+      "strengths": {
+        "zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+        "en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…"
+      },
+      "innovations": {
+        "zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+        "en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…"
+      },
+      "purpose_zh": "The PHP Interpreter",
+      "purpose_en": "The PHP Interpreter",
+      "strengths_zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "strengths_en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "innovations_zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "innovations_en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
@@ -62,12 +94,12 @@
         "open-source",
         "seo"
       ],
-      "stars": 23515,
-      "stars_delta": 180,
-      "forks": 3168,
-      "forks_delta": 20,
+      "stars": 23739,
+      "stars_delta": 224,
+      "forks": 3187,
+      "forks_delta": 19,
       "html_url": "https://github.com/AgriciDaniel/claude-seo",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
         "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
@@ -89,109 +121,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "topics": [],
-      "stars": 226062,
-      "stars_delta": 106,
-      "forks": 22581,
-      "forks_delta": 12,
-      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
-      "purpose": {
-        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-      },
-      "strengths": {
-        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
-      },
-      "innovations": {
-        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
-      },
-      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 4,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 33695,
-      "stars_delta": 54,
-      "forks": 3708,
-      "forks_delta": 6,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
-      "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-      },
-      "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
-      },
-      "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
-      },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "stars": 117993,
-      "stars_delta": 136,
-      "forks": 22568,
-      "forks_delta": 17,
-      "html_url": "https://github.com/TauricResearch/TradingAgents",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
-      "purpose": {
-        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
-      },
-      "strengths": {
-        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
-      },
-      "innovations": {
-        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
-      },
-      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
       "full_name": "pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
@@ -202,12 +132,12 @@
         "design",
         "slop"
       ],
-      "stars": 93334,
-      "stars_delta": 837,
-      "forks": 5508,
-      "forks_delta": 39,
+      "stars": 94338,
+      "stars_delta": 1004,
+      "forks": 5570,
+      "forks_delta": 62,
       "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
         "zh": "The design language that makes your AI harness better at design.",
         "en": "The design language that makes your AI harness better at design."
@@ -229,60 +159,150 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "antigravity",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-search",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "gemini",
-        "graphify",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "llm",
-        "mcp",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "stars": 138038,
-      "stars_delta": 249,
-      "forks": 13158,
-      "forks_delta": 23,
-      "html_url": "https://github.com/Graphify-Labs/graphify",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "rank": 5,
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "topics": [],
+      "stars": 226234,
+      "stars_delta": 172,
+      "forks": 22592,
+      "forks_delta": 11,
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
-        "zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
       },
       "strengths": {
-        "zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-        "en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…"
+        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
       },
       "innovations": {
-        "zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
-        "en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…"
+        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
       },
-      "purpose_zh": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "purpose_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "strengths_zh": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-      "strengths_en": "Read this in other languages English 简体中文 日本語 한국어 Deutsch Français Español हिन्दी Português Русский العربية فارسی Italiano Polski Nederlands Türkçe Українська Tiếng Việt Bahasa Indonesia Svenska Ελληνικά Română Čeština Suomi Dansk…",
-      "innovations_zh": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
-      "innovations_en": "…d proves correctness with formal verification. Start a free 14-day trial &rarr; Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query ins…",
+      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "stars": 118144,
+      "stars_delta": 151,
+      "forks": 22595,
+      "forks_delta": 27,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
+      "purpose": {
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "strengths": {
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
+      },
+      "innovations": {
+        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
+      },
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 307995,
+      "stars_delta": 4655,
+      "forks": 27392,
+      "forks_delta": 0,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 33763,
+      "stars_delta": 68,
+      "forks": 3713,
+      "forks_delta": 5,
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
+      "purpose": {
+        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "strengths": {
+        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+      },
+      "innovations": {
+        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+      },
+      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
+      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
       "full_name": "Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
@@ -299,12 +319,12 @@
         "ui-design",
         "web-design"
       ],
-      "stars": 104743,
-      "stars_delta": 360,
-      "forks": 7085,
-      "forks_delta": 22,
+      "stars": 105116,
+      "stars_delta": 373,
+      "forks": 7108,
+      "forks_delta": 23,
       "html_url": "https://github.com/Leonxlnx/taste-skill",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
         "zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
@@ -326,7 +346,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "full_name": "jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "topics": [],
+      "stars": 9108,
+      "stars_delta": 73,
+      "forks": 347,
+      "forks_delta": 3,
+      "html_url": "https://github.com/jakubkrehel/skills",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
+      "purpose": {
+        "zh": "A collection of agent skills that help you build great interfaces.",
+        "en": "A collection of agent skills that help you build great interfaces."
+      },
+      "strengths": {
+        "zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+        "en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…"
+      },
+      "innovations": {
+        "zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+        "en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…"
+      },
+      "purpose_zh": "A collection of agent skills that help you build great interfaces.",
+      "purpose_en": "A collection of agent skills that help you build great interfaces.",
+      "strengths_zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+      "strengths_en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+      "innovations_zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+      "innovations_en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
@@ -352,12 +404,12 @@
         "swarm-intelligence",
         "typescript"
       ],
-      "stars": 80019,
+      "stars": 80069,
       "stars_delta": 50,
-      "forks": 9386,
-      "forks_delta": 8,
+      "forks": 9395,
+      "forks_delta": 9,
       "html_url": "https://github.com/ruvnet/ruflo",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
+      "snapshot_at": "2026-10-29T13:18:47.912Z",
       "purpose": {
         "zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
@@ -376,70 +428,6 @@
       "strengths_en": "An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later. Run inside Claude Code: Core provides founda…",
       "innovations_zh": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
       "innovations_en": "…e installing. Using Codex or another MCP enabled tool? Use NPX for Ruflo project setup and connect your client to the Ruflo MCP server. Run the setup wizard in your project terminal: For clients that support local stdio MCP server…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 222825,
-      "stars_delta": 90,
-      "forks": 29857,
-      "forks_delta": 24,
-      "html_url": "https://github.com/anomalyco/opencode",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
-      "purpose": {
-        "zh": "The open source coding agent.",
-        "en": "The open source coding agent."
-      },
-      "strengths": {
-        "zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-        "en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…"
-      },
-      "innovations": {
-        "zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-        "en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…"
-      },
-      "purpose_zh": "The open source coding agent.",
-      "purpose_en": "The open source coding agent.",
-      "strengths_zh": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "strengths_en": "The open source AI coding agent. English 简体中文 繁體中文 한국어 Deutsch Español Français Italiano Dansk 日本語 Polski Русский Bosanski العربية Norsk Português (Brasil) ไทย Türkçe Українська বাংলা Ελληνικά Tiếng Việt --- Installation [!TIP] Re…",
-      "innovations_zh": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-      "innovations_en": "…code.ai/download. Platform Download --------------------- ---------------------------------- macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "jakubkrehel/skills",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "language": "Markdown",
-      "topics": [],
-      "stars": 9035,
-      "stars_delta": 72,
-      "forks": 344,
-      "forks_delta": 3,
-      "html_url": "https://github.com/jakubkrehel/skills",
-      "snapshot_at": "2026-10-29T05:59:29.117Z",
-      "purpose": {
-        "zh": "A collection of agent skills that help you build great interfaces.",
-        "en": "A collection of agent skills that help you build great interfaces."
-      },
-      "strengths": {
-        "zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-        "en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…"
-      },
-      "innovations": {
-        "zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
-        "en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…"
-      },
-      "purpose_zh": "A collection of agent skills that help you build great interfaces.",
-      "purpose_en": "A collection of agent skills that help you build great interfaces.",
-      "strengths_zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-      "strengths_en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-      "innovations_zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
-      "innovations_en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
       "insights_source": "readme-excerpt"
     }
   ]
