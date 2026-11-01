@@ -43,12 +43,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 108158,
-      "stars_delta": 440,
-      "forks": 9491,
-      "forks_delta": 37,
+      "stars": 108885,
+      "stars_delta": 727,
+      "forks": 9537,
+      "forks_delta": 46,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -71,79 +71,75 @@
     },
     {
       "rank": 2,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 308616,
-      "stars_delta": 340,
-      "forks": 25978,
-      "forks_delta": 39,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "full_name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "topics": [
+        "browser",
+        "browser-automation",
+        "cdp",
+        "headless",
+        "lightpanda",
+        "playwright",
+        "puppeteer",
+        "zig"
+      ],
+      "stars": 39892,
+      "stars_delta": 492,
+      "forks": 1948,
+      "forks_delta": 28,
+      "html_url": "https://github.com/lightpanda-io/browser",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "Lightpanda: the headless browser designed for AI and automation",
+        "en": "Lightpanda: the headless browser designed for AI and automation"
       },
       "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+        "zh": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
+        "en": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…"
       },
       "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+        "zh": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
+        "en": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…"
       },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "purpose_zh": "Lightpanda: the headless browser designed for AI and automation",
+      "purpose_en": "Lightpanda: the headless browser designed for AI and automation",
+      "strengths_zh": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
+      "strengths_en": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
+      "innovations_zh": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
+      "innovations_en": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
-      "full_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "topics": [
-        "ai-agents",
-        "ai-assisted-development",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "game-design",
-        "game-development",
-        "gamedev",
-        "godot",
-        "indie-game-dev",
-        "unity",
-        "unreal-engine"
-      ],
-      "stars": 31356,
-      "stars_delta": 262,
-      "forks": 4295,
-      "forks_delta": 37,
-      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "topics": [],
+      "stars": 45173,
+      "stars_delta": 611,
+      "forks": 7468,
+      "forks_delta": 0,
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+        "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "en": "Kronos: A Foundation Model for the Language of Financial Markets"
       },
       "strengths": {
-        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
+        "zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
+        "en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…"
       },
       "innovations": {
-        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
+        "zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
+        "en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…"
       },
-      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+      "purpose_zh": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "purpose_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "strengths_zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
+      "strengths_en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
+      "innovations_zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
+      "innovations_en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -152,12 +148,12 @@
       "description": "",
       "language": "TypeScript",
       "topics": [],
-      "stars": 36016,
-      "stars_delta": 807,
-      "forks": 8814,
-      "forks_delta": 46,
+      "stars": 37240,
+      "stars_delta": 1224,
+      "forks": 8881,
+      "forks_delta": 67,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -180,49 +176,6 @@
     },
     {
       "rank": 5,
-      "full_name": "Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "language": "TypeScript",
-      "topics": [
-        "bazi",
-        "chinese-astrology",
-        "divination",
-        "fortune-telling",
-        "nextjs",
-        "open-source",
-        "purple-star-astrology",
-        "typescript",
-        "zi-wei-dou-shu",
-        "ziwei-doushu"
-      ],
-      "stars": 12496,
-      "stars_delta": 262,
-      "forks": 2451,
-      "forks_delta": 46,
-      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
-      "purpose": {
-        "zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-        "en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
-      },
-      "strengths": {
-        "zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
-        "en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…"
-      },
-      "innovations": {
-        "zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
-        "en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…"
-      },
-      "purpose_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "purpose_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "strengths_zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
-      "strengths_en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
-      "innovations_zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
-      "innovations_en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
       "full_name": "milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
@@ -240,12 +193,12 @@
         "self-hosted",
         "typescript"
       ],
-      "stars": 9873,
-      "stars_delta": 367,
-      "forks": 1371,
-      "forks_delta": 54,
+      "stars": 10360,
+      "stars_delta": 487,
+      "forks": 1434,
+      "forks_delta": 63,
       "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
         "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
@@ -267,351 +220,501 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
+      "rank": 6,
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
       "topics": [
-        "agent-skills",
-        "ai",
-        "anti-slop",
-        "design",
-        "slop"
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list",
+        "lists",
+        "open-source",
+        "public",
+        "public-api",
+        "public-apis",
+        "resources",
+        "software"
       ],
-      "stars": 98517,
-      "stars_delta": 350,
-      "forks": 5814,
-      "forks_delta": 26,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 494317,
+      "stars_delta": 298,
+      "forks": 55177,
+      "forks_delta": 0,
+      "html_url": "https://github.com/public-apis/public-apis",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
+        "zh": "A collective list of free APIs",
+        "en": "A collective list of free APIs"
       },
       "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
+        "zh": "APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetc…",
+        "en": "APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetc…"
       },
       "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
+        "zh": "…seconds. APIs Covered Under APILayer Suite! - IPstack - Mediastack - Aviationstack - Positionstack - Mediastack - Mailboxlayer - Countrylayer - Serpstack - Scrapestack Try Public APIs for free The Public APIs repository is manual…",
+        "en": "…seconds. APIs Covered Under APILayer Suite! - IPstack - Mediastack - Aviationstack - Positionstack - Mediastack - Mailboxlayer - Countrylayer - Serpstack - Scrapestack Try Public APIs for free The Public APIs repository is manual…"
       },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "purpose_zh": "A collective list of free APIs",
+      "purpose_en": "A collective list of free APIs",
+      "strengths_zh": "APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetc…",
+      "strengths_en": "APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetc…",
+      "innovations_zh": "…seconds. APIs Covered Under APILayer Suite! - IPstack - Mediastack - Aviationstack - Positionstack - Mediastack - Mailboxlayer - Countrylayer - Serpstack - Scrapestack Try Public APIs for free The Public APIs repository is manual…",
+      "innovations_en": "…seconds. APIs Covered Under APILayer Suite! - IPstack - Mediastack - Aviationstack - Positionstack - Mediastack - Mailboxlayer - Countrylayer - Serpstack - Scrapestack Try Public APIs for free The Public APIs repository is manual…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "cross-platform",
+        "speech-to-text",
+        "tauri-v2"
+      ],
+      "stars": 36309,
+      "stars_delta": 383,
+      "forks": 3436,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cjpais/Handy",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
+      "purpose": {
+        "zh": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "en": "A free, open source, and extensible speech-to-text application that works completely offline."
+      },
+      "strengths": {
+        "zh": "Handy A free, open source, and extensible speech-to-text application that works completely offline. Handy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak,…",
+        "en": "Handy A free, open source, and extensible speech-to-text application that works completely offline. Handy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak,…"
+      },
+      "innovations": {
+        "zh": "…p for a truly open source, extensible speech-to-text tool. As stated on handy.computer: - Free: Accessibility tooling belongs in everyone's hands, not behind a paywall - Open Source: Together we can build further. Extend Handy for…",
+        "en": "…p for a truly open source, extensible speech-to-text tool. As stated on handy.computer: - Free: Accessibility tooling belongs in everyone's hands, not behind a paywall - Open Source: Together we can build further. Extend Handy for…"
+      },
+      "purpose_zh": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "purpose_en": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "strengths_zh": "Handy A free, open source, and extensible speech-to-text application that works completely offline. Handy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak,…",
+      "strengths_en": "Handy A free, open source, and extensible speech-to-text application that works completely offline. Handy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak,…",
+      "innovations_zh": "…p for a truly open source, extensible speech-to-text tool. As stated on handy.computer: - Free: Accessibility tooling belongs in everyone's hands, not behind a paywall - Open Source: Together we can build further. Extend Handy for…",
+      "innovations_en": "…p for a truly open source, extensible speech-to-text tool. As stated on handy.computer: - Free: Accessibility tooling belongs in everyone's hands, not behind a paywall - Open Source: Together we can build further. Extend Handy for…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
+        "ai-agents",
+        "ai-assisted-development",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "game-design",
+        "game-development",
+        "gamedev",
+        "godot",
+        "indie-game-dev",
+        "unity",
+        "unreal-engine"
       ],
-      "stars": 310197,
-      "stars_delta": 205,
-      "forks": 27605,
-      "forks_delta": 31,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 31974,
+      "stars_delta": 618,
+      "forks": 4365,
+      "forks_delta": 70,
+      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "An agentic skills framework & software development methodology that works.",
-        "en": "An agentic skills framework & software development methodology that works."
+        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
       },
       "strengths": {
-        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
       },
       "innovations": {
-        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
       },
-      "purpose_zh": "An agentic skills framework & software development methodology that works.",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
+      "full_name": "kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "language": "Python",
       "topics": [
-        "browser",
-        "browser-automation",
-        "cdp",
-        "headless",
-        "lightpanda",
-        "playwright",
-        "puppeteer",
-        "zig"
+        "artificial-intelligence",
+        "computer-vision",
+        "deep-learning",
+        "hacktoberfest",
+        "image-processing",
+        "machine-learning",
+        "neural-network",
+        "python",
+        "pytorch",
+        "robotics",
+        "spatial-ai"
       ],
-      "stars": 39400,
-      "stars_delta": 248,
-      "forks": 1920,
-      "forks_delta": 15,
-      "html_url": "https://github.com/lightpanda-io/browser",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 11691,
+      "stars_delta": 88,
+      "forks": 1462,
+      "forks_delta": 0,
+      "html_url": "https://github.com/kornia/kornia",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Lightpanda: the headless browser designed for AI and automation",
-        "en": "Lightpanda: the headless browser designed for AI and automation"
+        "zh": "🐍 Geometric Computer Vision Library for Spatial AI",
+        "en": "🐍 Geometric Computer Vision Library for Spatial AI"
       },
       "strengths": {
-        "zh": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
-        "en": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…"
+        "zh": "--- English 简体中文 Docs • Try it Now • Tutorials • Examples • Blog • Community Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on…",
+        "en": "--- English 简体中文 Docs • Try it Now • Tutorials • Examples • Blog • Community Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on…"
       },
       "innovations": {
-        "zh": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
-        "en": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…"
+        "zh": "…n. Whether you're working on image transformations, augmentations, or AI-driven image processing, Kornia equips you with the tools you need to bring your ideas to life. 📢 Direction: Kornia is becoming the reference implementation…",
+        "en": "…n. Whether you're working on image transformations, augmentations, or AI-driven image processing, Kornia equips you with the tools you need to bring your ideas to life. 📢 Direction: Kornia is becoming the reference implementation…"
       },
-      "purpose_zh": "Lightpanda: the headless browser designed for AI and automation",
-      "purpose_en": "Lightpanda: the headless browser designed for AI and automation",
-      "strengths_zh": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
-      "strengths_en": "Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. &emsp; Benchmarks Requesting…",
-      "innovations_zh": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
-      "innovations_en": "…eak, 100 pages) 123MB 2GB ~16x less Execution time (100 pages) 5s 46s ~9x faster Quick start Install Package Managers Latest nightly from Homebrew: Latest nightly from Arch Linux User Repository: Download from the nightly builds Y…",
+      "purpose_zh": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "purpose_en": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "strengths_zh": "--- English 简体中文 Docs • Try it Now • Tutorials • Examples • Blog • Community Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on…",
+      "strengths_en": "--- English 简体中文 Docs • Try it Now • Tutorials • Examples • Blog • Community Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on…",
+      "innovations_zh": "…n. Whether you're working on image transformations, augmentations, or AI-driven image processing, Kornia equips you with the tools you need to bring your ideas to life. 📢 Direction: Kornia is becoming the reference implementation…",
+      "innovations_en": "…n. Whether you're working on image transformations, augmentations, or AI-driven image processing, Kornia equips you with the tools you need to bring your ideas to life. 📢 Direction: Kornia is becoming the reference implementation…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 10,
-      "full_name": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "full_name": "beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "language": "Python",
       "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "clawbot",
-        "cli-tool",
-        "deepresearch",
-        "interactive-learning",
-        "learning",
-        "multi-agent-systems",
-        "rag"
+        "agentic-ai",
+        "ai-security",
+        "alert-triage",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "incident-response",
+        "langgraph",
+        "llm-agents",
+        "mcp",
+        "mitre-attack",
+        "model-context-protocol",
+        "purple-team",
+        "security-operations",
+        "self-hosted",
+        "siem",
+        "soar",
+        "soc",
+        "threat-detection",
+        "threat-intelligence"
       ],
-      "stars": 53069,
-      "stars_delta": 358,
-      "forks": 6495,
-      "forks_delta": 40,
-      "html_url": "https://github.com/HKUDS/DeepTutor",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 6033,
+      "stars_delta": 436,
+      "forks": 630,
+      "forks_delta": 0,
+      "html_url": "https://github.com/beenuar/AiSOC",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+        "zh": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+        "en": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue."
       },
       "strengths": {
-        "zh": "&nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We welcome any…",
-        "en": "&nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We welcome any…"
+        "zh": "AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, and proposes responses a h…",
+        "en": "AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, and proposes responses a h…"
       },
       "innovations": {
-        "zh": "…ed. 📦 Releases [2026.10.19] v1.6.15 — Reviewed learning-path changes, grouped assessments, bounded tutoring memory, reliable chat recovery, sturdier parsing, retrieval comparisons, and native Gemini speech. Past releases (more th…",
-        "en": "…ed. 📦 Releases [2026.10.19] v1.6.15 — Reviewed learning-path changes, grouped assessments, bounded tutoring memory, reliable chat recovery, sturdier parsing, retrieval comparisons, and native Gemini speech. Past releases (more th…"
+        "zh": "…lizes it, runs the 2530 executable rules of its 7015-rule library, groups what fires into incidents, investigates each one with an AI agent whose every prompt and tool call is recorded, and proposes an action. New threat intellige…",
+        "en": "…lizes it, runs the 2530 executable rules of its 7015-rule library, groups what fires into incidents, investigates each one with an AI agent whose every prompt and tool call is recorded, and proposes an action. New threat intellige…"
       },
-      "purpose_zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "purpose_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "strengths_zh": "&nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We welcome any…",
-      "strengths_en": "&nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We welcome any…",
-      "innovations_zh": "…ed. 📦 Releases [2026.10.19] v1.6.15 — Reviewed learning-path changes, grouped assessments, bounded tutoring memory, reliable chat recovery, sturdier parsing, retrieval comparisons, and native Gemini speech. Past releases (more th…",
-      "innovations_en": "…ed. 📦 Releases [2026.10.19] v1.6.15 — Reviewed learning-path changes, grouped assessments, bounded tutoring memory, reliable chat recovery, sturdier parsing, retrieval comparisons, and native Gemini speech. Past releases (more th…",
+      "purpose_zh": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "purpose_en": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "strengths_zh": "AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, and proposes responses a h…",
+      "strengths_en": "AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, and proposes responses a h…",
+      "innovations_zh": "…lizes it, runs the 2530 executable rules of its 7015-rule library, groups what fires into incidents, investigates each one with an AI agent whose every prompt and tool call is recorded, and proposes an action. New threat intellige…",
+      "innovations_en": "…lizes it, runs the 2530 executable rules of its 7015-rule library, groups what fires into incidents, investigates each one with an AI agent whose every prompt and tool call is recorded, and proposes an action. New threat intellige…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 11,
-      "full_name": "Orkas-AI/Orkas",
-      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "language": "JavaScript",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
       "topics": [
-        "agent-collaboration",
-        "agent-harness",
-        "agent-orchestration",
-        "agent-team",
-        "agent-workflow",
-        "ai-assistant",
-        "ai-automation",
-        "ai-employee",
-        "ai-productivity",
-        "ai-team",
-        "ai-workflow",
-        "autonomous-agents",
-        "claude-code-gui",
-        "claude-cowork",
-        "desktop-agent",
-        "local-first",
-        "multi-agent",
-        "multi-agent-system",
-        "self-evolving-agents",
-        "task-automation"
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
       ],
-      "stars": 6835,
-      "stars_delta": 746,
-      "forks": 417,
-      "forks_delta": 50,
-      "html_url": "https://github.com/Orkas-AI/Orkas",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 12977,
+      "stars_delta": 481,
+      "forks": 2545,
+      "forks_delta": 94,
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "en": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys."
+        "zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
       },
       "strengths": {
-        "zh": "Orkas An open-source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving. Orkas is an open-source (MIT), local-first multi-agent desktop app — an AI assistant that works as a team. Tell t…",
-        "en": "Orkas An open-source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving. Orkas is an open-source (MIT), local-first multi-agent desktop app — an AI assistant that works as a team. Tell t…"
+        "zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+        "en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…"
       },
       "innovations": {
-        "zh": "…gents you already use — Claude Code, Codex, OpenCode, OpenClaw and Hermes-Agent — to work on it together. Orkas is built to keep a project moving, not just answer one prompt. A project holds the goal, rules, memory and files, so e…",
-        "en": "…gents you already use — Claude Code, Codex, OpenCode, OpenClaw and Hermes-Agent — to work on it together. Orkas is built to keep a project moving, not just answer one prompt. A project holds the goal, rules, memory and files, so e…"
+        "zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
+        "en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…"
       },
-      "purpose_zh": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "purpose_en": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "strengths_zh": "Orkas An open-source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving. Orkas is an open-source (MIT), local-first multi-agent desktop app — an AI assistant that works as a team. Tell t…",
-      "strengths_en": "Orkas An open-source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving. Orkas is an open-source (MIT), local-first multi-agent desktop app — an AI assistant that works as a team. Tell t…",
-      "innovations_zh": "…gents you already use — Claude Code, Codex, OpenCode, OpenClaw and Hermes-Agent — to work on it together. Orkas is built to keep a project moving, not just answer one prompt. A project holds the goal, rules, memory and files, so e…",
-      "innovations_en": "…gents you already use — Claude Code, Codex, OpenCode, OpenClaw and Hermes-Agent — to work on it together. Orkas is built to keep a project moving, not just answer one prompt. A project holds the goal, rules, memory and files, so e…",
+      "purpose_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "purpose_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "strengths_zh": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+      "strengths_en": "紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信：算法是公开的传统智慧，不应该被锁在围墙里。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整…",
+      "innovations_zh": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
+      "innovations_en": "….0 解读数据集（2026-10-15） 674,976 8,774,688 56.6 GB 1950–2026（只含真实日期） 约 3.0 万字 v3.0 样本数据集 518,400 6,739,200 33.1 GB 1924–1983 约 2.1 万字 变化 +30% +30% +71% +17 年 +44% v3.0 每张盘解读字数按 2,160 张盘抽样估算，其余数字为全量统计；两版每张盘都是 13 维。 在线体验：metisziwei.com，…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 12,
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 42274,
-      "stars_delta": 118,
-      "forks": 6521,
-      "forks_delta": 11,
-      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "full_name": "anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "language": "Rust",
+      "topics": [
+        "dictation",
+        "linux",
+        "local-first",
+        "macos",
+        "rust",
+        "speech-recognition",
+        "speech-to-text",
+        "voice-control"
+      ],
+      "stars": 2951,
+      "stars_delta": 1329,
+      "forks": 173,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anomalyco/hex",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+        "zh": "Local voice dictation for mac, windows and linux",
+        "en": "Local voice dictation for mac, windows and linux"
       },
       "strengths": {
-        "zh": "-- Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🗞️ News - 2026-10-29 — v1.3.0: kn…",
-        "en": "-- Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🗞️ News - 2026-10-29 — v1.3.0: kn…"
+        "zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
+        "en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…"
       },
       "innovations": {
-        "zh": "…composer offers it through @, and the agent can read, search and organize it. In the Pro workbench, a request shows a preview of the agent's work before the first page exists, and classroom tabs switch between Learn and Edit. The…",
-        "en": "…composer offers it through @, and the agent can read, search and organize it. In the Pro workbench, a request shows a preview of the agent's work before the first page exists, and classroom tabs switch between Learn and Edit. The…"
+        "zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
+        "en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…"
       },
-      "purpose_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "purpose_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "strengths_zh": "-- Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🗞️ News - 2026-10-29 — v1.3.0: kn…",
-      "strengths_en": "-- Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🗞️ News - 2026-10-29 — v1.3.0: kn…",
-      "innovations_zh": "…composer offers it through @, and the agent can read, search and organize it. In the Pro workbench, a request shows a preview of the agent's work before the first page exists, and classroom tabs switch between Learn and Edit. The…",
-      "innovations_en": "…composer offers it through @, and the agent can read, search and organize it. In the Pro workbench, a request shows a preview of the agent's work before the first page exists, and classroom tabs switch between Learn and Edit. The…",
+      "purpose_zh": "Local voice dictation for mac, windows and linux",
+      "purpose_en": "Local voice dictation for mac, windows and linux",
+      "strengths_zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
+      "strengths_en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
+      "innovations_zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
+      "innovations_en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "language": "Python",
+      "full_name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
       "topics": [
-        "ansible",
-        "aws",
-        "azure",
-        "coding",
-        "containers",
-        "devops",
-        "docker",
-        "git",
-        "interview",
-        "interview-questions",
-        "kubernetes",
-        "linux",
-        "openstack",
-        "production-engineer",
-        "prometheus",
-        "python",
-        "sql",
-        "sre",
-        "terraform"
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
       ],
-      "stars": 86122,
-      "stars_delta": 207,
-      "forks": 20557,
-      "forks_delta": 17,
-      "html_url": "https://github.com/bregman-arie/devops-exercises",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "stars": 9381,
+      "stars_delta": 178,
+      "forks": 1174,
+      "forks_delta": 0,
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "en": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+        "zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
       },
       "strengths": {
-        "zh": ":informationsource: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :barchart: &nbsp;There are currently 2624 exercises and questions :warning: &nbsp;You can use th…",
-        "en": ":informationsource: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :barchart: &nbsp;There are currently 2624 exercises and questions :warning: &nbsp;You can use th…"
+        "zh": "OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG-UI.…",
+        "en": "OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG-UI.…"
       },
       "innovations": {
-        "zh": "…you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository :pe…",
-        "en": "…you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository :pe…"
+        "zh": "…engineer · Have us build it with you · copilotkit.ai/openbot · Quick start · Docs https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arr…",
+        "en": "…engineer · Have us build it with you · copilotkit.ai/openbot · Quick start · Docs https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arr…"
       },
-      "purpose_zh": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "purpose_en": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "strengths_zh": ":informationsource: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :barchart: &nbsp;There are currently 2624 exercises and questions :warning: &nbsp;You can use th…",
-      "strengths_en": ":informationsource: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :barchart: &nbsp;There are currently 2624 exercises and questions :warning: &nbsp;You can use th…",
-      "innovations_zh": "…you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository :pe…",
-      "innovations_en": "…you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository :pe…",
+      "purpose_zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "purpose_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "strengths_zh": "OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG-UI.…",
+      "strengths_en": "OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG-UI.…",
+      "innovations_zh": "…engineer · Have us build it with you · copilotkit.ai/openbot · Quick start · Docs https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arr…",
+      "innovations_en": "…engineer · Have us build it with you · copilotkit.ai/openbot · Quick start · Docs https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arr…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 14,
-      "full_name": "vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar",
-        "menubar",
-        "open-source",
-        "swift",
-        "swift-ui",
-        "system-monitor",
-        "uninstaller",
-        "volume-mixer",
-        "window-switcher"
-      ],
-      "stars": 32046,
-      "stars_delta": 202,
-      "forks": 1544,
-      "forks_delta": 10,
-      "html_url": "https://github.com/vorssaint/vorssaint-utils",
-      "snapshot_at": "2026-11-01T06:24:21.299Z",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "topics": [],
+      "stars": 12763,
+      "stars_delta": 730,
+      "forks": 1925,
+      "forks_delta": 0,
+      "html_url": "https://github.com/togg53192-cmd/jailbreaks",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
       "purpose": {
-        "zh": "Free and open-source macOS menu bar toolkit.",
-        "en": "Free and open-source macOS menu bar toolkit."
+        "zh": "LIST OF ALL MY JAILBREAKS",
+        "en": "LIST OF ALL MY JAILBREAKS"
       },
       "strengths": {
-        "zh": "Vorssaint One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use. Website · Install · Features · Privacy · Changelog · Contact · Discord For anything private, email hello@vorssaint.com . Sponsors Help…",
-        "en": "Vorssaint One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use. Website · Install · Features · Privacy · Changelog · Contact · Discord For anything private, email hello@vorssaint.com . Sponsors Help…"
+        "zh": "Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. --- About A working collection of 32 prompts targeting 26…",
+        "en": "Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. --- About A working collection of 32 prompts targeting 26…"
       },
       "innovations": {
-        "zh": "…eal system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, wit…",
-        "en": "…eal system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, wit…"
+        "zh": "…to be complete and paste-ready. No summaries. No partial excerpts. The collection covers: - Free stealth models available through OpenCode Zen - Open-weight families including GLM, DeepSeek, Kimi, Qwen, Gemma, and GPT-OSS - Close…",
+        "en": "…to be complete and paste-ready. No summaries. No partial excerpts. The collection covers: - Free stealth models available through OpenCode Zen - Open-weight families including GLM, DeepSeek, Kimi, Qwen, Gemma, and GPT-OSS - Close…"
       },
-      "purpose_zh": "Free and open-source macOS menu bar toolkit.",
-      "purpose_en": "Free and open-source macOS menu bar toolkit.",
-      "strengths_zh": "Vorssaint One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use. Website · Install · Features · Privacy · Changelog · Contact · Discord For anything private, email hello@vorssaint.com . Sponsors Help…",
-      "strengths_en": "Vorssaint One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use. Website · Install · Features · Privacy · Changelog · Contact · Discord For anything private, email hello@vorssaint.com . Sponsors Help…",
-      "innovations_zh": "…eal system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, wit…",
-      "innovations_en": "…eal system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, wit…",
+      "purpose_zh": "LIST OF ALL MY JAILBREAKS",
+      "purpose_en": "LIST OF ALL MY JAILBREAKS",
+      "strengths_zh": "Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. --- About A working collection of 32 prompts targeting 26…",
+      "strengths_en": "Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. --- About A working collection of 32 prompts targeting 26…",
+      "innovations_zh": "…to be complete and paste-ready. No summaries. No partial excerpts. The collection covers: - Free stealth models available through OpenCode Zen - Open-weight families including GLM, DeepSeek, Kimi, Qwen, Gemma, and GPT-OSS - Close…",
+      "innovations_en": "…to be complete and paste-ready. No summaries. No partial excerpts. The collection covers: - Free stealth models available through OpenCode Zen - Open-weight families including GLM, DeepSeek, Kimi, Qwen, Gemma, and GPT-OSS - Close…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agents",
+        "ai",
+        "llms",
+        "machine-learning",
+        "mcp",
+        "rag"
+      ],
+      "stars": 40026,
+      "stars_delta": 573,
+      "forks": 6467,
+      "forks_delta": 0,
+      "html_url": "https://github.com/patchy631/ai-engineering-hub",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
+      "purpose": {
+        "zh": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "en": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+      },
+      "strengths": {
+        "zh": "--- AI Engineering Hub 🚀 Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefront requires both deep un…",
+        "en": "--- AI Engineering Hub 🚀 Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefront requires both deep un…"
+      },
+      "innovations": {
+        "zh": "…al-world AI agent applications - Examples to implement, adapt, and scale in your projects Whether you're a beginner, practitioner, or researcher, this repo provides resources for all skill levels to experiment and succeed in AI en…",
+        "en": "…al-world AI agent applications - Examples to implement, adapt, and scale in your projects Whether you're a beginner, practitioner, or researcher, this repo provides resources for all skill levels to experiment and succeed in AI en…"
+      },
+      "purpose_zh": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "purpose_en": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "strengths_zh": "--- AI Engineering Hub 🚀 Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefront requires both deep un…",
+      "strengths_en": "--- AI Engineering Hub 🚀 Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefront requires both deep un…",
+      "innovations_zh": "…al-world AI agent applications - Examples to implement, adapt, and scale in your projects Whether you're a beginner, practitioner, or researcher, this repo provides resources for all skill levels to experiment and succeed in AI en…",
+      "innovations_en": "…al-world AI agent applications - Examples to implement, adapt, and scale in your projects Whether you're a beginner, practitioner, or researcher, this repo provides resources for all skill levels to experiment and succeed in AI en…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 16,
+      "full_name": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "language": "Python",
+      "topics": [
+        "deepseek-v4",
+        "edge",
+        "glm",
+        "inference",
+        "minimax",
+        "moe",
+        "qwen",
+        "transformer"
+      ],
+      "stars": 15243,
+      "stars_delta": 232,
+      "forks": 1539,
+      "forks_delta": 0,
+      "html_url": "https://github.com/FlashML-org/FreeToken",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
+      "purpose": {
+        "zh": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
+      },
+      "strengths": {
+        "zh": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+        "en": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…"
+      },
+      "innovations": {
+        "zh": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+        "en": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…"
+      },
+      "purpose_zh": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "purpose_en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "strengths_zh": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+      "strengths_en": "Download Paper Developer Slack Community Discord Community WeChat Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. Abo…",
+      "innovations_zh": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+      "innovations_en": "…heterogeneous edge resources—GPUs, CPUs, host memory, and interconnects—as a unified, elastic inference platform. Its core features include: - Fast Edge-Native Runtime: Provides efficient MoE serving with bandwidth-adaptive CPU–G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 17,
+      "full_name": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "topics": [
+        "compositor",
+        "cpp26",
+        "wayland",
+        "wayland-compositor"
+      ],
+      "stars": 39255,
+      "stars_delta": 91,
+      "forks": 2122,
+      "forks_delta": 0,
+      "html_url": "https://github.com/hyprwm/Hyprland",
+      "snapshot_at": "2026-11-01T17:58:30.627Z",
+      "purpose": {
+        "zh": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+      },
+      "strengths": {
+        "zh": "[![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom] Hyprland is a 100% independent, dynamic tiling Wayland compositor that d…",
+        "en": "[![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom] Hyprland is a 100% independent, dynamic tiling Wayland compositor that d…"
+      },
+      "innovations": {
+        "zh": "…tuff than other compositors and more... --- [ Install ][Install] [ Quick Start ][Quick Start] [ Configure ][Configure] [ Contribute ][Contribute] --- Features - All of the eyecandy: gradient borders, many types of blur, animations…",
+        "en": "…tuff than other compositors and more... --- [ Install ][Install] [ Quick Start ][Quick Start] [ Configure ][Configure] [ Contribute ][Contribute] --- Features - All of the eyecandy: gradient borders, many types of blur, animations…"
+      },
+      "purpose_zh": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "purpose_en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "strengths_zh": "[![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom] Hyprland is a 100% independent, dynamic tiling Wayland compositor that d…",
+      "strengths_en": "[![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom] Hyprland is a 100% independent, dynamic tiling Wayland compositor that d…",
+      "innovations_zh": "…tuff than other compositors and more... --- [ Install ][Install] [ Quick Start ][Quick Start] [ Configure ][Configure] [ Contribute ][Contribute] --- Features - All of the eyecandy: gradient borders, many types of blur, animations…",
+      "innovations_en": "…tuff than other compositors and more... --- [ Install ][Install] [ Quick Start ][Quick Start] [ Configure ][Configure] [ Contribute ][Contribute] --- Features - All of the eyecandy: gradient borders, many types of blur, animations…",
       "insights_source": "readme-excerpt"
     }
   ]

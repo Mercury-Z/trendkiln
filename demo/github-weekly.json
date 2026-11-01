@@ -22,12 +22,12 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "topics": [],
-      "stars": 44118,
-      "stars_delta": 270,
-      "forks": 2329,
-      "forks_delta": 22,
+      "stars": 44614,
+      "stars_delta": 496,
+      "forks": 2364,
+      "forks_delta": 35,
       "html_url": "https://github.com/Nutlope/hallmark",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
@@ -50,34 +50,40 @@
     },
     {
       "rank": 2,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 55555,
-      "stars_delta": 352,
-      "forks": 3624,
-      "forks_delta": 27,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "full_name": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "stars": 99114,
+      "stars_delta": 597,
+      "forks": 5857,
+      "forks_delta": 43,
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+        "zh": "The design language that makes your AI harness better at design.",
+        "en": "The design language that makes your AI harness better at design."
       },
       "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
       },
       "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
       },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "purpose_zh": "The design language that makes your AI harness better at design.",
+      "purpose_en": "The design language that makes your AI harness better at design.",
+      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
+      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
+      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -94,12 +100,12 @@
         "open-source",
         "seo"
       ],
-      "stars": 25134,
-      "stars_delta": 138,
-      "forks": 3325,
-      "forks_delta": 13,
+      "stars": 25395,
+      "stars_delta": 261,
+      "forks": 3346,
+      "forks_delta": 21,
       "html_url": "https://github.com/AgriciDaniel/claude-seo",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
@@ -122,263 +128,6 @@
     },
     {
       "rank": 4,
-      "full_name": "pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "anti-slop",
-        "design",
-        "slop"
-      ],
-      "stars": 98517,
-      "stars_delta": 350,
-      "forks": 5814,
-      "forks_delta": 26,
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "The design language that makes your AI harness better at design.",
-        "en": "The design language that makes your AI harness better at design."
-      },
-      "strengths": {
-        "zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-        "en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…"
-      },
-      "innovations": {
-        "zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-        "en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…"
-      },
-      "purpose_zh": "The design language that makes your AI harness better at design.",
-      "purpose_en": "The design language that makes your AI harness better at design.",
-      "strengths_zh": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "strengths_en": "Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install,…",
-      "innovations_zh": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "innovations_en": "…Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "stars": 310198,
-      "stars_delta": 206,
-      "forks": 27605,
-      "forks_delta": 31,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "An agentic skills framework & software development methodology that works.",
-        "en": "An agentic skills framework & software development methodology that works."
-      },
-      "strengths": {
-        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
-      },
-      "innovations": {
-        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
-      },
-      "purpose_zh": "An agentic skills framework & software development methodology that works.",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "topics": [],
-      "stars": 227617,
-      "stars_delta": 171,
-      "forks": 22710,
-      "forks_delta": 13,
-      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-      },
-      "strengths": {
-        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
-      },
-      "innovations": {
-        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
-      },
-      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
-      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "stars": 119137,
-      "stars_delta": 117,
-      "forks": 22798,
-      "forks_delta": 40,
-      "html_url": "https://github.com/TauricResearch/TradingAgents",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
-      },
-      "strengths": {
-        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
-      },
-      "innovations": {
-        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
-      },
-      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
-      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "jakubkrehel/skills",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "language": "Markdown",
-      "topics": [],
-      "stars": 9662,
-      "stars_delta": 74,
-      "forks": 372,
-      "forks_delta": 4,
-      "html_url": "https://github.com/jakubkrehel/skills",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "A collection of agent skills that help you build great interfaces.",
-        "en": "A collection of agent skills that help you build great interfaces."
-      },
-      "strengths": {
-        "zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-        "en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…"
-      },
-      "innovations": {
-        "zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
-        "en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…"
-      },
-      "purpose_zh": "A collection of agent skills that help you build great interfaces.",
-      "purpose_en": "A collection of agent skills that help you build great interfaces.",
-      "strengths_zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-      "strengths_en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
-      "innovations_zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
-      "innovations_en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "anti-slop",
-        "claude-code",
-        "codex",
-        "cursor",
-        "design-system",
-        "frontend",
-        "landing-page",
-        "ui-design",
-        "web-design"
-      ],
-      "stars": 107204,
-      "stars_delta": 231,
-      "forks": 7250,
-      "forks_delta": 11,
-      "html_url": "https://github.com/Leonxlnx/taste-skill",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-        "en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
-      },
-      "strengths": {
-        "zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-        "en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…"
-      },
-      "innovations": {
-        "zh": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
-        "en": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…"
-      },
-      "purpose_zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "purpose_en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "strengths_zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-      "strengths_en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-      "innovations_zh": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
-      "innovations_en": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 36016,
-      "stars_delta": 806,
-      "forks": 8815,
-      "forks_delta": 47,
-      "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
-      "purpose": {
-        "zh": "",
-        "en": ""
-      },
-      "strengths": {
-        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
-      },
-      "innovations": {
-        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
-      },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -404,12 +153,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 108158,
-      "stars_delta": 440,
-      "forks": 9491,
-      "forks_delta": 37,
+      "stars": 108885,
+      "stars_delta": 727,
+      "forks": 9537,
+      "forks_delta": 46,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -431,19 +180,316 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 5,
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 56132,
+      "stars_delta": 577,
+      "forks": 3662,
+      "forks_delta": 38,
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "strengths": {
+        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
+      },
+      "innovations": {
+        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
+      },
+      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
+      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 310498,
+      "stars_delta": 300,
+      "forks": 27631,
+      "forks_delta": 26,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-coding",
+        "ai-tools",
+        "pi-agent",
+        "pi-agent-extension",
+        "spec-driven",
+        "spec-driven-coding",
+        "spec-driven-development",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "stars": 6925,
+      "stars_delta": 5738,
+      "forks": 387,
+      "forks_delta": 0,
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
+      },
+      "strengths": {
+        "zh": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+        "en": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…"
+      },
+      "innovations": {
+        "zh": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog · Discord: thinkrail.ai/discord ⭐ If you find ThinkRail useful, give it a star — it helps others discover it.…",
+        "en": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog · Discord: thinkrail.ai/discord ⭐ If you find ThinkRail useful, give it a star — it helps others discover it.…"
+      },
+      "purpose_zh": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "purpose_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "strengths_zh": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+      "strengths_en": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, is…",
+      "innovations_zh": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog · Discord: thinkrail.ai/discord ⭐ If you find ThinkRail useful, give it a star — it helps others discover it.…",
+      "innovations_en": "…ThinkRail can create the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog · Discord: thinkrail.ai/discord ⭐ If you find ThinkRail useful, give it a star — it helps others discover it.…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 37240,
+      "stars_delta": 1224,
+      "forks": 8881,
+      "forks_delta": 66,
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
+      },
+      "innovations": {
+        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
+      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "topics": [],
+      "stars": 227888,
+      "stars_delta": 271,
+      "forks": 22733,
+      "forks_delta": 23,
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+      },
+      "strengths": {
+        "zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+        "en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…"
+      },
+      "innovations": {
+        "zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+        "en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…"
+      },
+      "purpose_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "purpose_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "strengths_zh": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "strengths_en": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuanjy A single CLAUDE.md file to im…",
+      "innovations_zh": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+      "innovations_en": "…ptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They re…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "topics": [],
+      "stars": 9950,
+      "stars_delta": 288,
+      "forks": 385,
+      "forks_delta": 13,
+      "html_url": "https://github.com/jakubkrehel/skills",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "A collection of agent skills that help you build great interfaces.",
+        "en": "A collection of agent skills that help you build great interfaces."
+      },
+      "strengths": {
+        "zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+        "en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…"
+      },
+      "innovations": {
+        "zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+        "en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…"
+      },
+      "purpose_zh": "A collection of agent skills that help you build great interfaces.",
+      "purpose_en": "A collection of agent skills that help you build great interfaces.",
+      "strengths_zh": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+      "strengths_en": "A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface. These skills cover topics that I write about on my personal website and my design enginee…",
+      "innovations_zh": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+      "innovations_en": "…pography, color and UI polish, and returns one ranked report. - better-ui: Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation. - better-typography: Sets a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "stars": 119420,
+      "stars_delta": 283,
+      "forks": 22852,
+      "forks_delta": 54,
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "en": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "strengths": {
+        "zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+        "en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…"
+      },
+      "innovations": {
+        "zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+        "en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…"
+      },
+      "purpose_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "purpose_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "strengths_zh": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "strengths_en": "Deutsch Español français 日本語 한국어 Português Русский 中文 --- TradingAgents: Multi-Agents LLM Financial Trading Framework News - [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored…",
+      "innovations_zh": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "innovations_en": "…leased with reports saved as one HTML page, a provider per model tier so the managers and analysts can run on different models, past decisions settled for every ticker while the analysts work, and company news read from Yahoo sear…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 12,
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design-system",
+        "frontend",
+        "landing-page",
+        "ui-design",
+        "web-design"
+      ],
+      "stars": 107586,
+      "stars_delta": 382,
+      "forks": 7271,
+      "forks_delta": 21,
+      "html_url": "https://github.com/Leonxlnx/taste-skill",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
+      "purpose": {
+        "zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+      },
+      "strengths": {
+        "zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+        "en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…"
+      },
+      "innovations": {
+        "zh": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
+        "en": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…"
+      },
+      "purpose_zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "purpose_en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "strengths_zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+      "strengths_en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+      "innovations_zh": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
+      "innovations_en": "…agent an art direction, real pictures and a way to check its own work in a real browser. Pages it has built, each from one brief: The photographs are real, found in open archives and credited by the skill (credits). Watch the lau…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
-      "stars": 185996,
-      "stars_delta": 167,
-      "forks": 21957,
-      "forks_delta": 19,
+      "stars": 186230,
+      "stars_delta": 234,
+      "forks": 21992,
+      "forks_delta": 35,
       "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "Public repository for Agent Skills",
         "en": "Public repository for Agent Skills"
@@ -465,7 +511,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "full_name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
@@ -479,12 +525,12 @@
         "mcp",
         "productivity"
       ],
-      "stars": 294219,
-      "stars_delta": 229,
-      "forks": 43563,
-      "forks_delta": 46,
+      "stars": 294611,
+      "stars_delta": 392,
+      "forks": 43608,
+      "forks_delta": 45,
       "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
@@ -506,7 +552,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "full_name": "YuJunZhiXue/dsh-purge",
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
@@ -519,12 +565,12 @@
         "jailbreak",
         "llm-jailbreak"
       ],
-      "stars": 14772,
-      "stars_delta": 228,
-      "forks": 3417,
-      "forks_delta": 55,
+      "stars": 15269,
+      "stars_delta": 497,
+      "forks": 3510,
+      "forks_delta": 93,
       "html_url": "https://github.com/YuJunZhiXue/dsh-purge",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
         "zh": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
         "en": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
@@ -546,53 +592,35 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 15,
-      "full_name": "AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "astrbot",
-        "chatbot",
-        "chatgpt",
-        "discord",
-        "docker",
-        "gemini",
-        "gpt",
-        "llama",
-        "llm",
-        "mcp",
-        "openai",
-        "python",
-        "qq",
-        "qqbot",
-        "telegram"
-      ],
-      "stars": 45387,
-      "stars_delta": 67,
-      "forks": 3325,
-      "forks_delta": 3,
-      "html_url": "https://github.com/AstrBotDevs/AstrBot",
-      "snapshot_at": "2026-11-01T06:24:23.763Z",
+      "rank": 16,
+      "full_name": "ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "topics": [],
+      "stars": 63152,
+      "stars_delta": 556,
+      "forks": 3812,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ghostty-org/ghostty",
+      "snapshot_at": "2026-11-01T17:58:36.471Z",
       "purpose": {
-        "zh": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+        "zh": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "en": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
       },
       "strengths": {
-        "zh": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It…",
-        "en": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It…"
+        "zh": "Ghostty Fast, native, feature-rich terminal emulator pushing modern features. A native GUI or embeddable library via libghostty . About · Download · Documentation · Contributing · Developing About Ghostty is a terminal emulator th…",
+        "en": "Ghostty Fast, native, feature-rich terminal emulator pushing modern features. A native GUI or embeddable library via libghostty . About · Download · Documentation · Contributing · Developing About Ghostty is a terminal emulator th…"
       },
       "innovations": {
-        "zh": "…omer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 1. 💯 Free & Open Source. 2. ✨ AI LLM Conversa…",
-        "en": "…omer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 1. 💯 Free & Open Source. 2. ✨ AI LLM Conversa…"
+        "zh": "…features, or native UIs. Ghostty provides all three. libghostty is a cross-platform, zero-dependency C and Zig library for building terminal emulators or utilizing terminal functionality (such as style parsing). Anyone can use li…",
+        "en": "…features, or native UIs. Ghostty provides all three. libghostty is a cross-platform, zero-dependency C and Zig library for building terminal emulators or utilizing terminal functionality (such as style parsing). Anyone can use li…"
       },
-      "purpose_zh": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "purpose_en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "strengths_zh": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It…",
-      "strengths_en": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It…",
-      "innovations_zh": "…omer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 1. 💯 Free & Open Source. 2. ✨ AI LLM Conversa…",
-      "innovations_en": "…omer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 1. 💯 Free & Open Source. 2. ✨ AI LLM Conversa…",
+      "purpose_zh": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "purpose_en": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "strengths_zh": "Ghostty Fast, native, feature-rich terminal emulator pushing modern features. A native GUI or embeddable library via libghostty . About · Download · Documentation · Contributing · Developing About Ghostty is a terminal emulator th…",
+      "strengths_en": "Ghostty Fast, native, feature-rich terminal emulator pushing modern features. A native GUI or embeddable library via libghostty . About · Download · Documentation · Contributing · Developing About Ghostty is a terminal emulator th…",
+      "innovations_zh": "…features, or native UIs. Ghostty provides all three. libghostty is a cross-platform, zero-dependency C and Zig library for building terminal emulators or utilizing terminal functionality (such as style parsing). Anyone can use li…",
+      "innovations_en": "…features, or native UIs. Ghostty provides all three. libghostty is a cross-platform, zero-dependency C and Zig library for building terminal emulators or utilizing terminal functionality (such as style parsing). Anyone can use li…",
       "insights_source": "readme-excerpt"
     }
   ]
