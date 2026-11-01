@@ -26,6 +26,54 @@
       "saved": false
     },
     {
+      "id": "1265",
+      "title": {
+        "zh": "How We Took Over ChatGPT Accounts",
+        "en": "How We Took Over ChatGPT Accounts"
+      },
+      "summary": {
+        "zh": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's impo…",
+        "en": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's impo…"
+      },
+      "title_zh": "How We Took Over ChatGPT Accounts",
+      "title_en": "How We Took Over ChatGPT Accounts",
+      "summary_zh": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's impo…",
+      "summary_en": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's impo…",
+      "title_text": "How We Took Over ChatGPT Accounts",
+      "summary_text": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's impo…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "published_at": "2026-10-31T23:15:22.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1266",
+      "title": {
+        "zh": "datasette-llm 0.1a9",
+        "en": "datasette-llm 0.1a9"
+      },
+      "summary": {
+        "zh": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly c…",
+        "en": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly c…"
+      },
+      "title_zh": "datasette-llm 0.1a9",
+      "title_en": "datasette-llm 0.1a9",
+      "summary_zh": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly c…",
+      "summary_en": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly c…",
+      "title_text": "datasette-llm 0.1a9",
+      "summary_text": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly c…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "published_at": "2026-10-31T22:10:01.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1264",
       "title": {
         "zh": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
@@ -1933,54 +1981,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0",
       "published_at": "2026-10-27T20:11:49.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1170",
-      "title": {
-        "zh": "Game Boy Color on My Conference Badge",
-        "en": "Game Boy Color on My Conference Badge"
-      },
-      "summary": {
-        "zh": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went…",
-        "en": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went…"
-      },
-      "title_zh": "Game Boy Color on My Conference Badge",
-      "title_en": "Game Boy Color on My Conference Badge",
-      "summary_zh": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went…",
-      "summary_en": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went…",
-      "title_text": "Game Boy Color on My Conference Badge",
-      "summary_text": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "published_at": "2026-10-27T19:34:18.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1171",
-      "title": {
-        "zh": "0.166.0-alpha.3",
-        "en": "0.166.0-alpha.3"
-      },
-      "summary": {
-        "zh": "Release 0.166.0-alpha.3",
-        "en": "Release 0.166.0-alpha.3"
-      },
-      "title_zh": "0.166.0-alpha.3",
-      "title_en": "0.166.0-alpha.3",
-      "summary_zh": "Release 0.166.0-alpha.3",
-      "summary_en": "Release 0.166.0-alpha.3",
-      "title_text": "0.166.0-alpha.3",
-      "summary_text": "Release 0.166.0-alpha.3",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.3",
-      "published_at": "2026-10-27T19:32:53.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
