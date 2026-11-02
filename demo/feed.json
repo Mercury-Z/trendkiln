@@ -26,25 +26,49 @@
       "saved": false
     },
     {
+      "id": "1270",
+      "title": {
+        "zh": "If in doubt, delete the uv.lock file",
+        "en": "If in doubt, delete the uv.lock file"
+      },
+      "summary": {
+        "zh": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anythin…",
+        "en": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anythin…"
+      },
+      "title_zh": "If in doubt, delete the uv.lock file",
+      "title_en": "If in doubt, delete the uv.lock file",
+      "summary_zh": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anythin…",
+      "summary_en": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anythin…",
+      "title_text": "If in doubt, delete the uv.lock file",
+      "summary_text": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anythin…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "published_at": "2026-11-01T23:24:22.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1269",
       "title": {
-        "zh": "rust-v0.167.0-alpha.3",
-        "en": "rust-v0.167.0-alpha.3"
+        "zh": "0.167.0-alpha.3",
+        "en": "0.167.0-alpha.3"
       },
       "summary": {
         "zh": "Release 0.167.0-alpha.3",
         "en": "Release 0.167.0-alpha.3"
       },
-      "title_zh": "rust-v0.167.0-alpha.3",
-      "title_en": "rust-v0.167.0-alpha.3",
+      "title_zh": "0.167.0-alpha.3",
+      "title_en": "0.167.0-alpha.3",
       "summary_zh": "Release 0.167.0-alpha.3",
       "summary_en": "Release 0.167.0-alpha.3",
-      "title_text": "rust-v0.167.0-alpha.3",
+      "title_text": "0.167.0-alpha.3",
       "summary_text": "Release 0.167.0-alpha.3",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3",
-      "published_at": "2026-11-01T20:58:59.000Z",
+      "published_at": "2026-11-01T22:30:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1956,30 +1980,6 @@
       "source_id": "7",
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
-      "published_at": "2026-10-28T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1224",
-      "title": {
-        "zh": "fx is now available in T3 Code",
-        "en": "fx is now available in T3 Code"
-      },
-      "summary": {
-        "zh": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and …",
-        "en": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and …"
-      },
-      "title_zh": "fx is now available in T3 Code",
-      "title_en": "fx is now available in T3 Code",
-      "summary_zh": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and …",
-      "summary_en": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and …",
-      "title_text": "fx is now available in T3 Code",
-      "summary_text": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
       "published_at": "2026-10-28T00:00:00.000Z",
       "tags": [],
       "read_at": null,
