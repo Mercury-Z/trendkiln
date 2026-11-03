@@ -1,36 +1,62 @@
 {
   "source": "db",
-  "digest_date": "2026-11-02",
-  "headline": "Trendkiln · 2026-11-02",
+  "digest_date": "2026-11-03",
+  "headline": "Trendkiln · 2026-11-03",
   "items": [
     {
       "id": "1",
       "type": "github_surge",
       "title": {
-        "zh": "pingdotgg/t3code 星标异动",
-        "en": "pingdotgg/t3code star surge"
+        "zh": "vercel-labs/agent-desktop 星标异动",
+        "en": "vercel-labs/agent-desktop star surge"
       },
       "subtitle": {
-        "zh": "pingdotgg/t3code",
-        "en": "pingdotgg/t3code"
+        "zh": "Computer use CLI for AI agents",
+        "en": "Computer use CLI for AI agents"
       },
       "signal": {
-        "zh": "+2,893 星标",
-        "en": "+2,893 stars"
+        "zh": "+1,501 星标",
+        "en": "+1,501 stars"
       },
-      "title_zh": "pingdotgg/t3code 星标异动",
-      "title_en": "pingdotgg/t3code star surge",
-      "subtitle_zh": "pingdotgg/t3code",
-      "subtitle_en": "pingdotgg/t3code",
-      "signal_zh": "+2,893 星标",
-      "signal_en": "+2,893 stars",
+      "title_zh": "vercel-labs/agent-desktop 星标异动",
+      "title_en": "vercel-labs/agent-desktop star surge",
+      "subtitle_zh": "Computer use CLI for AI agents",
+      "subtitle_en": "Computer use CLI for AI agents",
+      "signal_zh": "+1,501 星标",
+      "signal_en": "+1,501 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/pingdotgg/t3code",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:pingdotgg/t3code"
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
+      "entity_id": "repo:vercel-labs/agent-desktop"
     },
     {
       "id": "2",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "FLUX 3 Image 排名变化",
+        "en": "FLUX 3 Image rank change"
+      },
+      "subtitle": {
+        "zh": "#11 · Black Forest Labs",
+        "en": "#11 · Black Forest Labs"
+      },
+      "signal": {
+        "zh": "排名 ↑2",
+        "en": "rank ↑2"
+      },
+      "title_zh": "FLUX 3 Image 排名变化",
+      "title_en": "FLUX 3 Image rank change",
+      "subtitle_zh": "#11 · Black Forest Labs",
+      "subtitle_en": "#11 · Black Forest Labs",
+      "signal_zh": "排名 ↑2",
+      "signal_en": "rank ↑2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:FLUX 3 Image"
+    },
+    {
+      "id": "3",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.145 (Insiders)",
@@ -56,111 +82,59 @@
       "entity_id": "feed:1193"
     },
     {
-      "id": "3",
-      "type": "github_surge",
-      "title": {
-        "zh": "vercel-labs/agent-desktop 星标异动",
-        "en": "vercel-labs/agent-desktop star surge"
-      },
-      "subtitle": {
-        "zh": "Computer use CLI for AI agents",
-        "en": "Computer use CLI for AI agents"
-      },
-      "signal": {
-        "zh": "+2,243 星标",
-        "en": "+2,243 stars"
-      },
-      "title_zh": "vercel-labs/agent-desktop 星标异动",
-      "title_en": "vercel-labs/agent-desktop star surge",
-      "subtitle_zh": "Computer use CLI for AI agents",
-      "subtitle_en": "Computer use CLI for AI agents",
-      "signal_zh": "+2,243 星标",
-      "signal_en": "+2,243 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:vercel-labs/agent-desktop"
-    },
-    {
       "id": "4",
-      "type": "github_surge",
+      "type": "model_rank_change",
       "title": {
-        "zh": "mattpocock/skills 星标异动",
-        "en": "mattpocock/skills star surge"
+        "zh": "Nano Banana Pro (Gemini 3 Pro Image) 排名变化",
+        "en": "Nano Banana Pro (Gemini 3 Pro Image) rank change"
       },
       "subtitle": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "#13 · Google",
+        "en": "#13 · Google"
       },
       "signal": {
-        "zh": "+968 星标",
-        "en": "+968 stars"
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
       },
-      "title_zh": "mattpocock/skills 星标异动",
-      "title_en": "mattpocock/skills star surge",
-      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "signal_zh": "+968 星标",
-      "signal_en": "+968 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/mattpocock/skills",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:mattpocock/skills"
+      "title_zh": "Nano Banana Pro (Gemini 3 Pro Image) 排名变化",
+      "title_en": "Nano Banana Pro (Gemini 3 Pro Image) rank change",
+      "subtitle_zh": "#13 · Google",
+      "subtitle_en": "#13 · Google",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:Nano Banana Pro (Gemini 3 Pro Image)"
     },
     {
       "id": "5",
-      "type": "feed_must_read",
+      "type": "github_surge",
       "title": {
-        "zh": "The latest AI news we announced in October 2026",
-        "en": "The latest AI news we announced in October 2026"
+        "zh": "pingdotgg/t3code 星标异动",
+        "en": "pingdotgg/t3code star surge"
       },
       "subtitle": {
-        "zh": "Here are Google’s latest AI updates from October 2026",
-        "en": "Here are Google’s latest AI updates from October 2026"
+        "zh": "pingdotgg/t3code",
+        "en": "pingdotgg/t3code"
       },
       "signal": {
-        "zh": "资讯",
-        "en": "feed"
+        "zh": "+935 星标",
+        "en": "+935 stars"
       },
-      "title_zh": "The latest AI news we announced in October 2026",
-      "title_en": "The latest AI news we announced in October 2026",
-      "subtitle_zh": "Here are Google’s latest AI updates from October 2026",
-      "subtitle_en": "Here are Google’s latest AI updates from October 2026",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "occurred_at": "2026-11-02T17:45:00.000Z",
-      "entity_id": "feed:1271"
+      "title_zh": "pingdotgg/t3code 星标异动",
+      "title_en": "pingdotgg/t3code star surge",
+      "subtitle_zh": "pingdotgg/t3code",
+      "subtitle_en": "pingdotgg/t3code",
+      "signal_zh": "+935 星标",
+      "signal_en": "+935 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/pingdotgg/t3code",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
+      "entity_id": "repo:pingdotgg/t3code"
     },
     {
       "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "thedotmack/claude-mem 星标异动",
-        "en": "thedotmack/claude-mem star surge"
-      },
-      "subtitle": {
-        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
-      },
-      "signal": {
-        "zh": "+891 星标",
-        "en": "+891 stars"
-      },
-      "title_zh": "thedotmack/claude-mem 星标异动",
-      "title_en": "thedotmack/claude-mem star surge",
-      "subtitle_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "subtitle_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "signal_zh": "+891 星标",
-      "signal_en": "+891 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:thedotmack/claude-mem"
-    },
-    {
-      "id": "7",
       "type": "github_surge",
       "title": {
         "zh": "D4Vinci/Scrapling 星标异动",
@@ -171,48 +145,100 @@
         "en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
       },
       "signal": {
-        "zh": "+858 星标",
-        "en": "+858 stars"
+        "zh": "+648 星标",
+        "en": "+648 stars"
       },
       "title_zh": "D4Vinci/Scrapling 星标异动",
       "title_en": "D4Vinci/Scrapling star surge",
       "subtitle_zh": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "subtitle_en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "signal_zh": "+858 星标",
-      "signal_en": "+858 stars",
+      "signal_zh": "+648 星标",
+      "signal_en": "+648 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
       "entity_id": "repo:D4Vinci/Scrapling"
+    },
+    {
+      "id": "7",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Seedream 4.5 排名变化",
+        "en": "Seedream 4.5 rank change"
+      },
+      "subtitle": {
+        "zh": "#28 · ByteDance Seed",
+        "en": "#28 · ByteDance Seed"
+      },
+      "signal": {
+        "zh": "排名 ↑2",
+        "en": "rank ↑2"
+      },
+      "title_zh": "Seedream 4.5 排名变化",
+      "title_en": "Seedream 4.5 rank change",
+      "subtitle_zh": "#28 · ByteDance Seed",
+      "subtitle_en": "#28 · ByteDance Seed",
+      "signal_zh": "排名 ↑2",
+      "signal_en": "rank ↑2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:Seedream 4.5"
     },
     {
       "id": "8",
       "type": "feed_must_read",
       "title": {
-        "zh": "Vercel MCP now renders deployments as an interactive card",
-        "en": "Vercel MCP now renders deployments as an interactive card"
+        "zh": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+        "en": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop"
       },
       "subtitle": {
-        "zh": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-        "en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …"
+        "zh": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+        "en": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark."
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Vercel MCP now renders deployments as an interactive card",
-      "title_en": "Vercel MCP now renders deployments as an interactive card",
-      "subtitle_zh": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-      "subtitle_en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
+      "title_zh": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "title_en": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "subtitle_zh": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+      "subtitle_en": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-      "occurred_at": "2026-11-02T17:05:00.000Z",
-      "entity_id": "feed:1272"
+      "source": "Latent Space",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "occurred_at": "2026-11-03T05:35:00.000Z",
+      "entity_id": "feed:1283"
     },
     {
       "id": "9",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Recraft V4.1 Utility 排名变化",
+        "en": "Recraft V4.1 Utility rank change"
+      },
+      "subtitle": {
+        "zh": "#31 · Recraft",
+        "en": "#31 · Recraft"
+      },
+      "signal": {
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
+      },
+      "title_zh": "Recraft V4.1 Utility 排名变化",
+      "title_en": "Recraft V4.1 Utility rank change",
+      "subtitle_zh": "#31 · Recraft",
+      "subtitle_en": "#31 · Recraft",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:Recraft V4.1 Utility"
+    },
+    {
+      "id": "10",
       "type": "github_surge",
       "title": {
         "zh": "Donchitos/Claude-Code-Game-Studios 星标异动",
@@ -223,100 +249,152 @@
         "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
       },
       "signal": {
-        "zh": "+801 星标",
-        "en": "+801 stars"
+        "zh": "+461 星标",
+        "en": "+461 stars"
       },
       "title_zh": "Donchitos/Claude-Code-Game-Studios 星标异动",
       "title_en": "Donchitos/Claude-Code-Game-Studios star surge",
       "subtitle_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "subtitle_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "signal_zh": "+801 星标",
-      "signal_en": "+801 stars",
+      "signal_zh": "+461 星标",
+      "signal_en": "+461 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
       "entity_id": "repo:Donchitos/Claude-Code-Game-Studios"
     },
     {
-      "id": "10",
+      "id": "11",
       "type": "github_surge",
       "title": {
-        "zh": "JustVugg/colibri 星标异动",
-        "en": "JustVugg/colibri star surge"
+        "zh": "thedotmack/claude-mem 星标异动",
+        "en": "thedotmack/claude-mem star surge"
       },
       "subtitle": {
-        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
       },
       "signal": {
-        "zh": "+655 星标",
-        "en": "+655 stars"
+        "zh": "+416 星标",
+        "en": "+416 stars"
       },
-      "title_zh": "JustVugg/colibri 星标异动",
-      "title_en": "JustVugg/colibri star surge",
-      "subtitle_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "subtitle_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "signal_zh": "+655 星标",
-      "signal_en": "+655 stars",
+      "title_zh": "thedotmack/claude-mem 星标异动",
+      "title_en": "thedotmack/claude-mem star surge",
+      "subtitle_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "subtitle_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "signal_zh": "+416 星标",
+      "signal_en": "+416 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/JustVugg/colibri",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:JustVugg/colibri"
+      "url": "https://github.com/thedotmack/claude-mem",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
+      "entity_id": "repo:thedotmack/claude-mem"
     },
     {
-      "id": "11",
-      "type": "feed_must_read",
+      "id": "12",
+      "type": "model_rank_change",
       "title": {
-        "zh": "Flags Explorer redesigned for easier override sharing",
-        "en": "Flags Explorer redesigned for easier override sharing"
+        "zh": "Seedream 5.0 Lite 排名变化",
+        "en": "Seedream 5.0 Lite rank change"
       },
       "subtitle": {
-        "zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-        "en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …"
+        "zh": "#37 · ByteDance Seed",
+        "en": "#37 · ByteDance Seed"
+      },
+      "signal": {
+        "zh": "排名 ↑2",
+        "en": "rank ↑2"
+      },
+      "title_zh": "Seedream 5.0 Lite 排名变化",
+      "title_en": "Seedream 5.0 Lite rank change",
+      "subtitle_zh": "#37 · ByteDance Seed",
+      "subtitle_en": "#37 · ByteDance Seed",
+      "signal_zh": "排名 ↑2",
+      "signal_en": "rank ↑2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:Seedream 5.0 Lite"
+    },
+    {
+      "id": "13",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "en": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube"
+      },
+      "subtitle": {
+        "zh": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact…",
+        "en": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact…"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Flags Explorer redesigned for easier override sharing",
-      "title_en": "Flags Explorer redesigned for easier override sharing",
-      "subtitle_zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-      "subtitle_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
+      "title_zh": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "title_en": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "subtitle_zh": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact…",
+      "subtitle_en": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact…",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
-      "occurred_at": "2026-11-02T16:58:00.000Z",
-      "entity_id": "feed:1273"
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "occurred_at": "2026-11-03T05:32:25.000Z",
+      "entity_id": "feed:1284"
     },
     {
-      "id": "12",
-      "type": "github_surge",
+      "id": "14",
+      "type": "model_rank_change",
       "title": {
-        "zh": "paperclipai/paperclip 星标异动",
-        "en": "paperclipai/paperclip star surge"
+        "zh": "FLUX.1 Krea [dev] 排名变化",
+        "en": "FLUX.1 Krea [dev] rank change"
       },
       "subtitle": {
-        "zh": "The open-source app everyone uses to manage agents at work",
-        "en": "The open-source app everyone uses to manage agents at work"
+        "zh": "#87 · Black Forest Labs",
+        "en": "#87 · Black Forest Labs"
       },
       "signal": {
-        "zh": "+451 星标",
-        "en": "+451 stars"
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
       },
-      "title_zh": "paperclipai/paperclip 星标异动",
-      "title_en": "paperclipai/paperclip star surge",
-      "subtitle_zh": "The open-source app everyone uses to manage agents at work",
-      "subtitle_en": "The open-source app everyone uses to manage agents at work",
-      "signal_zh": "+451 星标",
-      "signal_en": "+451 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/paperclipai/paperclip",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:paperclipai/paperclip"
+      "title_zh": "FLUX.1 Krea [dev] 排名变化",
+      "title_en": "FLUX.1 Krea [dev] rank change",
+      "subtitle_zh": "#87 · Black Forest Labs",
+      "subtitle_en": "#87 · Black Forest Labs",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:FLUX.1 Krea [dev]"
     },
     {
-      "id": "13",
+      "id": "15",
+      "type": "github_surge",
+      "title": {
+        "zh": "mattpocock/skills 星标异动",
+        "en": "mattpocock/skills star surge"
+      },
+      "subtitle": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "signal": {
+        "zh": "+386 星标",
+        "en": "+386 stars"
+      },
+      "title_zh": "mattpocock/skills 星标异动",
+      "title_en": "mattpocock/skills star surge",
+      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "signal_zh": "+386 星标",
+      "signal_en": "+386 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
+      "entity_id": "repo:mattpocock/skills"
+    },
+    {
+      "id": "16",
       "type": "github_surge",
       "title": {
         "zh": "FlashML-org/FreeToken 星标异动",
@@ -327,201 +405,123 @@
         "en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
       },
       "signal": {
-        "zh": "+412 星标",
-        "en": "+412 stars"
+        "zh": "+294 星标",
+        "en": "+294 stars"
       },
       "title_zh": "FlashML-org/FreeToken 星标异动",
       "title_en": "FlashML-org/FreeToken star surge",
       "subtitle_zh": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
       "subtitle_en": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "signal_zh": "+412 星标",
-      "signal_en": "+412 stars",
+      "signal_zh": "+294 星标",
+      "signal_en": "+294 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/FlashML-org/FreeToken",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
       "entity_id": "repo:FlashML-org/FreeToken"
     },
     {
-      "id": "14",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Vercel Sandbox with Drives now starts up to 2.4x faster",
-        "en": "Vercel Sandbox with Drives now starts up to 2.4x faster"
-      },
-      "subtitle": {
-        "zh": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-        "en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Vercel Sandbox with Drives now starts up to 2.4x faster",
-      "title_en": "Vercel Sandbox with Drives now starts up to 2.4x faster",
-      "subtitle_zh": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-      "subtitle_en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-      "occurred_at": "2026-11-02T16:39:00.000Z",
-      "entity_id": "feed:1274"
-    },
-    {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "p-e-w/heretic 星标异动",
-        "en": "p-e-w/heretic star surge"
-      },
-      "subtitle": {
-        "zh": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "en": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more"
-      },
-      "signal": {
-        "zh": "+404 星标",
-        "en": "+404 stars"
-      },
-      "title_zh": "p-e-w/heretic 星标异动",
-      "title_en": "p-e-w/heretic star surge",
-      "subtitle_zh": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "subtitle_en": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "signal_zh": "+404 星标",
-      "signal_en": "+404 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/p-e-w/heretic",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:p-e-w/heretic"
-    },
-    {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "shiyu-coder/Kronos 星标异动",
-        "en": "shiyu-coder/Kronos star surge"
-      },
-      "subtitle": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets"
-      },
-      "signal": {
-        "zh": "+386 星标",
-        "en": "+386 stars"
-      },
-      "title_zh": "shiyu-coder/Kronos 星标异动",
-      "title_en": "shiyu-coder/Kronos star surge",
-      "subtitle_zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "subtitle_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "signal_zh": "+386 星标",
-      "signal_en": "+386 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:shiyu-coder/Kronos"
-    },
-    {
       "id": "17",
-      "type": "feed_must_read",
+      "type": "model_rank_change",
       "title": {
-        "zh": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-        "en": "Evaluate Vercel Flags from another project without sharing SDK keys."
+        "zh": "Grok Imagine Image 2.0 排名变化",
+        "en": "Grok Imagine Image 2.0 rank change"
       },
       "subtitle": {
-        "zh": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-        "en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…"
+        "zh": "#5 · SpaceXAI",
+        "en": "#5 · SpaceXAI"
       },
       "signal": {
-        "zh": "资讯",
-        "en": "feed"
+        "zh": "排名 ↑1",
+        "en": "rank ↑1"
       },
-      "title_zh": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-      "title_en": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-      "subtitle_zh": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-      "subtitle_en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-      "occurred_at": "2026-11-02T16:00:00.000Z",
-      "entity_id": "feed:1275"
+      "title_zh": "Grok Imagine Image 2.0 排名变化",
+      "title_en": "Grok Imagine Image 2.0 rank change",
+      "subtitle_zh": "#5 · SpaceXAI",
+      "subtitle_en": "#5 · SpaceXAI",
+      "signal_zh": "排名 ↑1",
+      "signal_en": "rank ↑1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:Grok Imagine Image 2.0"
     },
     {
       "id": "18",
-      "type": "github_surge",
-      "title": {
-        "zh": "hyprwm/Hyprland 星标异动",
-        "en": "hyprwm/Hyprland star surge"
-      },
-      "subtitle": {
-        "zh": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-        "en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
-      },
-      "signal": {
-        "zh": "+364 星标",
-        "en": "+364 stars"
-      },
-      "title_zh": "hyprwm/Hyprland 星标异动",
-      "title_en": "hyprwm/Hyprland star surge",
-      "subtitle_zh": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "subtitle_en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "signal_zh": "+364 星标",
-      "signal_en": "+364 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:hyprwm/Hyprland"
-    },
-    {
-      "id": "19",
-      "type": "github_surge",
-      "title": {
-        "zh": "karpathy/nanochat 星标异动",
-        "en": "karpathy/nanochat star surge"
-      },
-      "subtitle": {
-        "zh": "The best ChatGPT that $100 can buy.",
-        "en": "The best ChatGPT that $100 can buy."
-      },
-      "signal": {
-        "zh": "+325 星标",
-        "en": "+325 stars"
-      },
-      "title_zh": "karpathy/nanochat 星标异动",
-      "title_en": "karpathy/nanochat star surge",
-      "subtitle_zh": "The best ChatGPT that $100 can buy.",
-      "subtitle_en": "The best ChatGPT that $100 can buy.",
-      "signal_zh": "+325 星标",
-      "signal_en": "+325 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/karpathy/nanochat",
-      "occurred_at": "2026-11-02T21:47:56.807Z",
-      "entity_id": "repo:karpathy/nanochat"
-    },
-    {
-      "id": "20",
       "type": "feed_must_read",
       "title": {
-        "zh": "Security risk assessments include repository protection status",
-        "en": "Security risk assessments include repository protection status"
+        "zh": "October sponsors-only newsletter",
+        "en": "October sponsors-only newsletter"
       },
       "subtitle": {
-        "zh": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blo…",
-        "en": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blo…"
+        "zh": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm usi…",
+        "en": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm usi…"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Security risk assessments include repository protection status",
-      "title_en": "Security risk assessments include repository protection status",
-      "subtitle_zh": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blo…",
-      "subtitle_en": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blo…",
+      "title_zh": "October sponsors-only newsletter",
+      "title_en": "October sponsors-only newsletter",
+      "subtitle_zh": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm usi…",
+      "subtitle_en": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm usi…",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-      "occurred_at": "2026-11-02T15:47:21.000Z",
-      "entity_id": "feed:1276"
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "occurred_at": "2026-11-03T05:28:59.000Z",
+      "entity_id": "feed:1285"
+    },
+    {
+      "id": "19",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "MAI-Image-2.6 排名变化",
+        "en": "MAI-Image-2.6 rank change"
+      },
+      "subtitle": {
+        "zh": "#6 · Microsoft AI",
+        "en": "#6 · Microsoft AI"
+      },
+      "signal": {
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
+      },
+      "title_zh": "MAI-Image-2.6 排名变化",
+      "title_en": "MAI-Image-2.6 rank change",
+      "subtitle_zh": "#6 · Microsoft AI",
+      "subtitle_en": "#6 · Microsoft AI",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-03T06:58:46.919Z",
+      "entity_id": "model:MAI-Image-2.6"
+    },
+    {
+      "id": "20",
+      "type": "github_surge",
+      "title": {
+        "zh": "JustVugg/colibri 星标异动",
+        "en": "JustVugg/colibri star surge"
+      },
+      "subtitle": {
+        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+      },
+      "signal": {
+        "zh": "+283 星标",
+        "en": "+283 stars"
+      },
+      "title_zh": "JustVugg/colibri 星标异动",
+      "title_en": "JustVugg/colibri star surge",
+      "subtitle_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "subtitle_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "signal_zh": "+283 星标",
+      "signal_en": "+283 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/JustVugg/colibri",
+      "occurred_at": "2026-11-03T06:58:39.784Z",
+      "entity_id": "repo:JustVugg/colibri"
     }
   ]
 }
