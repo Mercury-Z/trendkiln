@@ -2,26 +2,296 @@
   "source": "db",
   "items": [
     {
-      "id": "1193",
+      "id": "1323",
       "title": {
-        "zh": "Visual Studio Code 1.145 (Insiders)",
-        "en": "Visual Studio Code 1.145 (Insiders)"
+        "zh": "Visual Studio Code 1.146 (Insiders)",
+        "en": "Visual Studio Code 1.146 (Insiders)"
       },
       "summary": {
-        "zh": "Learn what is new in Visual Studio Code 1.145 (Insiders). Read the full article",
-        "en": "Learn what is new in Visual Studio Code 1.145 (Insiders). Read the full article"
+        "zh": "Learn what's new in Visual Studio Code 1.146 (Insiders) Read the full article",
+        "en": "Learn what's new in Visual Studio Code 1.146 (Insiders) Read the full article"
       },
-      "title_zh": "Visual Studio Code 1.145 (Insiders)",
-      "title_en": "Visual Studio Code 1.145 (Insiders)",
-      "summary_zh": "Learn what is new in Visual Studio Code 1.145 (Insiders). Read the full article",
-      "summary_en": "Learn what is new in Visual Studio Code 1.145 (Insiders). Read the full article",
-      "title_text": "Visual Studio Code 1.145 (Insiders)",
-      "summary_text": "Learn what is new in Visual Studio Code 1.145 (Insiders). Read the full article",
+      "title_zh": "Visual Studio Code 1.146 (Insiders)",
+      "title_en": "Visual Studio Code 1.146 (Insiders)",
+      "summary_zh": "Learn what's new in Visual Studio Code 1.146 (Insiders) Read the full article",
+      "summary_en": "Learn what's new in Visual Studio Code 1.146 (Insiders) Read the full article",
+      "title_text": "Visual Studio Code 1.146 (Insiders)",
+      "summary_text": "Learn what's new in Visual Studio Code 1.146 (Insiders) Read the full article",
+      "source_id": "1",
+      "source_name": "VS Code Blog",
+      "url": "https://code.visualstudio.com/updates/v1_146",
+      "published_at": "2026-11-11T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1324",
+      "title": {
+        "zh": "rust-v0.168.0-alpha.2",
+        "en": "rust-v0.168.0-alpha.2"
+      },
+      "summary": {
+        "zh": "Release 0.168.0-alpha.2",
+        "en": "Release 0.168.0-alpha.2"
+      },
+      "title_zh": "rust-v0.168.0-alpha.2",
+      "title_en": "rust-v0.168.0-alpha.2",
+      "summary_zh": "Release 0.168.0-alpha.2",
+      "summary_en": "Release 0.168.0-alpha.2",
+      "title_text": "rust-v0.168.0-alpha.2",
+      "summary_text": "Release 0.168.0-alpha.2",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.2",
+      "published_at": "2026-11-04T19:23:31.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1325",
+      "title": {
+        "zh": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+        "en": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai"
+      },
+      "summary": {
+        "zh": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+        "en": "November 3, 2026 — A quiet day lets us share some behind the senes."
+      },
+      "title_zh": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "title_en": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "summary_zh": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "summary_en": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "title_text": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "summary_text": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "published_at": "2026-11-04T19:17:30.000Z",
+      "tags": [
+        "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1326",
+      "title": {
+        "zh": "0.167.0-alpha.3.1",
+        "en": "0.167.0-alpha.3.1"
+      },
+      "summary": {
+        "zh": "Release 0.167.0-alpha.3.1",
+        "en": "Release 0.167.0-alpha.3.1"
+      },
+      "title_zh": "0.167.0-alpha.3.1",
+      "title_en": "0.167.0-alpha.3.1",
+      "summary_zh": "Release 0.167.0-alpha.3.1",
+      "summary_en": "Release 0.167.0-alpha.3.1",
+      "title_text": "0.167.0-alpha.3.1",
+      "summary_text": "Release 0.167.0-alpha.3.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3.1",
+      "published_at": "2026-11-04T19:10:25.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1327",
+      "title": {
+        "zh": "Workflow SDK adds idempotent starts",
+        "en": "Workflow SDK adds idempotent starts"
+      },
+      "summary": {
+        "zh": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages i…",
+        "en": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages i…"
+      },
+      "title_zh": "Workflow SDK adds idempotent starts",
+      "title_en": "Workflow SDK adds idempotent starts",
+      "summary_zh": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages i…",
+      "summary_en": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages i…",
+      "title_text": "Workflow SDK adds idempotent starts",
+      "summary_text": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages i…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
+      "published_at": "2026-11-04T18:55:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1313",
+      "title": {
+        "zh": "0.167.0-alpha.5",
+        "en": "0.167.0-alpha.5"
+      },
+      "summary": {
+        "zh": "Release 0.167.0-alpha.5",
+        "en": "Release 0.167.0-alpha.5"
+      },
+      "title_zh": "0.167.0-alpha.5",
+      "title_en": "0.167.0-alpha.5",
+      "summary_zh": "Release 0.167.0-alpha.5",
+      "summary_en": "Release 0.167.0-alpha.5",
+      "title_text": "0.167.0-alpha.5",
+      "summary_text": "Release 0.167.0-alpha.5",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.5",
+      "published_at": "2026-11-04T18:13:38.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1328",
+      "title": {
+        "zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published_at": "2026-11-04T17:50:10.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1193",
+      "title": {
+        "zh": "Visual Studio Code 1.145",
+        "en": "Visual Studio Code 1.145"
+      },
+      "summary": {
+        "zh": "Learn what's new in Visual Studio Code 1.145 Read the full article",
+        "en": "Learn what's new in Visual Studio Code 1.145 Read the full article"
+      },
+      "title_zh": "Visual Studio Code 1.145",
+      "title_en": "Visual Studio Code 1.145",
+      "summary_zh": "Learn what's new in Visual Studio Code 1.145 Read the full article",
+      "summary_en": "Learn what's new in Visual Studio Code 1.145 Read the full article",
+      "title_text": "Visual Studio Code 1.145",
+      "summary_text": "Learn what's new in Visual Studio Code 1.145 Read the full article",
       "source_id": "1",
       "source_name": "VS Code Blog",
       "url": "https://code.visualstudio.com/updates/v1_145",
       "published_at": "2026-11-04T17:00:00.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1329",
+      "title": {
+        "zh": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+        "en": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway"
+      },
+      "summary": {
+        "zh": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carr…",
+        "en": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carr…"
+      },
+      "title_zh": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+      "title_en": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+      "summary_zh": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carr…",
+      "summary_en": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carr…",
+      "title_text": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+      "summary_text": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carr…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+      "published_at": "2026-11-04T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1330",
+      "title": {
+        "zh": "datasette-llm 0.1a10",
+        "en": "datasette-llm 0.1a10"
+      },
+      "summary": {
+        "zh": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+        "en": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm"
+      },
+      "title_zh": "datasette-llm 0.1a10",
+      "title_en": "datasette-llm 0.1a10",
+      "summary_zh": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "summary_en": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "title_text": "datasette-llm 0.1a10",
+      "summary_text": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "published_at": "2026-11-04T15:26:02.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1331",
+      "title": {
+        "zh": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "en": "OpenAI to acquire Pierre Computer Company, Inc."
+      },
+      "summary": {
+        "zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+        "en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+      },
+      "title_zh": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "summary_en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "title_text": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_text": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published_at": "2026-11-04T14:30:00.000Z",
+      "tags": [
+        "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1332",
+      "title": {
+        "zh": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "en": "Daybreak Red is now available in AWS GovCloud (US-East)"
+      },
+      "summary": {
+        "zh": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+        "en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+      },
+      "title_zh": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary_zh": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "summary_en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "title_text": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary_text": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published_at": "2026-11-04T07:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -45,30 +315,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.1",
       "published_at": "2026-11-04T02:58:24.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1313",
-      "title": {
-        "zh": "rust-v0.167.0-alpha.5",
-        "en": "rust-v0.167.0-alpha.5"
-      },
-      "summary": {
-        "zh": "Release 0.167.0-alpha.5",
-        "en": "Release 0.167.0-alpha.5"
-      },
-      "title_zh": "rust-v0.167.0-alpha.5",
-      "title_en": "rust-v0.167.0-alpha.5",
-      "summary_zh": "Release 0.167.0-alpha.5",
-      "summary_en": "Release 0.167.0-alpha.5",
-      "title_text": "rust-v0.167.0-alpha.5",
-      "summary_text": "Release 0.167.0-alpha.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.5",
-      "published_at": "2026-11-04T00:45:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -103,6 +349,54 @@
       "saved": false
     },
     {
+      "id": "1333",
+      "title": {
+        "zh": "datasette-apps 0.3a0",
+        "en": "datasette-apps 0.3a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages b…",
+        "en": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages b…"
+      },
+      "title_zh": "datasette-apps 0.3a0",
+      "title_en": "datasette-apps 0.3a0",
+      "summary_zh": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages b…",
+      "summary_en": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages b…",
+      "title_text": "datasette-apps 0.3a0",
+      "summary_text": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages b…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "published_at": "2026-11-04T00:29:36.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1334",
+      "title": {
+        "zh": "datasette-agent 0.5a0",
+        "en": "datasette-agent 0.5a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed ap…",
+        "en": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed ap…"
+      },
+      "title_zh": "datasette-agent 0.5a0",
+      "title_en": "datasette-agent 0.5a0",
+      "summary_zh": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed ap…",
+      "summary_en": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed ap…",
+      "title_text": "datasette-agent 0.5a0",
+      "summary_text": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed ap…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "published_at": "2026-11-03T23:13:45.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1315",
       "title": {
         "zh": "libcap 2.75 source archive",
@@ -122,6 +416,30 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/libcap-v2.75",
       "published_at": "2026-11-03T23:04:31.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1335",
+      "title": {
+        "zh": "llm 0.37.1",
+        "en": "llm 0.37.1"
+      },
+      "summary": {
+        "zh": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+        "en": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm"
+      },
+      "title_zh": "llm 0.37.1",
+      "title_en": "llm 0.37.1",
+      "summary_zh": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+      "summary_en": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+      "title_text": "llm 0.37.1",
+      "summary_text": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/",
+      "published_at": "2026-11-03T21:41:42.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -682,6 +1000,30 @@
       "saved": false
     },
     {
+      "id": "1336",
+      "title": {
+        "zh": "Tencent Hy4 now available on AI Gateway",
+        "en": "Tencent Hy4 now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an …",
+        "en": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an …"
+      },
+      "title_zh": "Tencent Hy4 now available on AI Gateway",
+      "title_en": "Tencent Hy4 now available on AI Gateway",
+      "summary_zh": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an …",
+      "summary_en": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an …",
+      "title_text": "Tencent Hy4 now available on AI Gateway",
+      "summary_text": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
+      "published_at": "2026-11-03T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1321",
       "title": {
         "zh": "Diagnose Vercel CLI setup problems with vercel doctor",
@@ -874,32 +1216,6 @@
       "saved": false
     },
     {
-      "id": "1293",
-      "title": {
-        "zh": "Preparing our next security sprint to harden OpenAI",
-        "en": "Preparing our next security sprint to harden OpenAI"
-      },
-      "summary": {
-        "zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-        "en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-      },
-      "title_zh": "Preparing our next security sprint to harden OpenAI",
-      "title_en": "Preparing our next security sprint to harden OpenAI",
-      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "title_text": "Preparing our next security sprint to harden OpenAI",
-      "summary_text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published_at": "2026-11-02T18:00:00.000Z",
-      "tags": [
-        "Security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1292",
       "title": {
         "zh": "Rewarding defenders with bigger bug bounties",
@@ -918,6 +1234,32 @@
       "source_id": "3",
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00.000Z",
+      "tags": [
+        "Security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1293",
+      "title": {
+        "zh": "Preparing our next security sprint to harden OpenAI",
+        "en": "Preparing our next security sprint to harden OpenAI"
+      },
+      "summary": {
+        "zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+      },
+      "title_zh": "Preparing our next security sprint to harden OpenAI",
+      "title_en": "Preparing our next security sprint to harden OpenAI",
+      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "title_text": "Preparing our next security sprint to harden OpenAI",
+      "summary_text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "published_at": "2026-11-02T18:00:00.000Z",
       "tags": [
         "Security"
@@ -1232,32 +1574,6 @@
       "saved": false
     },
     {
-      "id": "1281",
-      "title": {
-        "zh": "Qodo builds context into AI code review with Codex",
-        "en": "Qodo builds context into AI code review with Codex"
-      },
-      "summary": {
-        "zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-        "en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-      },
-      "title_zh": "Qodo builds context into AI code review with Codex",
-      "title_en": "Qodo builds context into AI code review with Codex",
-      "summary_zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "title_text": "Qodo builds context into AI code review with Codex",
-      "summary_text": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "published_at": "2026-11-02T00:00:00.000Z",
-      "tags": [
-        "Startup"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1295",
       "title": {
         "zh": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
@@ -1279,6 +1595,32 @@
       "published_at": "2026-11-02T00:00:00.000Z",
       "tags": [
         "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1281",
+      "title": {
+        "zh": "Qodo builds context into AI code review with Codex",
+        "en": "Qodo builds context into AI code review with Codex"
+      },
+      "summary": {
+        "zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+      },
+      "title_zh": "Qodo builds context into AI code review with Codex",
+      "title_en": "Qodo builds context into AI code review with Codex",
+      "summary_zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "title_text": "Qodo builds context into AI code review with Codex",
+      "summary_text": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published_at": "2026-11-02T00:00:00.000Z",
+      "tags": [
+        "Startup"
       ],
       "read_at": null,
       "saved": false
@@ -1643,353 +1985,6 @@
       "published_at": "2026-10-30T09:30:00.000Z",
       "tags": [
         "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1255",
-      "title": {
-        "zh": "Community safety report and new protections for teens",
-        "en": "Community safety report and new protections for teens"
-      },
-      "summary": {
-        "zh": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-        "en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-      },
-      "title_zh": "Community safety report and new protections for teens",
-      "title_en": "Community safety report and new protections for teens",
-      "summary_zh": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "summary_en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "title_text": "Community safety report and new protections for teens",
-      "summary_text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "published_at": "2026-10-30T09:00:00.000Z",
-      "tags": [
-        "Safety"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1249",
-      "title": {
-        "zh": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-        "en": "[AINews] Building AIE CODE: The top Coding Agent Conference"
-      },
-      "summary": {
-        "zh": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-        "en": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
-      },
-      "title_zh": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "title_en": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "summary_zh": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "summary_en": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "title_text": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "summary_text": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "published_at": "2026-10-30T08:24:29.000Z",
-      "tags": [
-        "ainews: weekday roundups"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1256",
-      "title": {
-        "zh": "Simplifying runtime caching on Vercel",
-        "en": "Simplifying runtime caching on Vercel"
-      },
-      "summary": {
-        "zh": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fe…",
-        "en": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fe…"
-      },
-      "title_zh": "Simplifying runtime caching on Vercel",
-      "title_en": "Simplifying runtime caching on Vercel",
-      "summary_zh": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fe…",
-      "summary_en": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fe…",
-      "title_text": "Simplifying runtime caching on Vercel",
-      "summary_text": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fe…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
-      "published_at": "2026-10-30T04:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1257",
-      "title": {
-        "zh": "Data Cache is moving to Runtime Cache",
-        "en": "Data Cache is moving to Runtime Cache"
-      },
-      "summary": {
-        "zh": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects ge…",
-        "en": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects ge…"
-      },
-      "title_zh": "Data Cache is moving to Runtime Cache",
-      "title_en": "Data Cache is moving to Runtime Cache",
-      "summary_zh": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects ge…",
-      "summary_en": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects ge…",
-      "title_text": "Data Cache is moving to Runtime Cache",
-      "summary_text": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects ge…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/data-cache-is-moving-to-runtime-cache",
-      "published_at": "2026-10-30T04:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1258",
-      "title": {
-        "zh": "Fair use benefits everyone",
-        "en": "Fair use benefits everyone"
-      },
-      "summary": {
-        "zh": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-        "en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-      },
-      "title_zh": "Fair use benefits everyone",
-      "title_en": "Fair use benefits everyone",
-      "summary_zh": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "summary_en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "title_text": "Fair use benefits everyone",
-      "summary_text": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "published_at": "2026-10-30T00:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1259",
-      "title": {
-        "zh": "Vercel Daemons can now call services with bindings",
-        "en": "Vercel Daemons can now call services with bindings"
-      },
-      "summary": {
-        "zh": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authenticatio…",
-        "en": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authenticatio…"
-      },
-      "title_zh": "Vercel Daemons can now call services with bindings",
-      "title_en": "Vercel Daemons can now call services with bindings",
-      "summary_zh": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authenticatio…",
-      "summary_en": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authenticatio…",
-      "title_text": "Vercel Daemons can now call services with bindings",
-      "summary_text": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authenticatio…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
-      "published_at": "2026-10-30T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1260",
-      "title": {
-        "zh": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-        "en": "Ling 3.1 Flash 1019 now available on AI Gateway for free"
-      },
-      "summary": {
-        "zh": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-…",
-        "en": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-…"
-      },
-      "title_zh": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-      "title_en": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-      "summary_zh": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-…",
-      "summary_en": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-…",
-      "title_text": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-      "summary_text": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
-      "published_at": "2026-10-30T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1261",
-      "title": {
-        "zh": "Add liveness checks to your Daemons",
-        "en": "Add liveness checks to your Daemons"
-      },
-      "summary": {
-        "zh": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at th…",
-        "en": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at th…"
-      },
-      "title_zh": "Add liveness checks to your Daemons",
-      "title_en": "Add liveness checks to your Daemons",
-      "summary_zh": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at th…",
-      "summary_en": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at th…",
-      "title_text": "Add liveness checks to your Daemons",
-      "summary_text": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at th…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
-      "published_at": "2026-10-30T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1228",
-      "title": {
-        "zh": "API credits benefit for eligible ChatGPT subscriptions",
-        "en": "API credits benefit for eligible ChatGPT subscriptions"
-      },
-      "summary": {
-        "zh": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty mu…",
-        "en": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty mu…"
-      },
-      "title_zh": "API credits benefit for eligible ChatGPT subscriptions",
-      "title_en": "API credits benefit for eligible ChatGPT subscriptions",
-      "summary_zh": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty mu…",
-      "summary_en": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty mu…",
-      "title_text": "API credits benefit for eligible ChatGPT subscriptions",
-      "summary_text": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty mu…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "published_at": "2026-10-29T22:48:29.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1229",
-      "title": {
-        "zh": "0.166.0",
-        "en": "0.166.0"
-      },
-      "summary": {
-        "zh": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bun…",
-        "en": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bun…"
-      },
-      "title_zh": "0.166.0",
-      "title_en": "0.166.0",
-      "summary_zh": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bun…",
-      "summary_en": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bun…",
-      "title_text": "0.166.0",
-      "summary_text": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bun…",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
-      "published_at": "2026-10-29T19:50:20.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1230",
-      "title": {
-        "zh": "Strix now supports Vercel AI Gateway",
-        "en": "Strix now supports Vercel AI Gateway"
-      },
-      "summary": {
-        "zh": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across al…",
-        "en": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across al…"
-      },
-      "title_zh": "Strix now supports Vercel AI Gateway",
-      "title_en": "Strix now supports Vercel AI Gateway",
-      "summary_zh": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across al…",
-      "summary_en": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across al…",
-      "title_text": "Strix now supports Vercel AI Gateway",
-      "summary_text": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across al…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
-      "published_at": "2026-10-29T18:44:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1231",
-      "title": {
-        "zh": "Webhook IP ranges added to the Meta API",
-        "en": "Webhook IP ranges added to the Meta API"
-      },
-      "summary": {
-        "zh": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
-        "en": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Webhook IP ranges added to the Meta API",
-      "title_en": "Webhook IP ranges added to the Meta API",
-      "summary_zh": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
-      "summary_en": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
-      "title_text": "Webhook IP ranges added to the Meta API",
-      "summary_text": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-      "published_at": "2026-10-29T17:14:38.000Z",
-      "tags": [
-        "Improvement",
-        "ecosystem & accessibility"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1232",
-      "title": {
-        "zh": "Building a multiplayer game world with autonomous Fable-class models",
-        "en": "Building a multiplayer game world with autonomous Fable-class models"
-      },
-      "summary": {
-        "zh": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gam…",
-        "en": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gam…"
-      },
-      "title_zh": "Building a multiplayer game world with autonomous Fable-class models",
-      "title_en": "Building a multiplayer game world with autonomous Fable-class models",
-      "summary_zh": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gam…",
-      "summary_en": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gam…",
-      "title_text": "Building a multiplayer game world with autonomous Fable-class models",
-      "summary_text": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gam…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "published_at": "2026-10-29T17:00:26.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1233",
-      "title": {
-        "zh": "An updated Model Spec for more capable and beneficial AI",
-        "en": "An updated Model Spec for more capable and beneficial AI"
-      },
-      "summary": {
-        "zh": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-        "en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-      },
-      "title_zh": "An updated Model Spec for more capable and beneficial AI",
-      "title_en": "An updated Model Spec for more capable and beneficial AI",
-      "summary_zh": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "summary_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "title_text": "An updated Model Spec for more capable and beneficial AI",
-      "summary_text": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/updated-model-spec",
-      "published_at": "2026-10-29T17:00:00.000Z",
-      "tags": [
-        "Safety"
       ],
       "read_at": null,
       "saved": false

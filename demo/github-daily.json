@@ -18,6 +18,152 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "topics": [],
+      "stars": 4575,
+      "stars_delta": 2053,
+      "forks": 375,
+      "forks_delta": 0,
+      "html_url": "https://github.com/NVIDIA/auto-ontology",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+      },
+      "strengths": {
+        "zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+        "en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…"
+      },
+      "innovations": {
+        "zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+        "en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…"
+      },
+      "purpose_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "purpose_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "strengths_zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+      "strengths_en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+      "innovations_zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+      "innovations_en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
+      "full_name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
+      "stars": 10949,
+      "stars_delta": 307,
+      "forks": 408,
+      "forks_delta": 20,
+      "html_url": "https://github.com/max-sixty/worktrunk",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "strengths": {
+        "zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+        "en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
+      },
+      "innovations": {
+        "zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
+        "en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…"
+      },
+      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "strengths_zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "strengths_en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
+      "innovations_zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
+      "innovations_en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 313007,
+      "stars_delta": 1237,
+      "forks": 26268,
+      "forks_delta": 69,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "topics": [
+        "aws",
+        "aws-emulation",
+        "devops",
+        "docker",
+        "ec2",
+        "ecs",
+        "localstack",
+        "s3",
+        "sqs",
+        "testcontainers"
+      ],
+      "stars": 29489,
+      "stars_delta": 448,
+      "forks": 3265,
+      "forks_delta": 36,
+      "html_url": "https://github.com/floci-io/floci",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "en": "Light, fluffy, and always free - The AWS Local Emulator alternative"
+      },
+      "strengths": {
+        "zh": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
+        "en": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…"
+      },
+      "innovations": {
+        "zh": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
+        "en": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…"
+      },
+      "purpose_zh": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "purpose_en": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "strengths_zh": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
+      "strengths_en": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
+      "innovations_zh": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
+      "innovations_en": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -43,12 +189,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 112186,
-      "stars_delta": 493,
-      "forks": 9759,
-      "forks_delta": 38,
+      "stars": 112689,
+      "stars_delta": 503,
+      "forks": 9792,
+      "forks_delta": 33,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -70,7 +216,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "full_name": "vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
@@ -88,12 +234,12 @@
         "mcp",
         "rust"
       ],
-      "stars": 13372,
-      "stars_delta": 1044,
-      "forks": 922,
-      "forks_delta": 75,
+      "stars": 14735,
+      "stars_delta": 1363,
+      "forks": 1017,
+      "forks_delta": 95,
       "html_url": "https://github.com/vercel-labs/agent-desktop",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
         "zh": "Computer use CLI for AI agents",
         "en": "Computer use CLI for AI agents"
@@ -115,312 +261,294 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "stars": 10642,
-      "stars_delta": 244,
-      "forks": 388,
-      "forks_delta": 13,
-      "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
-      "purpose": {
-        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-        "en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
-      },
-      "innovations": {
-        "zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-        "en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…"
-      },
-      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "strengths_zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "strengths_en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "innovations_zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-      "innovations_en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "JustVugg/colibri",
-      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "language": "C",
-      "topics": [],
-      "stars": 47402,
-      "stars_delta": 260,
-      "forks": 5475,
-      "forks_delta": 22,
-      "html_url": "https://github.com/JustVugg/colibri",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
-      "purpose": {
-        "zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-      },
-      "strengths": {
-        "zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 · Bahasa Indonesia · Português (Brasil) Tiny engine, immense model. colibri runs very large open models on the machine you already have. A mixture-of-experts model of hund…",
-        "en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 · Bahasa Indonesia · Português (Brasil) Tiny engine, immense model. colibri runs very large open models on the machine you already have. A mixture-of-experts model of hund…"
-      },
-      "innovations": {
-        "zh": "…model asks for them. Pure C, one file per model family, no GPU required. Thirteen engines run today. Ten are for language models: GLM-5.2/5.3 (which also runs Mistral-Large-4), GLM-5.3-Flash, Inkling, Kimi K3, DeepSeek V4 Flash, D…",
-        "en": "…model asks for them. Pure C, one file per model family, no GPU required. Thirteen engines run today. Ten are for language models: GLM-5.2/5.3 (which also runs Mistral-Large-4), GLM-5.3-Flash, Inkling, Kimi K3, DeepSeek V4 Flash, D…"
-      },
-      "purpose_zh": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "purpose_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "strengths_zh": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 · Bahasa Indonesia · Português (Brasil) Tiny engine, immense model. colibri runs very large open models on the machine you already have. A mixture-of-experts model of hund…",
-      "strengths_en": "Website · Discord · English · 简体中文 · 繁體中文 · Italiano · 日本語 · Bahasa Indonesia · Português (Brasil) Tiny engine, immense model. colibri runs very large open models on the machine you already have. A mixture-of-experts model of hund…",
-      "innovations_zh": "…model asks for them. Pure C, one file per model family, no GPU required. Thirteen engines run today. Ten are for language models: GLM-5.2/5.3 (which also runs Mistral-Large-4), GLM-5.3-Flash, Inkling, Kimi K3, DeepSeek V4 Flash, D…",
-      "innovations_en": "…model asks for them. Pure C, one file per model family, no GPU required. Thirteen engines run today. Ten are for language models: GLM-5.2/5.3 (which also runs Mistral-Large-4), GLM-5.3-Flash, Inkling, Kimi K3, DeepSeek V4 Flash, D…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 311770,
-      "stars_delta": 540,
-      "forks": 26199,
-      "forks_delta": 36,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "p-e-w/heretic",
-      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "rank": 7,
+      "full_name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "topics": [
-        "abliteration",
-        "anti-censorship",
-        "anticensorship",
-        "censorship",
-        "censorship-resistance",
-        "llm",
-        "transformer"
+        "ai",
+        "copilot",
+        "development",
+        "engineering",
+        "prd",
+        "spec",
+        "spec-driven"
       ],
-      "stars": 38988,
-      "stars_delta": 335,
-      "forks": 4401,
-      "forks_delta": 32,
-      "html_url": "https://github.com/p-e-w/heretic",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "stars": 147189,
+      "stars_delta": 810,
+      "forks": 13213,
+      "forks_delta": 0,
+      "html_url": "https://github.com/github/spec-kit",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
-        "zh": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "en": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more"
+        "zh": "💫 Toolkit to help you get started with SDD or any other process!",
+        "en": "💫 Toolkit to help you get started with SDD or any other process!"
       },
       "strengths": {
-        "zh": "Heretic Training-free language model modification Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ----- &nbsp; &…",
-        "en": "Heretic Training-free language model modification Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ----- &nbsp; &…"
+        "zh": "🌱 Spec Kit Build with a spec, fix a bug, or assess an idea — with your coding agent. English · 简体中文 · 日本語 · 한국어 Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and document…",
+        "en": "🌱 Spec Kit Build with a spec, fix a bug, or assess an idea — with your coding agent. English · 简体中文 · 日本語 · 한국어 Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and document…"
       },
       "innovations": {
-        "zh": "…e the amount of VRAM required to process a model to the same amount that is used to run a typical quantized version of it, at a slight accuracy cost. Set the quantization option to bnb4bit to enable this. Heretic is a unique tool…",
-        "en": "…e the amount of VRAM required to process a model to the same amount that is used to run a typical quantized version of it, at a slight accuracy cost. Set the quantization option to bnb4bit to enable this. Heretic is a unique tool…"
+        "zh": "…n Spec-Driven Development A specification carried through planning, implementation, and convergence Diagnose and repair broken behavior Bug fixing An assessed cause, scoped fix, and recorded verification Decide whether an idea des…",
+        "en": "…n Spec-Driven Development A specification carried through planning, implementation, and convergence Diagnose and repair broken behavior Bug fixing An assessed cause, scoped fix, and recorded verification Decide whether an idea des…"
       },
-      "purpose_zh": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "purpose_en": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "strengths_zh": "Heretic Training-free language model modification Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ----- &nbsp; &…",
-      "strengths_en": "Heretic Training-free language model modification Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ----- &nbsp; &…",
-      "innovations_zh": "…e the amount of VRAM required to process a model to the same amount that is used to run a typical quantized version of it, at a slight accuracy cost. Set the quantization option to bnb4bit to enable this. Heretic is a unique tool…",
-      "innovations_en": "…e the amount of VRAM required to process a model to the same amount that is used to run a typical quantized version of it, at a slight accuracy cost. Set the quantization option to bnb4bit to enable this. Heretic is a unique tool…",
+      "purpose_zh": "💫 Toolkit to help you get started with SDD or any other process!",
+      "purpose_en": "💫 Toolkit to help you get started with SDD or any other process!",
+      "strengths_zh": "🌱 Spec Kit Build with a spec, fix a bug, or assess an idea — with your coding agent. English · 简体中文 · 日本語 · 한국어 Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and document…",
+      "strengths_en": "🌱 Spec Kit Build with a spec, fix a bug, or assess an idea — with your coding agent. English · 简体中文 · 日本語 · 한국어 Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and document…",
+      "innovations_zh": "…n Spec-Driven Development A specification carried through planning, implementation, and convergence Diagnose and repair broken behavior Bug fixing An assessed cause, scoped fix, and recorded verification Decide whether an idea des…",
+      "innovations_en": "…n Spec-Driven Development A specification carried through planning, implementation, and convergence Diagnose and repair broken behavior Bug fixing An assessed cause, scoped fix, and recorded verification Decide whether an idea des…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "spotify/portal-ai-plugins",
-      "description": "",
+      "rank": 8,
+      "full_name": "The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "code-review",
+        "coding-assistant",
+        "devtools",
+        "ollama",
+        "openai",
+        "pull-request",
+        "pull-requests"
+      ],
+      "stars": 14657,
+      "stars_delta": 279,
+      "forks": 2089,
+      "forks_delta": 0,
+      "html_url": "https://github.com/The-PR-Agent/pr-agent",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+      },
+      "strengths": {
+        "zh": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
+        "en": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…"
+      },
+      "innovations": {
+        "zh": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
+        "en": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…"
+      },
+      "purpose_zh": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "purpose_en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "strengths_zh": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
+      "strengths_en": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
+      "innovations_zh": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
+      "innovations_en": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
+      "stars": 138834,
+      "stars_delta": 615,
+      "forks": 22156,
+      "forks_delta": 0,
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+      },
+      "strengths": {
+        "zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token…",
+        "en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token…"
+      },
+      "innovations": {
+        "zh": "…的 API 额度。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！APIMar…",
+        "en": "…的 API 额度。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！APIMar…"
+      },
+      "purpose_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "purpose_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "strengths_zh": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token…",
+      "strengths_en": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 English 日本語 版本发布 问题反馈 界面预览 🖥️ WebUI API --- 特别感谢 ❤️ 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token…",
+      "innovations_zh": "…的 API 额度。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！APIMar…",
+      "innovations_en": "…的 API 额度。活动截至 2026 年 12 月 31 日。前往 Kimi 开放平台（中文站｜Global）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！火山方舟 Agent/Coding Plan 国模套餐 首购 9.9 ，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500w Token ，统一 API，适配编码与智能体开发。 立即前往 感谢 APIMart 赞助了本项目！APIMar…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3095,
-      "stars_delta": 101,
-      "forks": 240,
-      "forks_delta": 7,
-      "html_url": "https://github.com/spotify/portal-ai-plugins",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "stars": 139236,
+      "stars_delta": 285,
+      "forks": 20629,
+      "forks_delta": 0,
+      "html_url": "https://github.com/garrytan/gstack",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+      },
+      "strengths": {
+        "zh": "gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs…",
+        "en": "gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs…"
+      },
+      "innovations": {
+        "zh": "…ee, MIT license. I'm Garry Tan, President & CEO of Y Combinator. This is the open source software factory I use every day, and I'm sharing it because these tools should be available to everyone. The story, the productivity numbers…",
+        "en": "…ee, MIT license. I'm Garry Tan, President & CEO of Y Combinator. This is the open source software factory I use every day, and I'm sharing it because these tools should be available to everyone. The story, the productivity numbers…"
+      },
+      "purpose_zh": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "purpose_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "strengths_zh": "gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs…",
+      "strengths_en": "gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs…",
+      "innovations_zh": "…ee, MIT license. I'm Garry Tan, President & CEO of Y Combinator. This is the open source software factory I use every day, and I'm sharing it because these tools should be available to everyone. The story, the productivity numbers…",
+      "innovations_en": "…ee, MIT license. I'm Garry Tan, President & CEO of Y Combinator. This is the open source software factory I use every day, and I'm sharing it because these tools should be available to everyone. The story, the productivity numbers…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "language": "C",
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch",
+        "inference-engine",
+        "kimi-k3",
+        "linear-attention",
+        "llm",
+        "llm-inference",
+        "machine-learning",
+        "memory-efficient",
+        "mixture-of-experts",
+        "moe",
+        "mxfp4",
+        "quantization",
+        "simd",
+        "systems-programming",
+        "transformer",
+        "zero-dependencies"
+      ],
+      "stars": 10181,
+      "stars_delta": 351,
+      "forks": 1620,
+      "forks_delta": 0,
+      "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
+      "purpose": {
+        "zh": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "en": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+      },
+      "strengths": {
+        "zh": "kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0…",
+        "en": "kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0…"
+      },
+      "innovations": {
+        "zh": "…oing on an ordinary laptop 8 GB 26.5 s the whole model streams off the disk on every step a high-end laptop 32 GB 24.2 s some of the model now sits in memory a desktop 64 GB 19.8 s more of it sits in memory a heavy workstation 128…",
+        "en": "…oing on an ordinary laptop 8 GB 26.5 s the whole model streams off the disk on every step a high-end laptop 32 GB 24.2 s some of the model now sits in memory a desktop 64 GB 19.8 s more of it sits in memory a heavy workstation 128…"
+      },
+      "purpose_zh": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "purpose_en": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "strengths_zh": "kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0…",
+      "strengths_en": "kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0…",
+      "innovations_zh": "…oing on an ordinary laptop 8 GB 26.5 s the whole model streams off the disk on every step a high-end laptop 32 GB 24.2 s some of the model now sits in memory a desktop 64 GB 19.8 s more of it sits in memory a heavy workstation 128…",
+      "innovations_en": "…oing on an ordinary laptop 8 GB 26.5 s the whole model streams off the disk on every step a high-end laptop 32 GB 24.2 s some of the model now sits in memory a desktop 64 GB 19.8 s more of it sits in memory a heavy workstation 128…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "language": "C#",
+      "topics": [],
+      "stars": 6396,
+      "stars_delta": 1792,
+      "forks": 228,
+      "forks_delta": 0,
+      "html_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
         "zh": "",
         "en": ""
       },
       "strengths": {
-        "zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run d…",
-        "en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run d…"
+        "zh": "简体中文 繁體中文 English 日本語 Türkçe Español Čeština 全能的光盘盘面可见图像生成与刻录工具 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 --- 效果预览 --- 概述 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘…",
+        "en": "简体中文 繁體中文 English 日本語 Türkçe Español Čeština 全能的光盘盘面可见图像生成与刻录工具 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 --- 效果预览 --- 概述 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘…"
       },
       "innovations": {
-        "zh": "…thentication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation detai…",
-        "en": "…thentication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation detai…"
+        "zh": "…在主页选择 CD、DVD 或蓝光，指定输出位置后创建工程。 2. 设计盘面 在设计页导入图片，用图层完成排版，并在右栏「影调」模块调整抖动、伽马、亮度与灰阶档位。 3. 预览与导出 在预览页核对盘面投影，在导出页生成 ISO / RAW / WAV+CUE，或使用即时刻录功能直接写入空白盘片。 即时刻录为实验性功能，请只使用可报废的测试介质。 功能 光盘数据生成 - CD 支持：支持任何 CD 。您可导出带格式头的 WAV 音轨及配套 CUE，兼容 cdr…",
+        "en": "…在主页选择 CD、DVD 或蓝光，指定输出位置后创建工程。 2. 设计盘面 在设计页导入图片，用图层完成排版，并在右栏「影调」模块调整抖动、伽马、亮度与灰阶档位。 3. 预览与导出 在预览页核对盘面投影，在导出页生成 ISO / RAW / WAV+CUE，或使用即时刻录功能直接写入空白盘片。 即时刻录为实验性功能，请只使用可报废的测试介质。 功能 光盘数据生成 - CD 支持：支持任何 CD 。您可导出带格式头的 WAV 音轨及配套 CUE，兼容 cdr…"
       },
       "purpose_zh": "",
       "purpose_en": "",
-      "strengths_zh": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run d…",
-      "strengths_en": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI: set up authentication, search your software catalog, build service briefings, run d…",
-      "innovations_zh": "…thentication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation detai…",
-      "innovations_en": "…thentication, and action readiness. - Search the software catalog and technical documentation using natural language queries. - Generate concise service briefings with available ownership, health, incident, and documentation detai…",
+      "strengths_zh": "简体中文 繁體中文 English 日本語 Türkçe Español Čeština 全能的光盘盘面可见图像生成与刻录工具 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 --- 效果预览 --- 概述 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘…",
+      "strengths_en": "简体中文 繁體中文 English 日本語 Türkçe Español Čeština 全能的光盘盘面可见图像生成与刻录工具 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 --- 效果预览 --- 概述 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘…",
+      "innovations_zh": "…在主页选择 CD、DVD 或蓝光，指定输出位置后创建工程。 2. 设计盘面 在设计页导入图片，用图层完成排版，并在右栏「影调」模块调整抖动、伽马、亮度与灰阶档位。 3. 预览与导出 在预览页核对盘面投影，在导出页生成 ISO / RAW / WAV+CUE，或使用即时刻录功能直接写入空白盘片。 即时刻录为实验性功能，请只使用可报废的测试介质。 功能 光盘数据生成 - CD 支持：支持任何 CD 。您可导出带格式头的 WAV 音轨及配套 CUE，兼容 cdr…",
+      "innovations_en": "…在主页选择 CD、DVD 或蓝光，指定输出位置后创建工程。 2. 设计盘面 在设计页导入图片，用图层完成排版，并在右栏「影调」模块调整抖动、伽马、亮度与灰阶档位。 3. 预览与导出 在预览页核对盘面投影，在导出页生成 ISO / RAW / WAV+CUE，或使用即时刻录功能直接写入空白盘片。 即时刻录为实验性功能，请只使用可报废的测试介质。 功能 光盘数据生成 - CD 支持：支持任何 CD 。您可导出带格式头的 WAV 音轨及配套 CUE，兼容 cdr…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
+      "rank": 13,
+      "full_name": "MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+      "language": "Shell",
       "topics": [
-        "aws",
-        "aws-emulation",
+        "ansible",
+        "backup",
+        "containers",
         "devops",
-        "docker",
-        "ec2",
-        "ecs",
-        "localstack",
-        "s3",
-        "sqs",
-        "testcontainers"
+        "iac",
+        "kubernetes",
+        "networking",
+        "terraform"
       ],
-      "stars": 29041,
-      "stars_delta": 465,
-      "forks": 3229,
-      "forks_delta": 41,
-      "html_url": "https://github.com/floci-io/floci",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "stars": 30324,
+      "stars_delta": 156,
+      "forks": 6789,
+      "forks_delta": 0,
+      "html_url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
-        "zh": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-        "en": "Light, fluffy, and always free - The AWS Local Emulator alternative"
+        "zh": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+        "en": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. "
       },
       "strengths": {
-        "zh": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
-        "en": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…"
+        "zh": "90DaysOfDevOps This repository started as a way to document my journey on getting a better foundational knowledge of \"DevOps\". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! What started of…",
+        "en": "90DaysOfDevOps This repository started as a way to document my journey on getting a better foundational knowledge of \"DevOps\". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! What started of…"
       },
       "innovations": {
-        "zh": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
-        "en": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…"
+        "zh": "…te some resources you have found useful to the project. - DevOps - Written content by myself but then translated and corrected and enhanced by the community - DevSecOps - Focus on Security and other topics we did not get to in 202…",
+        "en": "…te some resources you have found useful to the project. - DevOps - Written content by myself but then translated and corrected and enhanced by the community - DevSecOps - Focus on Security and other topics we did not get to in 202…"
       },
-      "purpose_zh": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "purpose_en": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "strengths_zh": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
-      "strengths_en": "Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs --- What is Floci? Floci is a fr…",
-      "innovations_zh": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
-      "innovations_en": "…paid feature gates. Point your AWS SDK, CLI, Terraform, CDK, OpenTofu, or test suite at http://localhost:4566 and keep your existing workflows. Already using LocalStack? Floci is a drop-in replacement: swap the image and keep goi…",
+      "purpose_zh": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+      "purpose_en": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+      "strengths_zh": "90DaysOfDevOps This repository started as a way to document my journey on getting a better foundational knowledge of \"DevOps\". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! What started of…",
+      "strengths_en": "90DaysOfDevOps This repository started as a way to document my journey on getting a better foundational knowledge of \"DevOps\". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! What started of…",
+      "innovations_zh": "…te some resources you have found useful to the project. - DevOps - Written content by myself but then translated and corrected and enhanced by the community - DevSecOps - Focus on Security and other topics we did not get to in 202…",
+      "innovations_en": "…te some resources you have found useful to the project. - DevOps - Written content by myself but then translated and corrected and enhanced by the community - DevSecOps - Focus on Security and other topics we did not get to in 202…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-assistant",
-        "ai-tools",
-        "automation",
-        "gemini",
-        "goofish",
-        "open-source",
-        "openai",
-        "playwright",
-        "tool",
-        "xian-yu",
-        "xianyu",
-        "xianyu-bot"
-      ],
-      "stars": 16771,
-      "stars_delta": 466,
-      "forks": 2875,
-      "forks_delta": 37,
-      "html_url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
-      "purpose": {
-        "zh": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-        "en": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
-      },
-      "strengths": {
-        "zh": "闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 - Web 可视化管理: 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 - AI 驱动: 自然语言创建任务，多模态模型深度分析商品 - 多任务并发: 独立配置关键词、价格、筛选条件和 AI Prompt - 高级筛选: 包邮、新发布时间范围、省/市/区三级区域筛选 - 即时通知: 支持 ntfy.s…",
-        "en": "闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 - Web 可视化管理: 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 - AI 驱动: 自然语言创建任务，多模态模型深度分析商品 - 多任务并发: 独立配置关键词、价格、筛选条件和 AI Prompt - 高级筛选: 包邮、新发布时间范围、省/市/区三级区域筛选 - 即时通知: 支持 ntfy.s…"
-      },
-      "innovations": {
-        "zh": "…址：http://127.0.0.1:8000 - Docker 镜像已内置 Chromium，无需宿主机额外安装浏览器。 - 官方镜像地址：ghcr.io/usagi-org/ai-goofish:latest - 更新镜像：docker compose pull && docker compose up -d - 如果你修改了 .env 中的 SERVERPORT，请同步更新 docker-compose.yaml 里的端口映射。 - docker-c…",
-        "en": "…址：http://127.0.0.1:8000 - Docker 镜像已内置 Chromium，无需宿主机额外安装浏览器。 - 官方镜像地址：ghcr.io/usagi-org/ai-goofish:latest - 更新镜像：docker compose pull && docker compose up -d - 如果你修改了 .env 中的 SERVERPORT，请同步更新 docker-compose.yaml 里的端口映射。 - docker-c…"
-      },
-      "purpose_zh": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "purpose_en": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "strengths_zh": "闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 - Web 可视化管理: 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 - AI 驱动: 自然语言创建任务，多模态模型深度分析商品 - 多任务并发: 独立配置关键词、价格、筛选条件和 AI Prompt - 高级筛选: 包邮、新发布时间范围、省/市/区三级区域筛选 - 即时通知: 支持 ntfy.s…",
-      "strengths_en": "闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 - Web 可视化管理: 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 - AI 驱动: 自然语言创建任务，多模态模型深度分析商品 - 多任务并发: 独立配置关键词、价格、筛选条件和 AI Prompt - 高级筛选: 包邮、新发布时间范围、省/市/区三级区域筛选 - 即时通知: 支持 ntfy.s…",
-      "innovations_zh": "…址：http://127.0.0.1:8000 - Docker 镜像已内置 Chromium，无需宿主机额外安装浏览器。 - 官方镜像地址：ghcr.io/usagi-org/ai-goofish:latest - 更新镜像：docker compose pull && docker compose up -d - 如果你修改了 .env 中的 SERVERPORT，请同步更新 docker-compose.yaml 里的端口映射。 - docker-c…",
-      "innovations_en": "…址：http://127.0.0.1:8000 - Docker 镜像已内置 Chromium，无需宿主机额外安装浏览器。 - 官方镜像地址：ghcr.io/usagi-org/ai-goofish:latest - 更新镜像：docker compose pull && docker compose up -d - 如果你修改了 .env 中的 SERVERPORT，请同步更新 docker-compose.yaml 里的端口映射。 - docker-c…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
-      "language": "Rust",
-      "topics": [
-        "dictation",
-        "linux",
-        "local-first",
-        "macos",
-        "rust",
-        "speech-recognition",
-        "speech-to-text",
-        "voice-control"
-      ],
-      "stars": 4748,
-      "stars_delta": 303,
-      "forks": 264,
-      "forks_delta": 11,
-      "html_url": "https://github.com/anomalyco/hex",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
-      "purpose": {
-        "zh": "Local voice dictation for mac, windows and linux",
-        "en": "Local voice dictation for mac, windows and linux"
-      },
-      "strengths": {
-        "zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-        "en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…"
-      },
-      "innovations": {
-        "zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
-        "en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…"
-      },
-      "purpose_zh": "Local voice dictation for mac, windows and linux",
-      "purpose_en": "Local voice dictation for mac, windows and linux",
-      "strengths_zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-      "strengths_en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-      "innovations_zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
-      "innovations_en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
+      "rank": 14,
       "full_name": "D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
@@ -446,12 +574,12 @@
         "webscraping",
         "xpath"
       ],
-      "stars": 95288,
-      "stars_delta": 888,
-      "forks": 9990,
-      "forks_delta": 89,
+      "stars": 96294,
+      "stars_delta": 1006,
+      "forks": 10089,
+      "forks_delta": 99,
       "html_url": "https://github.com/D4Vinci/Scrapling",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
         "zh": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
         "en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
@@ -473,80 +601,97 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
-      "full_name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "rank": 15,
+      "full_name": "Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
       "language": "Python",
-      "topics": [],
-      "stars": 46618,
-      "stars_delta": 189,
-      "forks": 7675,
-      "forks_delta": 24,
-      "html_url": "https://github.com/shiyu-coder/Kronos",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "topics": [
+        "aggregator",
+        "feishu-bot",
+        "llm",
+        "mcp",
+        "news",
+        "openclaw",
+        "python",
+        "webhook"
+      ],
+      "stars": 12422,
+      "stars_delta": 121,
+      "forks": 1815,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Thysrael/Horizon",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets"
+        "zh": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+        "en": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
       },
       "strengths": {
-        "zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-        "en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…"
+        "zh": "🌅 Horizon Enjoy the News itself. Leave others to Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 构建你专属的 AI 新闻雷达 📖 Live Demo · 📋 Configuration Guide · 💬 QQ Group · 简体中文 · 日本語 Screensho…",
+        "en": "🌅 Horizon Enjoy the News itself. Leave others to Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 构建你专属的 AI 新闻雷达 📖 Live Demo · 📋 Configuration Guide · 💬 QQ Group · 简体中文 · 日本語 Screensho…"
       },
       "innovations": {
-        "zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
-        "en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…"
+        "zh": "…ttered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion. Your taste shapes what you…",
+        "en": "…ttered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion. Your taste shapes what you…"
       },
-      "purpose_zh": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "purpose_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "strengths_zh": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-      "strengths_en": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch Español Français 日本語 한국어 Português Русский 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from ove…",
-      "innovations_zh": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
-      "innovations_en": "…t Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequenc…",
+      "purpose_zh": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "purpose_en": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "strengths_zh": "🌅 Horizon Enjoy the News itself. Leave others to Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 构建你专属的 AI 新闻雷达 📖 Live Demo · 📋 Configuration Guide · 💬 QQ Group · 简体中文 · 日本語 Screensho…",
+      "strengths_en": "🌅 Horizon Enjoy the News itself. Leave others to Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 构建你专属的 AI 新闻雷达 📖 Live Demo · 📋 Configuration Guide · 💬 QQ Group · 简体中文 · 日本語 Screensho…",
+      "innovations_zh": "…ttered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion. Your taste shapes what you…",
+      "innovations_en": "…ttered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion. Your taste shapes what you…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
+      "rank": 16,
+      "full_name": "scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
       "topics": [
+        "3d-models",
+        "agent-skills",
         "ai-agents",
-        "ai-assisted-development",
-        "anthropic",
-        "claude",
+        "ai-art",
+        "blender",
         "claude-code",
-        "game-design",
+        "claude-skills",
+        "codex",
+        "game-assets",
         "game-development",
-        "gamedev",
-        "godot",
-        "indie-game-dev",
+        "generative-ai",
+        "image-generation",
+        "maya",
+        "mcp",
+        "model-context-protocol",
+        "skills-sh",
         "unity",
-        "unreal-engine"
+        "unreal-engine",
+        "video-generation",
+        "zbrush"
       ],
-      "stars": 34894,
-      "stars_delta": 402,
-      "forks": 4619,
-      "forks_delta": 37,
-      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "snapshot_at": "2026-11-04T06:40:28.726Z",
+      "stars": 2319,
+      "stars_delta": 224,
+      "forks": 244,
+      "forks_delta": 0,
+      "html_url": "https://github.com/scenario-labs/skills",
+      "snapshot_at": "2026-11-04T19:53:00.655Z",
       "purpose": {
-        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+        "zh": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "en": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
       },
       "strengths": {
-        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
+        "zh": "Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario MCP server: images, video, audio, textu…",
+        "en": "Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario MCP server: images, video, audio, textu…"
       },
       "innovations": {
-        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
+        "zh": "…ms of skills that drive DCC (digital content creation) software and game engines installed on your machine (ZBrush, Blender, Maya, Unreal Engine, Unity, Godot, Roblox Studio), distilled from expert tutorials, conference talks, and…",
+        "en": "…ms of skills that drive DCC (digital content creation) software and game engines installed on your machine (ZBrush, Blender, Maya, Unreal Engine, Unity, Godot, Roblox Studio), distilled from expert tutorials, conference talks, and…"
       },
-      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+      "purpose_zh": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "purpose_en": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "strengths_zh": "Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario MCP server: images, video, audio, textu…",
+      "strengths_en": "Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario MCP server: images, video, audio, textu…",
+      "innovations_zh": "…ms of skills that drive DCC (digital content creation) software and game engines installed on your machine (ZBrush, Blender, Maya, Unreal Engine, Unity, Godot, Roblox Studio), distilled from expert tutorials, conference talks, and…",
+      "innovations_en": "…ms of skills that drive DCC (digital content creation) software and game engines installed on your machine (ZBrush, Blender, Maya, Unreal Engine, Unity, Godot, Roblox Studio), distilled from expert tutorials, conference talks, and…",
       "insights_source": "readme-excerpt"
     }
   ]
