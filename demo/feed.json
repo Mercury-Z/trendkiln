@@ -26,6 +26,184 @@
       "saved": false
     },
     {
+      "id": "1358",
+      "title": {
+        "zh": "rust-v0.169.0-alpha.1",
+        "en": "rust-v0.169.0-alpha.1"
+      },
+      "summary": {
+        "zh": "Release 0.169.0-alpha.1",
+        "en": "Release 0.169.0-alpha.1"
+      },
+      "title_zh": "rust-v0.169.0-alpha.1",
+      "title_en": "rust-v0.169.0-alpha.1",
+      "summary_zh": "Release 0.169.0-alpha.1",
+      "summary_en": "Release 0.169.0-alpha.1",
+      "title_text": "rust-v0.169.0-alpha.1",
+      "summary_text": "Release 0.169.0-alpha.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.1",
+      "published_at": "2026-11-06T03:02:33.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1359",
+      "title": {
+        "zh": "0.167.0",
+        "en": "0.167.0"
+      },
+      "summary": {
+        "zh": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image…",
+        "en": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image…"
+      },
+      "title_zh": "0.167.0",
+      "title_en": "0.167.0",
+      "summary_zh": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image…",
+      "summary_en": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image…",
+      "title_text": "0.167.0",
+      "summary_text": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image…",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+      "published_at": "2026-11-06T01:42:19.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1360",
+      "title": {
+        "zh": "Token Pass credit now applies automatically across AI Gateway",
+        "en": "Token Pass credit now applies automatically across AI Gateway"
+      },
+      "summary": {
+        "zh": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and provi…",
+        "en": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and provi…"
+      },
+      "title_zh": "Token Pass credit now applies automatically across AI Gateway",
+      "title_en": "Token Pass credit now applies automatically across AI Gateway",
+      "summary_zh": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and provi…",
+      "summary_en": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and provi…",
+      "title_text": "Token Pass credit now applies automatically across AI Gateway",
+      "summary_text": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and provi…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+      "published_at": "2026-11-06T01:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1361",
+      "title": {
+        "zh": "Usage metrics API adds code review details and addressed rate",
+        "en": "Usage metrics API adds code review details and addressed rate"
+      },
+      "summary": {
+        "zh": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The …",
+        "en": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The …"
+      },
+      "title_zh": "Usage metrics API adds code review details and addressed rate",
+      "title_en": "Usage metrics API adds code review details and addressed rate",
+      "summary_zh": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The …",
+      "summary_en": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The …",
+      "title_text": "Usage metrics API adds code review details and addressed rate",
+      "summary_text": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The …",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "published_at": "2026-11-06T00:19:07.000Z",
+      "tags": [
+        "Improvement",
+        "account management",
+        "copilot",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1362",
+      "title": {
+        "zh": "Usage metrics API flags telemetry and version gaps",
+        "en": "Usage metrics API flags telemetry and version gaps"
+      },
+      "summary": {
+        "zh": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+        "en": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Usage metrics API flags telemetry and version gaps",
+      "title_en": "Usage metrics API flags telemetry and version gaps",
+      "summary_zh": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+      "summary_en": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+      "title_text": "Usage metrics API flags telemetry and version gaps",
+      "summary_text": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "published_at": "2026-11-06T00:08:31.000Z",
+      "tags": [
+        "Improvement",
+        "account management",
+        "copilot",
+        "enterprise management tools"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1363",
+      "title": {
+        "zh": "0.168.0-alpha.7",
+        "en": "0.168.0-alpha.7"
+      },
+      "summary": {
+        "zh": "Release 0.168.0-alpha.7",
+        "en": "Release 0.168.0-alpha.7"
+      },
+      "title_zh": "0.168.0-alpha.7",
+      "title_en": "0.168.0-alpha.7",
+      "summary_zh": "Release 0.168.0-alpha.7",
+      "summary_en": "Release 0.168.0-alpha.7",
+      "title_text": "0.168.0-alpha.7",
+      "summary_text": "Release 0.168.0-alpha.7",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.7",
+      "published_at": "2026-11-05T23:00:15.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1364",
+      "title": {
+        "zh": "Cult.fit builds operational muscle with Codex",
+        "en": "Cult.fit builds operational muscle with Codex"
+      },
+      "summary": {
+        "zh": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+        "en": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+      },
+      "title_zh": "Cult.fit builds operational muscle with Codex",
+      "title_en": "Cult.fit builds operational muscle with Codex",
+      "summary_zh": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "summary_en": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "title_text": "Cult.fit builds operational muscle with Codex",
+      "summary_text": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published_at": "2026-11-05T20:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1345",
       "title": {
         "zh": "0.168.0-alpha.6",
@@ -118,6 +296,32 @@
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.5",
       "published_at": "2026-11-05T17:06:54.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1365",
+      "title": {
+        "zh": "Australian universities are creating AI-native graduates",
+        "en": "Australian universities are creating AI-native graduates"
+      },
+      "summary": {
+        "zh": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+        "en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+      },
+      "title_zh": "Australian universities are creating AI-native graduates",
+      "title_en": "Australian universities are creating AI-native graduates",
+      "summary_zh": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "summary_en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "title_text": "Australian universities are creating AI-native graduates",
+      "summary_text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published_at": "2026-11-05T17:00:00.000Z",
+      "tags": [
+        "Company"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -275,6 +479,30 @@
       "saved": false
     },
     {
+      "id": "1366",
+      "title": {
+        "zh": "Merge builds product and business tools with OpenAI technology",
+        "en": "Merge builds product and business tools with OpenAI technology"
+      },
+      "summary": {
+        "zh": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+        "en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+      },
+      "title_zh": "Merge builds product and business tools with OpenAI technology",
+      "title_en": "Merge builds product and business tools with OpenAI technology",
+      "summary_zh": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "summary_en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "title_text": "Merge builds product and business tools with OpenAI technology",
+      "summary_text": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published_at": "2026-11-05T08:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1354",
       "title": {
         "zh": "New pull request overview page in public preview",
@@ -374,6 +602,78 @@
       "tags": [
         "Global Affairs"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1367",
+      "title": {
+        "zh": "Flipsnack grows product signups with conversion optimization",
+        "en": "Flipsnack grows product signups with conversion optimization"
+      },
+      "summary": {
+        "zh": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+        "en": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+      },
+      "title_zh": "Flipsnack grows product signups with conversion optimization",
+      "title_en": "Flipsnack grows product signups with conversion optimization",
+      "summary_zh": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "summary_en": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "title_text": "Flipsnack grows product signups with conversion optimization",
+      "summary_text": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published_at": "2026-11-05T00:45:15.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1368",
+      "title": {
+        "zh": "Franklin Templeton uses OpenAI to support investment research",
+        "en": "Franklin Templeton uses OpenAI to support investment research"
+      },
+      "summary": {
+        "zh": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+        "en": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+      },
+      "title_zh": "Franklin Templeton uses OpenAI to support investment research",
+      "title_en": "Franklin Templeton uses OpenAI to support investment research",
+      "summary_zh": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "summary_en": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "title_text": "Franklin Templeton uses OpenAI to support investment research",
+      "summary_text": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/franklin-templeton",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1369",
+      "title": {
+        "zh": "Gemini Omni 1.2 Flash now available on AI Gateway",
+        "en": "Gemini Omni 1.2 Flash now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per…",
+        "en": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per…"
+      },
+      "title_zh": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "title_en": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "summary_zh": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per…",
+      "summary_en": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per…",
+      "title_text": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "summary_text": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -506,30 +806,6 @@
       "saved": false
     },
     {
-      "id": "1326",
-      "title": {
-        "zh": "0.167.0-alpha.3.1",
-        "en": "0.167.0-alpha.3.1"
-      },
-      "summary": {
-        "zh": "Release 0.167.0-alpha.3.1",
-        "en": "Release 0.167.0-alpha.3.1"
-      },
-      "title_zh": "0.167.0-alpha.3.1",
-      "title_en": "0.167.0-alpha.3.1",
-      "summary_zh": "Release 0.167.0-alpha.3.1",
-      "summary_en": "Release 0.167.0-alpha.3.1",
-      "title_text": "0.167.0-alpha.3.1",
-      "summary_text": "Release 0.167.0-alpha.3.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3.1",
-      "published_at": "2026-11-04T19:10:25.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1327",
       "title": {
         "zh": "Workflow SDK adds idempotent starts",
@@ -549,30 +825,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
       "published_at": "2026-11-04T18:55:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1313",
-      "title": {
-        "zh": "0.167.0-alpha.5",
-        "en": "0.167.0-alpha.5"
-      },
-      "summary": {
-        "zh": "Release 0.167.0-alpha.5",
-        "en": "Release 0.167.0-alpha.5"
-      },
-      "title_zh": "0.167.0-alpha.5",
-      "title_en": "0.167.0-alpha.5",
-      "summary_zh": "Release 0.167.0-alpha.5",
-      "summary_en": "Release 0.167.0-alpha.5",
-      "title_text": "0.167.0-alpha.5",
-      "summary_text": "Release 0.167.0-alpha.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.5",
-      "published_at": "2026-11-04T18:13:38.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1155,60 +1407,6 @@
       "saved": false
     },
     {
-      "id": "1302",
-      "title": {
-        "zh": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions"
-      },
-      "summary": {
-        "zh": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .",
-        "en": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog ."
-      },
-      "title_zh": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "summary_zh": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .",
-      "summary_en": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .",
-      "title_text": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "summary_text": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "published_at": "2026-11-03T14:56:03.000Z",
-      "tags": [
-        "Improvement",
-        "application security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1303",
-      "title": {
-        "zh": "Dependabot now supports Python 3.15",
-        "en": "Dependabot now supports Python 3.15"
-      },
-      "summary": {
-        "zh": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog .",
-        "en": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Dependabot now supports Python 3.15",
-      "title_en": "Dependabot now supports Python 3.15",
-      "summary_zh": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog .",
-      "summary_en": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog .",
-      "title_text": "Dependabot now supports Python 3.15",
-      "summary_text": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "published_at": "2026-11-03T13:49:32.000Z",
-      "tags": [
-        "Improvement",
-        "supply chain security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1304",
       "title": {
         "zh": "Accelerating engineering for the physical world",
@@ -1400,30 +1598,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
       "published_at": "2026-11-03T04:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1286",
-      "title": {
-        "zh": "0.167.0-alpha.4",
-        "en": "0.167.0-alpha.4"
-      },
-      "summary": {
-        "zh": "Release 0.167.0-alpha.4",
-        "en": "Release 0.167.0-alpha.4"
-      },
-      "title_zh": "0.167.0-alpha.4",
-      "title_en": "0.167.0-alpha.4",
-      "summary_zh": "Release 0.167.0-alpha.4",
-      "summary_en": "Release 0.167.0-alpha.4",
-      "title_text": "0.167.0-alpha.4",
-      "summary_text": "Release 0.167.0-alpha.4",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4",
-      "published_at": "2026-11-03T02:29:10.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1820,180 +1994,6 @@
       "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
       "published_at": "2026-11-02T16:58:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1274",
-      "title": {
-        "zh": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-        "en": "Vercel Sandbox with Drives now starts up to 2.4× faster"
-      },
-      "summary": {
-        "zh": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-        "en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…"
-      },
-      "title_zh": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-      "title_en": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-      "summary_zh": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-      "summary_en": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-      "title_text": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-      "summary_text": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives docum…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-      "published_at": "2026-11-02T16:39:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1275",
-      "title": {
-        "zh": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-        "en": "Evaluate Vercel Flags from another project without sharing SDK keys."
-      },
-      "summary": {
-        "zh": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-        "en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…"
-      },
-      "title_zh": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-      "title_en": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-      "summary_zh": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-      "summary_en": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-      "title_text": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-      "summary_text": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployme…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-      "published_at": "2026-11-02T16:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1294",
-      "title": {
-        "zh": "Scaling Git at OpenAI",
-        "en": "Scaling Git at OpenAI"
-      },
-      "summary": {
-        "zh": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-        "en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
-      },
-      "title_zh": "Scaling Git at OpenAI",
-      "title_en": "Scaling Git at OpenAI",
-      "summary_zh": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "summary_en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "title_text": "Scaling Git at OpenAI",
-      "summary_text": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "published_at": "2026-11-02T15:30:00.000Z",
-      "tags": [
-        "Engineering"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1278",
-      "title": {
-        "zh": "Introducing the Grid Protectors Program",
-        "en": "Introducing the Grid Protectors Program"
-      },
-      "summary": {
-        "zh": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-        "en": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-      },
-      "title_zh": "Introducing the Grid Protectors Program",
-      "title_en": "Introducing the Grid Protectors Program",
-      "summary_zh": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "summary_en": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "title_text": "Introducing the Grid Protectors Program",
-      "summary_text": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "published_at": "2026-11-02T15:00:00.000Z",
-      "tags": [
-        "Global Affairs"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1279",
-      "title": {
-        "zh": "The U.S. Census Bureau and “Super Intelligence”",
-        "en": "The U.S. Census Bureau and “Super Intelligence”"
-      },
-      "summary": {
-        "zh": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data anal…",
-        "en": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data anal…"
-      },
-      "title_zh": "The U.S. Census Bureau and “Super Intelligence”",
-      "title_en": "The U.S. Census Bureau and “Super Intelligence”",
-      "summary_zh": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data anal…",
-      "summary_en": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data anal…",
-      "title_text": "The U.S. Census Bureau and “Super Intelligence”",
-      "summary_text": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data anal…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "published_at": "2026-11-02T13:31:26.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1322",
-      "title": {
-        "zh": "Introducing Vercel Security Review",
-        "en": "Introducing Vercel Security Review"
-      },
-      "summary": {
-        "zh": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in t…",
-        "en": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in t…"
-      },
-      "title_zh": "Introducing Vercel Security Review",
-      "title_en": "Introducing Vercel Security Review",
-      "summary_zh": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in t…",
-      "summary_en": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in t…",
-      "title_text": "Introducing Vercel Security Review",
-      "summary_text": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in t…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/blog/vercel-security-review",
-      "published_at": "2026-11-02T13:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1280",
-      "title": {
-        "zh": "LifeVal",
-        "en": "LifeVal"
-      },
-      "summary": {
-        "zh": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-        "en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
-      },
-      "title_zh": "LifeVal",
-      "title_en": "LifeVal",
-      "summary_zh": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "summary_en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "title_text": "LifeVal",
-      "summary_text": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/lifeval",
-      "published_at": "2026-11-02T09:00:00.000Z",
-      "tags": [
-        "Research"
-      ],
       "read_at": null,
       "saved": false
     }
