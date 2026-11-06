@@ -26,6 +26,178 @@
       "saved": false
     },
     {
+      "id": "1370",
+      "title": {
+        "zh": "Vercel CLI can now set new projects to expire",
+        "en": "Vercel CLI can now set new projects to expire"
+      },
+      "summary": {
+        "zh": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
+        "en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…"
+      },
+      "title_zh": "Vercel CLI can now set new projects to expire",
+      "title_en": "Vercel CLI can now set new projects to expire",
+      "summary_zh": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
+      "summary_en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
+      "title_text": "Vercel CLI can now set new projects to expire",
+      "summary_text": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+      "published_at": "2026-11-06T18:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1371",
+      "title": {
+        "zh": "Quoting Nilay Patel",
+        "en": "Quoting Nilay Patel"
+      },
+      "summary": {
+        "zh": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
+        "en": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…"
+      },
+      "title_zh": "Quoting Nilay Patel",
+      "title_en": "Quoting Nilay Patel",
+      "summary_zh": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
+      "summary_en": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
+      "title_text": "Quoting Nilay Patel",
+      "summary_text": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "published_at": "2026-11-06T17:13:12.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1372",
+      "title": {
+        "zh": "Vercel Tracing is now generally available",
+        "en": "Vercel Tracing is now generally available"
+      },
+      "summary": {
+        "zh": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
+        "en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…"
+      },
+      "title_zh": "Vercel Tracing is now generally available",
+      "title_en": "Vercel Tracing is now generally available",
+      "summary_zh": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
+      "summary_en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
+      "title_text": "Vercel Tracing is now generally available",
+      "summary_text": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+      "published_at": "2026-11-06T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1373",
+      "title": {
+        "zh": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "en": "Controlling Biology - Fabian Theis, Helmholtz Munich"
+      },
+      "summary": {
+        "zh": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+        "en": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology"
+      },
+      "title_zh": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "title_en": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "summary_zh": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "summary_en": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "title_text": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "summary_text": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "published_at": "2026-11-06T15:10:53.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1374",
+      "title": {
+        "zh": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "en": "ToyBlocks: A controlled world for robot learning and evaluation"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published_at": "2026-11-06T14:00:48.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1375",
+      "title": {
+        "zh": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "en": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark"
+      },
+      "summary": {
+        "zh": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+        "en": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic."
+      },
+      "title_zh": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "title_en": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "summary_zh": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+      "summary_en": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+      "title_text": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "summary_text": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "published_at": "2026-11-06T10:35:21.000Z",
+      "tags": [
+        "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1376",
+      "title": {
+        "zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+      },
+      "summary": {
+        "zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+      },
+      "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "summary_en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "title_text": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_text": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published_at": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Security"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1358",
       "title": {
         "zh": "rust-v0.169.0-alpha.1",
@@ -152,6 +324,56 @@
         "copilot",
         "enterprise management tools"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1377",
+      "title": {
+        "zh": "Measuring how AI agents handle everyday wet-lab science",
+        "en": "Measuring how AI agents handle everyday wet-lab science"
+      },
+      "summary": {
+        "zh": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "en": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+      },
+      "title_zh": "Measuring how AI agents handle everyday wet-lab science",
+      "title_en": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_zh": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "summary_en": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "title_text": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_text": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published_at": "2026-11-06T00:00:00.000Z",
+      "tags": [
+        "Publication"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1378",
+      "title": {
+        "zh": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "en": "Egyptian and Nigerian English join the Open ASR Leaderboard"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published_at": "2026-11-06T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -976,6 +1198,30 @@
       "saved": false
     },
     {
+      "id": "1379",
+      "title": {
+        "zh": "Vercel token scanning expands to more public sources",
+        "en": "Vercel token scanning expands to more public sources"
+      },
+      "summary": {
+        "zh": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token …",
+        "en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token …"
+      },
+      "title_zh": "Vercel token scanning expands to more public sources",
+      "title_en": "Vercel token scanning expands to more public sources",
+      "summary_zh": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token …",
+      "summary_en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token …",
+      "title_text": "Vercel token scanning expands to more public sources",
+      "summary_text": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token …",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1342",
       "title": {
         "zh": "A thousand fewer paths to root",
@@ -1275,30 +1521,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
       "published_at": "2026-11-03T18:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1297",
-      "title": {
-        "zh": "StateBench: Testing how language models track state changes over long documents",
-        "en": "StateBench: Testing how language models track state changes over long documents"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "StateBench: Testing how language models track state changes over long documents",
-      "title_en": "StateBench: Testing how language models track state changes over long documents",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "StateBench: Testing how language models track state changes over long documents",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "published_at": "2026-11-03T17:15:21.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1768,231 +1990,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Nov/2/llm/",
       "published_at": "2026-11-02T23:49:30.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1288",
-      "title": {
-        "zh": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-        "en": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora"
-      },
-      "summary": {
-        "zh": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-        "en": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model"
-      },
-      "title_zh": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "title_en": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "summary_zh": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "summary_en": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "title_text": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "summary_text": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-      "published_at": "2026-11-02T23:01:02.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1289",
-      "title": {
-        "zh": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-        "en": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora"
-      },
-      "summary": {
-        "zh": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-        "en": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies..."
-      },
-      "title_zh": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "title_en": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "summary_zh": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "summary_en": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "title_text": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "summary_text": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-      "published_at": "2026-11-02T22:54:03.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1290",
-      "title": {
-        "zh": "Projects can now be configured with vercel.toml",
-        "en": "Projects can now be configured with vercel.toml"
-      },
-      "summary": {
-        "zh": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuratio…",
-        "en": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuratio…"
-      },
-      "title_zh": "Projects can now be configured with vercel.toml",
-      "title_en": "Projects can now be configured with vercel.toml",
-      "summary_zh": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuratio…",
-      "summary_en": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuratio…",
-      "title_text": "Projects can now be configured with vercel.toml",
-      "summary_text": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuratio…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
-      "published_at": "2026-11-02T21:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1291",
-      "title": {
-        "zh": "Vercel MCP now supports Client ID Metadata Documents",
-        "en": "Vercel MCP now supports Client ID Metadata Documents"
-      },
-      "summary": {
-        "zh": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publish…",
-        "en": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publish…"
-      },
-      "title_zh": "Vercel MCP now supports Client ID Metadata Documents",
-      "title_en": "Vercel MCP now supports Client ID Metadata Documents",
-      "summary_zh": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publish…",
-      "summary_en": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publish…",
-      "title_text": "Vercel MCP now supports Client ID Metadata Documents",
-      "summary_text": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publish…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
-      "published_at": "2026-11-02T20:09:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1292",
-      "title": {
-        "zh": "Rewarding defenders with bigger bug bounties",
-        "en": "Rewarding defenders with bigger bug bounties"
-      },
-      "summary": {
-        "zh": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-        "en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-      },
-      "title_zh": "Rewarding defenders with bigger bug bounties",
-      "title_en": "Rewarding defenders with bigger bug bounties",
-      "summary_zh": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "summary_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "title_text": "Rewarding defenders with bigger bug bounties",
-      "summary_text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published_at": "2026-11-02T18:00:00.000Z",
-      "tags": [
-        "Security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1293",
-      "title": {
-        "zh": "Preparing our next security sprint to harden OpenAI",
-        "en": "Preparing our next security sprint to harden OpenAI"
-      },
-      "summary": {
-        "zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-        "en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
-      },
-      "title_zh": "Preparing our next security sprint to harden OpenAI",
-      "title_en": "Preparing our next security sprint to harden OpenAI",
-      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "summary_en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "title_text": "Preparing our next security sprint to harden OpenAI",
-      "summary_text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published_at": "2026-11-02T18:00:00.000Z",
-      "tags": [
-        "Security"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1271",
-      "title": {
-        "zh": "The latest AI news we announced in October 2026",
-        "en": "The latest AI news we announced in October 2026"
-      },
-      "summary": {
-        "zh": "Here are Google’s latest AI updates from October 2026",
-        "en": "Here are Google’s latest AI updates from October 2026"
-      },
-      "title_zh": "The latest AI news we announced in October 2026",
-      "title_en": "The latest AI news we announced in October 2026",
-      "summary_zh": "Here are Google’s latest AI updates from October 2026",
-      "summary_en": "Here are Google’s latest AI updates from October 2026",
-      "title_text": "The latest AI news we announced in October 2026",
-      "summary_text": "Here are Google’s latest AI updates from October 2026",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "published_at": "2026-11-02T17:45:00.000Z",
-      "tags": [
-        "Google DeepMind",
-        "Quantum computing",
-        "AI",
-        "Gemini App"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1272",
-      "title": {
-        "zh": "Vercel MCP now renders deployments as an interactive card",
-        "en": "Vercel MCP now renders deployments as an interactive card"
-      },
-      "summary": {
-        "zh": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-        "en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …"
-      },
-      "title_zh": "Vercel MCP now renders deployments as an interactive card",
-      "title_en": "Vercel MCP now renders deployments as an interactive card",
-      "summary_zh": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-      "summary_en": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-      "title_text": "Vercel MCP now renders deployments as an interactive card",
-      "summary_text": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-      "published_at": "2026-11-02T17:05:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1273",
-      "title": {
-        "zh": "Flags Explorer redesigned for easier override sharing",
-        "en": "Flags Explorer redesigned for easier override sharing"
-      },
-      "summary": {
-        "zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-        "en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …"
-      },
-      "title_zh": "Flags Explorer redesigned for easier override sharing",
-      "title_en": "Flags Explorer redesigned for easier override sharing",
-      "summary_zh": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-      "summary_en": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-      "title_text": "Flags Explorer redesigned for easier override sharing",
-      "summary_text": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
-      "published_at": "2026-11-02T16:58:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
