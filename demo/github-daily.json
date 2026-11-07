@@ -18,620 +18,48 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "topics": [
-        "gpui",
-        "rust-lang",
-        "text-editor",
-        "zed"
-      ],
-      "stars": 93808,
-      "stars_delta": 403,
-      "forks": 11512,
-      "forks_delta": 30,
-      "html_url": "https://github.com/zed-industries/zed",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
+      "topics": [],
+      "stars": 46440,
+      "stars_delta": 180,
+      "forks": 3183,
+      "forks_delta": 0,
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
       "purpose": {
-        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
       },
       "strengths": {
-        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
+        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
       },
       "innovations": {
-        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
+        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
       },
-      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "purpose_zh": "Browser automation CLI for AI agents",
+      "purpose_en": "Browser automation CLI for AI agents",
+      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
-      "full_name": "NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "topics": [],
-      "stars": 9303,
-      "stars_delta": 537,
-      "forks": 738,
-      "forks_delta": 31,
-      "html_url": "https://github.com/NVIDIA/auto-ontology",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
-      },
-      "strengths": {
-        "zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-        "en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…"
-      },
-      "innovations": {
-        "zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-        "en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…"
-      },
-      "purpose_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "purpose_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "strengths_zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-      "strengths_en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-      "innovations_zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-      "innovations_en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "topics": [
-        "activejob",
-        "activerecord",
-        "framework",
-        "html",
-        "mvc",
-        "rails",
-        "ruby"
-      ],
-      "stars": 59055,
-      "stars_delta": 99,
-      "forks": 23833,
-      "forks_delta": 7,
-      "html_url": "https://github.com/rails/rails",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Ruby on Rails",
-        "en": "Ruby on Rails"
-      },
-      "strengths": {
-        "zh": "Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pattern is…",
-        "en": "Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pattern is…"
-      },
-      "innovations": {
-        "zh": "…represents the domain model (such as Account, Product, Person, Post, etc.) and encapsulates the business logic specific to your application. In Rails, database-backed model classes are derived from ActiveRecord::Base. Active Recor…",
-        "en": "…represents the domain model (such as Account, Product, Person, Post, etc.) and encapsulates the business logic specific to your application. In Rails, database-backed model classes are derived from ActiveRecord::Base. Active Recor…"
-      },
-      "purpose_zh": "Ruby on Rails",
-      "purpose_en": "Ruby on Rails",
-      "strengths_zh": "Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pattern is…",
-      "strengths_en": "Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pattern is…",
-      "innovations_zh": "…represents the domain model (such as Account, Product, Person, Post, etc.) and encapsulates the business logic specific to your application. In Rails, database-backed model classes are derived from ActiveRecord::Base. Active Recor…",
-      "innovations_en": "…represents the domain model (such as Account, Product, Person, Post, etc.) and encapsulates the business logic specific to your application. In Rails, database-backed model classes are derived from ActiveRecord::Base. Active Recor…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "topics": [
-        "audio",
-        "c",
-        "ffmpeg",
-        "mplayer",
-        "mpv",
-        "multimedia",
-        "video"
-      ],
-      "stars": 37927,
-      "stars_delta": 95,
-      "forks": 3634,
-      "forks_delta": 4,
-      "html_url": "https://github.com/mpv-player/mpv",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "🎥 Command line media player",
-        "en": "🎥 Command line media player"
-      },
-      "strengths": {
-        "zh": "mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts [FAQ][FAQ] Manual Overview mpv is a free (as in freedom) media…",
-        "en": "mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts [FAQ][FAQ] Manual Overview mpv is a free (as in freedom) media…"
-      },
-      "innovations": {
-        "zh": "…n the [release list][releases]. System requirements - A not too ancient Linux (usually, only the latest releases of distributions are actively supported), Windows 10 1607 or later, or macOS 10.15 or later. - A somewhat capable CPU…",
-        "en": "…n the [release list][releases]. System requirements - A not too ancient Linux (usually, only the latest releases of distributions are actively supported), Windows 10 1607 or later, or macOS 10.15 or later. - A somewhat capable CPU…"
-      },
-      "purpose_zh": "🎥 Command line media player",
-      "purpose_en": "🎥 Command line media player",
-      "strengths_zh": "mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts [FAQ][FAQ] Manual Overview mpv is a free (as in freedom) media…",
-      "strengths_en": "mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts [FAQ][FAQ] Manual Overview mpv is a free (as in freedom) media…",
-      "innovations_zh": "…n the [release list][releases]. System requirements - A not too ancient Linux (usually, only the latest releases of distributions are actively supported), Windows 10 1607 or later, or macOS 10.15 or later. - A somewhat capable CPU…",
-      "innovations_en": "…n the [release list][releases]. System requirements - A not too ancient Linux (usually, only the latest releases of distributions are actively supported), Windows 10 1607 or later, or macOS 10.15 or later. - A somewhat capable CPU…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "language",
-        "rust"
-      ],
-      "stars": 121515,
-      "stars_delta": 190,
-      "forks": 17369,
-      "forks_delta": 10,
-      "html_url": "https://github.com/rust-lang/rust",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Empowering everyone to build reliable and efficient software.",
-        "en": "Empowering everyone to build reliable and efficient software."
-      },
-      "strengths": {
-        "zh": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
-        "en": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…"
-      },
-      "innovations": {
-        "zh": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
-        "en": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…"
-      },
-      "purpose_zh": "Empowering everyone to build reliable and efficient software.",
-      "purpose_en": "Empowering everyone to build reliable and efficient software.",
-      "strengths_zh": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
-      "strengths_en": "[Website][Rust] [Getting started] [Learn] [Documentation] [Contributing] This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation. [Rust]: https://www.rust-lang.org/ [Gettin…",
-      "innovations_zh": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
-      "innovations_en": "…: CONTRIBUTING.md Why Rust? - Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other languages. - Reliability: Our rich type system and ownership model ensure mem…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "language": "JavaScript",
-      "topics": [
-        "declarative",
-        "frontend",
-        "javascript",
-        "library",
-        "react",
-        "ui"
-      ],
-      "stars": 252304,
-      "stars_delta": 138,
-      "forks": 51828,
-      "forks_delta": 27,
-      "html_url": "https://github.com/react/react",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "The library for web and native user interfaces.",
-        "en": "The library for web and native user interfaces."
-      },
-      "strengths": {
-        "zh": "React &middot; React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update a…",
-        "en": "React &middot; React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update a…"
-      },
-      "innovations": {
-        "zh": "…: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the s…",
-        "en": "…: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the s…"
-      },
-      "purpose_zh": "The library for web and native user interfaces.",
-      "purpose_en": "The library for web and native user interfaces.",
-      "strengths_zh": "React &middot; React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update a…",
-      "strengths_en": "React &middot; React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update a…",
-      "innovations_zh": "…: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the s…",
-      "innovations_en": "…: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the s…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "topics": [
-        "angular",
-        "javascript",
-        "pwa",
-        "typescript",
-        "web",
-        "web-framework",
-        "web-performance"
-      ],
-      "stars": 101417,
-      "stars_delta": 172,
-      "forks": 28914,
-      "forks_delta": 6,
-      "html_url": "https://github.com/angular/angular",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Deliver web apps with confidence 🚀",
-        "en": "Deliver web apps with confidence 🚀"
-      },
-      "strengths": {
-        "zh": "Angular - The modern web developer's platform Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. angular.dev Contributing Guidelines · Submit an Issu…",
-        "en": "Angular - The modern web developer's platform Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. angular.dev Contributing Guidelines · Submit an Issu…"
-      },
-      "innovations": {
-        "zh": "…tecture][architecture] - [Components and Templates][componentstemplates] - [Forms][forms] - [API][api] Advanced - [Angular Elements][angularelements] - [Server Side Rendering][ssr] - [Schematics][schematics] - [Lazy Loading][lazyl…",
-        "en": "…tecture][architecture] - [Components and Templates][componentstemplates] - [Forms][forms] - [API][api] Advanced - [Angular Elements][angularelements] - [Server Side Rendering][ssr] - [Schematics][schematics] - [Lazy Loading][lazyl…"
-      },
-      "purpose_zh": "Deliver web apps with confidence 🚀",
-      "purpose_en": "Deliver web apps with confidence 🚀",
-      "strengths_zh": "Angular - The modern web developer's platform Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. angular.dev Contributing Guidelines · Submit an Issu…",
-      "strengths_en": "Angular - The modern web developer's platform Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. angular.dev Contributing Guidelines · Submit an Issu…",
-      "innovations_zh": "…tecture][architecture] - [Components and Templates][componentstemplates] - [Forms][forms] - [API][api] Advanced - [Angular Elements][angularelements] - [Server Side Rendering][ssr] - [Schematics][schematics] - [Lazy Loading][lazyl…",
-      "innovations_en": "…tecture][architecture] - [Components and Templates][componentstemplates] - [Forms][forms] - [API][api] Advanced - [Angular Elements][angularelements] - [Server Side Rendering][ssr] - [Schematics][schematics] - [Lazy Loading][lazyl…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "topics": [
-        "bundle",
-        "framework",
-        "hacktoberfest",
-        "php",
-        "php-framework",
-        "symfony",
-        "symfony-bundle"
-      ],
-      "stars": 31475,
-      "stars_delta": 133,
-      "forks": 9949,
-      "forks_delta": 6,
-      "html_url": "https://github.com/symfony/symfony",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "The Symfony PHP framework",
-        "en": "The Symfony PHP framework"
-      },
-      "strengths": {
-        "zh": "[Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ [Install…",
-        "en": "[Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ [Install…"
-      },
-      "innovations": {
-        "zh": "…release process][6] that is predictable and business-friendly. Sponsor ------- Symfony 8.2 is looking for [backers][27]. Help Symfony by [sponsoring][31] its development! Documentation ------------- Read the [Getting Started guide…",
-        "en": "…release process][6] that is predictable and business-friendly. Sponsor ------- Symfony 8.2 is looking for [backers][27]. Help Symfony by [sponsoring][31] its development! Documentation ------------- Read the [Getting Started guide…"
-      },
-      "purpose_zh": "The Symfony PHP framework",
-      "purpose_en": "The Symfony PHP framework",
-      "strengths_zh": "[Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ [Install…",
-      "strengths_en": "[Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ [Install…",
-      "innovations_zh": "…release process][6] that is predictable and business-friendly. Sponsor ------- Symfony 8.2 is looking for [backers][27]. Help Symfony by [sponsoring][31] its development! Documentation ------------- Read the [Getting Started guide…",
-      "innovations_en": "…release process][6] that is predictable and business-friendly. Sponsor ------- Symfony 8.2 is looking for [backers][27]. Help Symfony by [sponsoring][31] its development! Documentation ------------- Read the [Getting Started guide…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "topics": [
-        "alerting",
-        "graphing",
-        "hacktoberfest",
-        "metrics",
-        "monitoring",
-        "prometheus",
-        "time-series"
-      ],
-      "stars": 67232,
-      "stars_delta": 145,
-      "forks": 10989,
-      "forks_delta": 9,
-      "html_url": "https://github.com/prometheus/prometheus",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "The Prometheus monitoring system and time series database.",
-        "en": "The Prometheus monitoring system and time series database."
-      },
-      "strengths": {
-        "zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-        "en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…"
-      },
-      "innovations": {
-        "zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
-        "en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…"
-      },
-      "purpose_zh": "The Prometheus monitoring system and time series database.",
-      "purpose_en": "The Prometheus monitoring system and time series database.",
-      "strengths_zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-      "strengths_en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-      "innovations_zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
-      "innovations_en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "topics": [
-        "google",
-        "googlecloud",
-        "skills"
-      ],
-      "stars": 22941,
-      "stars_delta": 180,
-      "forks": 1929,
-      "forks_delta": 14,
-      "html_url": "https://github.com/google/skills",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Agent Skills for Google products and technologies",
-        "en": "Agent Skills for Google products and technologies"
-      },
-      "strengths": {
-        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
-      },
-      "innovations": {
-        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
-      },
-      "purpose_zh": "Agent Skills for Google products and technologies",
-      "purpose_en": "Agent Skills for Google products and technologies",
-      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "topics": [
-        "editor",
-        "electron",
-        "microsoft",
-        "typescript",
-        "visual-studio-code"
-      ],
-      "stars": 195074,
-      "stars_delta": 151,
-      "forks": 44433,
-      "forks_delta": 21,
-      "html_url": "https://github.com/microsoft/vscode",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Visual Studio Code",
-        "en": "Visual Studio Code"
-      },
-      "strengths": {
-        "zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-        "en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…"
-      },
-      "innovations": {
-        "zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-        "en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…"
-      },
-      "purpose_zh": "Visual Studio Code",
-      "purpose_en": "Visual Studio Code",
-      "strengths_zh": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-      "strengths_en": "Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here,…",
-      "innovations_zh": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-      "innovations_en": "…Code Visual Studio Code is a distribution of the Code - OSS repository with Microsoft-specific customizations released under a traditional Microsoft product license. Visual Studio Code combines the simplicity of a code editor with…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "topics": [
-        "c",
-        "compression",
-        "lz4"
-      ],
-      "stars": 12644,
-      "stars_delta": 31,
-      "forks": 1643,
-      "forks_delta": 1,
-      "html_url": "https://github.com/lz4/lz4",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Extremely Fast Compression algorithm",
-        "en": "Extremely Fast Compression algorithm"
-      },
-      "strengths": {
-        "zh": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with s…",
-        "en": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with s…"
-      },
-      "innovations": {
-        "zh": "…or which trades compression ratio for faster speed. On the other end, a high compression derivative, LZ4HC, is also provided, trading CPU time for improved compression ratio. All versions feature the same decompression speed. LZ4…",
-        "en": "…or which trades compression ratio for faster speed. On the other end, a high compression derivative, LZ4HC, is also provided, trading CPU time for improved compression ratio. All versions feature the same decompression speed. LZ4…"
-      },
-      "purpose_zh": "Extremely Fast Compression algorithm",
-      "purpose_en": "Extremely Fast Compression algorithm",
-      "strengths_zh": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with s…",
-      "strengths_en": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with s…",
-      "innovations_zh": "…or which trades compression ratio for faster speed. On the other end, a high compression derivative, LZ4HC, is also provided, trading CPU time for improved compression ratio. All versions feature the same decompression speed. LZ4…",
-      "innovations_en": "…or which trades compression ratio for faster speed. On the other end, a high compression derivative, LZ4HC, is also provided, trading CPU time for improved compression ratio. All versions feature the same decompression speed. LZ4…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "nushell/nushell",
-      "description": "A new type of shell",
-      "language": "Rust",
-      "topics": [
-        "nushell",
-        "rust",
-        "shell"
-      ],
-      "stars": 41018,
-      "stars_delta": 133,
-      "forks": 2344,
-      "forks_delta": 7,
-      "html_url": "https://github.com/nushell/nushell",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "A new type of shell",
-        "en": "A new type of shell"
-      },
-      "strengths": {
-        "zh": "Nushell A new type of shell. Table of Contents - Status - Learning About Nu - Installation - Configuration - Philosophy - Pipelines - Opening files - Plugins - Goals - Officially Supported By - Contributing - License Status This p…",
-        "en": "Nushell A new type of shell. Table of Contents - Status - Learning About Nu - Installation - Configuration - Philosophy - Pipelines - Opening files - Plugins - Goals - Officially Supported By - Contributing - License Status This p…"
-      },
-      "innovations": {
-        "zh": "…o change as it matures. Learning About Nu The Nushell book is the primary source of Nushell documentation. You can find a full list of Nu commands in the book, and we have many examples of using Nu in our cookbook. We're also acti…",
-        "en": "…o change as it matures. Learning About Nu The Nushell book is the primary source of Nushell documentation. You can find a full list of Nu commands in the book, and we have many examples of using Nu in our cookbook. We're also acti…"
-      },
-      "purpose_zh": "A new type of shell",
-      "purpose_en": "A new type of shell",
-      "strengths_zh": "Nushell A new type of shell. Table of Contents - Status - Learning About Nu - Installation - Configuration - Philosophy - Pipelines - Opening files - Plugins - Goals - Officially Supported By - Contributing - License Status This p…",
-      "strengths_en": "Nushell A new type of shell. Table of Contents - Status - Learning About Nu - Installation - Configuration - Philosophy - Pipelines - Opening files - Plugins - Goals - Officially Supported By - Contributing - License Status This p…",
-      "innovations_zh": "…o change as it matures. Learning About Nu The Nushell book is the primary source of Nushell documentation. You can find a full list of Nu commands in the book, and we have many examples of using Nu in our cookbook. We're also acti…",
-      "innovations_en": "…o change as it matures. Learning About Nu The Nushell book is the primary source of Nushell documentation. You can find a full list of Nu commands in the book, and we have many examples of using Nu in our cookbook. We're also acti…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
-      "full_name": "etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "topics": [
-        "cncf",
-        "consensus",
-        "database",
-        "distributed-database",
-        "distributed-systems",
-        "etcd",
-        "go",
-        "key-value",
-        "kubernetes",
-        "raft"
-      ],
-      "stars": 52640,
-      "stars_delta": 85,
-      "forks": 10590,
-      "forks_delta": 6,
-      "html_url": "https://github.com/etcd-io/etcd",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Distributed reliable key-value store for the most critical data of a distributed system",
-        "en": "Distributed reliable key-value store for the most critical data of a distributed system"
-      },
-      "strengths": {
-        "zh": "etcd Note: The main branch may be in an unstable or even broken state during development. For stable versions, see [releases][github-release]. etcd is a distributed reliable key-value store for the most critical data of a distribu…",
-        "en": "etcd Note: The main branch may be in an unstable or even broken state during development. For stable versions, see [releases][github-release]. etcd is a distributed reliable key-value store for the most critical data of a distribu…"
-      },
-      "innovations": {
-        "zh": "…ites/sec Reliable: properly distributed using Raft etcd is written in Go and uses the [Raft][] consensus algorithm to manage a highly-available replicated log. etcd is used in production by many companies, and the development team…",
-        "en": "…ites/sec Reliable: properly distributed using Raft etcd is written in Go and uses the [Raft][] consensus algorithm to manage a highly-available replicated log. etcd is used in production by many companies, and the development team…"
-      },
-      "purpose_zh": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "purpose_en": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "strengths_zh": "etcd Note: The main branch may be in an unstable or even broken state during development. For stable versions, see [releases][github-release]. etcd is a distributed reliable key-value store for the most critical data of a distribu…",
-      "strengths_en": "etcd Note: The main branch may be in an unstable or even broken state during development. For stable versions, see [releases][github-release]. etcd is a distributed reliable key-value store for the most critical data of a distribu…",
-      "innovations_zh": "…ites/sec Reliable: properly distributed using Raft etcd is written in Go and uses the [Raft][] consensus algorithm to manage a highly-available replicated log. etcd is used in production by many companies, and the development team…",
-      "innovations_en": "…ites/sec Reliable: properly distributed using Raft etcd is written in Go and uses the [Raft][] consensus algorithm to manage a highly-available replicated log. etcd is used in production by many companies, and the development team…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "topics": [
-        "cryptography",
-        "decryption",
-        "encryption",
-        "openssl",
-        "ssl",
-        "tls"
-      ],
-      "stars": 31330,
-      "stars_delta": 80,
-      "forks": 11583,
-      "forks_delta": 2,
-      "html_url": "https://github.com/openssl/openssl",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "General purpose TLS and crypto library",
-        "en": "General purpose TLS and crypto library"
-      },
-      "strengths": {
-        "zh": "Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Tran…",
-        "en": "Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Tran…"
-      },
-      "innovations": {
-        "zh": "…library, which can also be used stand-alone. Also included is a cryptographic module validated to conform with FIPS standards. OpenSSL is descended from the SSLeay library developed by Eric A. Young and Tim J. Hudson. The officia…",
-        "en": "…library, which can also be used stand-alone. Also included is a cryptographic module validated to conform with FIPS standards. OpenSSL is descended from the SSLeay library developed by Eric A. Young and Tim J. Hudson. The officia…"
-      },
-      "purpose_zh": "General purpose TLS and crypto library",
-      "purpose_en": "General purpose TLS and crypto library",
-      "strengths_zh": "Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Tran…",
-      "strengths_en": "Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Tran…",
-      "innovations_zh": "…library, which can also be used stand-alone. Also included is a cryptographic module validated to conform with FIPS standards. OpenSSL is descended from the SSLeay library developed by Eric A. Young and Tim J. Hudson. The officia…",
-      "innovations_en": "…library, which can also be used stand-alone. Also included is a cryptographic module validated to conform with FIPS standards. OpenSSL is descended from the SSLeay library developed by Eric A. Young and Tim J. Hudson. The officia…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 16,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 316911,
-      "stars_delta": 405,
-      "forks": 26519,
-      "forks_delta": 43,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
       "full_name": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 64404,
-      "stars_delta": 834,
-      "forks": 4172,
-      "forks_delta": 50,
+      "stars": 64887,
+      "stars_delta": 483,
+      "forks": 4211,
+      "forks_delta": 39,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -653,7 +81,275 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 18,
+      "rank": 3,
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "stars": 23082,
+      "stars_delta": 141,
+      "forks": 1939,
+      "forks_delta": 10,
+      "html_url": "https://github.com/google/skills",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Agent Skills for Google products and technologies",
+        "en": "Agent Skills for Google products and technologies"
+      },
+      "strengths": {
+        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
+      },
+      "innovations": {
+        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
+      },
+      "purpose_zh": "Agent Skills for Google products and technologies",
+      "purpose_en": "Agent Skills for Google products and technologies",
+      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 317218,
+      "stars_delta": 307,
+      "forks": 26546,
+      "forks_delta": 27,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "stars": 188383,
+      "stars_delta": 386,
+      "forks": 22218,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/skills",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
+      },
+      "strengths": {
+        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
+      },
+      "innovations": {
+        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
+      },
+      "purpose_zh": "Public repository for Agent Skills",
+      "purpose_en": "Public repository for Agent Skills",
+      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 14157,
+      "stars_delta": 198,
+      "forks": 1171,
+      "forks_delta": 0,
+      "html_url": "https://github.com/meta/astryx",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
+      },
+      "strengths": {
+        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
+      },
+      "innovations": {
+        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
+      },
+      "purpose_zh": "An open source design system that's fully customizable and agent ready",
+      "purpose_en": "An open source design system that's fully customizable and agent ready",
+      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+      ],
+      "stars": 67299,
+      "stars_delta": 67,
+      "forks": 10994,
+      "forks_delta": 5,
+      "html_url": "https://github.com/prometheus/prometheus",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "The Prometheus monitoring system and time series database.",
+        "en": "The Prometheus monitoring system and time series database."
+      },
+      "strengths": {
+        "zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
+        "en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…"
+      },
+      "innovations": {
+        "zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
+        "en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…"
+      },
+      "purpose_zh": "The Prometheus monitoring system and time series database.",
+      "purpose_en": "The Prometheus monitoring system and time series database.",
+      "strengths_zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
+      "strengths_en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
+      "innovations_zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
+      "innovations_en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "stars": 99523,
+      "stars_delta": 1761,
+      "forks": 11790,
+      "forks_delta": 0,
+      "html_url": "https://github.com/sherlock-project/sherlock",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
+      },
+      "strengths": {
+        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+      },
+      "innovations": {
+        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+      },
+      "purpose_zh": "Hunt down social media accounts by username across social networks",
+      "purpose_en": "Hunt down social media accounts by username across social networks",
+      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "stars": 16300,
+      "stars_delta": 1986,
+      "forks": 2307,
+      "forks_delta": 0,
+      "html_url": "https://github.com/milind-soni/OpenMausBot",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+      },
+      "strengths": {
+        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
+      },
+      "innovations": {
+        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
+      },
+      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "astral-sh/ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
@@ -670,12 +366,12 @@
         "style-guide",
         "styleguide"
       ],
-      "stars": 50750,
-      "stars_delta": 168,
-      "forks": 2615,
-      "forks_delta": 15,
+      "stars": 50826,
+      "stars_delta": 76,
+      "forks": 2622,
+      "forks_delta": 7,
       "html_url": "https://github.com/astral-sh/ruff",
-      "snapshot_at": "2026-11-07T06:12:14.500Z",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
       "purpose": {
         "zh": "An extremely fast Python linter and code formatter, written in Rust.",
         "en": "An extremely fast Python linter and code formatter, written in Rust."
@@ -694,6 +390,198 @@
       "strengths_en": "Ruff Docs Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. - ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) - 🐍 Installa…",
       "innovations_zh": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…",
       "innovations_en": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "topics": [
+        "css",
+        "css-framework",
+        "functional-css",
+        "postcss",
+        "responsive",
+        "tailwindcss",
+        "utility-classes"
+      ],
+      "stars": 98230,
+      "stars_delta": 152,
+      "forks": 7091,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tailwindlabs/tailwindcss",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "A utility-first CSS framework for rapid UI development.",
+        "en": "A utility-first CSS framework for rapid UI development."
+      },
+      "strengths": {
+        "zh": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
+        "en": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…"
+      },
+      "innovations": {
+        "zh": "",
+        "en": ""
+      },
+      "purpose_zh": "A utility-first CSS framework for rapid UI development.",
+      "purpose_en": "A utility-first CSS framework for rapid UI development.",
+      "strengths_zh": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
+      "strengths_en": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
+      "innovations_zh": "",
+      "innovations_en": "",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "topics": [
+        "coap-protocol",
+        "coap-server",
+        "custom-component",
+        "dtls",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "samsung",
+        "smartthings"
+      ],
+      "stars": 949,
+      "stars_delta": 184,
+      "forks": 102,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mbillow/localthings",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+        "en": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
+      },
+      "strengths": {
+        "zh": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
+        "en": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…"
+      },
+      "innovations": {
+        "zh": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
+        "en": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…"
+      },
+      "purpose_zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "purpose_en": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "strengths_zh": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
+      "strengths_en": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
+      "innovations_zh": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
+      "innovations_en": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "stars": 94058,
+      "stars_delta": 250,
+      "forks": 11535,
+      "forks_delta": 23,
+      "html_url": "https://github.com/zed-industries/zed",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+      },
+      "strengths": {
+        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
+      },
+      "innovations": {
+        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
+      },
+      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 14,
+      "full_name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "topics": [
+        "dsh-plugin"
+      ],
+      "stars": 4425,
+      "stars_delta": 185,
+      "forks": 359,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ranxianglei/billion-context",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+      },
+      "strengths": {
+        "zh": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
+        "en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…"
+      },
+      "innovations": {
+        "zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
+        "en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…"
+      },
+      "purpose_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "purpose_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "strengths_zh": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
+      "strengths_en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
+      "innovations_zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
+      "innovations_en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
+      "full_name": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "topics": [
+        "bare-metal",
+        "cluster-api",
+        "gpu",
+        "kubernetes",
+        "nvidia"
+      ],
+      "stars": 365,
+      "stars_delta": 125,
+      "forks": 78,
+      "forks_delta": 0,
+      "html_url": "https://github.com/dsx-ai-factory/nvke",
+      "snapshot_at": "2026-11-07T13:16:32.094Z",
+      "purpose": {
+        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      },
+      "strengths": {
+        "zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+        "en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…"
+      },
+      "innovations": {
+        "zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
+        "en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…"
+      },
+      "purpose_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "purpose_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "strengths_zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+      "strengths_en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+      "innovations_zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
+      "innovations_en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
       "insights_source": "readme-excerpt"
     }
   ]
