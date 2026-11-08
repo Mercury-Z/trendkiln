@@ -1,7 +1,7 @@
 {
   "source": "db",
-  "digest_date": "2026-11-07",
-  "headline": "Trendkiln · 2026-11-07",
+  "digest_date": "2026-11-08",
+  "headline": "Trendkiln · 2026-11-08",
   "items": [
     {
       "id": "1",
@@ -15,18 +15,18 @@
         "en": "Hunt down social media accounts by username across social networks"
       },
       "signal": {
-        "zh": "+794 星标",
-        "en": "+794 stars"
+        "zh": "+735 星标",
+        "en": "+735 stars"
       },
       "title_zh": "sherlock-project/sherlock 星标异动",
       "title_en": "sherlock-project/sherlock star surge",
       "subtitle_zh": "Hunt down social media accounts by username across social networks",
       "subtitle_en": "Hunt down social media accounts by username across social networks",
-      "signal_zh": "+794 星标",
-      "signal_en": "+794 stars",
+      "signal_zh": "+735 星标",
+      "signal_en": "+735 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/sherlock-project/sherlock",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:sherlock-project/sherlock"
     },
     {
@@ -67,18 +67,18 @@
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
       },
       "signal": {
-        "zh": "+674 星标",
-        "en": "+674 stars"
+        "zh": "+463 星标",
+        "en": "+463 stars"
       },
       "title_zh": "cloudflare/security-audit-skill 星标异动",
       "title_en": "cloudflare/security-audit-skill star surge",
       "subtitle_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "subtitle_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "signal_zh": "+674 星标",
-      "signal_en": "+674 stars",
+      "signal_zh": "+463 星标",
+      "signal_en": "+463 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:cloudflare/security-audit-skill"
     },
     {
@@ -93,22 +93,100 @@
         "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
       },
       "signal": {
-        "zh": "+581 星标",
-        "en": "+581 stars"
+        "zh": "+400 星标",
+        "en": "+400 stars"
       },
       "title_zh": "milind-soni/OpenMausBot 星标异动",
       "title_en": "milind-soni/OpenMausBot star surge",
       "subtitle_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "subtitle_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "signal_zh": "+581 星标",
-      "signal_en": "+581 stars",
+      "signal_zh": "+400 星标",
+      "signal_en": "+400 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:milind-soni/OpenMausBot"
     },
     {
       "id": "5",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
+      },
+      "subtitle": {
+        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "title_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "subtitle_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+      "subtitle_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "occurred_at": "2026-11-07T23:57:46.000Z",
+      "entity_id": "feed:1392"
+    },
+    {
+      "id": "6",
+      "type": "github_surge",
+      "title": {
+        "zh": "meta/astryx 星标异动",
+        "en": "meta/astryx star surge"
+      },
+      "subtitle": {
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
+      },
+      "signal": {
+        "zh": "+333 星标",
+        "en": "+333 stars"
+      },
+      "title_zh": "meta/astryx 星标异动",
+      "title_en": "meta/astryx star surge",
+      "subtitle_zh": "An open source design system that's fully customizable and agent ready",
+      "subtitle_en": "An open source design system that's fully customizable and agent ready",
+      "signal_zh": "+333 星标",
+      "signal_en": "+333 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/meta/astryx",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:meta/astryx"
+    },
+    {
+      "id": "7",
+      "type": "github_surge",
+      "title": {
+        "zh": "mattpocock/skills 星标异动",
+        "en": "mattpocock/skills star surge"
+      },
+      "subtitle": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "signal": {
+        "zh": "+314 星标",
+        "en": "+314 stars"
+      },
+      "title_zh": "mattpocock/skills 星标异动",
+      "title_en": "mattpocock/skills star surge",
+      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "signal_zh": "+314 星标",
+      "signal_en": "+314 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:mattpocock/skills"
+    },
+    {
+      "id": "8",
       "type": "feed_must_read",
       "title": {
         "zh": "0.169.0-alpha.3",
@@ -134,33 +212,33 @@
       "entity_id": "feed:1390"
     },
     {
-      "id": "6",
+      "id": "9",
       "type": "github_surge",
       "title": {
-        "zh": "mattpocock/skills 星标异动",
-        "en": "mattpocock/skills star surge"
+        "zh": "vercel-labs/agent-browser 星标异动",
+        "en": "vercel-labs/agent-browser star surge"
       },
       "subtitle": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
       },
       "signal": {
-        "zh": "+385 星标",
-        "en": "+385 stars"
+        "zh": "+249 星标",
+        "en": "+249 stars"
       },
-      "title_zh": "mattpocock/skills 星标异动",
-      "title_en": "mattpocock/skills star surge",
-      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "signal_zh": "+385 星标",
-      "signal_en": "+385 stars",
+      "title_zh": "vercel-labs/agent-browser 星标异动",
+      "title_en": "vercel-labs/agent-browser star surge",
+      "subtitle_zh": "Browser automation CLI for AI agents",
+      "subtitle_en": "Browser automation CLI for AI agents",
+      "signal_zh": "+249 星标",
+      "signal_en": "+249 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/mattpocock/skills",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:mattpocock/skills"
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:vercel-labs/agent-browser"
     },
     {
-      "id": "7",
+      "id": "10",
       "type": "github_surge",
       "title": {
         "zh": "anthropics/skills 星标异动",
@@ -171,22 +249,22 @@
         "en": "Public repository for Agent Skills"
       },
       "signal": {
-        "zh": "+323 星标",
-        "en": "+323 stars"
+        "zh": "+225 星标",
+        "en": "+225 stars"
       },
       "title_zh": "anthropics/skills 星标异动",
       "title_en": "anthropics/skills star surge",
       "subtitle_zh": "Public repository for Agent Skills",
       "subtitle_en": "Public repository for Agent Skills",
-      "signal_zh": "+323 星标",
-      "signal_en": "+323 stars",
+      "signal_zh": "+225 星标",
+      "signal_en": "+225 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/anthropics/skills",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:anthropics/skills"
     },
     {
-      "id": "8",
+      "id": "11",
       "type": "feed_must_read",
       "title": {
         "zh": "[AINews] Anthropic IPO: Whither Now?",
@@ -212,59 +290,59 @@
       "entity_id": "feed:1380"
     },
     {
-      "id": "9",
+      "id": "12",
       "type": "github_surge",
       "title": {
-        "zh": "vercel-labs/agent-browser 星标异动",
-        "en": "vercel-labs/agent-browser star surge"
+        "zh": "google/skills 星标异动",
+        "en": "google/skills star surge"
       },
       "subtitle": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
+        "zh": "Agent Skills for Google products and technologies",
+        "en": "Agent Skills for Google products and technologies"
       },
       "signal": {
-        "zh": "+317 星标",
-        "en": "+317 stars"
+        "zh": "+185 星标",
+        "en": "+185 stars"
       },
-      "title_zh": "vercel-labs/agent-browser 星标异动",
-      "title_en": "vercel-labs/agent-browser star surge",
-      "subtitle_zh": "Browser automation CLI for AI agents",
-      "subtitle_en": "Browser automation CLI for AI agents",
-      "signal_zh": "+317 星标",
-      "signal_en": "+317 stars",
+      "title_zh": "google/skills 星标异动",
+      "title_en": "google/skills star surge",
+      "subtitle_zh": "Agent Skills for Google products and technologies",
+      "subtitle_en": "Agent Skills for Google products and technologies",
+      "signal_zh": "+185 星标",
+      "signal_en": "+185 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:vercel-labs/agent-browser"
+      "url": "https://github.com/google/skills",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:google/skills"
     },
     {
-      "id": "10",
+      "id": "13",
       "type": "github_surge",
       "title": {
-        "zh": "meta/astryx 星标异动",
-        "en": "meta/astryx star surge"
+        "zh": "ranxianglei/billion-context 星标异动",
+        "en": "ranxianglei/billion-context star surge"
       },
       "subtitle": {
-        "zh": "An open source design system that's fully customizable and agent ready",
-        "en": "An open source design system that's fully customizable and agent ready"
+        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
       },
       "signal": {
-        "zh": "+255 星标",
-        "en": "+255 stars"
+        "zh": "+144 星标",
+        "en": "+144 stars"
       },
-      "title_zh": "meta/astryx 星标异动",
-      "title_en": "meta/astryx star surge",
-      "subtitle_zh": "An open source design system that's fully customizable and agent ready",
-      "subtitle_en": "An open source design system that's fully customizable and agent ready",
-      "signal_zh": "+255 星标",
-      "signal_en": "+255 stars",
+      "title_zh": "ranxianglei/billion-context 星标异动",
+      "title_en": "ranxianglei/billion-context star surge",
+      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "signal_zh": "+144 星标",
+      "signal_en": "+144 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/meta/astryx",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:meta/astryx"
+      "url": "https://github.com/ranxianglei/billion-context",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:ranxianglei/billion-context"
     },
     {
-      "id": "11",
+      "id": "14",
       "type": "feed_must_read",
       "title": {
         "zh": "Copilot code review: API management and review overview updates",
@@ -290,33 +368,7 @@
       "entity_id": "feed:1381"
     },
     {
-      "id": "12",
-      "type": "github_surge",
-      "title": {
-        "zh": "google/skills 星标异动",
-        "en": "google/skills star surge"
-      },
-      "subtitle": {
-        "zh": "Agent Skills for Google products and technologies",
-        "en": "Agent Skills for Google products and technologies"
-      },
-      "signal": {
-        "zh": "+252 星标",
-        "en": "+252 stars"
-      },
-      "title_zh": "google/skills 星标异动",
-      "title_en": "google/skills star surge",
-      "subtitle_zh": "Agent Skills for Google products and technologies",
-      "subtitle_en": "Agent Skills for Google products and technologies",
-      "signal_zh": "+252 星标",
-      "signal_en": "+252 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/google/skills",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:google/skills"
-    },
-    {
-      "id": "13",
+      "id": "15",
       "type": "github_surge",
       "title": {
         "zh": "tailwindlabs/tailwindcss 星标异动",
@@ -327,22 +379,48 @@
         "en": "A utility-first CSS framework for rapid UI development."
       },
       "signal": {
-        "zh": "+191 星标",
-        "en": "+191 stars"
+        "zh": "+140 星标",
+        "en": "+140 stars"
       },
       "title_zh": "tailwindlabs/tailwindcss 星标异动",
       "title_en": "tailwindlabs/tailwindcss star surge",
       "subtitle_zh": "A utility-first CSS framework for rapid UI development.",
       "subtitle_en": "A utility-first CSS framework for rapid UI development.",
-      "signal_zh": "+191 星标",
-      "signal_en": "+191 stars",
+      "signal_zh": "+140 星标",
+      "signal_en": "+140 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/tailwindlabs/tailwindcss",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:tailwindlabs/tailwindcss"
     },
     {
-      "id": "14",
+      "id": "16",
+      "type": "github_surge",
+      "title": {
+        "zh": "zed-industries/zed 星标异动",
+        "en": "zed-industries/zed star surge"
+      },
+      "subtitle": {
+        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+      },
+      "signal": {
+        "zh": "+115 星标",
+        "en": "+115 stars"
+      },
+      "title_zh": "zed-industries/zed 星标异动",
+      "title_en": "zed-industries/zed star surge",
+      "subtitle_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "subtitle_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "signal_zh": "+115 星标",
+      "signal_en": "+115 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/zed-industries/zed",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:zed-industries/zed"
+    },
+    {
+      "id": "17",
       "type": "feed_must_read",
       "title": {
         "zh": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
@@ -368,33 +446,7 @@
       "entity_id": "feed:1391"
     },
     {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "zed-industries/zed 星标异动",
-        "en": "zed-industries/zed star surge"
-      },
-      "subtitle": {
-        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-      },
-      "signal": {
-        "zh": "+175 星标",
-        "en": "+175 stars"
-      },
-      "title_zh": "zed-industries/zed 星标异动",
-      "title_en": "zed-industries/zed star surge",
-      "subtitle_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "subtitle_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "signal_zh": "+175 星标",
-      "signal_en": "+175 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/zed-industries/zed",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:zed-industries/zed"
-    },
-    {
-      "id": "16",
+      "id": "18",
       "type": "github_surge",
       "title": {
         "zh": "dsx-ai-factory/nvke 星标异动",
@@ -405,22 +457,48 @@
         "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
       },
       "signal": {
-        "zh": "+162 星标",
-        "en": "+162 stars"
+        "zh": "+85 星标",
+        "en": "+85 stars"
       },
       "title_zh": "dsx-ai-factory/nvke 星标异动",
       "title_en": "dsx-ai-factory/nvke star surge",
       "subtitle_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "subtitle_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "signal_zh": "+162 星标",
-      "signal_en": "+162 stars",
+      "signal_zh": "+85 星标",
+      "signal_en": "+85 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/dsx-ai-factory/nvke",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
       "entity_id": "repo:dsx-ai-factory/nvke"
     },
     {
-      "id": "17",
+      "id": "19",
+      "type": "github_surge",
+      "title": {
+        "zh": "astral-sh/ruff 星标异动",
+        "en": "astral-sh/ruff star surge"
+      },
+      "subtitle": {
+        "zh": "An extremely fast Python linter and code formatter, written in Rust.",
+        "en": "An extremely fast Python linter and code formatter, written in Rust."
+      },
+      "signal": {
+        "zh": "+73 星标",
+        "en": "+73 stars"
+      },
+      "title_zh": "astral-sh/ruff 星标异动",
+      "title_en": "astral-sh/ruff star surge",
+      "subtitle_zh": "An extremely fast Python linter and code formatter, written in Rust.",
+      "subtitle_en": "An extremely fast Python linter and code formatter, written in Rust.",
+      "signal_zh": "+73 星标",
+      "signal_en": "+73 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/astral-sh/ruff",
+      "occurred_at": "2026-11-08T06:18:24.001Z",
+      "entity_id": "repo:astral-sh/ruff"
+    },
+    {
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "Copilot impact dashboard adds chat and VS Code agent usage",
@@ -444,84 +522,6 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
       "occurred_at": "2026-11-06T22:17:28.000Z",
       "entity_id": "feed:1382"
-    },
-    {
-      "id": "18",
-      "type": "github_surge",
-      "title": {
-        "zh": "ranxianglei/billion-context 星标异动",
-        "en": "ranxianglei/billion-context star surge"
-      },
-      "subtitle": {
-        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
-      },
-      "signal": {
-        "zh": "+146 星标",
-        "en": "+146 stars"
-      },
-      "title_zh": "ranxianglei/billion-context 星标异动",
-      "title_en": "ranxianglei/billion-context star surge",
-      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "signal_zh": "+146 星标",
-      "signal_en": "+146 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:ranxianglei/billion-context"
-    },
-    {
-      "id": "19",
-      "type": "github_surge",
-      "title": {
-        "zh": "prometheus/prometheus 星标异动",
-        "en": "prometheus/prometheus star surge"
-      },
-      "subtitle": {
-        "zh": "The Prometheus monitoring system and time series database.",
-        "en": "The Prometheus monitoring system and time series database."
-      },
-      "signal": {
-        "zh": "+127 星标",
-        "en": "+127 stars"
-      },
-      "title_zh": "prometheus/prometheus 星标异动",
-      "title_en": "prometheus/prometheus star surge",
-      "subtitle_zh": "The Prometheus monitoring system and time series database.",
-      "subtitle_en": "The Prometheus monitoring system and time series database.",
-      "signal_zh": "+127 星标",
-      "signal_en": "+127 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/prometheus/prometheus",
-      "occurred_at": "2026-11-07T21:59:20.779Z",
-      "entity_id": "repo:prometheus/prometheus"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.169.0-alpha.2",
-        "en": "0.169.0-alpha.2"
-      },
-      "subtitle": {
-        "zh": "Release 0.169.0-alpha.2",
-        "en": "Release 0.169.0-alpha.2"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.169.0-alpha.2",
-      "title_en": "0.169.0-alpha.2",
-      "subtitle_zh": "Release 0.169.0-alpha.2",
-      "subtitle_en": "Release 0.169.0-alpha.2",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2",
-      "occurred_at": "2026-11-06T22:17:19.000Z",
-      "entity_id": "feed:1383"
     }
   ]
 }

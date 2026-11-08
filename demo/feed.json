@@ -26,6 +26,30 @@
       "saved": false
     },
     {
+      "id": "1392",
+      "title": {
+        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
+      },
+      "summary": {
+        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…"
+      },
+      "title_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "title_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summary_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+      "summary_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+      "title_text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summary_text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "published_at": "2026-11-07T23:57:46.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1390",
       "title": {
         "zh": "0.169.0-alpha.3",
@@ -1971,32 +1995,6 @@
       "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
       "published_at": "2026-11-03T04:00:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1320",
-      "title": {
-        "zh": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
-      },
-      "summary": {
-        "zh": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-        "en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
-      },
-      "title_zh": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary_zh": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "summary_en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "title_text": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary_text": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "published_at": "2026-11-03T00:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
       "read_at": null,
       "saved": false
     }
