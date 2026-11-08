@@ -18,16 +18,179 @@
   "items": [
     {
       "rank": 1,
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "stars": 101994,
+      "stars_delta": 942,
+      "forks": 12027,
+      "forks_delta": 81,
+      "html_url": "https://github.com/sherlock-project/sherlock",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
+      "purpose": {
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
+      },
+      "strengths": {
+        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+      },
+      "innovations": {
+        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+      },
+      "purpose_zh": "Hunt down social media accounts by username across social networks",
+      "purpose_en": "Hunt down social media accounts by username across social networks",
+      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 2,
+      "full_name": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "topics": [
+        "bare-metal",
+        "cluster-api",
+        "gpu",
+        "kubernetes",
+        "nvidia"
+      ],
+      "stars": 705,
+      "stars_delta": 93,
+      "forks": 105,
+      "forks_delta": 11,
+      "html_url": "https://github.com/dsx-ai-factory/nvke",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
+      "purpose": {
+        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      },
+      "strengths": {
+        "zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+        "en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…"
+      },
+      "innovations": {
+        "zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
+        "en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…"
+      },
+      "purpose_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "purpose_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "strengths_zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+      "strengths_en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
+      "innovations_zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
+      "innovations_en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "stars": 17726,
+      "stars_delta": 445,
+      "forks": 2478,
+      "forks_delta": 41,
+      "html_url": "https://github.com/milind-soni/OpenMausBot",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
+      "purpose": {
+        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+      },
+      "strengths": {
+        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
+      },
+      "innovations": {
+        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
+      },
+      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "topics": [],
+      "stars": 19200,
+      "stars_delta": 28,
+      "forks": 3265,
+      "forks_delta": 0,
+      "html_url": "https://github.com/anthropics/claude-quickstarts",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
+      "purpose": {
+        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+      },
+      "strengths": {
+        "zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+        "en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…"
+      },
+      "innovations": {
+        "zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+        "en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…"
+      },
+      "purpose_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "purpose_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "strengths_zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+      "strengths_en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+      "innovations_zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+      "innovations_en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "topics": [],
-      "stars": 47006,
-      "stars_delta": 249,
-      "forks": 3222,
-      "forks_delta": 20,
+      "stars": 47270,
+      "stars_delta": 264,
+      "forks": 3238,
+      "forks_delta": 16,
       "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
       "purpose": {
         "zh": "Browser automation CLI for AI agents",
         "en": "Browser automation CLI for AI agents"
@@ -49,151 +212,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 2,
-      "full_name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 66024,
-      "stars_delta": 463,
-      "forks": 4296,
-      "forks_delta": 35,
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-      },
-      "strengths": {
-        "zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-        "en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…"
-      },
-      "innovations": {
-        "zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-        "en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…"
-      },
-      "purpose_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "purpose_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "strengths_zh": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "strengths_en": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verificat…",
-      "innovations_zh": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "innovations_en": "…ess grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: 1. Reconnaissance -- map architecture, trust boundaries, i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "topics": [
-        "google",
-        "googlecloud",
-        "skills"
-      ],
-      "stars": 23519,
-      "stars_delta": 185,
-      "forks": 1965,
-      "forks_delta": 15,
-      "html_url": "https://github.com/google/skills",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Agent Skills for Google products and technologies",
-        "en": "Agent Skills for Google products and technologies"
-      },
-      "strengths": {
-        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
-      },
-      "innovations": {
-        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
-      },
-      "purpose_zh": "Agent Skills for Google products and technologies",
-      "purpose_en": "Agent Skills for Google products and technologies",
-      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 317917,
-      "stars_delta": 314,
-      "forks": 26602,
-      "forks_delta": 31,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "topics": [
-        "agent-skills"
-      ],
-      "stars": 188931,
-      "stars_delta": 225,
-      "forks": 22269,
-      "forks_delta": 26,
-      "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
-      },
-      "strengths": {
-        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
-      },
-      "innovations": {
-        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
-      },
-      "purpose_zh": "Public repository for Agent Skills",
-      "purpose_en": "Public repository for Agent Skills",
-      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 6,
       "full_name": "meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14745,
-      "stars_delta": 333,
-      "forks": 1209,
-      "forks_delta": 30,
+      "stars": 15184,
+      "stars_delta": 439,
+      "forks": 1238,
+      "forks_delta": 29,
       "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
       "purpose": {
         "zh": "An open source design system that's fully customizable and agent ready",
         "en": "An open source design system that's fully customizable and agent ready"
@@ -216,316 +245,88 @@
     },
     {
       "rank": 7,
-      "full_name": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
       "topics": [
-        "alerting",
-        "graphing",
-        "hacktoberfest",
-        "metrics",
-        "monitoring",
-        "prometheus",
-        "time-series"
+        "agent-skills"
       ],
-      "stars": 67485,
-      "stars_delta": 59,
-      "forks": 11011,
-      "forks_delta": 10,
-      "html_url": "https://github.com/prometheus/prometheus",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
+      "stars": 189182,
+      "stars_delta": 251,
+      "forks": 22297,
+      "forks_delta": 28,
+      "html_url": "https://github.com/anthropics/skills",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
       "purpose": {
-        "zh": "The Prometheus monitoring system and time series database.",
-        "en": "The Prometheus monitoring system and time series database."
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
       },
       "strengths": {
-        "zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-        "en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…"
+        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
       },
       "innovations": {
-        "zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
-        "en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…"
+        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
       },
-      "purpose_zh": "The Prometheus monitoring system and time series database.",
-      "purpose_en": "The Prometheus monitoring system and time series database.",
-      "strengths_zh": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-      "strengths_en": "Prometheus Visit prometheus.io for the full documentation, examples and guides. [ ][quay] [ ][hub] Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from confi…",
-      "innovations_zh": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
-      "innovations_en": "…nguish Prometheus from other metrics and monitoring systems are: A multi-dimensional data model (time series defined by metric name and set of key/value dimensions) PromQL, a powerful and flexible query language to leverage this d…",
+      "purpose_zh": "Public repository for Agent Skills",
+      "purpose_en": "Public repository for Agent Skills",
+      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 8,
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
       "topics": [
-        "cli",
-        "cti",
-        "cybersecurity",
-        "forensics",
-        "hacktoberfest",
-        "information-gathering",
-        "infosec",
-        "linux",
-        "osint",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "sherlock",
-        "tools"
+        "mujoco",
+        "physics",
+        "robotics"
       ],
-      "stars": 101052,
-      "stars_delta": 735,
-      "forks": 11946,
-      "forks_delta": 91,
-      "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
+      "stars": 16176,
+      "stars_delta": 26,
+      "forks": 1941,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
       "purpose": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
+        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
       },
       "strengths": {
-        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
       },
       "innovations": {
-        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
       },
-      "purpose_zh": "Hunt down social media accounts by username across social networks",
-      "purpose_en": "Hunt down social media accounts by username across social networks",
-      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 9,
-      "full_name": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-use",
-        "docker",
-        "electron",
-        "expo",
-        "grok",
-        "grok-bot",
-        "grok-bot-alternative",
-        "self-hosted",
-        "typescript"
-      ],
-      "stars": 17281,
-      "stars_delta": 400,
-      "forks": 2437,
-      "forks_delta": 47,
-      "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
-      },
-      "strengths": {
-        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
-      },
-      "innovations": {
-        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
-      },
-      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "topics": [
-        "linter",
-        "pep8",
-        "python",
-        "python3",
-        "ruff",
-        "rust",
-        "rustpython",
-        "static-analysis",
-        "static-code-analysis",
-        "style-guide",
-        "styleguide"
-      ],
-      "stars": 51026,
-      "stars_delta": 73,
-      "forks": 2633,
-      "forks_delta": 5,
-      "html_url": "https://github.com/astral-sh/ruff",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "An extremely fast Python linter and code formatter, written in Rust.",
-        "en": "An extremely fast Python linter and code formatter, written in Rust."
-      },
-      "strengths": {
-        "zh": "Ruff Docs Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. - ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) - 🐍 Installa…",
-        "en": "Ruff Docs Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. - ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) - 🐍 Installa…"
-      },
-      "innovations": {
-        "zh": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…",
-        "en": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…"
-      },
-      "purpose_zh": "An extremely fast Python linter and code formatter, written in Rust.",
-      "purpose_en": "An extremely fast Python linter and code formatter, written in Rust.",
-      "strengths_zh": "Ruff Docs Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. - ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) - 🐍 Installa…",
-      "strengths_en": "Ruff Docs Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. - ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) - 🐍 Installa…",
-      "innovations_zh": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…",
-      "innovations_en": "…hanged files - 🔧 Fix support, for automatic error correction (e.g., automatically remove unused imports) - 📏 Over 900 built-in rules, with native re-implementations of popular Flake8 plugins, like flake8-bugbear - ⌨️ First-party…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "topics": [
-        "css",
-        "css-framework",
-        "functional-css",
-        "postcss",
-        "responsive",
-        "tailwindcss",
-        "utility-classes"
-      ],
-      "stars": 98561,
-      "stars_delta": 140,
-      "forks": 7118,
-      "forks_delta": 16,
-      "html_url": "https://github.com/tailwindlabs/tailwindcss",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "A utility-first CSS framework for rapid UI development.",
-        "en": "A utility-first CSS framework for rapid UI development."
-      },
-      "strengths": {
-        "zh": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
-        "en": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…"
-      },
-      "innovations": {
-        "zh": "",
-        "en": ""
-      },
-      "purpose_zh": "A utility-first CSS framework for rapid UI development.",
-      "purpose_en": "A utility-first CSS framework for rapid UI development.",
-      "strengths_zh": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
-      "strengths_en": "A utility-first CSS framework for rapidly building custom user interfaces. --- Documentation For full documentation, visit tailwindcss.com. Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CS…",
-      "innovations_zh": "",
-      "innovations_en": "",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "language": "Python",
-      "topics": [
-        "coap-protocol",
-        "coap-server",
-        "custom-component",
-        "dtls",
-        "hacs",
-        "hacs-integration",
-        "home-assistant",
-        "home-automation",
-        "samsung",
-        "smartthings"
-      ],
-      "stars": 1096,
-      "stars_delta": 62,
-      "forks": 114,
-      "forks_delta": 4,
-      "html_url": "https://github.com/mbillow/localthings",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-        "en": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
-      },
-      "strengths": {
-        "zh": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
-        "en": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…"
-      },
-      "innovations": {
-        "zh": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
-        "en": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…"
-      },
-      "purpose_zh": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "purpose_en": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "strengths_zh": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
-      "strengths_en": "LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other applia…",
-      "innovations_zh": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
-      "innovations_en": "…ocalThings checks the rest every 30 seconds. - It works without the internet. After setup, LocalThings never contacts Samsung's servers. - Your data stays home. LocalThings sends nothing to Samsung. The appliance itself still keep…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "topics": [
-        "gpui",
-        "rust-lang",
-        "text-editor",
-        "zed"
-      ],
-      "stars": 94348,
-      "stars_delta": 115,
-      "forks": 11555,
-      "forks_delta": 5,
-      "html_url": "https://github.com/zed-industries/zed",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-      },
-      "strengths": {
-        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
-      },
-      "innovations": {
-        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
-      },
-      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 14,
       "full_name": "ranxianglei/billion-context",
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
       "topics": [
         "dsh-plugin"
       ],
-      "stars": 4715,
-      "stars_delta": 144,
-      "forks": 378,
+      "stars": 4880,
+      "stars_delta": 165,
+      "forks": 391,
       "forks_delta": 13,
       "html_url": "https://github.com/ranxianglei/billion-context",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
+      "snapshot_at": "2026-11-08T13:37:57.434Z",
       "purpose": {
         "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
         "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
@@ -544,44 +345,6 @@
       "strengths_en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
       "innovations_zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
       "innovations_en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 15,
-      "full_name": "dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "topics": [
-        "bare-metal",
-        "cluster-api",
-        "gpu",
-        "kubernetes",
-        "nvidia"
-      ],
-      "stars": 612,
-      "stars_delta": 85,
-      "forks": 94,
-      "forks_delta": 8,
-      "html_url": "https://github.com/dsx-ai-factory/nvke",
-      "snapshot_at": "2026-11-08T06:18:24.001Z",
-      "purpose": {
-        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
-      },
-      "strengths": {
-        "zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-        "en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…"
-      },
-      "innovations": {
-        "zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
-        "en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…"
-      },
-      "purpose_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "purpose_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "strengths_zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-      "strengths_en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-      "innovations_zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
-      "innovations_en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
       "insights_source": "readme-excerpt"
     }
   ]
