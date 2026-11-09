@@ -18,245 +18,18 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "topics": [
-        "cli",
-        "cti",
-        "cybersecurity",
-        "forensics",
-        "hacktoberfest",
-        "information-gathering",
-        "infosec",
-        "linux",
-        "osint",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "sherlock",
-        "tools"
-      ],
-      "stars": 104782,
-      "stars_delta": 1543,
-      "forks": 12215,
-      "forks_delta": 109,
-      "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
-      },
-      "strengths": {
-        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
-      },
-      "innovations": {
-        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
-      },
-      "purpose_zh": "Hunt down social media accounts by username across social networks",
-      "purpose_en": "Hunt down social media accounts by username across social networks",
-      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
-      "full_name": "dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "topics": [
-        "bare-metal",
-        "cluster-api",
-        "gpu",
-        "kubernetes",
-        "nvidia"
-      ],
-      "stars": 940,
-      "stars_delta": 124,
-      "forks": 113,
-      "forks_delta": 3,
-      "html_url": "https://github.com/dsx-ai-factory/nvke",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
-      },
-      "strengths": {
-        "zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-        "en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…"
-      },
-      "innovations": {
-        "zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
-        "en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…"
-      },
-      "purpose_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "purpose_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "strengths_zh": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-      "strengths_en": "NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes cl…",
-      "innovations_zh": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
-      "innovations_en": "…ir clusters through the Kubernetes API and kubectl. Preview: NVKE is available as a preview. APIs, configuration and behavior can change between releases, and we do not recommend NVKE for production workloads. See Preview status a…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
-      "full_name": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-use",
-        "docker",
-        "electron",
-        "grok",
-        "grok-bot",
-        "grok-bot-alternative",
-        "self-hosted",
-        "typescript"
-      ],
-      "stars": 18768,
-      "stars_delta": 633,
-      "forks": 2588,
-      "forks_delta": 60,
-      "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
-      },
-      "strengths": {
-        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
-      },
-      "innovations": {
-        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
-      },
-      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
-      "full_name": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "topics": [],
-      "stars": 19600,
-      "stars_delta": 229,
-      "forks": 3286,
-      "forks_delta": 8,
-      "html_url": "https://github.com/anthropics/claude-quickstarts",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-      },
-      "strengths": {
-        "zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-        "en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…"
-      },
-      "innovations": {
-        "zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-        "en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…"
-      },
-      "purpose_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "purpose_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "strengths_zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-      "strengths_en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-      "innovations_zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-      "innovations_en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "topics": [],
-      "stars": 47892,
-      "stars_delta": 370,
-      "forks": 3271,
-      "forks_delta": 16,
-      "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
-      },
-      "strengths": {
-        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
-      },
-      "innovations": {
-        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
-      },
-      "purpose_zh": "Browser automation CLI for AI agents",
-      "purpose_en": "Browser automation CLI for AI agents",
-      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 17661,
-      "stars_delta": 1190,
-      "forks": 1383,
-      "forks_delta": 79,
-      "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
-      "purpose": {
-        "zh": "An open source design system that's fully customizable and agent ready",
-        "en": "An open source design system that's fully customizable and agent ready"
-      },
-      "strengths": {
-        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
-      },
-      "innovations": {
-        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
-      },
-      "purpose_zh": "An open source design system that's fully customizable and agent ready",
-      "purpose_en": "An open source design system that's fully customizable and agent ready",
-      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
-      "stars": 189930,
-      "stars_delta": 389,
-      "forks": 22375,
-      "forks_delta": 36,
+      "stars": 190860,
+      "stars_delta": 930,
+      "forks": 22436,
+      "forks_delta": 61,
       "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
       "purpose": {
         "zh": "Public repository for Agent Skills",
         "en": "Public repository for Agent Skills"
@@ -278,7 +51,88 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 19802,
+      "stars_delta": 2141,
+      "forks": 1507,
+      "forks_delta": 124,
+      "html_url": "https://github.com/meta/astryx",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
+      },
+      "strengths": {
+        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
+      },
+      "innovations": {
+        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
+      },
+      "purpose_zh": "An open source design system that's fully customizable and agent ready",
+      "purpose_en": "An open source design system that's fully customizable and agent ready",
+      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "stars": 106889,
+      "stars_delta": 2107,
+      "forks": 12374,
+      "forks_delta": 159,
+      "html_url": "https://github.com/sherlock-project/sherlock",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
+      },
+      "strengths": {
+        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+      },
+      "innovations": {
+        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+      },
+      "purpose_zh": "Hunt down social media accounts by username across social networks",
+      "purpose_en": "Hunt down social media accounts by username across social networks",
+      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
       "full_name": "google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
@@ -287,12 +141,12 @@
         "physics",
         "robotics"
       ],
-      "stars": 16578,
-      "stars_delta": 220,
-      "forks": 1960,
-      "forks_delta": 10,
+      "stars": 16872,
+      "stars_delta": 294,
+      "forks": 1989,
+      "forks_delta": 29,
       "html_url": "https://github.com/google-deepmind/mujoco",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
       "purpose": {
         "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
         "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
@@ -314,37 +168,276 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "language": "TypeScript",
-      "topics": [
-        "dsh-plugin"
-      ],
-      "stars": 5393,
-      "stars_delta": 315,
-      "forks": 416,
-      "forks_delta": 13,
-      "html_url": "https://github.com/ranxianglei/billion-context",
-      "snapshot_at": "2026-11-09T06:51:17.380Z",
+      "rank": 5,
+      "full_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "topics": [],
+      "stars": 19980,
+      "stars_delta": 380,
+      "forks": 3308,
+      "forks_delta": 22,
+      "html_url": "https://github.com/anthropics/claude-quickstarts",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
       "purpose": {
-        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
       },
       "strengths": {
-        "zh": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
-        "en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…"
+        "zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+        "en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…"
       },
       "innovations": {
-        "zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
-        "en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…"
+        "zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+        "en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…"
       },
-      "purpose_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "purpose_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "strengths_zh": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
-      "strengths_en": "billion-context English 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm ins…",
-      "innovations_zh": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
-      "innovations_en": "…bsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes, in…",
+      "purpose_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "purpose_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "strengths_zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+      "strengths_en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
+      "innovations_zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+      "innovations_en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 32097,
+      "stars_delta": 215,
+      "forks": 4761,
+      "forks_delta": 0,
+      "html_url": "https://github.com/garrytan/gbrain",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "en": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+      },
+      "strengths": {
+        "zh": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
+        "en": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…"
+      },
+      "innovations": {
+        "zh": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
+        "en": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…"
+      },
+      "purpose_zh": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "purpose_en": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "strengths_zh": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
+      "strengths_en": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
+      "innovations_zh": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
+      "innovations_en": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "topics": [],
+      "stars": 48409,
+      "stars_delta": 517,
+      "forks": 3299,
+      "forks_delta": 28,
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
+      },
+      "strengths": {
+        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
+      },
+      "innovations": {
+        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
+      },
+      "purpose_zh": "Browser automation CLI for AI agents",
+      "purpose_en": "Browser automation CLI for AI agents",
+      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "topics": [
+        "claude",
+        "claude-code",
+        "esp32",
+        "firmware",
+        "home-assistant",
+        "home-automation",
+        "iot",
+        "mcp",
+        "monitoring",
+        "networking",
+        "pose-estimation",
+        "react",
+        "rf",
+        "self-learning",
+        "spatial-intelligence",
+        "typescript",
+        "webassembly",
+        "wifi",
+        "wifi-security"
+      ],
+      "stars": 103399,
+      "stars_delta": 245,
+      "forks": 13399,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ruvnet/RuView",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+      },
+      "strengths": {
+        "zh": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
+        "en": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…"
+      },
+      "innovations": {
+        "zh": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
+        "en": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…"
+      },
+      "purpose_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "purpose_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "strengths_zh": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
+      "strengths_en": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
+      "innovations_zh": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
+      "innovations_en": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "stars": 68783,
+      "stars_delta": 505,
+      "forks": 56375,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+      },
+      "strengths": {
+        "zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+        "en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…"
+      },
+      "innovations": {
+        "zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
+        "en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…"
+      },
+      "purpose_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "purpose_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "strengths_zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+      "strengths_en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+      "innovations_zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
+      "innovations_en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "llm",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "stars": 5901,
+      "stars_delta": 31,
+      "forks": 291,
+      "forks_delta": 0,
+      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+      },
+      "strengths": {
+        "zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+        "en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…"
+      },
+      "innovations": {
+        "zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+        "en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…"
+      },
+      "purpose_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "purpose_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "strengths_zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+      "strengths_en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+      "innovations_zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+      "innovations_en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "stars": 19598,
+      "stars_delta": 830,
+      "forks": 2684,
+      "forks_delta": 96,
+      "html_url": "https://github.com/milind-soni/OpenMausBot",
+      "snapshot_at": "2026-11-09T22:30:18.686Z",
+      "purpose": {
+        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+      },
+      "strengths": {
+        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
+      },
+      "innovations": {
+        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
+      },
+      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
       "insights_source": "readme-excerpt"
     }
   ]
