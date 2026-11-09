@@ -1,36 +1,62 @@
 {
   "source": "db",
-  "digest_date": "2026-11-08",
-  "headline": "Trendkiln · 2026-11-08",
+  "digest_date": "2026-11-09",
+  "headline": "Trendkiln · 2026-11-09",
   "items": [
     {
       "id": "1",
       "type": "github_surge",
       "title": {
-        "zh": "meta/astryx 星标异动",
-        "en": "meta/astryx star surge"
+        "zh": "sherlock-project/sherlock 星标异动",
+        "en": "sherlock-project/sherlock star surge"
       },
       "subtitle": {
-        "zh": "An open source design system that's fully customizable and agent ready",
-        "en": "An open source design system that's fully customizable and agent ready"
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
       },
       "signal": {
-        "zh": "+1,287 星标",
-        "en": "+1,287 stars"
+        "zh": "+1,543 星标",
+        "en": "+1,543 stars"
       },
-      "title_zh": "meta/astryx 星标异动",
-      "title_en": "meta/astryx star surge",
-      "subtitle_zh": "An open source design system that's fully customizable and agent ready",
-      "subtitle_en": "An open source design system that's fully customizable and agent ready",
-      "signal_zh": "+1,287 星标",
-      "signal_en": "+1,287 stars",
+      "title_zh": "sherlock-project/sherlock 星标异动",
+      "title_en": "sherlock-project/sherlock star surge",
+      "subtitle_zh": "Hunt down social media accounts by username across social networks",
+      "subtitle_en": "Hunt down social media accounts by username across social networks",
+      "signal_zh": "+1,543 星标",
+      "signal_en": "+1,543 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/meta/astryx",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:meta/astryx"
+      "url": "https://github.com/sherlock-project/sherlock",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:sherlock-project/sherlock"
     },
     {
       "id": "2",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "SkyReels V4 排名变化",
+        "en": "SkyReels V4 rank change"
+      },
+      "subtitle": {
+        "zh": "#5 · Skywork AI",
+        "en": "#5 · Skywork AI"
+      },
+      "signal": {
+        "zh": "排名 ↑1",
+        "en": "rank ↑1"
+      },
+      "title_zh": "SkyReels V4 排名变化",
+      "title_en": "SkyReels V4 rank change",
+      "subtitle_zh": "#5 · Skywork AI",
+      "subtitle_en": "#5 · Skywork AI",
+      "signal_zh": "排名 ↑1",
+      "signal_en": "rank ↑1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/video/leaderboard/image-to-video",
+      "occurred_at": "2026-11-09T06:51:24.735Z",
+      "entity_id": "model:SkyReels V4"
+    },
+    {
+      "id": "3",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.146 (Insiders)",
@@ -56,33 +82,59 @@
       "entity_id": "feed:1323"
     },
     {
-      "id": "3",
-      "type": "github_surge",
+      "id": "4",
+      "type": "model_rank_change",
       "title": {
-        "zh": "sherlock-project/sherlock 星标异动",
-        "en": "sherlock-project/sherlock star surge"
+        "zh": "HeyGen Video 1 排名变化",
+        "en": "HeyGen Video 1 rank change"
       },
       "subtitle": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
+        "zh": "#6 · HeyGen",
+        "en": "#6 · HeyGen"
       },
       "signal": {
-        "zh": "+1,245 星标",
-        "en": "+1,245 stars"
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
       },
-      "title_zh": "sherlock-project/sherlock 星标异动",
-      "title_en": "sherlock-project/sherlock star surge",
-      "subtitle_zh": "Hunt down social media accounts by username across social networks",
-      "subtitle_en": "Hunt down social media accounts by username across social networks",
-      "signal_zh": "+1,245 星标",
-      "signal_en": "+1,245 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:sherlock-project/sherlock"
+      "title_zh": "HeyGen Video 1 排名变化",
+      "title_en": "HeyGen Video 1 rank change",
+      "subtitle_zh": "#6 · HeyGen",
+      "subtitle_en": "#6 · HeyGen",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/video/leaderboard/image-to-video",
+      "occurred_at": "2026-11-09T06:51:24.735Z",
+      "entity_id": "model:HeyGen Video 1"
     },
     {
-      "id": "4",
+      "id": "5",
+      "type": "github_surge",
+      "title": {
+        "zh": "meta/astryx 星标异动",
+        "en": "meta/astryx star surge"
+      },
+      "subtitle": {
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
+      },
+      "signal": {
+        "zh": "+1,190 星标",
+        "en": "+1,190 stars"
+      },
+      "title_zh": "meta/astryx 星标异动",
+      "title_en": "meta/astryx star surge",
+      "subtitle_zh": "An open source design system that's fully customizable and agent ready",
+      "subtitle_en": "An open source design system that's fully customizable and agent ready",
+      "signal_zh": "+1,190 星标",
+      "signal_en": "+1,190 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/meta/astryx",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:meta/astryx"
+    },
+    {
+      "id": "6",
       "type": "github_surge",
       "title": {
         "zh": "milind-soni/OpenMausBot 星标异动",
@@ -93,22 +145,334 @@
         "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
       },
       "signal": {
-        "zh": "+409 星标",
-        "en": "+409 stars"
+        "zh": "+633 星标",
+        "en": "+633 stars"
       },
       "title_zh": "milind-soni/OpenMausBot 星标异动",
       "title_en": "milind-soni/OpenMausBot star surge",
       "subtitle_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "subtitle_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "signal_zh": "+409 星标",
-      "signal_en": "+409 stars",
+      "signal_zh": "+633 星标",
+      "signal_en": "+633 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
       "entity_id": "repo:milind-soni/OpenMausBot"
     },
     {
-      "id": "5",
+      "id": "7",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "LTX-2.5 Pro 排名变化",
+        "en": "LTX-2.5 Pro rank change"
+      },
+      "subtitle": {
+        "zh": "#29 · Lightricks",
+        "en": "#29 · Lightricks"
+      },
+      "signal": {
+        "zh": "排名 ↑1",
+        "en": "rank ↑1"
+      },
+      "title_zh": "LTX-2.5 Pro 排名变化",
+      "title_en": "LTX-2.5 Pro rank change",
+      "subtitle_zh": "#29 · Lightricks",
+      "subtitle_en": "#29 · Lightricks",
+      "signal_zh": "排名 ↑1",
+      "signal_en": "rank ↑1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/video/leaderboard/image-to-video",
+      "occurred_at": "2026-11-09T06:51:24.735Z",
+      "entity_id": "model:LTX-2.5 Pro"
+    },
+    {
+      "id": "8",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "rust-v0.169.0-alpha.4",
+        "en": "rust-v0.169.0-alpha.4"
+      },
+      "subtitle": {
+        "zh": "Release 0.169.0-alpha.4",
+        "en": "Release 0.169.0-alpha.4"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "rust-v0.169.0-alpha.4",
+      "title_en": "rust-v0.169.0-alpha.4",
+      "subtitle_zh": "Release 0.169.0-alpha.4",
+      "subtitle_en": "Release 0.169.0-alpha.4",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.4",
+      "occurred_at": "2026-11-09T05:37:54.000Z",
+      "entity_id": "feed:1395"
+    },
+    {
+      "id": "9",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "LTX-2.5 Fast 排名变化",
+        "en": "LTX-2.5 Fast rank change"
+      },
+      "subtitle": {
+        "zh": "#30 · Lightricks",
+        "en": "#30 · Lightricks"
+      },
+      "signal": {
+        "zh": "排名 ↓1",
+        "en": "rank ↓1"
+      },
+      "title_zh": "LTX-2.5 Fast 排名变化",
+      "title_en": "LTX-2.5 Fast rank change",
+      "subtitle_zh": "#30 · Lightricks",
+      "subtitle_en": "#30 · Lightricks",
+      "signal_zh": "排名 ↓1",
+      "signal_en": "rank ↓1",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/video/leaderboard/image-to-video",
+      "occurred_at": "2026-11-09T06:51:24.735Z",
+      "entity_id": "model:LTX-2.5 Fast"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/skills 星标异动",
+        "en": "anthropics/skills star surge"
+      },
+      "subtitle": {
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
+      },
+      "signal": {
+        "zh": "+389 星标",
+        "en": "+389 stars"
+      },
+      "title_zh": "anthropics/skills 星标异动",
+      "title_en": "anthropics/skills star surge",
+      "subtitle_zh": "Public repository for Agent Skills",
+      "subtitle_en": "Public repository for Agent Skills",
+      "signal_zh": "+389 星标",
+      "signal_en": "+389 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/skills",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:anthropics/skills"
+    },
+    {
+      "id": "11",
+      "type": "github_surge",
+      "title": {
+        "zh": "vercel-labs/agent-browser 星标异动",
+        "en": "vercel-labs/agent-browser star surge"
+      },
+      "subtitle": {
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
+      },
+      "signal": {
+        "zh": "+370 星标",
+        "en": "+370 stars"
+      },
+      "title_zh": "vercel-labs/agent-browser 星标异动",
+      "title_en": "vercel-labs/agent-browser star surge",
+      "subtitle_zh": "Browser automation CLI for AI agents",
+      "subtitle_en": "Browser automation CLI for AI agents",
+      "signal_zh": "+370 星标",
+      "signal_en": "+370 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:vercel-labs/agent-browser"
+    },
+    {
+      "id": "12",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "The Web Is More Than Enough, by Paul Ford",
+        "en": "The Web Is More Than Enough, by Paul Ford"
+      },
+      "subtitle": {
+        "zh": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running…",
+        "en": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "The Web Is More Than Enough, by Paul Ford",
+      "title_en": "The Web Is More Than Enough, by Paul Ford",
+      "subtitle_zh": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running…",
+      "subtitle_en": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "occurred_at": "2026-11-09T04:32:33.000Z",
+      "entity_id": "feed:1396"
+    },
+    {
+      "id": "13",
+      "type": "github_surge",
+      "title": {
+        "zh": "ranxianglei/billion-context 星标异动",
+        "en": "ranxianglei/billion-context star surge"
+      },
+      "subtitle": {
+        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+      },
+      "signal": {
+        "zh": "+315 星标",
+        "en": "+315 stars"
+      },
+      "title_zh": "ranxianglei/billion-context 星标异动",
+      "title_en": "ranxianglei/billion-context star surge",
+      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "signal_zh": "+315 星标",
+      "signal_en": "+315 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:ranxianglei/billion-context"
+    },
+    {
+      "id": "14",
+      "type": "github_surge",
+      "title": {
+        "zh": "anthropics/claude-quickstarts 星标异动",
+        "en": "anthropics/claude-quickstarts star surge"
+      },
+      "subtitle": {
+        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+      },
+      "signal": {
+        "zh": "+229 星标",
+        "en": "+229 stars"
+      },
+      "title_zh": "anthropics/claude-quickstarts 星标异动",
+      "title_en": "anthropics/claude-quickstarts star surge",
+      "subtitle_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "subtitle_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "signal_zh": "+229 星标",
+      "signal_en": "+229 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:anthropics/claude-quickstarts"
+    },
+    {
+      "id": "15",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Hide your slop PR descriptions behind",
+        "en": "Hide your slop PR descriptions behind"
+      },
+      "subtitle": {
+        "zh": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at…",
+        "en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Hide your slop PR descriptions behind",
+      "title_en": "Hide your slop PR descriptions behind",
+      "subtitle_zh": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at…",
+      "subtitle_en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "occurred_at": "2026-11-09T04:25:05.000Z",
+      "entity_id": "feed:1397"
+    },
+    {
+      "id": "16",
+      "type": "github_surge",
+      "title": {
+        "zh": "google-deepmind/mujoco 星标异动",
+        "en": "google-deepmind/mujoco star surge"
+      },
+      "subtitle": {
+        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      },
+      "signal": {
+        "zh": "+220 星标",
+        "en": "+220 stars"
+      },
+      "title_zh": "google-deepmind/mujoco 星标异动",
+      "title_en": "google-deepmind/mujoco star surge",
+      "subtitle_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "subtitle_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "signal_zh": "+220 星标",
+      "signal_en": "+220 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:google-deepmind/mujoco"
+    },
+    {
+      "id": "17",
+      "type": "github_surge",
+      "title": {
+        "zh": "dsx-ai-factory/nvke 星标异动",
+        "en": "dsx-ai-factory/nvke star surge"
+      },
+      "subtitle": {
+        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      },
+      "signal": {
+        "zh": "+124 星标",
+        "en": "+124 stars"
+      },
+      "title_zh": "dsx-ai-factory/nvke 星标异动",
+      "title_en": "dsx-ai-factory/nvke star surge",
+      "subtitle_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "subtitle_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "signal_zh": "+124 星标",
+      "signal_en": "+124 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "occurred_at": "2026-11-09T06:51:17.380Z",
+      "entity_id": "repo:dsx-ai-factory/nvke"
+    },
+    {
+      "id": "18",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "parse_number() as a SQLite extension: C vs Rust",
+        "en": "parse_number() as a SQLite extension: C vs Rust"
+      },
+      "subtitle": {
+        "zh": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up re…",
+        "en": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up re…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "parse_number() as a SQLite extension: C vs Rust",
+      "title_en": "parse_number() as a SQLite extension: C vs Rust",
+      "subtitle_zh": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up re…",
+      "subtitle_en": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up re…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "occurred_at": "2026-11-08T22:26:00.000Z",
+      "entity_id": "feed:1398"
+    },
+    {
+      "id": "19",
       "type": "feed_must_read",
       "title": {
         "zh": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
@@ -134,59 +498,7 @@
       "entity_id": "feed:1393"
     },
     {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "anthropics/skills 星标异动",
-        "en": "anthropics/skills star surge"
-      },
-      "subtitle": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
-      },
-      "signal": {
-        "zh": "+359 星标",
-        "en": "+359 stars"
-      },
-      "title_zh": "anthropics/skills 星标异动",
-      "title_en": "anthropics/skills star surge",
-      "subtitle_zh": "Public repository for Agent Skills",
-      "subtitle_en": "Public repository for Agent Skills",
-      "signal_zh": "+359 星标",
-      "signal_en": "+359 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/anthropics/skills",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:anthropics/skills"
-    },
-    {
-      "id": "7",
-      "type": "github_surge",
-      "title": {
-        "zh": "vercel-labs/agent-browser 星标异动",
-        "en": "vercel-labs/agent-browser star surge"
-      },
-      "subtitle": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
-      },
-      "signal": {
-        "zh": "+252 星标",
-        "en": "+252 stars"
-      },
-      "title_zh": "vercel-labs/agent-browser 星标异动",
-      "title_en": "vercel-labs/agent-browser star surge",
-      "subtitle_zh": "Browser automation CLI for AI agents",
-      "subtitle_en": "Browser automation CLI for AI agents",
-      "signal_zh": "+252 星标",
-      "signal_en": "+252 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:vercel-labs/agent-browser"
-    },
-    {
-      "id": "8",
+      "id": "20",
       "type": "feed_must_read",
       "title": {
         "zh": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
@@ -210,318 +522,6 @@
       "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
       "occurred_at": "2026-11-08T21:23:29.000Z",
       "entity_id": "feed:1394"
-    },
-    {
-      "id": "9",
-      "type": "github_surge",
-      "title": {
-        "zh": "ranxianglei/billion-context 星标异动",
-        "en": "ranxianglei/billion-context star surge"
-      },
-      "subtitle": {
-        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
-      },
-      "signal": {
-        "zh": "+198 星标",
-        "en": "+198 stars"
-      },
-      "title_zh": "ranxianglei/billion-context 星标异动",
-      "title_en": "ranxianglei/billion-context star surge",
-      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "signal_zh": "+198 星标",
-      "signal_en": "+198 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:ranxianglei/billion-context"
-    },
-    {
-      "id": "10",
-      "type": "github_surge",
-      "title": {
-        "zh": "google-deepmind/mujoco 星标异动",
-        "en": "google-deepmind/mujoco star surge"
-      },
-      "subtitle": {
-        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-      },
-      "signal": {
-        "zh": "+182 星标",
-        "en": "+182 stars"
-      },
-      "title_zh": "google-deepmind/mujoco 星标异动",
-      "title_en": "google-deepmind/mujoco star surge",
-      "subtitle_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "subtitle_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "signal_zh": "+182 星标",
-      "signal_en": "+182 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:google-deepmind/mujoco"
-    },
-    {
-      "id": "11",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
-      },
-      "subtitle": {
-        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "title_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "subtitle_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-      "subtitle_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-      "occurred_at": "2026-11-07T23:57:46.000Z",
-      "entity_id": "feed:1392"
-    },
-    {
-      "id": "12",
-      "type": "github_surge",
-      "title": {
-        "zh": "anthropics/claude-quickstarts 星标异动",
-        "en": "anthropics/claude-quickstarts star surge"
-      },
-      "subtitle": {
-        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-      },
-      "signal": {
-        "zh": "+171 星标",
-        "en": "+171 stars"
-      },
-      "title_zh": "anthropics/claude-quickstarts 星标异动",
-      "title_en": "anthropics/claude-quickstarts star surge",
-      "subtitle_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "subtitle_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "signal_zh": "+171 星标",
-      "signal_en": "+171 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:anthropics/claude-quickstarts"
-    },
-    {
-      "id": "13",
-      "type": "github_surge",
-      "title": {
-        "zh": "dsx-ai-factory/nvke 星标异动",
-        "en": "dsx-ai-factory/nvke star surge"
-      },
-      "subtitle": {
-        "zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
-      },
-      "signal": {
-        "zh": "+111 星标",
-        "en": "+111 stars"
-      },
-      "title_zh": "dsx-ai-factory/nvke 星标异动",
-      "title_en": "dsx-ai-factory/nvke star surge",
-      "subtitle_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "subtitle_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "signal_zh": "+111 星标",
-      "signal_en": "+111 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "occurred_at": "2026-11-08T22:15:49.794Z",
-      "entity_id": "repo:dsx-ai-factory/nvke"
-    },
-    {
-      "id": "14",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.169.0-alpha.3",
-        "en": "0.169.0-alpha.3"
-      },
-      "subtitle": {
-        "zh": "Release 0.169.0-alpha.3",
-        "en": "Release 0.169.0-alpha.3"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.169.0-alpha.3",
-      "title_en": "0.169.0-alpha.3",
-      "subtitle_zh": "Release 0.169.0-alpha.3",
-      "subtitle_en": "Release 0.169.0-alpha.3",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3",
-      "occurred_at": "2026-11-07T19:36:41.000Z",
-      "entity_id": "feed:1390"
-    },
-    {
-      "id": "15",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "[AINews] Anthropic IPO: Whither Now?",
-        "en": "[AINews] Anthropic IPO: Whither Now?"
-      },
-      "subtitle": {
-        "zh": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-        "en": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "[AINews] Anthropic IPO: Whither Now?",
-      "title_en": "[AINews] Anthropic IPO: Whither Now?",
-      "subtitle_zh": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "subtitle_en": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Latent Space",
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "occurred_at": "2026-11-07T03:04:53.000Z",
-      "entity_id": "feed:1380"
-    },
-    {
-      "id": "16",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Copilot code review: API management and review overview updates",
-        "en": "Copilot code review: API management and review overview updates"
-      },
-      "subtitle": {
-        "zh": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-        "en": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog ."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Copilot code review: API management and review overview updates",
-      "title_en": "Copilot code review: API management and review overview updates",
-      "subtitle_zh": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-      "subtitle_en": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "occurred_at": "2026-11-07T00:27:19.000Z",
-      "entity_id": "feed:1381"
-    },
-    {
-      "id": "17",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-        "en": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway"
-      },
-      "subtitle": {
-        "zh": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-        "en": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-      "title_en": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-      "subtitle_zh": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-      "subtitle_en": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Vercel Blog",
-      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
-      "occurred_at": "2026-11-07T00:00:00.000Z",
-      "entity_id": "feed:1391"
-    },
-    {
-      "id": "18",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Copilot impact dashboard adds chat and VS Code agent usage",
-        "en": "Copilot impact dashboard adds chat and VS Code agent usage"
-      },
-      "subtitle": {
-        "zh": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-        "en": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog ."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "title_en": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "subtitle_zh": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-      "subtitle_en": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-      "occurred_at": "2026-11-06T22:17:28.000Z",
-      "entity_id": "feed:1382"
-    },
-    {
-      "id": "19",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "0.169.0-alpha.2",
-        "en": "0.169.0-alpha.2"
-      },
-      "subtitle": {
-        "zh": "Release 0.169.0-alpha.2",
-        "en": "Release 0.169.0-alpha.2"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "0.169.0-alpha.2",
-      "title_en": "0.169.0-alpha.2",
-      "subtitle_zh": "Release 0.169.0-alpha.2",
-      "subtitle_en": "Release 0.169.0-alpha.2",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2",
-      "occurred_at": "2026-11-06T22:17:19.000Z",
-      "entity_id": "feed:1383"
-    },
-    {
-      "id": "20",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Beyond code generation: A developer’s guide to agentic engineering",
-        "en": "Beyond code generation: A developer’s guide to agentic engineering"
-      },
-      "subtitle": {
-        "zh": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-        "en": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog ."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Beyond code generation: A developer’s guide to agentic engineering",
-      "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
-      "subtitle_zh": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "subtitle_en": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "GitHub AI & ML",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "occurred_at": "2026-11-06T22:15:59.000Z",
-      "entity_id": "feed:1384"
     }
   ]
 }
