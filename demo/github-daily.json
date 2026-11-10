@@ -18,50 +18,16 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "topics": [
-        "agent-skills"
-      ],
-      "stars": 191445,
-      "stars_delta": 585,
-      "forks": 22473,
-      "forks_delta": 37,
-      "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
-      "purpose": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
-      },
-      "strengths": {
-        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
-      },
-      "innovations": {
-        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
-      },
-      "purpose_zh": "Public repository for Agent Skills",
-      "purpose_en": "Public repository for Agent Skills",
-      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "topics": [],
-      "stars": 20909,
-      "stars_delta": 1107,
-      "forks": 1584,
-      "forks_delta": 77,
+      "stars": 22407,
+      "stars_delta": 1498,
+      "forks": 1790,
+      "forks_delta": 206,
       "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
         "zh": "An open source design system that's fully customizable and agent ready",
         "en": "An open source design system that's fully customizable and agent ready"
@@ -83,102 +49,90 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "rank": 2,
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
-        "cli",
-        "cti",
-        "cybersecurity",
-        "forensics",
-        "hacktoberfest",
-        "information-gathering",
-        "infosec",
-        "linux",
-        "osint",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "sherlock",
-        "tools"
+        "agent-skills"
       ],
-      "stars": 107791,
-      "stars_delta": 902,
-      "forks": 12462,
-      "forks_delta": 88,
-      "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "stars": 192135,
+      "stars_delta": 690,
+      "forks": 22624,
+      "forks_delta": 151,
+      "html_url": "https://github.com/anthropics/skills",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
       },
       "strengths": {
-        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
       },
       "innovations": {
-        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
       },
-      "purpose_zh": "Hunt down social media accounts by username across social networks",
-      "purpose_en": "Hunt down social media accounts by username across social networks",
-      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "purpose_zh": "Public repository for Agent Skills",
+      "purpose_en": "Public repository for Agent Skills",
+      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "stars": 115029,
+      "stars_delta": 465,
+      "forks": 12083,
+      "forks_delta": 0,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
+      },
+      "strengths": {
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+      },
+      "innovations": {
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+      },
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 4,
-      "full_name": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "topics": [
-        "mujoco",
-        "physics",
-        "robotics"
-      ],
-      "stars": 17069,
-      "stars_delta": 197,
-      "forks": 2012,
-      "forks_delta": 23,
-      "html_url": "https://github.com/google-deepmind/mujoco",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
-      "purpose": {
-        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-      },
-      "strengths": {
-        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
-      },
-      "innovations": {
-        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
-      },
-      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
       "full_name": "anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "topics": [],
-      "stars": 20167,
-      "stars_delta": 187,
-      "forks": 3328,
-      "forks_delta": 20,
+      "stars": 20404,
+      "stars_delta": 237,
+      "forks": 3464,
+      "forks_delta": 136,
       "html_url": "https://github.com/anthropics/claude-quickstarts",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
         "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
@@ -200,163 +154,75 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
-      "full_name": "garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 32319,
-      "stars_delta": 222,
-      "forks": 4780,
-      "forks_delta": 19,
-      "html_url": "https://github.com/garrytan/gbrain",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "rank": 5,
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "stars": 17281,
+      "stars_delta": 212,
+      "forks": 2138,
+      "forks_delta": 126,
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
-        "zh": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-        "en": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
       },
       "strengths": {
-        "zh": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
-        "en": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…"
+        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
       },
       "innovations": {
-        "zh": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
-        "en": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…"
+        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
       },
-      "purpose_zh": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "purpose_en": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "strengths_zh": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
-      "strengths_en": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keywo…",
-      "innovations_zh": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
-      "innovations_en": "…ng. [!TIP] Need hosted? First time running an agent? Try gbrain.io, hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck…",
+      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "topics": [],
+      "stars": 11770,
+      "stars_delta": 184,
+      "forks": 879,
+      "forks_delta": 0,
+      "html_url": "https://github.com/we-promise/sure",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "The personal finance app for everyone (by everyone)",
+        "en": "The personal finance app for everyone (by everyone)"
+      },
+      "strengths": {
+        "zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+        "en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…"
+      },
+      "innovations": {
+        "zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+        "en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…"
+      },
+      "purpose_zh": "The personal finance app for everyone (by everyone)",
+      "purpose_en": "The personal finance app for everyone (by everyone)",
+      "strengths_zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "strengths_en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "innovations_zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+      "innovations_en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 7,
-      "full_name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "topics": [],
-      "stars": 48730,
-      "stars_delta": 321,
-      "forks": 3320,
-      "forks_delta": 21,
-      "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
-      "purpose": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
-      },
-      "strengths": {
-        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
-      },
-      "innovations": {
-        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
-      },
-      "purpose_zh": "Browser automation CLI for AI agents",
-      "purpose_en": "Browser automation CLI for AI agents",
-      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "topics": [
-        "claude",
-        "claude-code",
-        "esp32",
-        "firmware",
-        "home-assistant",
-        "home-automation",
-        "iot",
-        "mcp",
-        "monitoring",
-        "networking",
-        "pose-estimation",
-        "react",
-        "rf",
-        "self-learning",
-        "spatial-intelligence",
-        "typescript",
-        "webassembly",
-        "wifi",
-        "wifi-security"
-      ],
-      "stars": 103682,
-      "stars_delta": 283,
-      "forks": 13431,
-      "forks_delta": 32,
-      "html_url": "https://github.com/ruvnet/RuView",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
-      "purpose": {
-        "zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
-      },
-      "strengths": {
-        "zh": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
-        "en": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…"
-      },
-      "innovations": {
-        "zh": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
-        "en": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…"
-      },
-      "purpose_zh": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "purpose_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "strengths_zh": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
-      "strengths_en": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi ## Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movemen…",
-      "innovations_zh": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
-      "innovations_en": "…a the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "llm",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading"
-      ],
-      "stars": 69258,
-      "stars_delta": 475,
-      "forks": 56484,
-      "forks_delta": 109,
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
-      "purpose": {
-        "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-      },
-      "strengths": {
-        "zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-        "en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…"
-      },
-      "innovations": {
-        "zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-        "en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…"
-      },
-      "purpose_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "purpose_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "strengths_zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-      "strengths_en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-      "innovations_zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-      "innovations_en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
       "full_name": "homeassistant-ai/ha-mcp",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
@@ -370,12 +236,12 @@
         "mcp",
         "model-context-protocol"
       ],
-      "stars": 6187,
-      "stars_delta": 286,
-      "forks": 302,
-      "forks_delta": 11,
+      "stars": 6518,
+      "stars_delta": 331,
+      "forks": 425,
+      "forks_delta": 123,
       "html_url": "https://github.com/homeassistant-ai/ha-mcp",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
         "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
         "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
@@ -397,47 +263,182 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
-      "full_name": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-use",
-        "docker",
-        "electron",
-        "grok",
-        "grok-bot",
-        "grok-bot-alternative",
-        "self-hosted",
-        "typescript"
-      ],
-      "stars": 20117,
-      "stars_delta": 519,
-      "forks": 2750,
-      "forks_delta": 66,
-      "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-10T07:29:24.481Z",
+      "rank": 8,
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "topics": [],
+      "stars": 49102,
+      "stars_delta": 372,
+      "forks": 3443,
+      "forks_delta": 123,
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
       "purpose": {
-        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
       },
       "strengths": {
-        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
+        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
       },
       "innovations": {
-        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
+        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
       },
-      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
-      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
-      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "purpose_zh": "Browser automation CLI for AI agents",
+      "purpose_en": "Browser automation CLI for AI agents",
+      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "stars": 108754,
+      "stars_delta": 963,
+      "forks": 12643,
+      "forks_delta": 181,
+      "html_url": "https://github.com/sherlock-project/sherlock",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
+      },
+      "strengths": {
+        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+      },
+      "innovations": {
+        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+      },
+      "purpose_zh": "Hunt down social media accounts by username across social networks",
+      "purpose_en": "Hunt down social media accounts by username across social networks",
+      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
+      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "topics": [],
+      "stars": 6718,
+      "stars_delta": 192,
+      "forks": 295,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tokio-rs/topcoat",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "A batteries-included framework for building web apps",
+        "en": "A batteries-included framework for building web apps"
+      },
+      "strengths": {
+        "zh": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
+        "en": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…"
+      },
+      "innovations": {
+        "zh": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
+        "en": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…"
+      },
+      "purpose_zh": "A batteries-included framework for building web apps",
+      "purpose_en": "A batteries-included framework for building web apps",
+      "strengths_zh": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
+      "strengths_en": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
+      "innovations_zh": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
+      "innovations_en": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "topics": [
+        "dsh-plugin"
+      ],
+      "stars": 6201,
+      "stars_delta": 374,
+      "forks": 525,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ranxianglei/billion-context",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+      },
+      "strengths": {
+        "zh": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
+        "en": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…"
+      },
+      "innovations": {
+        "zh": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
+        "en": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…"
+      },
+      "purpose_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "purpose_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "strengths_zh": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
+      "strengths_en": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
+      "innovations_zh": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
+      "innovations_en": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 320744,
+      "stars_delta": 1223,
+      "forks": 26897,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-11-10T19:51:23.329Z",
+      "purpose": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "strengths": {
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
+      },
+      "innovations": {
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
+      },
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
       "insights_source": "readme-excerpt"
     }
   ]
