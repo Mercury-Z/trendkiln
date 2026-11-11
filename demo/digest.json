@@ -1,7 +1,7 @@
 {
   "source": "db",
-  "digest_date": "2026-11-10",
-  "headline": "Trendkiln · 2026-11-10",
+  "digest_date": "2026-11-11",
+  "headline": "Trendkiln · 2026-11-11",
   "items": [
     {
       "id": "1",
@@ -15,18 +15,18 @@
         "en": "An open source design system that's fully customizable and agent ready"
       },
       "signal": {
-        "zh": "+1,498 星标",
-        "en": "+1,498 stars"
+        "zh": "+1,179 星标",
+        "en": "+1,179 stars"
       },
       "title_zh": "meta/astryx 星标异动",
       "title_en": "meta/astryx star surge",
       "subtitle_zh": "An open source design system that's fully customizable and agent ready",
       "subtitle_en": "An open source design system that's fully customizable and agent ready",
-      "signal_zh": "+1,498 星标",
-      "signal_en": "+1,498 stars",
+      "signal_zh": "+1,179 星标",
+      "signal_en": "+1,179 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/meta/astryx",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
       "entity_id": "repo:meta/astryx"
     },
     {
@@ -37,8 +37,8 @@
         "en": "Wan 2.6 Image rank change"
       },
       "subtitle": {
-        "zh": "#33 · Alibaba",
-        "en": "#33 · Alibaba"
+        "zh": "#36 · Alibaba",
+        "en": "#36 · Alibaba"
       },
       "signal": {
         "zh": "排名 ↓3",
@@ -46,17 +46,147 @@
       },
       "title_zh": "Wan 2.6 Image 排名变化",
       "title_en": "Wan 2.6 Image rank change",
-      "subtitle_zh": "#33 · Alibaba",
-      "subtitle_en": "#33 · Alibaba",
+      "subtitle_zh": "#36 · Alibaba",
+      "subtitle_en": "#36 · Alibaba",
       "signal_zh": "排名 ↓3",
       "signal_en": "rank ↓3",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
+      "occurred_at": "2026-11-11T06:44:42.954Z",
       "entity_id": "model:Wan 2.6 Image"
     },
     {
       "id": "3",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Gilbert + Tobin rethinks the business of law with AI",
+        "en": "Gilbert + Tobin rethinks the business of law with AI"
+      },
+      "subtitle": {
+        "zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Gilbert + Tobin rethinks the business of law with AI",
+      "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+      "subtitle_zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "subtitle_en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "occurred_at": "2026-11-12T00:00:00.000Z",
+      "entity_id": "feed:1446"
+    },
+    {
+      "id": "4",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Qwen-Image-2.1-Turbo 排名变化",
+        "en": "Qwen-Image-2.1-Turbo rank change"
+      },
+      "subtitle": {
+        "zh": "#37 · Alibaba",
+        "en": "#37 · Alibaba"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "Qwen-Image-2.1-Turbo 排名变化",
+      "title_en": "Qwen-Image-2.1-Turbo rank change",
+      "subtitle_zh": "#37 · Alibaba",
+      "subtitle_en": "#37 · Alibaba",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:Qwen-Image-2.1-Turbo"
+    },
+    {
+      "id": "5",
+      "type": "github_surge",
+      "title": {
+        "zh": "sherlock-project/sherlock 星标异动",
+        "en": "sherlock-project/sherlock star surge"
+      },
+      "subtitle": {
+        "zh": "Hunt down social media accounts by username across social networks",
+        "en": "Hunt down social media accounts by username across social networks"
+      },
+      "signal": {
+        "zh": "+642 星标",
+        "en": "+642 stars"
+      },
+      "title_zh": "sherlock-project/sherlock 星标异动",
+      "title_en": "sherlock-project/sherlock star surge",
+      "subtitle_zh": "Hunt down social media accounts by username across social networks",
+      "subtitle_en": "Hunt down social media accounts by username across social networks",
+      "signal_zh": "+642 星标",
+      "signal_en": "+642 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
+      "entity_id": "repo:sherlock-project/sherlock"
+    },
+    {
+      "id": "6",
+      "type": "github_surge",
+      "title": {
+        "zh": "mattpocock/skills 星标异动",
+        "en": "mattpocock/skills star surge"
+      },
+      "subtitle": {
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
+      },
+      "signal": {
+        "zh": "+470 星标",
+        "en": "+470 stars"
+      },
+      "title_zh": "mattpocock/skills 星标异动",
+      "title_en": "mattpocock/skills star surge",
+      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "signal_zh": "+470 星标",
+      "signal_en": "+470 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/mattpocock/skills",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
+      "entity_id": "repo:mattpocock/skills"
+    },
+    {
+      "id": "7",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Wan2.6 Text to Image 排名变化",
+        "en": "Wan2.6 Text to Image rank change"
+      },
+      "subtitle": {
+        "zh": "#43 · Alibaba",
+        "en": "#43 · Alibaba"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "Wan2.6 Text to Image 排名变化",
+      "title_en": "Wan2.6 Text to Image rank change",
+      "subtitle_zh": "#43 · Alibaba",
+      "subtitle_en": "#43 · Alibaba",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:Wan2.6 Text to Image"
+    },
+    {
+      "id": "8",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.146 (Insiders)",
@@ -82,160 +212,30 @@
       "entity_id": "feed:1323"
     },
     {
-      "id": "4",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "P-Image-Ideogram (Very High) 排名变化",
-        "en": "P-Image-Ideogram (Very High) rank change"
-      },
-      "subtitle": {
-        "zh": "#55 · Pruna AI",
-        "en": "#55 · Pruna AI"
-      },
-      "signal": {
-        "zh": "排名 ↓2",
-        "en": "rank ↓2"
-      },
-      "title_zh": "P-Image-Ideogram (Very High) 排名变化",
-      "title_en": "P-Image-Ideogram (Very High) rank change",
-      "subtitle_zh": "#55 · Pruna AI",
-      "subtitle_en": "#55 · Pruna AI",
-      "signal_zh": "排名 ↓2",
-      "signal_en": "rank ↓2",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:P-Image-Ideogram (Very High)"
-    },
-    {
-      "id": "5",
-      "type": "github_surge",
-      "title": {
-        "zh": "mattpocock/skills 星标异动",
-        "en": "mattpocock/skills star surge"
-      },
-      "subtitle": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "signal": {
-        "zh": "+1,223 星标",
-        "en": "+1,223 stars"
-      },
-      "title_zh": "mattpocock/skills 星标异动",
-      "title_en": "mattpocock/skills star surge",
-      "subtitle_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "subtitle_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "signal_zh": "+1,223 星标",
-      "signal_en": "+1,223 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/mattpocock/skills",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
-      "entity_id": "repo:mattpocock/skills"
-    },
-    {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "sherlock-project/sherlock 星标异动",
-        "en": "sherlock-project/sherlock star surge"
-      },
-      "subtitle": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
-      },
-      "signal": {
-        "zh": "+963 星标",
-        "en": "+963 stars"
-      },
-      "title_zh": "sherlock-project/sherlock 星标异动",
-      "title_en": "sherlock-project/sherlock star surge",
-      "subtitle_zh": "Hunt down social media accounts by username across social networks",
-      "subtitle_en": "Hunt down social media accounts by username across social networks",
-      "signal_zh": "+963 星标",
-      "signal_en": "+963 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
-      "entity_id": "repo:sherlock-project/sherlock"
-    },
-    {
-      "id": "7",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "HunyuanImage 3.0 排名变化",
-        "en": "HunyuanImage 3.0 rank change"
-      },
-      "subtitle": {
-        "zh": "#77 · Tencent",
-        "en": "#77 · Tencent"
-      },
-      "signal": {
-        "zh": "排名 ↓2",
-        "en": "rank ↓2"
-      },
-      "title_zh": "HunyuanImage 3.0 排名变化",
-      "title_en": "HunyuanImage 3.0 rank change",
-      "subtitle_zh": "#77 · Tencent",
-      "subtitle_en": "#77 · Tencent",
-      "signal_zh": "排名 ↓2",
-      "signal_en": "rank ↓2",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:HunyuanImage 3.0"
-    },
-    {
-      "id": "8",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "rust-v0.167.0-alpha.4.2",
-        "en": "rust-v0.167.0-alpha.4.2"
-      },
-      "subtitle": {
-        "zh": "Release 0.167.0-alpha.4.2",
-        "en": "Release 0.167.0-alpha.4.2"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "rust-v0.167.0-alpha.4.2",
-      "title_en": "rust-v0.167.0-alpha.4.2",
-      "subtitle_zh": "Release 0.167.0-alpha.4.2",
-      "subtitle_en": "Release 0.167.0-alpha.4.2",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.2",
-      "occurred_at": "2026-11-10T19:42:33.000Z",
-      "entity_id": "feed:1429"
-    },
-    {
       "id": "9",
       "type": "model_rank_change",
       "title": {
-        "zh": "Vidu Q2 排名变化",
-        "en": "Vidu Q2 rank change"
+        "zh": "HunyuanImage 3.0 (Tencent Cloud) 排名变化",
+        "en": "HunyuanImage 3.0 (Tencent Cloud) rank change"
       },
       "subtitle": {
-        "zh": "#88 · Vidu",
-        "en": "#88 · Vidu"
+        "zh": "#57 · Tencent",
+        "en": "#57 · Tencent"
       },
       "signal": {
-        "zh": "排名 ↓2",
-        "en": "rank ↓2"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "Vidu Q2 排名变化",
-      "title_en": "Vidu Q2 rank change",
-      "subtitle_zh": "#88 · Vidu",
-      "subtitle_en": "#88 · Vidu",
-      "signal_zh": "排名 ↓2",
-      "signal_en": "rank ↓2",
+      "title_zh": "HunyuanImage 3.0 (Tencent Cloud) 排名变化",
+      "title_en": "HunyuanImage 3.0 (Tencent Cloud) rank change",
+      "subtitle_zh": "#57 · Tencent",
+      "subtitle_en": "#57 · Tencent",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:Vidu Q2"
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:HunyuanImage 3.0 (Tencent Cloud)"
     },
     {
       "id": "10",
@@ -249,22 +249,126 @@
         "en": "Public repository for Agent Skills"
       },
       "signal": {
-        "zh": "+690 星标",
-        "en": "+690 stars"
+        "zh": "+461 星标",
+        "en": "+461 stars"
       },
       "title_zh": "anthropics/skills 星标异动",
       "title_en": "anthropics/skills star surge",
       "subtitle_zh": "Public repository for Agent Skills",
       "subtitle_en": "Public repository for Agent Skills",
-      "signal_zh": "+690 星标",
-      "signal_en": "+690 stars",
+      "signal_zh": "+461 星标",
+      "signal_en": "+461 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/anthropics/skills",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
       "entity_id": "repo:anthropics/skills"
     },
     {
       "id": "11",
+      "type": "github_surge",
+      "title": {
+        "zh": "we-promise/sure 星标异动",
+        "en": "we-promise/sure star surge"
+      },
+      "subtitle": {
+        "zh": "The personal finance app for everyone (by everyone)",
+        "en": "The personal finance app for everyone (by everyone)"
+      },
+      "signal": {
+        "zh": "+452 星标",
+        "en": "+452 stars"
+      },
+      "title_zh": "we-promise/sure 星标异动",
+      "title_en": "we-promise/sure star surge",
+      "subtitle_zh": "The personal finance app for everyone (by everyone)",
+      "subtitle_en": "The personal finance app for everyone (by everyone)",
+      "signal_zh": "+452 星标",
+      "signal_en": "+452 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/we-promise/sure",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
+      "entity_id": "repo:we-promise/sure"
+    },
+    {
+      "id": "12",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "FLUX.2 [dev] Flash 排名变化",
+        "en": "FLUX.2 [dev] Flash rank change"
+      },
+      "subtitle": {
+        "zh": "#60 · Fal",
+        "en": "#60 · Fal"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "FLUX.2 [dev] Flash 排名变化",
+      "title_en": "FLUX.2 [dev] Flash rank change",
+      "subtitle_zh": "#60 · Fal",
+      "subtitle_en": "#60 · Fal",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:FLUX.2 [dev] Flash"
+    },
+    {
+      "id": "13",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "ChatGPT Plus for veterans and servicemembers",
+        "en": "ChatGPT Plus for veterans and servicemembers"
+      },
+      "subtitle": {
+        "zh": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "ChatGPT Plus for veterans and servicemembers",
+      "title_en": "ChatGPT Plus for veterans and servicemembers",
+      "subtitle_zh": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "subtitle_en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "occurred_at": "2026-11-11T08:00:00.000Z",
+      "entity_id": "feed:1447"
+    },
+    {
+      "id": "14",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Dreamina 3.1 排名变化",
+        "en": "Dreamina 3.1 rank change"
+      },
+      "subtitle": {
+        "zh": "#79 · Bytedance",
+        "en": "#79 · Bytedance"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "Dreamina 3.1 排名变化",
+      "title_en": "Dreamina 3.1 rank change",
+      "subtitle_zh": "#79 · Bytedance",
+      "subtitle_en": "#79 · Bytedance",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:Dreamina 3.1"
+    },
+    {
+      "id": "15",
       "type": "github_surge",
       "title": {
         "zh": "addyosmani/agent-skills 星标异动",
@@ -275,123 +379,19 @@
         "en": "Production-grade engineering skills for AI coding agents."
       },
       "signal": {
-        "zh": "+465 星标",
-        "en": "+465 stars"
+        "zh": "+332 星标",
+        "en": "+332 stars"
       },
       "title_zh": "addyosmani/agent-skills 星标异动",
       "title_en": "addyosmani/agent-skills star surge",
       "subtitle_zh": "Production-grade engineering skills for AI coding agents.",
       "subtitle_en": "Production-grade engineering skills for AI coding agents.",
-      "signal_zh": "+465 星标",
-      "signal_en": "+465 stars",
+      "signal_zh": "+332 星标",
+      "signal_en": "+332 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/addyosmani/agent-skills",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
       "entity_id": "repo:addyosmani/agent-skills"
-    },
-    {
-      "id": "12",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "GPT Image 2.5 Sunburst (max) 排名变化",
-        "en": "GPT Image 2.5 Sunburst (max) rank change"
-      },
-      "subtitle": {
-        "zh": "#2 · OpenAI",
-        "en": "#2 · OpenAI"
-      },
-      "signal": {
-        "zh": "排名 ↑1",
-        "en": "rank ↑1"
-      },
-      "title_zh": "GPT Image 2.5 Sunburst (max) 排名变化",
-      "title_en": "GPT Image 2.5 Sunburst (max) rank change",
-      "subtitle_zh": "#2 · OpenAI",
-      "subtitle_en": "#2 · OpenAI",
-      "signal_zh": "排名 ↑1",
-      "signal_en": "rank ↑1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:GPT Image 2.5 Sunburst (max)"
-    },
-    {
-      "id": "13",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Gemini Intelligence: New features, on more devices",
-        "en": "Gemini Intelligence: New features, on more devices"
-      },
-      "subtitle": {
-        "zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-        "en": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Gemini Intelligence: New features, on more devices",
-      "title_en": "Gemini Intelligence: New features, on more devices",
-      "subtitle_zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "subtitle_en": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "occurred_at": "2026-11-10T19:00:00.000Z",
-      "entity_id": "feed:1430"
-    },
-    {
-      "id": "14",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "GPT Image 2.6 Flare (max) 排名变化",
-        "en": "GPT Image 2.6 Flare (max) rank change"
-      },
-      "subtitle": {
-        "zh": "#3 · OpenAI",
-        "en": "#3 · OpenAI"
-      },
-      "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
-      },
-      "title_zh": "GPT Image 2.6 Flare (max) 排名变化",
-      "title_en": "GPT Image 2.6 Flare (max) rank change",
-      "subtitle_zh": "#3 · OpenAI",
-      "subtitle_en": "#3 · OpenAI",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:GPT Image 2.6 Flare (max)"
-    },
-    {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "ranxianglei/billion-context 星标异动",
-        "en": "ranxianglei/billion-context star surge"
-      },
-      "subtitle": {
-        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
-      },
-      "signal": {
-        "zh": "+374 星标",
-        "en": "+374 stars"
-      },
-      "title_zh": "ranxianglei/billion-context 星标异动",
-      "title_en": "ranxianglei/billion-context star surge",
-      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "signal_zh": "+374 星标",
-      "signal_en": "+374 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
-      "entity_id": "repo:ranxianglei/billion-context"
     },
     {
       "id": "16",
@@ -405,123 +405,123 @@
         "en": "Browser automation CLI for AI agents"
       },
       "signal": {
-        "zh": "+372 星标",
-        "en": "+372 stars"
+        "zh": "+331 星标",
+        "en": "+331 stars"
       },
       "title_zh": "vercel-labs/agent-browser 星标异动",
       "title_en": "vercel-labs/agent-browser star surge",
       "subtitle_zh": "Browser automation CLI for AI agents",
       "subtitle_en": "Browser automation CLI for AI agents",
-      "signal_zh": "+372 星标",
-      "signal_en": "+372 stars",
+      "signal_zh": "+331 星标",
+      "signal_en": "+331 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/vercel-labs/agent-browser",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
       "entity_id": "repo:vercel-labs/agent-browser"
     },
     {
       "id": "17",
       "type": "model_rank_change",
       "title": {
-        "zh": "MAI-Image-2.5-Pro 排名变化",
-        "en": "MAI-Image-2.5-Pro rank change"
+        "zh": "MAI-Image-2.5 排名变化",
+        "en": "MAI-Image-2.5 rank change"
       },
       "subtitle": {
         "zh": "#15 · Microsoft AI",
         "en": "#15 · Microsoft AI"
       },
       "signal": {
-        "zh": "排名 ↑1",
-        "en": "rank ↑1"
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
       },
-      "title_zh": "MAI-Image-2.5-Pro 排名变化",
-      "title_en": "MAI-Image-2.5-Pro rank change",
+      "title_zh": "MAI-Image-2.5 排名变化",
+      "title_en": "MAI-Image-2.5 rank change",
       "subtitle_zh": "#15 · Microsoft AI",
       "subtitle_en": "#15 · Microsoft AI",
-      "signal_zh": "排名 ↑1",
-      "signal_en": "rank ↑1",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:MAI-Image-2.5-Pro"
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:MAI-Image-2.5"
     },
     {
       "id": "18",
       "type": "feed_must_read",
       "title": {
-        "zh": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-        "en": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?"
+        "zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
       },
       "subtitle": {
-        "zh": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-        "en": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek."
+        "zh": "",
+        "en": ""
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "title_en": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "subtitle_zh": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-      "subtitle_en": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "title_zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "subtitle_zh": "",
+      "subtitle_en": "",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Latent Space",
-      "url": "https://latent.space/p/naiveai/",
-      "occurred_at": "2026-11-10T18:56:32.000Z",
-      "entity_id": "feed:1431"
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "occurred_at": "2026-11-11T05:01:16.000Z",
+      "entity_id": "feed:1448"
     },
     {
       "id": "19",
       "type": "model_rank_change",
       "title": {
-        "zh": "FLUX 3 Image 排名变化",
-        "en": "FLUX 3 Image rank change"
+        "zh": "FLUX.2 [flex] 排名变化",
+        "en": "FLUX.2 [flex] rank change"
       },
       "subtitle": {
-        "zh": "#16 · Black Forest Labs",
-        "en": "#16 · Black Forest Labs"
+        "zh": "#32 · Black Forest Labs",
+        "en": "#32 · Black Forest Labs"
       },
       "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
+        "zh": "排名 ↓2",
+        "en": "rank ↓2"
       },
-      "title_zh": "FLUX 3 Image 排名变化",
-      "title_en": "FLUX 3 Image rank change",
-      "subtitle_zh": "#16 · Black Forest Labs",
-      "subtitle_en": "#16 · Black Forest Labs",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
+      "title_zh": "FLUX.2 [flex] 排名变化",
+      "title_en": "FLUX.2 [flex] rank change",
+      "subtitle_zh": "#32 · Black Forest Labs",
+      "subtitle_en": "#32 · Black Forest Labs",
+      "signal_zh": "排名 ↓2",
+      "signal_en": "rank ↓2",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-10T19:51:32.842Z",
-      "entity_id": "model:FLUX 3 Image"
+      "occurred_at": "2026-11-11T06:44:42.954Z",
+      "entity_id": "model:FLUX.2 [flex]"
     },
     {
       "id": "20",
       "type": "github_surge",
       "title": {
-        "zh": "homeassistant-ai/ha-mcp 星标异动",
-        "en": "homeassistant-ai/ha-mcp star surge"
+        "zh": "ranxianglei/billion-context 星标异动",
+        "en": "ranxianglei/billion-context star surge"
       },
       "subtitle": {
-        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
       },
       "signal": {
-        "zh": "+331 星标",
-        "en": "+331 stars"
+        "zh": "+319 星标",
+        "en": "+319 stars"
       },
-      "title_zh": "homeassistant-ai/ha-mcp 星标异动",
-      "title_en": "homeassistant-ai/ha-mcp star surge",
-      "subtitle_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "subtitle_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "signal_zh": "+331 星标",
-      "signal_en": "+331 stars",
+      "title_zh": "ranxianglei/billion-context 星标异动",
+      "title_en": "ranxianglei/billion-context star surge",
+      "subtitle_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "subtitle_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "signal_zh": "+319 星标",
+      "signal_en": "+319 stars",
       "source": "GitHub Trending",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "occurred_at": "2026-11-10T19:51:23.329Z",
-      "entity_id": "repo:homeassistant-ai/ha-mcp"
+      "url": "https://github.com/ranxianglei/billion-context",
+      "occurred_at": "2026-11-11T06:44:35.932Z",
+      "entity_id": "repo:ranxianglei/billion-context"
     }
   ]
 }
