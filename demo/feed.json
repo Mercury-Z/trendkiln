@@ -2,6 +2,30 @@
   "source": "db",
   "items": [
     {
+      "id": "1459",
+      "title": {
+        "zh": "Visual Studio Code 1.147 (Insiders)",
+        "en": "Visual Studio Code 1.147 (Insiders)"
+      },
+      "summary": {
+        "zh": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
+        "en": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article"
+      },
+      "title_zh": "Visual Studio Code 1.147 (Insiders)",
+      "title_en": "Visual Studio Code 1.147 (Insiders)",
+      "summary_zh": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
+      "summary_en": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
+      "title_text": "Visual Studio Code 1.147 (Insiders)",
+      "summary_text": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
+      "source_id": "1",
+      "source_name": "VS Code Blog",
+      "url": "https://code.visualstudio.com/updates/v1_147",
+      "published_at": "2026-11-18T17:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1446",
       "title": {
         "zh": "Gilbert + Tobin rethinks the business of law with AI",
@@ -26,26 +50,281 @@
       "saved": false
     },
     {
-      "id": "1323",
+      "id": "1460",
       "title": {
-        "zh": "Visual Studio Code 1.146 (Insiders)",
-        "en": "Visual Studio Code 1.146 (Insiders)"
+        "zh": "Browse tools.simonwillison.net by tag",
+        "en": "Browse tools.simonwillison.net by tag"
       },
       "summary": {
-        "zh": "Learn what is new in Visual Studio Code Insiders. Read the full article",
-        "en": "Learn what is new in Visual Studio Code Insiders. Read the full article"
+        "zh": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
+        "en": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…"
       },
-      "title_zh": "Visual Studio Code 1.146 (Insiders)",
-      "title_en": "Visual Studio Code 1.146 (Insiders)",
-      "summary_zh": "Learn what is new in Visual Studio Code Insiders. Read the full article",
-      "summary_en": "Learn what is new in Visual Studio Code Insiders. Read the full article",
-      "title_text": "Visual Studio Code 1.146 (Insiders)",
-      "summary_text": "Learn what is new in Visual Studio Code Insiders. Read the full article",
+      "title_zh": "Browse tools.simonwillison.net by tag",
+      "title_en": "Browse tools.simonwillison.net by tag",
+      "summary_zh": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
+      "summary_en": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
+      "title_text": "Browse tools.simonwillison.net by tag",
+      "summary_text": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "published_at": "2026-11-11T18:42:50.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1461",
+      "title": {
+        "zh": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "en": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+      },
+      "summary": {
+        "zh": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+      },
+      "title_zh": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary_zh": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "summary_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "title_text": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary_text": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "source_id": "9",
+      "source_name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published_at": "2026-11-11T18:00:00.000Z",
+      "tags": [
+        "Developer tools",
+        "AI"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1462",
+      "title": {
+        "zh": "llm 0.37.2",
+        "en": "llm 0.37.2"
+      },
+      "summary": {
+        "zh": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…",
+        "en": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…"
+      },
+      "title_zh": "llm 0.37.2",
+      "title_en": "llm 0.37.2",
+      "summary_zh": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…",
+      "summary_en": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…",
+      "title_text": "llm 0.37.2",
+      "summary_text": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "published_at": "2026-11-11T17:19:52.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1463",
+      "title": {
+        "zh": "Issue types and fields are available for personal accounts",
+        "en": "Issue types and fields are available for personal accounts"
+      },
+      "summary": {
+        "zh": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .",
+        "en": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Issue types and fields are available for personal accounts",
+      "title_en": "Issue types and fields are available for personal accounts",
+      "summary_zh": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .",
+      "summary_en": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .",
+      "title_text": "Issue types and fields are available for personal accounts",
+      "summary_text": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+      "published_at": "2026-11-11T17:16:46.000Z",
+      "tags": [
+        "Improvement",
+        "projects & issues"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1323",
+      "title": {
+        "zh": "Visual Studio Code 1.146",
+        "en": "Visual Studio Code 1.146"
+      },
+      "summary": {
+        "zh": "Learn what's new in Visual Studio Code 1.146 Read the full article",
+        "en": "Learn what's new in Visual Studio Code 1.146 Read the full article"
+      },
+      "title_zh": "Visual Studio Code 1.146",
+      "title_en": "Visual Studio Code 1.146",
+      "summary_zh": "Learn what's new in Visual Studio Code 1.146 Read the full article",
+      "summary_en": "Learn what's new in Visual Studio Code 1.146 Read the full article",
+      "title_text": "Visual Studio Code 1.146",
+      "summary_text": "Learn what's new in Visual Studio Code 1.146 Read the full article",
       "source_id": "1",
       "source_name": "VS Code Blog",
       "url": "https://code.visualstudio.com/updates/v1_146",
       "published_at": "2026-11-11T17:00:00.000Z",
       "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1464",
+      "title": {
+        "zh": "rust-v0.170.0-alpha.1",
+        "en": "rust-v0.170.0-alpha.1"
+      },
+      "summary": {
+        "zh": "Release 0.170.0-alpha.1",
+        "en": "Release 0.170.0-alpha.1"
+      },
+      "title_zh": "rust-v0.170.0-alpha.1",
+      "title_en": "rust-v0.170.0-alpha.1",
+      "summary_zh": "Release 0.170.0-alpha.1",
+      "summary_en": "Release 0.170.0-alpha.1",
+      "title_text": "rust-v0.170.0-alpha.1",
+      "summary_text": "Release 0.170.0-alpha.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
+      "published_at": "2026-11-11T16:21:33.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1465",
+      "title": {
+        "zh": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
+      },
+      "summary": {
+        "zh": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+        "en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+      },
+      "title_zh": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary_zh": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "summary_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "title_text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary_text": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "source_id": "9",
+      "source_name": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published_at": "2026-11-11T16:00:00.000Z",
+      "tags": [
+        "Google Labs",
+        "AI"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1466",
+      "title": {
+        "zh": "Anthropic's IPO roadshow video",
+        "en": "Anthropic's IPO roadshow video"
+      },
+      "summary": {
+        "zh": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Clau…",
+        "en": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Clau…"
+      },
+      "title_zh": "Anthropic's IPO roadshow video",
+      "title_en": "Anthropic's IPO roadshow video",
+      "summary_zh": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Clau…",
+      "summary_en": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Clau…",
+      "title_text": "Anthropic's IPO roadshow video",
+      "summary_text": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Clau…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "published_at": "2026-11-11T15:11:59.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1467",
+      "title": {
+        "zh": "0.169.0-alpha.11",
+        "en": "0.169.0-alpha.11"
+      },
+      "summary": {
+        "zh": "Release 0.169.0-alpha.11",
+        "en": "Release 0.169.0-alpha.11"
+      },
+      "title_zh": "0.169.0-alpha.11",
+      "title_en": "0.169.0-alpha.11",
+      "summary_zh": "Release 0.169.0-alpha.11",
+      "summary_en": "Release 0.169.0-alpha.11",
+      "title_text": "0.169.0-alpha.11",
+      "summary_text": "Release 0.169.0-alpha.11",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11",
+      "published_at": "2026-11-11T10:17:38.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1468",
+      "title": {
+        "zh": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+        "en": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate"
+      },
+      "summary": {
+        "zh": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+        "en": "November 10, 2026 — Google GA's Gemini 4 Carbon."
+      },
+      "title_zh": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "title_en": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "summary_zh": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "summary_en": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "title_text": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "summary_text": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "published_at": "2026-11-11T09:34:28.000Z",
+      "tags": [
+        "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1469",
+      "title": {
+        "zh": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "en": "Experience the art and legacy of Dr. Esther Mahlangu"
+      },
+      "summary": {
+        "zh": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+        "en": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+      },
+      "title_zh": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary_zh": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "summary_en": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "title_text": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary_text": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "source_id": "9",
+      "source_name": "Google AI Blog",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published_at": "2026-11-11T09:00:00.000Z",
+      "tags": [
+        "Arts & Culture",
+        "Google in Africa",
+        "AI"
+      ],
       "read_at": null,
       "saved": false
     },
@@ -196,6 +475,78 @@
         "copilot",
         "enterprise management tools"
       ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1470",
+      "title": {
+        "zh": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "en": "JioStar’s chief architect on AI discovery at 500M-user scale"
+      },
+      "summary": {
+        "zh": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "en": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+      },
+      "title_zh": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary_zh": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "summary_en": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "title_text": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary_text": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published_at": "2026-11-11T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1471",
+      "title": {
+        "zh": "Gemini Decision 1 now available on AI Gateway",
+        "en": "Gemini Decision 1 now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use…",
+        "en": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use…"
+      },
+      "title_zh": "Gemini Decision 1 now available on AI Gateway",
+      "title_en": "Gemini Decision 1 now available on AI Gateway",
+      "summary_zh": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use…",
+      "summary_en": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use…",
+      "title_text": "Gemini Decision 1 now available on AI Gateway",
+      "summary_text": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+      "published_at": "2026-11-11T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1472",
+      "title": {
+        "zh": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "en": "Token Pooling-Aware Training for Multi-Vector Embedding Models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary_text": "",
+      "source_id": "8",
+      "source_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published_at": "2026-11-11T00:00:00.000Z",
+      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -957,30 +1308,6 @@
       "saved": false
     },
     {
-      "id": "1427",
-      "title": {
-        "zh": "0.167.0-alpha.4.1",
-        "en": "0.167.0-alpha.4.1"
-      },
-      "summary": {
-        "zh": "Release 0.167.0-alpha.4.1",
-        "en": "Release 0.167.0-alpha.4.1"
-      },
-      "title_zh": "0.167.0-alpha.4.1",
-      "title_en": "0.167.0-alpha.4.1",
-      "summary_zh": "Release 0.167.0-alpha.4.1",
-      "summary_en": "Release 0.167.0-alpha.4.1",
-      "title_text": "0.167.0-alpha.4.1",
-      "summary_text": "Release 0.167.0-alpha.4.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.1",
-      "published_at": "2026-11-09T23:49:13.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1401",
       "title": {
         "zh": "0.169.0-alpha.7",
@@ -1300,30 +1627,6 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.5",
       "published_at": "2026-11-09T07:29:29.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1395",
-      "title": {
-        "zh": "rust-v0.169.0-alpha.4",
-        "en": "rust-v0.169.0-alpha.4"
-      },
-      "summary": {
-        "zh": "Release 0.169.0-alpha.4",
-        "en": "Release 0.169.0-alpha.4"
-      },
-      "title_zh": "rust-v0.169.0-alpha.4",
-      "title_en": "rust-v0.169.0-alpha.4",
-      "summary_zh": "Release 0.169.0-alpha.4",
-      "summary_en": "Release 0.169.0-alpha.4",
-      "title_text": "rust-v0.169.0-alpha.4",
-      "summary_text": "Release 0.169.0-alpha.4",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.4",
-      "published_at": "2026-11-09T05:37:54.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1687,309 +1990,6 @@
       "tags": [
         "ainews: weekday roundups"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1381",
-      "title": {
-        "zh": "Copilot code review: API management and review overview updates",
-        "en": "Copilot code review: API management and review overview updates"
-      },
-      "summary": {
-        "zh": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-        "en": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Copilot code review: API management and review overview updates",
-      "title_en": "Copilot code review: API management and review overview updates",
-      "summary_zh": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-      "summary_en": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-      "title_text": "Copilot code review: API management and review overview updates",
-      "summary_text": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "published_at": "2026-11-07T00:27:19.000Z",
-      "tags": [
-        "Improvement",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1391",
-      "title": {
-        "zh": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-        "en": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway"
-      },
-      "summary": {
-        "zh": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-        "en": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …"
-      },
-      "title_zh": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-      "title_en": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-      "summary_zh": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-      "summary_en": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-      "title_text": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-      "summary_text": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
-      "published_at": "2026-11-07T00:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1382",
-      "title": {
-        "zh": "Copilot impact dashboard adds chat and VS Code agent usage",
-        "en": "Copilot impact dashboard adds chat and VS Code agent usage"
-      },
-      "summary": {
-        "zh": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-        "en": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "title_en": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "summary_zh": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-      "summary_en": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-      "title_text": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "summary_text": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-      "published_at": "2026-11-06T22:17:28.000Z",
-      "tags": [
-        "Improvement",
-        "account management",
-        "copilot",
-        "enterprise management tools"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1384",
-      "title": {
-        "zh": "Beyond code generation: A developer’s guide to agentic engineering",
-        "en": "Beyond code generation: A developer’s guide to agentic engineering"
-      },
-      "summary": {
-        "zh": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-        "en": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Beyond code generation: A developer’s guide to agentic engineering",
-      "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary_zh": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "summary_en": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "title_text": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary_text": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "source_id": "5",
-      "source_name": "GitHub AI & ML",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "published_at": "2026-11-06T22:15:59.000Z",
-      "tags": [
-        "AI & ML",
-        "GitHub Copilot",
-        "GitHub Universe"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1385",
-      "title": {
-        "zh": "GitHub Copilot weekly releases — November 2",
-        "en": "GitHub Copilot weekly releases — November 2"
-      },
-      "summary": {
-        "zh": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
-        "en": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog ."
-      },
-      "title_zh": "GitHub Copilot weekly releases — November 2",
-      "title_en": "GitHub Copilot weekly releases — November 2",
-      "summary_zh": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
-      "summary_en": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
-      "title_text": "GitHub Copilot weekly releases — November 2",
-      "summary_text": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "published_at": "2026-11-06T21:00:26.000Z",
-      "tags": [
-        "Release",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1386",
-      "title": {
-        "zh": "Chat SDK agents can now stream generative UI with json-render",
-        "en": "Chat SDK agents can now stream generative UI with json-render"
-      },
-      "summary": {
-        "zh": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The cat…",
-        "en": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The cat…"
-      },
-      "title_zh": "Chat SDK agents can now stream generative UI with json-render",
-      "title_en": "Chat SDK agents can now stream generative UI with json-render",
-      "summary_zh": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The cat…",
-      "summary_en": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The cat…",
-      "title_text": "Chat SDK agents can now stream generative UI with json-render",
-      "summary_text": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The cat…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "published_at": "2026-11-06T21:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1387",
-      "title": {
-        "zh": "AI Gateway adds DeepSeek Search and Fetch tools",
-        "en": "AI Gateway adds DeepSeek Search and Fetch tools"
-      },
-      "summary": {
-        "zh": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account i…",
-        "en": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account i…"
-      },
-      "title_zh": "AI Gateway adds DeepSeek Search and Fetch tools",
-      "title_en": "AI Gateway adds DeepSeek Search and Fetch tools",
-      "summary_zh": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account i…",
-      "summary_en": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account i…",
-      "title_text": "AI Gateway adds DeepSeek Search and Fetch tools",
-      "summary_text": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account i…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
-      "published_at": "2026-11-06T21:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1370",
-      "title": {
-        "zh": "Vercel CLI can now set new projects to expire",
-        "en": "Vercel CLI can now set new projects to expire"
-      },
-      "summary": {
-        "zh": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
-        "en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…"
-      },
-      "title_zh": "Vercel CLI can now set new projects to expire",
-      "title_en": "Vercel CLI can now set new projects to expire",
-      "summary_zh": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
-      "summary_en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
-      "title_text": "Vercel CLI can now set new projects to expire",
-      "summary_text": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI pr…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
-      "published_at": "2026-11-06T18:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1371",
-      "title": {
-        "zh": "Quoting Nilay Patel",
-        "en": "Quoting Nilay Patel"
-      },
-      "summary": {
-        "zh": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
-        "en": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…"
-      },
-      "title_zh": "Quoting Nilay Patel",
-      "title_en": "Quoting Nilay Patel",
-      "summary_zh": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
-      "summary_en": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
-      "title_text": "Quoting Nilay Patel",
-      "summary_text": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they mig…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-      "published_at": "2026-11-06T17:13:12.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1372",
-      "title": {
-        "zh": "Vercel Tracing is now generally available",
-        "en": "Vercel Tracing is now generally available"
-      },
-      "summary": {
-        "zh": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
-        "en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…"
-      },
-      "title_zh": "Vercel Tracing is now generally available",
-      "title_en": "Vercel Tracing is now generally available",
-      "summary_zh": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
-      "summary_en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
-      "title_text": "Vercel Tracing is now generally available",
-      "summary_text": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the L…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-      "published_at": "2026-11-06T17:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1373",
-      "title": {
-        "zh": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-        "en": "Controlling Biology - Fabian Theis, Helmholtz Munich"
-      },
-      "summary": {
-        "zh": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
-        "en": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology"
-      },
-      "title_zh": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "title_en": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "summary_zh": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
-      "summary_en": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
-      "title_text": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "summary_text": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
-      "published_at": "2026-11-06T15:10:53.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1374",
-      "title": {
-        "zh": "ToyBlocks: A controlled world for robot learning and evaluation",
-        "en": "ToyBlocks: A controlled world for robot learning and evaluation"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "title_en": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "published_at": "2026-11-06T14:00:48.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     }

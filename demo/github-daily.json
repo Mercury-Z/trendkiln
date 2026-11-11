@@ -22,12 +22,12 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "topics": [],
-      "stars": 23586,
-      "stars_delta": 1179,
-      "forks": 1853,
-      "forks_delta": 63,
+      "stars": 24680,
+      "stars_delta": 1094,
+      "forks": 1928,
+      "forks_delta": 75,
       "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
         "zh": "An open source design system that's fully customizable and agent ready",
         "en": "An open source design system that's fully customizable and agent ready"
@@ -50,40 +50,110 @@
     },
     {
       "rank": 2,
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "topics": [
-        "agent-skills"
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
       ],
-      "stars": 192596,
-      "stars_delta": 461,
-      "forks": 22671,
-      "forks_delta": 47,
-      "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "stars": 70063,
+      "stars_delta": 429,
+      "forks": 56812,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
+        "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
       },
       "strengths": {
-        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
+        "zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+        "en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…"
       },
       "innovations": {
-        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
+        "zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
+        "en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…"
       },
-      "purpose_zh": "Public repository for Agent Skills",
-      "purpose_en": "Public repository for Agent Skills",
-      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "purpose_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "purpose_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "strengths_zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+      "strengths_en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
+      "innovations_zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
+      "innovations_en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 3,
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 1634,
+      "stars_delta": 133,
+      "forks": 136,
+      "forks_delta": 0,
+      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
+      "purpose": {
+        "zh": "",
+        "en": ""
+      },
+      "strengths": {
+        "zh": "Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of…",
+        "en": "Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of…"
+      },
+      "innovations": {
+        "zh": "…legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform. See CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase. --- Stewarded…",
+        "en": "…legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform. See CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase. --- Stewarded…"
+      },
+      "purpose_zh": "",
+      "purpose_en": "",
+      "strengths_zh": "Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of…",
+      "strengths_en": "Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of…",
+      "innovations_zh": "…legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform. See CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase. --- Stewarded…",
+      "innovations_en": "…legacy patterns, and instead toward solutions that harness the power and capabilities of the modern web platform. See CONTRIBUTING.md and GOVERNANCE.md for how we work on the project and orientation of the codebase. --- Stewarded…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "topics": [],
+      "stars": 10707,
+      "stars_delta": 333,
+      "forks": 436,
+      "forks_delta": 0,
+      "html_url": "https://github.com/shadcn/improve",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
+      "purpose": {
+        "zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+      },
+      "strengths": {
+        "zh": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
+        "en": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…"
+      },
+      "innovations": {
+        "zh": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
+        "en": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…"
+      },
+      "purpose_zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "purpose_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "strengths_zh": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
+      "strengths_en": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
+      "innovations_zh": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
+      "innovations_en": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
@@ -95,12 +165,12 @@
         "cursor",
         "skills"
       ],
-      "stars": 115361,
-      "stars_delta": 332,
-      "forks": 12111,
-      "forks_delta": 28,
+      "stars": 115792,
+      "stars_delta": 431,
+      "forks": 12145,
+      "forks_delta": 34,
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
         "zh": "Production-grade engineering skills for AI coding agents.",
         "en": "Production-grade engineering skills for AI coding agents."
@@ -122,158 +192,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "topics": [],
-      "stars": 20628,
-      "stars_delta": 224,
-      "forks": 3477,
-      "forks_delta": 13,
-      "html_url": "https://github.com/anthropics/claude-quickstarts",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-      },
-      "strengths": {
-        "zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-        "en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…"
-      },
-      "innovations": {
-        "zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-        "en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…"
-      },
-      "purpose_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "purpose_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "strengths_zh": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-      "strengths_en": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upo…",
-      "innovations_zh": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-      "innovations_en": "…onsole.anthropic.com. Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "topics": [
-        "mujoco",
-        "physics",
-        "robotics"
-      ],
-      "stars": 17487,
-      "stars_delta": 206,
-      "forks": 2158,
-      "forks_delta": 20,
-      "html_url": "https://github.com/google-deepmind/mujoco",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-      },
-      "strengths": {
-        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
-      },
-      "innovations": {
-        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
-      },
-      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 6,
-      "full_name": "we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "topics": [],
-      "stars": 12222,
-      "stars_delta": 452,
-      "forks": 906,
-      "forks_delta": 27,
-      "html_url": "https://github.com/we-promise/sure",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "The personal finance app for everyone (by everyone)",
-        "en": "The personal finance app for everyone (by everyone)"
-      },
-      "strengths": {
-        "zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-        "en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…"
-      },
-      "innovations": {
-        "zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-        "en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…"
-      },
-      "purpose_zh": "The personal finance app for everyone (by everyone)",
-      "purpose_en": "The personal finance app for everyone (by everyone)",
-      "strengths_zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-      "strengths_en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-      "innovations_zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-      "innovations_en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "claude",
-        "hacs",
-        "home-assistant",
-        "home-automation",
-        "llm",
-        "mcp",
-        "model-context-protocol"
-      ],
-      "stars": 6815,
-      "stars_delta": 297,
-      "forks": 439,
-      "forks_delta": 14,
-      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-      },
-      "strengths": {
-        "zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-        "en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…"
-      },
-      "innovations": {
-        "zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-        "en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…"
-      },
-      "purpose_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "purpose_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "strengths_zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-      "strengths_en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-      "innovations_zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-      "innovations_en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
       "full_name": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "topics": [],
-      "stars": 49433,
-      "stars_delta": 331,
-      "forks": 3461,
-      "forks_delta": 18,
+      "stars": 49771,
+      "stars_delta": 338,
+      "forks": 3481,
+      "forks_delta": 20,
       "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
         "zh": "Browser automation CLI for AI agents",
         "en": "Browser automation CLI for AI agents"
@@ -295,150 +224,167 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "topics": [
-        "cli",
-        "cti",
-        "cybersecurity",
-        "forensics",
-        "hacktoberfest",
-        "information-gathering",
-        "infosec",
-        "linux",
-        "osint",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "sherlock",
-        "tools"
-      ],
-      "stars": 109396,
-      "stars_delta": 642,
-      "forks": 12692,
-      "forks_delta": 49,
-      "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "rank": 7,
+      "full_name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "topics": [],
+      "stars": 12778,
+      "stars_delta": 556,
+      "forks": 947,
+      "forks_delta": 41,
+      "html_url": "https://github.com/we-promise/sure",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
+        "zh": "The personal finance app for everyone (by everyone)",
+        "en": "The personal finance app for everyone (by everyone)"
       },
       "strengths": {
-        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+        "zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+        "en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…"
       },
       "innovations": {
-        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+        "zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+        "en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…"
       },
-      "purpose_zh": "Hunt down social media accounts by username across social networks",
-      "purpose_en": "Hunt down social media accounts by username across social networks",
-      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "purpose_zh": "The personal finance app for everyone (by everyone)",
+      "purpose_en": "The personal finance app for everyone (by everyone)",
+      "strengths_zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "strengths_en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "innovations_zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+      "innovations_en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "llm",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "stars": 7203,
+      "stars_delta": 388,
+      "forks": 448,
+      "forks_delta": 9,
+      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
+      "purpose": {
+        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+      },
+      "strengths": {
+        "zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+        "en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…"
+      },
+      "innovations": {
+        "zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+        "en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…"
+      },
+      "purpose_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "purpose_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "strengths_zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+      "strengths_en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
+      "innovations_zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+      "innovations_en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "topics": [
+        "ai-security",
+        "application-security",
+        "cli",
+        "code-scanning",
+        "codex",
+        "codex-security",
+        "cybersecurity",
+        "devsecops",
+        "nodejs",
+        "npm",
+        "openai",
+        "sdk",
+        "security",
+        "typescript",
+        "vulnerability-scanning"
+      ],
+      "stars": 11601,
+      "stars_delta": 20,
+      "forks": 921,
+      "forks_delta": 0,
+      "html_url": "https://github.com/openai/codex-security",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
+      "purpose": {
+        "zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+      },
+      "strengths": {
+        "zh": "Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. - In Codex: choose a se…",
+        "en": "Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. - In Codex: choose a se…"
+      },
+      "innovations": {
+        "zh": "…ed paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for…",
+        "en": "…ed paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for…"
+      },
+      "purpose_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "purpose_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "strengths_zh": "Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. - In Codex: choose a se…",
+      "strengths_en": "Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. - In Codex: choose a se…",
+      "innovations_zh": "…ed paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for…",
+      "innovations_en": "…ed paths, or Git changes. Deep scans repeat Standard scans and return their deduplicated findings. - Validate candidate findings, generate patches, and verify existing fixes. - Draft SECURITY.md policies and save threat models for…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 10,
-      "full_name": "tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "topics": [],
-      "stars": 6950,
-      "stars_delta": 232,
-      "forks": 309,
-      "forks_delta": 14,
-      "html_url": "https://github.com/tokio-rs/topcoat",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "A batteries-included framework for building web apps",
-        "en": "A batteries-included framework for building web apps"
-      },
-      "strengths": {
-        "zh": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
-        "en": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…"
-      },
-      "innovations": {
-        "zh": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
-        "en": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…"
-      },
-      "purpose_zh": "A batteries-included framework for building web apps",
-      "purpose_en": "A batteries-included framework for building web apps",
-      "strengths_zh": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
-      "strengths_en": "The full full-stack framework for Rust [![Crates.io][crates-badge]][crates-url] [![Docs.rs][docs-badge]][docs-url] [![MIT licensed][mit-badge]][mit-url] [![Build Status][actions-badge]][actions-url] [![Discord chat][discord-badge]…",
-      "innovations_zh": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
-      "innovations_en": "…lds.io/docsrs/topcoat?style=flat-square [docs-url]: https://docs.rs/topcoat/latest/topcoat [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square [mit-url]: https://github.com/tokio-rs/topcoat/blob/main/L…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "language": "TypeScript",
+      "full_name": "TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
       "topics": [
-        "dsh-plugin"
+        "algorithm",
+        "algorithm-challenges",
+        "algorithms",
+        "algorithms-datastructures",
+        "data-structures",
+        "hacktoberfest",
+        "java",
+        "search",
+        "sort",
+        "sorting-algorithms"
       ],
-      "stars": 6520,
-      "stars_delta": 319,
-      "forks": 537,
-      "forks_delta": 12,
-      "html_url": "https://github.com/ranxianglei/billion-context",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
+      "stars": 66955,
+      "stars_delta": 108,
+      "forks": 21499,
+      "forks_delta": 0,
+      "html_url": "https://github.com/TheAlgorithms/Java",
+      "snapshot_at": "2026-11-11T19:43:01.100Z",
       "purpose": {
-        "zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+        "zh": "All Algorithms implemented in Java",
+        "en": "All Algorithms implemented in Java"
       },
       "strengths": {
-        "zh": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
-        "en": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…"
+        "zh": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
+        "en": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…"
       },
       "innovations": {
-        "zh": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
-        "en": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…"
+        "zh": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
+        "en": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java."
       },
-      "purpose_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "purpose_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "strengths_zh": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
-      "strengths_en": "billion-context English 中文 日本語 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens · month-long single sessions (billions of tokens) · high compression quality npm…",
-      "innovations_zh": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
-      "innovations_en": "…; &nbsp; &nbsp; &nbsp; &nbsp; --- Cache health at a glance: a healthy session keeps a 95–97% prefix-cache hit rate — compression itself costs ≤2%. Sustained lower? Check attribution with /acp or /acp-cache (see FAQ); usual causes,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 321214,
-      "stars_delta": 470,
-      "forks": 26931,
-      "forks_delta": 34,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-11T06:44:35.932Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "purpose_zh": "All Algorithms implemented in Java",
+      "purpose_en": "All Algorithms implemented in Java",
+      "strengths_zh": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
+      "strengths_en": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
+      "innovations_zh": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
+      "innovations_en": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
       "insights_source": "readme-excerpt"
     }
   ]

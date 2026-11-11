@@ -22,12 +22,12 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "topics": [],
-      "stars": 11566,
-      "stars_delta": 177,
-      "forks": 953,
-      "forks_delta": 17,
+      "stars": 11779,
+      "stars_delta": 213,
+      "forks": 966,
+      "forks_delta": 13,
       "html_url": "https://github.com/NVIDIA/auto-ontology",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
         "en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
@@ -50,63 +50,18 @@
     },
     {
       "rank": 2,
-      "full_name": "vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "stars": 21586,
-      "stars_delta": 325,
-      "forks": 1603,
-      "forks_delta": 18,
-      "html_url": "https://github.com/vercel-labs/agent-desktop",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
-      "purpose": {
-        "zh": "Computer use CLI for AI agents",
-        "en": "Computer use CLI for AI agents"
-      },
-      "strengths": {
-        "zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-        "en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…"
-      },
-      "innovations": {
-        "zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-        "en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…"
-      },
-      "purpose_zh": "Computer use CLI for AI agents",
-      "purpose_en": "Computer use CLI for AI agents",
-      "strengths_zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-      "strengths_en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-      "innovations_zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-      "innovations_en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
-      "stars": 192596,
-      "stars_delta": 461,
-      "forks": 22671,
-      "forks_delta": 47,
+      "stars": 193024,
+      "stars_delta": 428,
+      "forks": 22712,
+      "forks_delta": 41,
       "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "Public repository for Agent Skills",
         "en": "Public repository for Agent Skills"
@@ -128,6 +83,51 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 3,
+      "full_name": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "stars": 21962,
+      "stars_delta": 376,
+      "forks": 1634,
+      "forks_delta": 31,
+      "html_url": "https://github.com/vercel-labs/agent-desktop",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
+      "purpose": {
+        "zh": "Computer use CLI for AI agents",
+        "en": "Computer use CLI for AI agents"
+      },
+      "strengths": {
+        "zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+        "en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…"
+      },
+      "innovations": {
+        "zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+        "en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…"
+      },
+      "purpose_zh": "Computer use CLI for AI agents",
+      "purpose_en": "Computer use CLI for AI agents",
+      "strengths_zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+      "strengths_en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+      "innovations_zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+      "innovations_en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 4,
       "full_name": "milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
@@ -145,12 +145,12 @@
         "self-hosted",
         "typescript"
       ],
-      "stars": 20839,
-      "stars_delta": 278,
-      "forks": 2891,
-      "forks_delta": 44,
+      "stars": 21171,
+      "stars_delta": 332,
+      "forks": 2953,
+      "forks_delta": 62,
       "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
@@ -173,55 +173,16 @@
     },
     {
       "rank": 5,
-      "full_name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "stars": 12418,
-      "stars_delta": 41,
-      "forks": 491,
-      "forks_delta": 6,
-      "html_url": "https://github.com/max-sixty/worktrunk",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
-      "purpose": {
-        "zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-        "en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…"
-      },
-      "innovations": {
-        "zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-        "en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…"
-      },
-      "purpose_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "purpose_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "strengths_zh": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "strengths_en": "&nbsp;&nbsp;Worktrunk November 2026: Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all;…",
-      "innovations_zh": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-      "innovations_en": "…ent, designed for running AI agents in parallel. Worktrunk's three core commands make worktrees as easy as branches. Plus, Worktrunk has a bunch of quality-of-life features to simplify working with many parallel changes, including…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
       "full_name": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "topics": [],
-      "stars": 49433,
-      "stars_delta": 331,
-      "forks": 3461,
-      "forks_delta": 18,
+      "stars": 49771,
+      "stars_delta": 338,
+      "forks": 3481,
+      "forks_delta": 20,
       "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "Browser automation CLI for AI agents",
         "en": "Browser automation CLI for AI agents"
@@ -243,94 +204,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "topics": [
-        "ai-agents",
-        "ai-assisted-development",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "game-design",
-        "game-development",
-        "gamedev",
-        "godot",
-        "indie-game-dev",
-        "unity",
-        "unreal-engine"
-      ],
-      "stars": 38170,
-      "stars_delta": 169,
-      "forks": 4976,
-      "forks_delta": 12,
-      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
-      "purpose": {
-        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
-      },
-      "strengths": {
-        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
-      },
-      "innovations": {
-        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
-      },
-      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 321214,
-      "stars_delta": 470,
-      "forks": 26931,
-      "forks_delta": 34,
-      "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
-      "purpose": {
-        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
-        "en": "Skills for Real Engineers. Straight from my .agents directory."
-      },
-      "strengths": {
-        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
-      },
-      "innovations": {
-        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
-      },
-      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
-      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
-      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
-      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "full_name": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 69586,
-      "stars_delta": 545,
-      "forks": 4601,
-      "forks_delta": 45,
+      "stars": 70173,
+      "stars_delta": 587,
+      "forks": 4650,
+      "forks_delta": 49,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -352,102 +236,39 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "anthropic",
-        "code-review",
-        "coding-assistant",
-        "devtools",
-        "ollama",
-        "openai",
-        "pull-request",
-        "pull-requests"
-      ],
-      "stars": 15899,
-      "stars_delta": 47,
-      "forks": 2173,
-      "forks_delta": 4,
-      "html_url": "https://github.com/The-PR-Agent/pr-agent",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "rank": 7,
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 321858,
+      "stars_delta": 644,
+      "forks": 26982,
+      "forks_delta": 51,
+      "html_url": "https://github.com/mattpocock/skills",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
-        "zh": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-        "en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+        "zh": "Skills for Real Engineers. Straight from my .agents directory.",
+        "en": "Skills for Real Engineers. Straight from my .agents directory."
       },
       "strengths": {
-        "zh": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
-        "en": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…"
+        "zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+        "en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…"
       },
       "innovations": {
-        "zh": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
-        "en": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…"
+        "zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+        "en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…"
       },
-      "purpose_zh": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "purpose_en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "strengths_zh": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
-      "strengths_en": "The Original Open-Source PR Reviewer --- This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-mai…",
-      "innovations_zh": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
-      "innovations_en": "…rsion for open-source projects and integrates seamlessly with GitHub, GitLab, Bitbucket, and Azure DevOps for high-quality automated reviews. Sponsors PR-Agent is a community-maintained open-source project, with its ongoing develo…",
+      "purpose_zh": "Skills for Real Engineers. Straight from my .agents directory.",
+      "purpose_en": "Skills for Real Engineers. Straight from my .agents directory.",
+      "strengths_zh": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "strengths_en": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while do…",
+      "innovations_zh": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
+      "innovations_en": "…model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my ne…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
-      "full_name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "anthropic",
-        "artificial-intelligence",
-        "chromadb",
-        "claude",
-        "claude-agent-sdk",
-        "claude-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "embeddings",
-        "long-term-memory",
-        "mem0",
-        "memory-engine",
-        "openmemory",
-        "rag",
-        "sqlite",
-        "supermemory"
-      ],
-      "stars": 115932,
-      "stars_delta": 176,
-      "forks": 10055,
-      "forks_delta": 10,
-      "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
-      "purpose": {
-        "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
-      },
-      "strengths": {
-        "zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-        "en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…"
-      },
-      "innovations": {
-        "zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
-        "en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…"
-      },
-      "purpose_zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "purpose_en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "strengths_zh": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-      "strengths_en": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Češtin…",
-      "innovations_zh": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
-      "innovations_en": "…🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
+      "rank": 8,
       "full_name": "D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
@@ -473,12 +294,12 @@
         "webscraping",
         "xpath"
       ],
-      "stars": 101285,
-      "stars_delta": 238,
-      "forks": 10566,
-      "forks_delta": 14,
+      "stars": 101581,
+      "stars_delta": 296,
+      "forks": 10588,
+      "forks_delta": 22,
       "html_url": "https://github.com/D4Vinci/Scrapling",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
         "zh": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
         "en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
@@ -500,76 +321,208 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
-      "full_name": "anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
+      "rank": 9,
+      "full_name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "topics": [
-        "dictation",
-        "linux",
-        "local-first",
-        "macos",
-        "rust",
-        "speech-recognition",
-        "speech-to-text",
-        "voice-control"
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
       ],
-      "stars": 6258,
-      "stars_delta": 106,
-      "forks": 378,
-      "forks_delta": 3,
-      "html_url": "https://github.com/anomalyco/hex",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "stars": 94694,
+      "stars_delta": 2262,
+      "forks": 11627,
+      "forks_delta": 0,
+      "html_url": "https://github.com/zed-industries/zed",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
-        "zh": "Local voice dictation for mac, windows and linux",
-        "en": "Local voice dictation for mac, windows and linux"
+        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
       },
       "strengths": {
-        "zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-        "en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…"
+        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
       },
       "innovations": {
-        "zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
-        "en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…"
+        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
       },
-      "purpose_zh": "Local voice dictation for mac, windows and linux",
-      "purpose_en": "Local voice dictation for mac, windows and linux",
-      "strengths_zh": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-      "strengths_en": "Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works - hold the shortcut, speak, then let go - Hex transcribes on your device and pastes into whatever app you're in - the firs…",
-      "innovations_zh": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
-      "innovations_en": "…release. Dev is the newest build of dev and updates itself from the dev channel. Platform Stable Dev --- --- --- macOS (Apple silicon) DMG DMG Windows x64 Installer Installer Windows ARM64 Installer Installer Linux x8664 Executabl…",
+      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 56054,
-      "stars_delta": 536,
-      "forks": 10378,
-      "forks_delta": 61,
-      "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-11-11T06:44:38.541Z",
+      "rank": 10,
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "ai-assisted-development",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "game-design",
+        "game-development",
+        "gamedev",
+        "godot",
+        "indie-game-dev",
+        "unity",
+        "unreal-engine"
+      ],
+      "stars": 38405,
+      "stars_delta": 235,
+      "forks": 4999,
+      "forks_delta": 23,
+      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
       "purpose": {
-        "zh": "",
-        "en": ""
+        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
       },
       "strengths": {
-        "zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-        "en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…"
+        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
       },
       "innovations": {
-        "zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-        "en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…"
+        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
       },
-      "purpose_zh": "",
-      "purpose_en": "",
-      "strengths_zh": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "strengths_en": "T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app. Works with your subscriptions on Claud…",
-      "innovations_zh": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
-      "innovations_en": "…g. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar. We wa…",
+      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
+      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "stars": 23912,
+      "stars_delta": 2024,
+      "forks": 1994,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google/skills",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
+      "purpose": {
+        "zh": "Agent Skills for Google products and technologies",
+        "en": "Agent Skills for Google products and technologies"
+      },
+      "strengths": {
+        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
+      },
+      "innovations": {
+        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
+      },
+      "purpose_zh": "Agent Skills for Google products and technologies",
+      "purpose_en": "Agent Skills for Google products and technologies",
+      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "stars": 17619,
+      "stars_delta": 1130,
+      "forks": 2166,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
+      "purpose": {
+        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      },
+      "strengths": {
+        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
+      },
+      "innovations": {
+        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
+      },
+      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "stars": 50271,
+      "stars_delta": 2196,
+      "forks": 4062,
+      "forks_delta": 0,
+      "html_url": "https://github.com/herdrdev/herdr",
+      "snapshot_at": "2026-11-11T19:43:04.740Z",
+      "purpose": {
+        "zh": "the runtime your coding agents live on",
+        "en": "the runtime your coding agents live on"
+      },
+      "strengths": {
+        "zh": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
+        "en": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…"
+      },
+      "innovations": {
+        "zh": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
+        "en": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…"
+      },
+      "purpose_zh": "the runtime your coding agents live on",
+      "purpose_en": "the runtime your coding agents live on",
+      "strengths_zh": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
+      "strengths_en": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
+      "innovations_zh": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
+      "innovations_en": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
       "insights_source": "readme-excerpt"
     }
   ]
