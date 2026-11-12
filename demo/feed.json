@@ -26,6 +26,80 @@
       "saved": false
     },
     {
+      "id": "1473",
+      "title": {
+        "zh": "[AINews] D-Day (Decision Models Day)",
+        "en": "[AINews] D-Day (Decision Models Day)"
+      },
+      "summary": {
+        "zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+        "en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers."
+      },
+      "title_zh": "[AINews] D-Day (Decision Models Day)",
+      "title_en": "[AINews] D-Day (Decision Models Day)",
+      "summary_zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "summary_en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "title_text": "[AINews] D-Day (Decision Models Day)",
+      "summary_text": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "published_at": "2026-11-12T05:26:54.000Z",
+      "tags": [
+        "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1474",
+      "title": {
+        "zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "en": "The Jev Revolution: What Engineers Are Already Building with System One Models"
+      },
+      "summary": {
+        "zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+        "en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
+      },
+      "title_zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "title_en": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "summary_zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "summary_en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "title_text": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "summary_text": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/jev-revolution/",
+      "published_at": "2026-11-12T05:08:20.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1475",
+      "title": {
+        "zh": "0.170.0-alpha.2",
+        "en": "0.170.0-alpha.2"
+      },
+      "summary": {
+        "zh": "Release 0.170.0-alpha.2",
+        "en": "Release 0.170.0-alpha.2"
+      },
+      "title_zh": "0.170.0-alpha.2",
+      "title_en": "0.170.0-alpha.2",
+      "summary_zh": "Release 0.170.0-alpha.2",
+      "summary_en": "Release 0.170.0-alpha.2",
+      "title_text": "0.170.0-alpha.2",
+      "summary_text": "Release 0.170.0-alpha.2",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2",
+      "published_at": "2026-11-12T01:34:33.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1446",
       "title": {
         "zh": "Gilbert + Tobin rethinks the business of law with AI",
@@ -45,6 +119,150 @@
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "published_at": "2026-11-12T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1476",
+      "title": {
+        "zh": "0.167.0-alpha.4.3",
+        "en": "0.167.0-alpha.4.3"
+      },
+      "summary": {
+        "zh": "Release 0.167.0-alpha.4.3",
+        "en": "Release 0.167.0-alpha.4.3"
+      },
+      "title_zh": "0.167.0-alpha.4.3",
+      "title_en": "0.167.0-alpha.4.3",
+      "summary_zh": "Release 0.167.0-alpha.4.3",
+      "summary_en": "Release 0.167.0-alpha.4.3",
+      "title_text": "0.167.0-alpha.4.3",
+      "summary_text": "Release 0.167.0-alpha.4.3",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.3",
+      "published_at": "2026-11-11T23:59:38.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1477",
+      "title": {
+        "zh": "0.167.2",
+        "en": "0.167.2"
+      },
+      "summary": {
+        "zh": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2",
+        "en": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2"
+      },
+      "title_zh": "0.167.2",
+      "title_en": "0.167.2",
+      "summary_zh": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2",
+      "summary_en": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2",
+      "title_text": "0.167.2",
+      "summary_text": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.2",
+      "published_at": "2026-11-11T22:46:17.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1478",
+      "title": {
+        "zh": "0.169.0-alpha.11.1",
+        "en": "0.169.0-alpha.11.1"
+      },
+      "summary": {
+        "zh": "Release 0.169.0-alpha.11.1",
+        "en": "Release 0.169.0-alpha.11.1"
+      },
+      "title_zh": "0.169.0-alpha.11.1",
+      "title_en": "0.169.0-alpha.11.1",
+      "summary_zh": "Release 0.169.0-alpha.11.1",
+      "summary_en": "Release 0.169.0-alpha.11.1",
+      "title_text": "0.169.0-alpha.11.1",
+      "summary_text": "Release 0.169.0-alpha.11.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11.1",
+      "published_at": "2026-11-11T22:27:26.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1479",
+      "title": {
+        "zh": "Gemini Decisions API",
+        "en": "Gemini Decisions API"
+      },
+      "summary": {
+        "zh": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…",
+        "en": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…"
+      },
+      "title_zh": "Gemini Decisions API",
+      "title_en": "Gemini Decisions API",
+      "summary_zh": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…",
+      "summary_en": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…",
+      "title_text": "Gemini Decisions API",
+      "summary_text": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "published_at": "2026-11-11T22:03:25.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1480",
+      "title": {
+        "zh": "aws-emulator",
+        "en": "aws-emulator"
+      },
+      "summary": {
+        "zh": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…",
+        "en": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…"
+      },
+      "title_zh": "aws-emulator",
+      "title_en": "aws-emulator",
+      "summary_zh": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…",
+      "summary_en": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…",
+      "title_text": "aws-emulator",
+      "summary_text": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "published_at": "2026-11-11T21:18:30.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1464",
+      "title": {
+        "zh": "0.170.0-alpha.1",
+        "en": "0.170.0-alpha.1"
+      },
+      "summary": {
+        "zh": "Release 0.170.0-alpha.1",
+        "en": "Release 0.170.0-alpha.1"
+      },
+      "title_zh": "0.170.0-alpha.1",
+      "title_en": "0.170.0-alpha.1",
+      "summary_zh": "Release 0.170.0-alpha.1",
+      "summary_en": "Release 0.170.0-alpha.1",
+      "title_text": "0.170.0-alpha.1",
+      "summary_text": "Release 0.170.0-alpha.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
+      "published_at": "2026-11-11T20:09:52.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -171,30 +389,6 @@
       "source_name": "VS Code Blog",
       "url": "https://code.visualstudio.com/updates/v1_146",
       "published_at": "2026-11-11T17:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1464",
-      "title": {
-        "zh": "rust-v0.170.0-alpha.1",
-        "en": "rust-v0.170.0-alpha.1"
-      },
-      "summary": {
-        "zh": "Release 0.170.0-alpha.1",
-        "en": "Release 0.170.0-alpha.1"
-      },
-      "title_zh": "rust-v0.170.0-alpha.1",
-      "title_en": "rust-v0.170.0-alpha.1",
-      "summary_zh": "Release 0.170.0-alpha.1",
-      "summary_en": "Release 0.170.0-alpha.1",
-      "title_text": "rust-v0.170.0-alpha.1",
-      "summary_text": "Release 0.170.0-alpha.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
-      "published_at": "2026-11-11T16:21:33.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1048,15 +1242,15 @@
         "en": "Quoting Prompting Claude Fable 5.2"
       },
       "summary": {
-        "zh": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code.…",
-        "en": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code.…"
+        "zh": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
+        "en": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…"
       },
       "title_zh": "Quoting Prompting Claude Fable 5.2",
       "title_en": "Quoting Prompting Claude Fable 5.2",
-      "summary_zh": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code.…",
-      "summary_en": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code.…",
+      "summary_zh": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
+      "summary_en": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
       "title_text": "Quoting Prompting Claude Fable 5.2",
-      "summary_text": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code.…",
+      "summary_text": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
       "source_id": "2",
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
@@ -1284,54 +1478,6 @@
       "saved": false
     },
     {
-      "id": "1426",
-      "title": {
-        "zh": "rust-v0.169.0-alpha.8",
-        "en": "rust-v0.169.0-alpha.8"
-      },
-      "summary": {
-        "zh": "Release 0.169.0-alpha.8",
-        "en": "Release 0.169.0-alpha.8"
-      },
-      "title_zh": "rust-v0.169.0-alpha.8",
-      "title_en": "rust-v0.169.0-alpha.8",
-      "summary_zh": "Release 0.169.0-alpha.8",
-      "summary_en": "Release 0.169.0-alpha.8",
-      "title_text": "rust-v0.169.0-alpha.8",
-      "summary_text": "Release 0.169.0-alpha.8",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.8",
-      "published_at": "2026-11-09T23:51:39.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1401",
-      "title": {
-        "zh": "0.169.0-alpha.7",
-        "en": "0.169.0-alpha.7"
-      },
-      "summary": {
-        "zh": "Release 0.169.0-alpha.7",
-        "en": "Release 0.169.0-alpha.7"
-      },
-      "title_zh": "0.169.0-alpha.7",
-      "title_en": "0.169.0-alpha.7",
-      "summary_zh": "Release 0.169.0-alpha.7",
-      "summary_en": "Release 0.169.0-alpha.7",
-      "title_text": "0.169.0-alpha.7",
-      "summary_text": "Release 0.169.0-alpha.7",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.7",
-      "published_at": "2026-11-09T22:01:36.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1402",
       "title": {
         "zh": "Vercel Sandbox snapshot creation is now up to 10x faster",
@@ -1351,30 +1497,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
       "published_at": "2026-11-09T21:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1403",
-      "title": {
-        "zh": "0.169.0-alpha.6",
-        "en": "0.169.0-alpha.6"
-      },
-      "summary": {
-        "zh": "Release 0.169.0-alpha.6",
-        "en": "Release 0.169.0-alpha.6"
-      },
-      "title_zh": "0.169.0-alpha.6",
-      "title_en": "0.169.0-alpha.6",
-      "summary_zh": "Release 0.169.0-alpha.6",
-      "summary_en": "Release 0.169.0-alpha.6",
-      "title_text": "0.169.0-alpha.6",
-      "summary_text": "Release 0.169.0-alpha.6",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.6",
-      "published_at": "2026-11-09T19:30:34.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1603,30 +1725,6 @@
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/kuken",
       "published_at": "2026-11-09T08:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1412",
-      "title": {
-        "zh": "rust-v0.169.0-alpha.5",
-        "en": "rust-v0.169.0-alpha.5"
-      },
-      "summary": {
-        "zh": "Release 0.169.0-alpha.5",
-        "en": "Release 0.169.0-alpha.5"
-      },
-      "title_zh": "rust-v0.169.0-alpha.5",
-      "title_en": "rust-v0.169.0-alpha.5",
-      "summary_zh": "Release 0.169.0-alpha.5",
-      "summary_en": "Release 0.169.0-alpha.5",
-      "title_text": "rust-v0.169.0-alpha.5",
-      "summary_text": "Release 0.169.0-alpha.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.5",
-      "published_at": "2026-11-09T07:29:29.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1892,104 +1990,6 @@
       "url": "https://latent.space/p/cs146s/",
       "published_at": "2026-11-08T21:41:44.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1394",
-      "title": {
-        "zh": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco"
-      },
-      "summary": {
-        "zh": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-        "en": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ..."
-      },
-      "title_zh": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "summary_zh": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "summary_en": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "title_text": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "summary_text": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-      "published_at": "2026-11-08T21:23:29.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1392",
-      "title": {
-        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
-      },
-      "summary": {
-        "zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-        "en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…"
-      },
-      "title_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "title_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "summary_zh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-      "summary_en": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-      "title_text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "summary_text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP li…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-      "published_at": "2026-11-07T23:57:46.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1399",
-      "title": {
-        "zh": "Terry Pratchett's Study",
-        "en": "Terry Pratchett's Study"
-      },
-      "summary": {
-        "zh": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani…",
-        "en": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani…"
-      },
-      "title_zh": "Terry Pratchett's Study",
-      "title_en": "Terry Pratchett's Study",
-      "summary_zh": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani…",
-      "summary_en": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani…",
-      "title_text": "Terry Pratchett's Study",
-      "summary_text": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-      "published_at": "2026-11-07T19:34:24.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1380",
-      "title": {
-        "zh": "[AINews] Anthropic IPO: Whither Now?",
-        "en": "[AINews] Anthropic IPO: Whither Now?"
-      },
-      "summary": {
-        "zh": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-        "en": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails."
-      },
-      "title_zh": "[AINews] Anthropic IPO: Whither Now?",
-      "title_en": "[AINews] Anthropic IPO: Whither Now?",
-      "summary_zh": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "summary_en": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "title_text": "[AINews] Anthropic IPO: Whither Now?",
-      "summary_text": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "published_at": "2026-11-07T03:04:53.000Z",
-      "tags": [
-        "ainews: weekday roundups"
-      ],
       "read_at": null,
       "saved": false
     }

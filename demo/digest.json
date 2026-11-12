@@ -1,7 +1,7 @@
 {
   "source": "db",
-  "digest_date": "2026-11-11",
-  "headline": "Trendkiln · 2026-11-11",
+  "digest_date": "2026-11-12",
+  "headline": "Trendkiln · 2026-11-12",
   "items": [
     {
       "id": "1",
@@ -15,45 +15,45 @@
         "en": "An open source design system that's fully customizable and agent ready"
       },
       "signal": {
-        "zh": "+1,094 星标",
-        "en": "+1,094 stars"
+        "zh": "+879 星标",
+        "en": "+879 stars"
       },
       "title_zh": "meta/astryx 星标异动",
       "title_en": "meta/astryx star surge",
       "subtitle_zh": "An open source design system that's fully customizable and agent ready",
       "subtitle_en": "An open source design system that's fully customizable and agent ready",
-      "signal_zh": "+1,094 星标",
-      "signal_en": "+1,094 stars",
+      "signal_zh": "+879 星标",
+      "signal_en": "+879 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/meta/astryx",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
       "entity_id": "repo:meta/astryx"
     },
     {
       "id": "2",
       "type": "model_rank_change",
       "title": {
-        "zh": "ADM 3 Cloud (Image) 排名变化",
-        "en": "ADM 3 Cloud (Image) rank change"
+        "zh": "grok-imagine-image 排名变化",
+        "en": "grok-imagine-image rank change"
       },
       "subtitle": {
-        "zh": "#85 · Apple",
-        "en": "#85 · Apple"
+        "zh": "#39 · SpaceXAI",
+        "en": "#39 · SpaceXAI"
       },
       "signal": {
-        "zh": "新上榜",
-        "en": "new entry"
+        "zh": "排名 ↓4",
+        "en": "rank ↓4"
       },
-      "title_zh": "ADM 3 Cloud (Image) 排名变化",
-      "title_en": "ADM 3 Cloud (Image) rank change",
-      "subtitle_zh": "#85 · Apple",
-      "subtitle_en": "#85 · Apple",
-      "signal_zh": "新上榜",
-      "signal_en": "new entry",
+      "title_zh": "grok-imagine-image 排名变化",
+      "title_en": "grok-imagine-image rank change",
+      "subtitle_zh": "#39 · SpaceXAI",
+      "subtitle_en": "#39 · SpaceXAI",
+      "signal_zh": "排名 ↓4",
+      "signal_en": "rank ↓4",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:ADM 3 Cloud (Image)"
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:grok-imagine-image"
     },
     {
       "id": "3",
@@ -85,160 +85,30 @@
       "id": "4",
       "type": "model_rank_change",
       "title": {
-        "zh": "ERNIE Image 排名变化",
-        "en": "ERNIE Image rank change"
+        "zh": "Qwen Image 2.0 (2026-03-03) 排名变化",
+        "en": "Qwen Image 2.0 (2026-03-03) rank change"
       },
       "subtitle": {
-        "zh": "#86 · Baidu",
-        "en": "#86 · Baidu"
+        "zh": "#59 · Alibaba",
+        "en": "#59 · Alibaba"
       },
       "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
+        "zh": "排名 ↓4",
+        "en": "rank ↓4"
       },
-      "title_zh": "ERNIE Image 排名变化",
-      "title_en": "ERNIE Image rank change",
-      "subtitle_zh": "#86 · Baidu",
-      "subtitle_en": "#86 · Baidu",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
+      "title_zh": "Qwen Image 2.0 (2026-03-03) 排名变化",
+      "title_en": "Qwen Image 2.0 (2026-03-03) rank change",
+      "subtitle_zh": "#59 · Alibaba",
+      "subtitle_en": "#59 · Alibaba",
+      "signal_zh": "排名 ↓4",
+      "signal_en": "rank ↓4",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:ERNIE Image"
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:Qwen Image 2.0 (2026-03-03)"
     },
     {
       "id": "5",
-      "type": "github_surge",
-      "title": {
-        "zh": "we-promise/sure 星标异动",
-        "en": "we-promise/sure star surge"
-      },
-      "subtitle": {
-        "zh": "The personal finance app for everyone (by everyone)",
-        "en": "The personal finance app for everyone (by everyone)"
-      },
-      "signal": {
-        "zh": "+556 星标",
-        "en": "+556 stars"
-      },
-      "title_zh": "we-promise/sure 星标异动",
-      "title_en": "we-promise/sure star surge",
-      "subtitle_zh": "The personal finance app for everyone (by everyone)",
-      "subtitle_en": "The personal finance app for everyone (by everyone)",
-      "signal_zh": "+556 星标",
-      "signal_en": "+556 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/we-promise/sure",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
-      "entity_id": "repo:we-promise/sure"
-    },
-    {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "addyosmani/agent-skills 星标异动",
-        "en": "addyosmani/agent-skills star surge"
-      },
-      "subtitle": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
-      },
-      "signal": {
-        "zh": "+431 星标",
-        "en": "+431 stars"
-      },
-      "title_zh": "addyosmani/agent-skills 星标异动",
-      "title_en": "addyosmani/agent-skills star surge",
-      "subtitle_zh": "Production-grade engineering skills for AI coding agents.",
-      "subtitle_en": "Production-grade engineering skills for AI coding agents.",
-      "signal_zh": "+431 星标",
-      "signal_en": "+431 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
-      "entity_id": "repo:addyosmani/agent-skills"
-    },
-    {
-      "id": "7",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Qwen Image 排名变化",
-        "en": "Qwen Image rank change"
-      },
-      "subtitle": {
-        "zh": "#87 · Alibaba",
-        "en": "#87 · Alibaba"
-      },
-      "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
-      },
-      "title_zh": "Qwen Image 排名变化",
-      "title_en": "Qwen Image rank change",
-      "subtitle_zh": "#87 · Alibaba",
-      "subtitle_en": "#87 · Alibaba",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:Qwen Image"
-    },
-    {
-      "id": "8",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Gilbert + Tobin rethinks the business of law with AI",
-        "en": "Gilbert + Tobin rethinks the business of law with AI"
-      },
-      "subtitle": {
-        "zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-        "en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Gilbert + Tobin rethinks the business of law with AI",
-      "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-      "subtitle_zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "subtitle_en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "OpenAI Blog",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "occurred_at": "2026-11-12T00:00:00.000Z",
-      "entity_id": "feed:1446"
-    },
-    {
-      "id": "9",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Vidu Q2 排名变化",
-        "en": "Vidu Q2 rank change"
-      },
-      "subtitle": {
-        "zh": "#88 · Vidu",
-        "en": "#88 · Vidu"
-      },
-      "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
-      },
-      "title_zh": "Vidu Q2 排名变化",
-      "title_en": "Vidu Q2 rank change",
-      "subtitle_zh": "#88 · Vidu",
-      "subtitle_en": "#88 · Vidu",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:Vidu Q2"
-    },
-    {
-      "id": "10",
       "type": "github_surge",
       "title": {
         "zh": "ZhuLinsen/daily_stock_analysis 星标异动",
@@ -249,152 +119,22 @@
         "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
       },
       "signal": {
-        "zh": "+429 星标",
-        "en": "+429 stars"
+        "zh": "+661 星标",
+        "en": "+661 stars"
       },
       "title_zh": "ZhuLinsen/daily_stock_analysis 星标异动",
       "title_en": "ZhuLinsen/daily_stock_analysis star surge",
       "subtitle_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "subtitle_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "signal_zh": "+429 星标",
-      "signal_en": "+429 stars",
+      "signal_zh": "+661 星标",
+      "signal_en": "+661 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
       "entity_id": "repo:ZhuLinsen/daily_stock_analysis"
     },
     {
-      "id": "11",
-      "type": "github_surge",
-      "title": {
-        "zh": "homeassistant-ai/ha-mcp 星标异动",
-        "en": "homeassistant-ai/ha-mcp star surge"
-      },
-      "subtitle": {
-        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-      },
-      "signal": {
-        "zh": "+388 星标",
-        "en": "+388 stars"
-      },
-      "title_zh": "homeassistant-ai/ha-mcp 星标异动",
-      "title_en": "homeassistant-ai/ha-mcp star surge",
-      "subtitle_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "subtitle_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "signal_zh": "+388 星标",
-      "signal_en": "+388 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
-      "entity_id": "repo:homeassistant-ai/ha-mcp"
-    },
-    {
-      "id": "12",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "P-Image 排名变化",
-        "en": "P-Image rank change"
-      },
-      "subtitle": {
-        "zh": "#89 · Pruna AI",
-        "en": "#89 · Pruna AI"
-      },
-      "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
-      },
-      "title_zh": "P-Image 排名变化",
-      "title_en": "P-Image rank change",
-      "subtitle_zh": "#89 · Pruna AI",
-      "subtitle_en": "#89 · Pruna AI",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:P-Image"
-    },
-    {
-      "id": "13",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "Browse tools.simonwillison.net by tag",
-        "en": "Browse tools.simonwillison.net by tag"
-      },
-      "subtitle": {
-        "zh": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
-        "en": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…"
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "Browse tools.simonwillison.net by tag",
-      "title_en": "Browse tools.simonwillison.net by tag",
-      "subtitle_zh": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
-      "subtitle_en": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts use…",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "occurred_at": "2026-11-11T18:42:50.000Z",
-      "entity_id": "feed:1460"
-    },
-    {
-      "id": "14",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Z-Image Base 排名变化",
-        "en": "Z-Image Base rank change"
-      },
-      "subtitle": {
-        "zh": "#90 · Alibaba",
-        "en": "#90 · Alibaba"
-      },
-      "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
-      },
-      "title_zh": "Z-Image Base 排名变化",
-      "title_en": "Z-Image Base rank change",
-      "subtitle_zh": "#90 · Alibaba",
-      "subtitle_en": "#90 · Alibaba",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:Z-Image Base"
-    },
-    {
-      "id": "15",
-      "type": "github_surge",
-      "title": {
-        "zh": "vercel-labs/agent-browser 星标异动",
-        "en": "vercel-labs/agent-browser star surge"
-      },
-      "subtitle": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
-      },
-      "signal": {
-        "zh": "+338 星标",
-        "en": "+338 stars"
-      },
-      "title_zh": "vercel-labs/agent-browser 星标异动",
-      "title_en": "vercel-labs/agent-browser star surge",
-      "subtitle_zh": "Browser automation CLI for AI agents",
-      "subtitle_en": "Browser automation CLI for AI agents",
-      "signal_zh": "+338 星标",
-      "signal_en": "+338 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
-      "entity_id": "repo:vercel-labs/agent-browser"
-    },
-    {
-      "id": "16",
+      "id": "6",
       "type": "github_surge",
       "title": {
         "zh": "shadcn/improve 星标异动",
@@ -405,100 +145,126 @@
         "en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
       },
       "signal": {
-        "zh": "+333 星标",
-        "en": "+333 stars"
+        "zh": "+471 星标",
+        "en": "+471 stars"
       },
       "title_zh": "shadcn/improve 星标异动",
       "title_en": "shadcn/improve star surge",
       "subtitle_zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "subtitle_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "signal_zh": "+333 星标",
-      "signal_en": "+333 stars",
+      "signal_zh": "+471 星标",
+      "signal_en": "+471 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/shadcn/improve",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
       "entity_id": "repo:shadcn/improve"
     },
     {
-      "id": "17",
+      "id": "7",
       "type": "model_rank_change",
       "title": {
-        "zh": "GLM-Image 排名变化",
-        "en": "GLM-Image rank change"
+        "zh": "Ideogram 4.0 (Quality) 排名变化",
+        "en": "Ideogram 4.0 (Quality) rank change"
       },
       "subtitle": {
-        "zh": "#91 · Z AI",
-        "en": "#91 · Z AI"
+        "zh": "#36 · Ideogram",
+        "en": "#36 · Ideogram"
       },
       "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "GLM-Image 排名变化",
-      "title_en": "GLM-Image rank change",
-      "subtitle_zh": "#91 · Z AI",
-      "subtitle_en": "#91 · Z AI",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
+      "title_zh": "Ideogram 4.0 (Quality) 排名变化",
+      "title_en": "Ideogram 4.0 (Quality) rank change",
+      "subtitle_zh": "#36 · Ideogram",
+      "subtitle_en": "#36 · Ideogram",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:GLM-Image"
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:Ideogram 4.0 (Quality)"
     },
     {
-      "id": "18",
+      "id": "8",
       "type": "feed_must_read",
       "title": {
-        "zh": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "en": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+        "zh": "[AINews] D-Day (Decision Models Day)",
+        "en": "[AINews] D-Day (Decision Models Day)"
       },
       "subtitle": {
-        "zh": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-        "en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+        "zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+        "en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers."
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "subtitle_zh": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "subtitle_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "title_zh": "[AINews] D-Day (Decision Models Day)",
+      "title_en": "[AINews] D-Day (Decision Models Day)",
+      "subtitle_zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "subtitle_en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "occurred_at": "2026-11-11T18:00:00.000Z",
-      "entity_id": "feed:1461"
+      "source": "Latent Space",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "occurred_at": "2026-11-12T05:26:54.000Z",
+      "entity_id": "feed:1473"
     },
     {
-      "id": "19",
+      "id": "9",
       "type": "model_rank_change",
       "title": {
-        "zh": "Lucid Origin Ultra 排名变化",
-        "en": "Lucid Origin Ultra rank change"
+        "zh": "Krea 2 Medium Turbo 排名变化",
+        "en": "Krea 2 Medium Turbo rank change"
       },
       "subtitle": {
-        "zh": "#92 · Leonardo.Ai",
-        "en": "#92 · Leonardo.Ai"
+        "zh": "#42 · Krea",
+        "en": "#42 · Krea"
       },
       "signal": {
-        "zh": "排名 ↓1",
-        "en": "rank ↓1"
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
       },
-      "title_zh": "Lucid Origin Ultra 排名变化",
-      "title_en": "Lucid Origin Ultra rank change",
-      "subtitle_zh": "#92 · Leonardo.Ai",
-      "subtitle_en": "#92 · Leonardo.Ai",
-      "signal_zh": "排名 ↓1",
-      "signal_en": "rank ↓1",
+      "title_zh": "Krea 2 Medium Turbo 排名变化",
+      "title_en": "Krea 2 Medium Turbo rank change",
+      "subtitle_zh": "#42 · Krea",
+      "subtitle_en": "#42 · Krea",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-11T19:43:10.537Z",
-      "entity_id": "model:Lucid Origin Ultra"
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:Krea 2 Medium Turbo"
     },
     {
-      "id": "20",
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "we-promise/sure 星标异动",
+        "en": "we-promise/sure star surge"
+      },
+      "subtitle": {
+        "zh": "The personal finance app for everyone (by everyone)",
+        "en": "The personal finance app for everyone (by everyone)"
+      },
+      "signal": {
+        "zh": "+439 星标",
+        "en": "+439 stars"
+      },
+      "title_zh": "we-promise/sure 星标异动",
+      "title_en": "we-promise/sure star surge",
+      "subtitle_zh": "The personal finance app for everyone (by everyone)",
+      "subtitle_en": "The personal finance app for everyone (by everyone)",
+      "signal_zh": "+439 星标",
+      "signal_en": "+439 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/we-promise/sure",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "entity_id": "repo:we-promise/sure"
+    },
+    {
+      "id": "11",
       "type": "github_surge",
       "title": {
         "zh": "GoogleChrome/modern-web-guidance-src 星标异动",
@@ -509,19 +275,253 @@
         "en": "GoogleChrome/modern-web-guidance-src"
       },
       "signal": {
-        "zh": "+133 星标",
-        "en": "+133 stars"
+        "zh": "+381 星标",
+        "en": "+381 stars"
       },
       "title_zh": "GoogleChrome/modern-web-guidance-src 星标异动",
       "title_en": "GoogleChrome/modern-web-guidance-src star surge",
       "subtitle_zh": "GoogleChrome/modern-web-guidance-src",
       "subtitle_en": "GoogleChrome/modern-web-guidance-src",
-      "signal_zh": "+133 星标",
-      "signal_en": "+133 stars",
+      "signal_zh": "+381 星标",
+      "signal_en": "+381 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "occurred_at": "2026-11-11T19:43:01.100Z",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
       "entity_id": "repo:GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "id": "12",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "Wan 2.7 排名变化",
+        "en": "Wan 2.7 rank change"
+      },
+      "subtitle": {
+        "zh": "#61 · Alibaba",
+        "en": "#61 · Alibaba"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "Wan 2.7 排名变化",
+      "title_en": "Wan 2.7 rank change",
+      "subtitle_zh": "#61 · Alibaba",
+      "subtitle_en": "#61 · Alibaba",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:Wan 2.7"
+    },
+    {
+      "id": "13",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "en": "The Jev Revolution: What Engineers Are Already Building with System One Models"
+      },
+      "subtitle": {
+        "zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+        "en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "title_en": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "subtitle_zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "subtitle_en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Latent Space",
+      "url": "https://latent.space/p/jev-revolution/",
+      "occurred_at": "2026-11-12T05:08:20.000Z",
+      "entity_id": "feed:1474"
+    },
+    {
+      "id": "14",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "FLUX.2 [dev] Flash 排名变化",
+        "en": "FLUX.2 [dev] Flash rank change"
+      },
+      "subtitle": {
+        "zh": "#63 · Fal",
+        "en": "#63 · Fal"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "FLUX.2 [dev] Flash 排名变化",
+      "title_en": "FLUX.2 [dev] Flash rank change",
+      "subtitle_zh": "#63 · Fal",
+      "subtitle_en": "#63 · Fal",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:FLUX.2 [dev] Flash"
+    },
+    {
+      "id": "15",
+      "type": "github_surge",
+      "title": {
+        "zh": "addyosmani/agent-skills 星标异动",
+        "en": "addyosmani/agent-skills star surge"
+      },
+      "subtitle": {
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
+      },
+      "signal": {
+        "zh": "+376 星标",
+        "en": "+376 stars"
+      },
+      "title_zh": "addyosmani/agent-skills 星标异动",
+      "title_en": "addyosmani/agent-skills star surge",
+      "subtitle_zh": "Production-grade engineering skills for AI coding agents.",
+      "subtitle_en": "Production-grade engineering skills for AI coding agents.",
+      "signal_zh": "+376 星标",
+      "signal_en": "+376 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "entity_id": "repo:addyosmani/agent-skills"
+    },
+    {
+      "id": "16",
+      "type": "github_surge",
+      "title": {
+        "zh": "homeassistant-ai/ha-mcp 星标异动",
+        "en": "homeassistant-ai/ha-mcp star surge"
+      },
+      "subtitle": {
+        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+      },
+      "signal": {
+        "zh": "+346 星标",
+        "en": "+346 stars"
+      },
+      "title_zh": "homeassistant-ai/ha-mcp 星标异动",
+      "title_en": "homeassistant-ai/ha-mcp star surge",
+      "subtitle_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "subtitle_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "signal_zh": "+346 星标",
+      "signal_en": "+346 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "entity_id": "repo:homeassistant-ai/ha-mcp"
+    },
+    {
+      "id": "17",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "HunyuanImage 3.5 (Preview) 排名变化",
+        "en": "HunyuanImage 3.5 (Preview) rank change"
+      },
+      "subtitle": {
+        "zh": "#71 · Tencent",
+        "en": "#71 · Tencent"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "HunyuanImage 3.5 (Preview) 排名变化",
+      "title_en": "HunyuanImage 3.5 (Preview) rank change",
+      "subtitle_zh": "#71 · Tencent",
+      "subtitle_en": "#71 · Tencent",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:HunyuanImage 3.5 (Preview)"
+    },
+    {
+      "id": "18",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "0.170.0-alpha.2",
+        "en": "0.170.0-alpha.2"
+      },
+      "subtitle": {
+        "zh": "Release 0.170.0-alpha.2",
+        "en": "Release 0.170.0-alpha.2"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "0.170.0-alpha.2",
+      "title_en": "0.170.0-alpha.2",
+      "subtitle_zh": "Release 0.170.0-alpha.2",
+      "subtitle_en": "Release 0.170.0-alpha.2",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2",
+      "occurred_at": "2026-11-12T01:34:33.000Z",
+      "entity_id": "feed:1475"
+    },
+    {
+      "id": "19",
+      "type": "model_rank_change",
+      "title": {
+        "zh": "FLUX.1 Kontext [max] 排名变化",
+        "en": "FLUX.1 Kontext [max] rank change"
+      },
+      "subtitle": {
+        "zh": "#81 · Black Forest Labs",
+        "en": "#81 · Black Forest Labs"
+      },
+      "signal": {
+        "zh": "排名 ↓3",
+        "en": "rank ↓3"
+      },
+      "title_zh": "FLUX.1 Kontext [max] 排名变化",
+      "title_en": "FLUX.1 Kontext [max] rank change",
+      "subtitle_zh": "#81 · Black Forest Labs",
+      "subtitle_en": "#81 · Black Forest Labs",
+      "signal_zh": "排名 ↓3",
+      "signal_en": "rank ↓3",
+      "source": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
+      "occurred_at": "2026-11-12T07:24:16.037Z",
+      "entity_id": "model:FLUX.1 Kontext [max]"
+    },
+    {
+      "id": "20",
+      "type": "github_surge",
+      "title": {
+        "zh": "openai/codex-security 星标异动",
+        "en": "openai/codex-security star surge"
+      },
+      "subtitle": {
+        "zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+      },
+      "signal": {
+        "zh": "+340 星标",
+        "en": "+340 stars"
+      },
+      "title_zh": "openai/codex-security 星标异动",
+      "title_en": "openai/codex-security star surge",
+      "subtitle_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "subtitle_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "signal_zh": "+340 星标",
+      "signal_en": "+340 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/openai/codex-security",
+      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "entity_id": "repo:openai/codex-security"
     }
   ]
 }
