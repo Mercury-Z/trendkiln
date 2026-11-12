@@ -18,88 +18,16 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 25559,
-      "stars_delta": 879,
-      "forks": 1991,
-      "forks_delta": 63,
-      "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "An open source design system that's fully customizable and agent ready",
-        "en": "An open source design system that's fully customizable and agent ready"
-      },
-      "strengths": {
-        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
-      },
-      "innovations": {
-        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
-      },
-      "purpose_zh": "An open source design system that's fully customizable and agent ready",
-      "purpose_en": "An open source design system that's fully customizable and agent ready",
-      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "llm",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading"
-      ],
-      "stars": 70724,
-      "stars_delta": 661,
-      "forks": 56997,
-      "forks_delta": 185,
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-      },
-      "strengths": {
-        "zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-        "en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…"
-      },
-      "innovations": {
-        "zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-        "en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…"
-      },
-      "purpose_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "purpose_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "strengths_zh": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-      "strengths_en": "📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 English 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血…",
-      "innovations_zh": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-      "innovations_en": "…内容 ------------ AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "GoogleChrome/modern-web-guidance-src",
-      "description": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "topics": [],
-      "stars": 2015,
-      "stars_delta": 381,
-      "forks": 151,
-      "forks_delta": 15,
+      "stars": 2684,
+      "stars_delta": 669,
+      "forks": 187,
+      "forks_delta": 36,
       "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -121,183 +49,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": "",
-      "topics": [],
-      "stars": 11178,
-      "stars_delta": 471,
-      "forks": 453,
-      "forks_delta": 17,
-      "html_url": "https://github.com/shadcn/improve",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
-      },
-      "strengths": {
-        "zh": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
-        "en": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…"
-      },
-      "innovations": {
-        "zh": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
-        "en": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…"
-      },
-      "purpose_zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "purpose_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "strengths_zh": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
-      "strengths_en": "improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging wha…",
-      "innovations_zh": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
-      "innovations_en": "…that supports Agent Skills format. The plans it writes are plain markdown, so any agent (or human) can pick them up. Usage How to use A typical first run, start to finish: 1. Open your agent in the repo and run /improve (or /impro…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "stars": 116168,
-      "stars_delta": 376,
-      "forks": 12173,
-      "forks_delta": 28,
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
-      },
-      "strengths": {
-        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
-      },
-      "innovations": {
-        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
-      },
-      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
-      "purpose_en": "Production-grade engineering skills for AI coding agents.",
-      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "topics": [],
-      "stars": 50056,
-      "stars_delta": 285,
-      "forks": 3492,
-      "forks_delta": 11,
-      "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
-      },
-      "strengths": {
-        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
-      },
-      "innovations": {
-        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
-      },
-      "purpose_zh": "Browser automation CLI for AI agents",
-      "purpose_en": "Browser automation CLI for AI agents",
-      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "topics": [],
-      "stars": 13217,
-      "stars_delta": 439,
-      "forks": 976,
-      "forks_delta": 29,
-      "html_url": "https://github.com/we-promise/sure",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "The personal finance app for everyone (by everyone)",
-        "en": "The personal finance app for everyone (by everyone)"
-      },
-      "strengths": {
-        "zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-        "en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…"
-      },
-      "innovations": {
-        "zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-        "en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…"
-      },
-      "purpose_zh": "The personal finance app for everyone (by everyone)",
-      "purpose_en": "The personal finance app for everyone (by everyone)",
-      "strengths_zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-      "strengths_en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
-      "innovations_zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-      "innovations_en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "claude",
-        "hacs",
-        "home-assistant",
-        "home-automation",
-        "llm",
-        "mcp",
-        "model-context-protocol"
-      ],
-      "stars": 7549,
-      "stars_delta": 346,
-      "forks": 459,
-      "forks_delta": 11,
-      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
-      "purpose": {
-        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-      },
-      "strengths": {
-        "zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-        "en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…"
-      },
-      "innovations": {
-        "zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-        "en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…"
-      },
-      "purpose_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "purpose_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "strengths_zh": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-      "strengths_en": "Breaking change (v7.3.0): haconfigsetyaml has been moved to beta. HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. --- --- 🚀 Get Started The recommended w…",
-      "innovations_zh": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-      "innovations_en": "…ocess, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and ho…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "full_name": "openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
@@ -318,12 +70,12 @@
         "typescript",
         "vulnerability-scanning"
       ],
-      "stars": 11941,
-      "stars_delta": 340,
-      "forks": 951,
-      "forks_delta": 30,
+      "stars": 12296,
+      "stars_delta": 355,
+      "forks": 972,
+      "forks_delta": 21,
       "html_url": "https://github.com/openai/codex-security",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
       "purpose": {
         "zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
@@ -345,46 +97,415 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
+      "rank": 3,
+      "full_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
       "topics": [
-        "algorithm",
-        "algorithm-challenges",
-        "algorithms",
-        "algorithms-datastructures",
-        "data-structures",
-        "hacktoberfest",
-        "java",
-        "search",
-        "sort",
-        "sorting-algorithms"
+        "bash",
+        "install",
+        "lts",
+        "node",
+        "node-js",
+        "nodejs",
+        "nvm",
+        "nvmrc",
+        "posix",
+        "posix-compliant",
+        "shell",
+        "version-manager",
+        "zsh"
       ],
-      "stars": 67151,
-      "stars_delta": 196,
-      "forks": 21519,
-      "forks_delta": 20,
-      "html_url": "https://github.com/TheAlgorithms/Java",
-      "snapshot_at": "2026-11-12T07:24:09.830Z",
+      "stars": 95982,
+      "stars_delta": 107,
+      "forks": 10756,
+      "forks_delta": 0,
+      "html_url": "https://github.com/nvm-sh/nvm",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
       "purpose": {
-        "zh": "All Algorithms implemented in Java",
-        "en": "All Algorithms implemented in Java"
+        "zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
       },
       "strengths": {
-        "zh": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
-        "en": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…"
+        "zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+        "en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…"
       },
       "innovations": {
-        "zh": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
-        "en": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java."
+        "zh": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
+        "en": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…"
       },
-      "purpose_zh": "All Algorithms implemented in Java",
-      "purpose_en": "All Algorithms implemented in Java",
-      "strengths_zh": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
-      "strengths_en": "The Algorithms - Java You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click. All algorithms are implemented in Java (for educational purposes) These…",
-      "innovations_zh": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
-      "innovations_en": "…on Guidelines before you contribute to this project. Algorithms Our directory contains the full list of algorithms implemented in Java.",
+      "purpose_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "purpose_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "strengths_zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+      "strengths_en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
+      "innovations_zh": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
+      "innovations_en": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 4,
+      "full_name": "pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "topics": [],
+      "stars": 1480,
+      "stars_delta": 300,
+      "forks": 138,
+      "forks_delta": 0,
+      "html_url": "https://github.com/pookjw/HermesEnabler",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "en": "Enable Hermès Watch Faces on any Apple Watch devices"
+      },
+      "strengths": {
+        "zh": "HermesEnabler 2 English · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation Install the IPA 1. Download the IPA from Releases. 2. Install it with Si…",
+        "en": "HermesEnabler 2 English · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation Install the IPA 1. Download the IPA from Releases. 2. Install it with Si…"
+      },
+      "innovations": {
+        "zh": "…p. Build with Xcode 1. Open HermesEnabler2.xcodeproj in Xcode. 2. Select your Apple Watch as the run destination and click Run. 3. Open HermesEnabler2 on your Apple Watch and follow the steps in the app. Cautions - In Sideloadly,…",
+        "en": "…p. Build with Xcode 1. Open HermesEnabler2.xcodeproj in Xcode. 2. Select your Apple Watch as the run destination and click Run. 3. Open HermesEnabler2 on your Apple Watch and follow the steps in the app. Cautions - In Sideloadly,…"
+      },
+      "purpose_zh": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "purpose_en": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "strengths_zh": "HermesEnabler 2 English · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation Install the IPA 1. Download the IPA from Releases. 2. Install it with Si…",
+      "strengths_en": "HermesEnabler 2 English · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation Install the IPA 1. Download the IPA from Releases. 2. Install it with Si…",
+      "innovations_zh": "…p. Build with Xcode 1. Open HermesEnabler2.xcodeproj in Xcode. 2. Select your Apple Watch as the run destination and click Run. 3. Open HermesEnabler2 on your Apple Watch and follow the steps in the app. Cautions - In Sideloadly,…",
+      "innovations_en": "…p. Build with Xcode 1. Open HermesEnabler2.xcodeproj in Xcode. 2. Select your Apple Watch as the run destination and click Run. 3. Open HermesEnabler2 on your Apple Watch and follow the steps in the app. Cautions - In Sideloadly,…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "topics": [],
+      "stars": 13773,
+      "stars_delta": 556,
+      "forks": 1025,
+      "forks_delta": 49,
+      "html_url": "https://github.com/we-promise/sure",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "The personal finance app for everyone (by everyone)",
+        "en": "The personal finance app for everyone (by everyone)"
+      },
+      "strengths": {
+        "zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+        "en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…"
+      },
+      "innovations": {
+        "zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+        "en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…"
+      },
+      "purpose_zh": "The personal finance app for everyone (by everyone)",
+      "purpose_en": "The personal finance app for everyone (by everyone)",
+      "strengths_zh": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "strengths_en": "Deutsch Español Français 日本語 한국어 Português Русский 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues [!IMPORTANT] This repository is a community fork of the now-abandoned Maybe Finance project…",
+      "innovations_zh": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+      "innovations_en": "…wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription. The business end of things didn't work out, and so they stopped developing the app…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "stars": 29723,
+      "stars_delta": 151,
+      "forks": 3389,
+      "forks_delta": 0,
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "An open-source AI coding agent that lives in your terminal.",
+        "en": "An open-source AI coding agent that lives in your terminal."
+      },
+      "strengths": {
+        "zh": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
+        "en": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…"
+      },
+      "innovations": {
+        "zh": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
+        "en": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…"
+      },
+      "purpose_zh": "An open-source AI coding agent that lives in your terminal.",
+      "purpose_en": "An open-source AI coding agent that lives in your terminal.",
+      "strengths_zh": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
+      "strengths_en": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
+      "innovations_zh": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
+      "innovations_en": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "llm",
+        "llm-inference",
+        "llm-tools"
+      ],
+      "stars": 1902,
+      "stars_delta": 94,
+      "forks": 391,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ashhart/TensorFold",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "en": "LLM Inference Engine for Metal, CUDA and Vulkan."
+      },
+      "strengths": {
+        "zh": "TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation…",
+        "en": "TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation…"
+      },
+      "innovations": {
+        "zh": "…sorFold so contributors and agents can avoid duplicate work and conflicting changes. Check the live agent radar before choosing an issue and follow CONTRIBUTING.md and the ATC contributor instructions. Install or upgrade ATC to 0.…",
+        "en": "…sorFold so contributors and agents can avoid duplicate work and conflicting changes. Check the live agent radar before choosing an issue and follow CONTRIBUTING.md and the ATC contributor instructions. Install or upgrade ATC to 0.…"
+      },
+      "purpose_zh": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "purpose_en": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "strengths_zh": "TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation…",
+      "strengths_en": "TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation…",
+      "innovations_zh": "…sorFold so contributors and agents can avoid duplicate work and conflicting changes. Check the live agent radar before choosing an issue and follow CONTRIBUTING.md and the ATC contributor instructions. Install or upgrade ATC to 0.…",
+      "innovations_en": "…sorFold so contributors and agents can avoid duplicate work and conflicting changes. Check the live agent radar before choosing an issue and follow CONTRIBUTING.md and the ATC contributor instructions. Install or upgrade ATC to 0.…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "topics": [
+        "javascript",
+        "js",
+        "linux",
+        "macos",
+        "mit",
+        "node",
+        "nodejs",
+        "runtime",
+        "windows"
+      ],
+      "stars": 123562,
+      "stars_delta": 133,
+      "forks": 38053,
+      "forks_delta": 0,
+      "html_url": "https://github.com/nodejs/node",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "en": "Node.js JavaScript runtime ✨🐢🚀✨"
+      },
+      "strengths": {
+        "zh": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+        "en": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…"
+      },
+      "innovations": {
+        "zh": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
+        "en": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…"
+      },
+      "purpose_zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "purpose_en": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "strengths_zh": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+      "strengths_en": "Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides…",
+      "innovations_zh": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
+      "innovations_en": "…ons and compromise. The TSC reserves the right to limit or block contributors who repeatedly act in ways that discourage, exhaust, or otherwise negatively affect other participants. This project has a [Code of Conduct][]. Table of…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "stars": 116581,
+      "stars_delta": 413,
+      "forks": 12204,
+      "forks_delta": 31,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
+      },
+      "strengths": {
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+      },
+      "innovations": {
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+      },
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 26346,
+      "stars_delta": 787,
+      "forks": 2040,
+      "forks_delta": 49,
+      "html_url": "https://github.com/meta/astryx",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
+      },
+      "strengths": {
+        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
+      },
+      "innovations": {
+        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
+      },
+      "purpose_zh": "An open source design system that's fully customizable and agent ready",
+      "purpose_en": "An open source design system that's fully customizable and agent ready",
+      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "stars": 11482,
+      "stars_delta": 291,
+      "forks": 1424,
+      "forks_delta": 0,
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+      },
+      "strengths": {
+        "zh": "OpenBot AI coworkers. Ready for the enterprise. A modular, self-hostable workspace for AI coworkers. Choose your models. Bring your agents. Own your infrastructure. open.bot · Docs · Deploy on Kubernetes · Run from source Notarize…",
+        "en": "OpenBot AI coworkers. Ready for the enterprise. A modular, self-hostable workspace for AI coworkers. Choose your models. Bring your agents. Own your infrastructure. open.bot · Docs · Deploy on Kubernetes · Run from source Notarize…"
+      },
+      "innovations": {
+        "zh": "…ps://github.com/user-attachments/assets/c60f07da-8b6d-46eb-a573-17fc1e65a644 Watch a Bot use its browser and tools, answer with interactive results, and wait for your approval before it sends. Take over when it needs you, and conn…",
+        "en": "…ps://github.com/user-attachments/assets/c60f07da-8b6d-46eb-a573-17fc1e65a644 Watch a Bot use its browser and tools, answer with interactive results, and wait for your approval before it sends. Take over when it needs you, and conn…"
+      },
+      "purpose_zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "purpose_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "strengths_zh": "OpenBot AI coworkers. Ready for the enterprise. A modular, self-hostable workspace for AI coworkers. Choose your models. Bring your agents. Own your infrastructure. open.bot · Docs · Deploy on Kubernetes · Run from source Notarize…",
+      "strengths_en": "OpenBot AI coworkers. Ready for the enterprise. A modular, self-hostable workspace for AI coworkers. Choose your models. Bring your agents. Own your infrastructure. open.bot · Docs · Deploy on Kubernetes · Run from source Notarize…",
+      "innovations_zh": "…ps://github.com/user-attachments/assets/c60f07da-8b6d-46eb-a573-17fc1e65a644 Watch a Bot use its browser and tools, answer with interactive results, and wait for your approval before it sends. Take over when it needs you, and conn…",
+      "innovations_en": "…ps://github.com/user-attachments/assets/c60f07da-8b6d-46eb-a573-17fc1e65a644 Watch a Bot use its browser and tools, answer with interactive results, and wait for your approval before it sends. Take over when it needs you, and conn…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "topics": [],
+      "stars": 69146,
+      "stars_delta": 461,
+      "forks": 10742,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "en": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+      },
+      "strengths": {
+        "zh": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. Features - Route any supported harness to…",
+        "en": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. Features - Route any supported harness to…"
+      },
+      "innovations": {
+        "zh": "…y CLI, or VS Code Chat. - Preserved native streaming, tool use, and interleaved thinking for maximum performance. - For Claude Code, route Fable, Opus, Sonnet, and Haiku to supported models. - 61 supported providers, including fre…",
+        "en": "…y CLI, or VS Code Chat. - Preserved native streaming, tool use, and interleaved thinking for maximum performance. - For Claude Code, route Fable, Opus, Sonnet, and Haiku to supported models. - 61 supported providers, including fre…"
+      },
+      "purpose_zh": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "purpose_en": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "strengths_zh": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. Features - Route any supported harness to…",
+      "strengths_en": "Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. Features - Route any supported harness to…",
+      "innovations_zh": "…y CLI, or VS Code Chat. - Preserved native streaming, tool use, and interleaved thinking for maximum performance. - For Claude Code, route Fable, Opus, Sonnet, and Haiku to supported models. - 61 supported providers, including fre…",
+      "innovations_en": "…y CLI, or VS Code Chat. - Preserved native streaming, tool use, and interleaved thinking for maximum performance. - For Claude Code, route Fable, Opus, Sonnet, and Haiku to supported models. - 61 supported providers, including fre…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 13,
+      "full_name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "topics": [
+        "ggml"
+      ],
+      "stars": 134457,
+      "stars_delta": 287,
+      "forks": 25496,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ggml-org/llama.cpp",
+      "snapshot_at": "2026-11-12T20:06:20.409Z",
+      "purpose": {
+        "zh": "LLM inference in C/C++",
+        "en": "LLM inference in C/C++"
+      },
+      "strengths": {
+        "zh": "llama.cpp LLM inference in C/C++ ggml / ops / maintainer PRs%20sort%3Aupdated-desc) / dev stats / lib llama API / llama-server REST API Quick start A few options to get llama.cpp installed on your machine: - Visit https://llama.ap…",
+        "en": "llama.cpp LLM inference in C/C++ ggml / ops / maintainer PRs%20sort%3Aupdated-desc) / dev stats / lib llama API / llama-server REST API Quick start A few options to get llama.cpp installed on your machine: - Visit https://llama.ap…"
+      },
+      "innovations": {
+        "zh": "…pository - check out our build guide Once installed: VLM session with llama cli Built-in web UI against llama serve Description The main goal of llama.cpp is to enable LLM (and VLM) inference with minimal setup and state-of-the-ar…",
+        "en": "…pository - check out our build guide Once installed: VLM session with llama cli Built-in web UI against llama serve Description The main goal of llama.cpp is to enable LLM (and VLM) inference with minimal setup and state-of-the-ar…"
+      },
+      "purpose_zh": "LLM inference in C/C++",
+      "purpose_en": "LLM inference in C/C++",
+      "strengths_zh": "llama.cpp LLM inference in C/C++ ggml / ops / maintainer PRs%20sort%3Aupdated-desc) / dev stats / lib llama API / llama-server REST API Quick start A few options to get llama.cpp installed on your machine: - Visit https://llama.ap…",
+      "strengths_en": "llama.cpp LLM inference in C/C++ ggml / ops / maintainer PRs%20sort%3Aupdated-desc) / dev stats / lib llama API / llama-server REST API Quick start A few options to get llama.cpp installed on your machine: - Visit https://llama.ap…",
+      "innovations_zh": "…pository - check out our build guide Once installed: VLM session with llama cli Built-in web UI against llama serve Description The main goal of llama.cpp is to enable LLM (and VLM) inference with minimal setup and state-of-the-ar…",
+      "innovations_en": "…pository - check out our build guide Once installed: VLM session with llama cli Built-in web UI against llama serve Description The main goal of llama.cpp is to enable LLM (and VLM) inference with minimal setup and state-of-the-ar…",
       "insights_source": "readme-excerpt"
     }
   ]

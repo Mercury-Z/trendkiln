@@ -15,56 +15,30 @@
         "en": "An open source design system that's fully customizable and agent ready"
       },
       "signal": {
-        "zh": "+879 星标",
-        "en": "+879 stars"
+        "zh": "+787 星标",
+        "en": "+787 stars"
       },
       "title_zh": "meta/astryx 星标异动",
       "title_en": "meta/astryx star surge",
       "subtitle_zh": "An open source design system that's fully customizable and agent ready",
       "subtitle_en": "An open source design system that's fully customizable and agent ready",
-      "signal_zh": "+879 星标",
-      "signal_en": "+879 stars",
+      "signal_zh": "+787 星标",
+      "signal_en": "+787 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/meta/astryx",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
       "entity_id": "repo:meta/astryx"
     },
     {
       "id": "2",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "grok-imagine-image 排名变化",
-        "en": "grok-imagine-image rank change"
-      },
-      "subtitle": {
-        "zh": "#39 · SpaceXAI",
-        "en": "#39 · SpaceXAI"
-      },
-      "signal": {
-        "zh": "排名 ↓4",
-        "en": "rank ↓4"
-      },
-      "title_zh": "grok-imagine-image 排名变化",
-      "title_en": "grok-imagine-image rank change",
-      "subtitle_zh": "#39 · SpaceXAI",
-      "subtitle_en": "#39 · SpaceXAI",
-      "signal_zh": "排名 ↓4",
-      "signal_en": "rank ↓4",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:grok-imagine-image"
-    },
-    {
-      "id": "3",
       "type": "feed_must_read",
       "title": {
         "zh": "Visual Studio Code 1.147 (Insiders)",
         "en": "Visual Studio Code 1.147 (Insiders)"
       },
       "subtitle": {
-        "zh": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
-        "en": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article"
+        "zh": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing. Read the full article",
+        "en": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing. Read the full article"
       },
       "signal": {
         "zh": "资讯",
@@ -72,8 +46,8 @@
       },
       "title_zh": "Visual Studio Code 1.147 (Insiders)",
       "title_en": "Visual Studio Code 1.147 (Insiders)",
-      "subtitle_zh": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
-      "subtitle_en": "Learn what's new in Visual Studio Code 1.147 (Insiders) Read the full article",
+      "subtitle_zh": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing. Read the full article",
+      "subtitle_en": "Learn what is new in Visual Studio Code Insiders, including agent session management, chat resources, and Markdown editing. Read the full article",
       "signal_zh": "资讯",
       "signal_en": "feed",
       "source": "VS Code Blog",
@@ -82,163 +56,33 @@
       "entity_id": "feed:1459"
     },
     {
+      "id": "3",
+      "type": "github_surge",
+      "title": {
+        "zh": "GoogleChrome/modern-web-guidance-src 星标异动",
+        "en": "GoogleChrome/modern-web-guidance-src star surge"
+      },
+      "subtitle": {
+        "zh": "Keep your coding agent up to date with the latest web best practices",
+        "en": "Keep your coding agent up to date with the latest web best practices"
+      },
+      "signal": {
+        "zh": "+669 星标",
+        "en": "+669 stars"
+      },
+      "title_zh": "GoogleChrome/modern-web-guidance-src 星标异动",
+      "title_en": "GoogleChrome/modern-web-guidance-src star surge",
+      "subtitle_zh": "Keep your coding agent up to date with the latest web best practices",
+      "subtitle_en": "Keep your coding agent up to date with the latest web best practices",
+      "signal_zh": "+669 星标",
+      "signal_en": "+669 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:GoogleChrome/modern-web-guidance-src"
+    },
+    {
       "id": "4",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Qwen Image 2.0 (2026-03-03) 排名变化",
-        "en": "Qwen Image 2.0 (2026-03-03) rank change"
-      },
-      "subtitle": {
-        "zh": "#59 · Alibaba",
-        "en": "#59 · Alibaba"
-      },
-      "signal": {
-        "zh": "排名 ↓4",
-        "en": "rank ↓4"
-      },
-      "title_zh": "Qwen Image 2.0 (2026-03-03) 排名变化",
-      "title_en": "Qwen Image 2.0 (2026-03-03) rank change",
-      "subtitle_zh": "#59 · Alibaba",
-      "subtitle_en": "#59 · Alibaba",
-      "signal_zh": "排名 ↓4",
-      "signal_en": "rank ↓4",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:Qwen Image 2.0 (2026-03-03)"
-    },
-    {
-      "id": "5",
-      "type": "github_surge",
-      "title": {
-        "zh": "ZhuLinsen/daily_stock_analysis 星标异动",
-        "en": "ZhuLinsen/daily_stock_analysis star surge"
-      },
-      "subtitle": {
-        "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-      },
-      "signal": {
-        "zh": "+661 星标",
-        "en": "+661 stars"
-      },
-      "title_zh": "ZhuLinsen/daily_stock_analysis 星标异动",
-      "title_en": "ZhuLinsen/daily_stock_analysis star surge",
-      "subtitle_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "subtitle_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "signal_zh": "+661 星标",
-      "signal_en": "+661 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
-      "entity_id": "repo:ZhuLinsen/daily_stock_analysis"
-    },
-    {
-      "id": "6",
-      "type": "github_surge",
-      "title": {
-        "zh": "shadcn/improve 星标异动",
-        "en": "shadcn/improve star surge"
-      },
-      "subtitle": {
-        "zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
-      },
-      "signal": {
-        "zh": "+471 星标",
-        "en": "+471 stars"
-      },
-      "title_zh": "shadcn/improve 星标异动",
-      "title_en": "shadcn/improve star surge",
-      "subtitle_zh": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "subtitle_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "signal_zh": "+471 星标",
-      "signal_en": "+471 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/shadcn/improve",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
-      "entity_id": "repo:shadcn/improve"
-    },
-    {
-      "id": "7",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Ideogram 4.0 (Quality) 排名变化",
-        "en": "Ideogram 4.0 (Quality) rank change"
-      },
-      "subtitle": {
-        "zh": "#36 · Ideogram",
-        "en": "#36 · Ideogram"
-      },
-      "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
-      },
-      "title_zh": "Ideogram 4.0 (Quality) 排名变化",
-      "title_en": "Ideogram 4.0 (Quality) rank change",
-      "subtitle_zh": "#36 · Ideogram",
-      "subtitle_en": "#36 · Ideogram",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:Ideogram 4.0 (Quality)"
-    },
-    {
-      "id": "8",
-      "type": "feed_must_read",
-      "title": {
-        "zh": "[AINews] D-Day (Decision Models Day)",
-        "en": "[AINews] D-Day (Decision Models Day)"
-      },
-      "subtitle": {
-        "zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-        "en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers."
-      },
-      "signal": {
-        "zh": "资讯",
-        "en": "feed"
-      },
-      "title_zh": "[AINews] D-Day (Decision Models Day)",
-      "title_en": "[AINews] D-Day (Decision Models Day)",
-      "subtitle_zh": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "subtitle_en": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "signal_zh": "资讯",
-      "signal_en": "feed",
-      "source": "Latent Space",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
-      "occurred_at": "2026-11-12T05:26:54.000Z",
-      "entity_id": "feed:1473"
-    },
-    {
-      "id": "9",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Krea 2 Medium Turbo 排名变化",
-        "en": "Krea 2 Medium Turbo rank change"
-      },
-      "subtitle": {
-        "zh": "#42 · Krea",
-        "en": "#42 · Krea"
-      },
-      "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
-      },
-      "title_zh": "Krea 2 Medium Turbo 排名变化",
-      "title_en": "Krea 2 Medium Turbo rank change",
-      "subtitle_zh": "#42 · Krea",
-      "subtitle_en": "#42 · Krea",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:Krea 2 Medium Turbo"
-    },
-    {
-      "id": "10",
       "type": "github_surge",
       "title": {
         "zh": "we-promise/sure 星标异动",
@@ -249,126 +93,74 @@
         "en": "The personal finance app for everyone (by everyone)"
       },
       "signal": {
-        "zh": "+439 星标",
-        "en": "+439 stars"
+        "zh": "+556 星标",
+        "en": "+556 stars"
       },
       "title_zh": "we-promise/sure 星标异动",
       "title_en": "we-promise/sure star surge",
       "subtitle_zh": "The personal finance app for everyone (by everyone)",
       "subtitle_en": "The personal finance app for everyone (by everyone)",
-      "signal_zh": "+439 星标",
-      "signal_en": "+439 stars",
+      "signal_zh": "+556 星标",
+      "signal_en": "+556 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/we-promise/sure",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
       "entity_id": "repo:we-promise/sure"
     },
     {
-      "id": "11",
-      "type": "github_surge",
-      "title": {
-        "zh": "GoogleChrome/modern-web-guidance-src 星标异动",
-        "en": "GoogleChrome/modern-web-guidance-src star surge"
-      },
-      "subtitle": {
-        "zh": "GoogleChrome/modern-web-guidance-src",
-        "en": "GoogleChrome/modern-web-guidance-src"
-      },
-      "signal": {
-        "zh": "+381 星标",
-        "en": "+381 stars"
-      },
-      "title_zh": "GoogleChrome/modern-web-guidance-src 星标异动",
-      "title_en": "GoogleChrome/modern-web-guidance-src star surge",
-      "subtitle_zh": "GoogleChrome/modern-web-guidance-src",
-      "subtitle_en": "GoogleChrome/modern-web-guidance-src",
-      "signal_zh": "+381 星标",
-      "signal_en": "+381 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
-      "entity_id": "repo:GoogleChrome/modern-web-guidance-src"
-    },
-    {
-      "id": "12",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "Wan 2.7 排名变化",
-        "en": "Wan 2.7 rank change"
-      },
-      "subtitle": {
-        "zh": "#61 · Alibaba",
-        "en": "#61 · Alibaba"
-      },
-      "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
-      },
-      "title_zh": "Wan 2.7 排名变化",
-      "title_en": "Wan 2.7 rank change",
-      "subtitle_zh": "#61 · Alibaba",
-      "subtitle_en": "#61 · Alibaba",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:Wan 2.7"
-    },
-    {
-      "id": "13",
+      "id": "5",
       "type": "feed_must_read",
       "title": {
-        "zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-        "en": "The Jev Revolution: What Engineers Are Already Building with System One Models"
+        "zh": "rust-v0.170.0-alpha.4",
+        "en": "rust-v0.170.0-alpha.4"
       },
       "subtitle": {
-        "zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-        "en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev."
+        "zh": "Release 0.170.0-alpha.4",
+        "en": "Release 0.170.0-alpha.4"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "title_en": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "subtitle_zh": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "subtitle_en": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "title_zh": "rust-v0.170.0-alpha.4",
+      "title_en": "rust-v0.170.0-alpha.4",
+      "subtitle_zh": "Release 0.170.0-alpha.4",
+      "subtitle_en": "Release 0.170.0-alpha.4",
       "signal_zh": "资讯",
       "signal_en": "feed",
-      "source": "Latent Space",
-      "url": "https://latent.space/p/jev-revolution/",
-      "occurred_at": "2026-11-12T05:08:20.000Z",
-      "entity_id": "feed:1474"
+      "source": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4",
+      "occurred_at": "2026-11-12T19:55:18.000Z",
+      "entity_id": "feed:1481"
     },
     {
-      "id": "14",
-      "type": "model_rank_change",
+      "id": "6",
+      "type": "github_surge",
       "title": {
-        "zh": "FLUX.2 [dev] Flash 排名变化",
-        "en": "FLUX.2 [dev] Flash rank change"
+        "zh": "Alishahryar1/free-claude-code 星标异动",
+        "en": "Alishahryar1/free-claude-code star surge"
       },
       "subtitle": {
-        "zh": "#63 · Fal",
-        "en": "#63 · Fal"
+        "zh": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "en": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
       },
       "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
+        "zh": "+461 星标",
+        "en": "+461 stars"
       },
-      "title_zh": "FLUX.2 [dev] Flash 排名变化",
-      "title_en": "FLUX.2 [dev] Flash rank change",
-      "subtitle_zh": "#63 · Fal",
-      "subtitle_en": "#63 · Fal",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:FLUX.2 [dev] Flash"
+      "title_zh": "Alishahryar1/free-claude-code 星标异动",
+      "title_en": "Alishahryar1/free-claude-code star surge",
+      "subtitle_zh": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "subtitle_en": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "signal_zh": "+461 星标",
+      "signal_en": "+461 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:Alishahryar1/free-claude-code"
     },
     {
-      "id": "15",
+      "id": "7",
       "type": "github_surge",
       "title": {
         "zh": "addyosmani/agent-skills 星标异动",
@@ -379,126 +171,48 @@
         "en": "Production-grade engineering skills for AI coding agents."
       },
       "signal": {
-        "zh": "+376 星标",
-        "en": "+376 stars"
+        "zh": "+413 星标",
+        "en": "+413 stars"
       },
       "title_zh": "addyosmani/agent-skills 星标异动",
       "title_en": "addyosmani/agent-skills star surge",
       "subtitle_zh": "Production-grade engineering skills for AI coding agents.",
       "subtitle_en": "Production-grade engineering skills for AI coding agents.",
-      "signal_zh": "+376 星标",
-      "signal_en": "+376 stars",
+      "signal_zh": "+413 星标",
+      "signal_en": "+413 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/addyosmani/agent-skills",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
       "entity_id": "repo:addyosmani/agent-skills"
     },
     {
-      "id": "16",
-      "type": "github_surge",
-      "title": {
-        "zh": "homeassistant-ai/ha-mcp 星标异动",
-        "en": "homeassistant-ai/ha-mcp star surge"
-      },
-      "subtitle": {
-        "zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-      },
-      "signal": {
-        "zh": "+346 星标",
-        "en": "+346 stars"
-      },
-      "title_zh": "homeassistant-ai/ha-mcp 星标异动",
-      "title_en": "homeassistant-ai/ha-mcp star surge",
-      "subtitle_zh": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "subtitle_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "signal_zh": "+346 星标",
-      "signal_en": "+346 stars",
-      "source": "GitHub Trending",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
-      "entity_id": "repo:homeassistant-ai/ha-mcp"
-    },
-    {
-      "id": "17",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "HunyuanImage 3.5 (Preview) 排名变化",
-        "en": "HunyuanImage 3.5 (Preview) rank change"
-      },
-      "subtitle": {
-        "zh": "#71 · Tencent",
-        "en": "#71 · Tencent"
-      },
-      "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
-      },
-      "title_zh": "HunyuanImage 3.5 (Preview) 排名变化",
-      "title_en": "HunyuanImage 3.5 (Preview) rank change",
-      "subtitle_zh": "#71 · Tencent",
-      "subtitle_en": "#71 · Tencent",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:HunyuanImage 3.5 (Preview)"
-    },
-    {
-      "id": "18",
+      "id": "8",
       "type": "feed_must_read",
       "title": {
-        "zh": "0.170.0-alpha.2",
-        "en": "0.170.0-alpha.2"
+        "zh": "0.170.0-alpha.3",
+        "en": "0.170.0-alpha.3"
       },
       "subtitle": {
-        "zh": "Release 0.170.0-alpha.2",
-        "en": "Release 0.170.0-alpha.2"
+        "zh": "Release 0.170.0-alpha.3",
+        "en": "Release 0.170.0-alpha.3"
       },
       "signal": {
         "zh": "资讯",
         "en": "feed"
       },
-      "title_zh": "0.170.0-alpha.2",
-      "title_en": "0.170.0-alpha.2",
-      "subtitle_zh": "Release 0.170.0-alpha.2",
-      "subtitle_en": "Release 0.170.0-alpha.2",
+      "title_zh": "0.170.0-alpha.3",
+      "title_en": "0.170.0-alpha.3",
+      "subtitle_zh": "Release 0.170.0-alpha.3",
+      "subtitle_en": "Release 0.170.0-alpha.3",
       "signal_zh": "资讯",
       "signal_en": "feed",
       "source": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2",
-      "occurred_at": "2026-11-12T01:34:33.000Z",
-      "entity_id": "feed:1475"
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.3",
+      "occurred_at": "2026-11-12T19:37:30.000Z",
+      "entity_id": "feed:1482"
     },
     {
-      "id": "19",
-      "type": "model_rank_change",
-      "title": {
-        "zh": "FLUX.1 Kontext [max] 排名变化",
-        "en": "FLUX.1 Kontext [max] rank change"
-      },
-      "subtitle": {
-        "zh": "#81 · Black Forest Labs",
-        "en": "#81 · Black Forest Labs"
-      },
-      "signal": {
-        "zh": "排名 ↓3",
-        "en": "rank ↓3"
-      },
-      "title_zh": "FLUX.1 Kontext [max] 排名变化",
-      "title_en": "FLUX.1 Kontext [max] rank change",
-      "subtitle_zh": "#81 · Black Forest Labs",
-      "subtitle_en": "#81 · Black Forest Labs",
-      "signal_zh": "排名 ↓3",
-      "signal_en": "rank ↓3",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/zh/image/leaderboard/text-to-image",
-      "occurred_at": "2026-11-12T07:24:16.037Z",
-      "entity_id": "model:FLUX.1 Kontext [max]"
-    },
-    {
-      "id": "20",
+      "id": "9",
       "type": "github_surge",
       "title": {
         "zh": "openai/codex-security 星标异动",
@@ -509,19 +223,305 @@
         "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
       },
       "signal": {
-        "zh": "+340 星标",
-        "en": "+340 stars"
+        "zh": "+355 星标",
+        "en": "+355 stars"
       },
       "title_zh": "openai/codex-security 星标异动",
       "title_en": "openai/codex-security star surge",
       "subtitle_zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "subtitle_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "signal_zh": "+340 星标",
-      "signal_en": "+340 stars",
+      "signal_zh": "+355 星标",
+      "signal_en": "+355 stars",
       "source": "GitHub Trending",
       "url": "https://github.com/openai/codex-security",
-      "occurred_at": "2026-11-12T07:24:09.830Z",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
       "entity_id": "repo:openai/codex-security"
+    },
+    {
+      "id": "10",
+      "type": "github_surge",
+      "title": {
+        "zh": "pookjw/HermesEnabler 星标异动",
+        "en": "pookjw/HermesEnabler star surge"
+      },
+      "subtitle": {
+        "zh": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "en": "Enable Hermès Watch Faces on any Apple Watch devices"
+      },
+      "signal": {
+        "zh": "+300 星标",
+        "en": "+300 stars"
+      },
+      "title_zh": "pookjw/HermesEnabler 星标异动",
+      "title_en": "pookjw/HermesEnabler star surge",
+      "subtitle_zh": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "subtitle_en": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "signal_zh": "+300 星标",
+      "signal_en": "+300 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:pookjw/HermesEnabler"
+    },
+    {
+      "id": "11",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+      },
+      "subtitle": {
+        "zh": "",
+        "en": ""
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "subtitle_zh": "",
+      "subtitle_en": "",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "occurred_at": "2026-11-12T19:07:35.000Z",
+      "entity_id": "feed:1483"
+    },
+    {
+      "id": "12",
+      "type": "github_surge",
+      "title": {
+        "zh": "CopilotKit/OpenBot 星标异动",
+        "en": "CopilotKit/OpenBot star surge"
+      },
+      "subtitle": {
+        "zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+      },
+      "signal": {
+        "zh": "+291 星标",
+        "en": "+291 stars"
+      },
+      "title_zh": "CopilotKit/OpenBot 星标异动",
+      "title_en": "CopilotKit/OpenBot star surge",
+      "subtitle_zh": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "subtitle_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "signal_zh": "+291 星标",
+      "signal_en": "+291 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:CopilotKit/OpenBot"
+    },
+    {
+      "id": "13",
+      "type": "github_surge",
+      "title": {
+        "zh": "ggml-org/llama.cpp 星标异动",
+        "en": "ggml-org/llama.cpp star surge"
+      },
+      "subtitle": {
+        "zh": "LLM inference in C/C++",
+        "en": "LLM inference in C/C++"
+      },
+      "signal": {
+        "zh": "+287 星标",
+        "en": "+287 stars"
+      },
+      "title_zh": "ggml-org/llama.cpp 星标异动",
+      "title_en": "ggml-org/llama.cpp star surge",
+      "subtitle_zh": "LLM inference in C/C++",
+      "subtitle_en": "LLM inference in C/C++",
+      "signal_zh": "+287 星标",
+      "signal_en": "+287 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:ggml-org/llama.cpp"
+    },
+    {
+      "id": "14",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "en": "Google Search gets a major upgrade with Gemini 4 Hydrogen"
+      },
+      "subtitle": {
+        "zh": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "en": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "subtitle_zh": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "subtitle_en": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "occurred_at": "2026-11-12T18:00:00.000Z",
+      "entity_id": "feed:1484"
+    },
+    {
+      "id": "15",
+      "type": "github_surge",
+      "title": {
+        "zh": "QwenLM/qwen-code 星标异动",
+        "en": "QwenLM/qwen-code star surge"
+      },
+      "subtitle": {
+        "zh": "An open-source AI coding agent that lives in your terminal.",
+        "en": "An open-source AI coding agent that lives in your terminal."
+      },
+      "signal": {
+        "zh": "+151 星标",
+        "en": "+151 stars"
+      },
+      "title_zh": "QwenLM/qwen-code 星标异动",
+      "title_en": "QwenLM/qwen-code star surge",
+      "subtitle_zh": "An open-source AI coding agent that lives in your terminal.",
+      "subtitle_en": "An open-source AI coding agent that lives in your terminal.",
+      "signal_zh": "+151 星标",
+      "signal_en": "+151 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:QwenLM/qwen-code"
+    },
+    {
+      "id": "16",
+      "type": "github_surge",
+      "title": {
+        "zh": "nodejs/node 星标异动",
+        "en": "nodejs/node star surge"
+      },
+      "subtitle": {
+        "zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "en": "Node.js JavaScript runtime ✨🐢🚀✨"
+      },
+      "signal": {
+        "zh": "+133 星标",
+        "en": "+133 stars"
+      },
+      "title_zh": "nodejs/node 星标异动",
+      "title_en": "nodejs/node star surge",
+      "subtitle_zh": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "subtitle_en": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "signal_zh": "+133 星标",
+      "signal_en": "+133 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/nodejs/node",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:nodejs/node"
+    },
+    {
+      "id": "17",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Secret scanning detects Cloudflare service tokens",
+        "en": "Secret scanning detects Cloudflare service tokens"
+      },
+      "subtitle": {
+        "zh": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared f…",
+        "en": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared f…"
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Secret scanning detects Cloudflare service tokens",
+      "title_en": "Secret scanning detects Cloudflare service tokens",
+      "subtitle_zh": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared f…",
+      "subtitle_en": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared f…",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "occurred_at": "2026-11-12T14:38:25.000Z",
+      "entity_id": "feed:1485"
+    },
+    {
+      "id": "18",
+      "type": "github_surge",
+      "title": {
+        "zh": "nvm-sh/nvm 星标异动",
+        "en": "nvm-sh/nvm star surge"
+      },
+      "subtitle": {
+        "zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+      },
+      "signal": {
+        "zh": "+107 星标",
+        "en": "+107 stars"
+      },
+      "title_zh": "nvm-sh/nvm 星标异动",
+      "title_en": "nvm-sh/nvm star surge",
+      "subtitle_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "subtitle_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "signal_zh": "+107 星标",
+      "signal_en": "+107 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/nvm-sh/nvm",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:nvm-sh/nvm"
+    },
+    {
+      "id": "19",
+      "type": "github_surge",
+      "title": {
+        "zh": "ashhart/TensorFold 星标异动",
+        "en": "ashhart/TensorFold star surge"
+      },
+      "subtitle": {
+        "zh": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "en": "LLM Inference Engine for Metal, CUDA and Vulkan."
+      },
+      "signal": {
+        "zh": "+94 星标",
+        "en": "+94 stars"
+      },
+      "title_zh": "ashhart/TensorFold 星标异动",
+      "title_en": "ashhart/TensorFold star surge",
+      "subtitle_zh": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "subtitle_en": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "signal_zh": "+94 星标",
+      "signal_en": "+94 stars",
+      "source": "GitHub Trending",
+      "url": "https://github.com/ashhart/TensorFold",
+      "occurred_at": "2026-11-12T20:06:20.409Z",
+      "entity_id": "repo:ashhart/TensorFold"
+    },
+    {
+      "id": "20",
+      "type": "feed_must_read",
+      "title": {
+        "zh": "Public monitoring alerts now have direct links",
+        "en": "Public monitoring alerts now have direct links"
+      },
+      "subtitle": {
+        "zh": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog .",
+        "en": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog ."
+      },
+      "signal": {
+        "zh": "资讯",
+        "en": "feed"
+      },
+      "title_zh": "Public monitoring alerts now have direct links",
+      "title_en": "Public monitoring alerts now have direct links",
+      "subtitle_zh": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog .",
+      "subtitle_en": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog .",
+      "signal_zh": "资讯",
+      "signal_en": "feed",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
+      "occurred_at": "2026-11-12T14:37:38.000Z",
+      "entity_id": "feed:1486"
     }
   ]
 }

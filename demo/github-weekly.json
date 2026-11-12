@@ -18,50 +18,18 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "topics": [],
-      "stars": 11998,
-      "stars_delta": 219,
-      "forks": 984,
-      "forks_delta": 18,
-      "html_url": "https://github.com/NVIDIA/auto-ontology",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
-      },
-      "strengths": {
-        "zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-        "en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…"
-      },
-      "innovations": {
-        "zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-        "en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…"
-      },
-      "purpose_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "purpose_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "strengths_zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-      "strengths_en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
-      "innovations_zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-      "innovations_en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 2,
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
-      "stars": 193315,
-      "stars_delta": 291,
-      "forks": 22746,
-      "forks_delta": 34,
+      "stars": 193637,
+      "stars_delta": 322,
+      "forks": 22777,
+      "forks_delta": 31,
       "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "Public repository for Agent Skills",
         "en": "Public repository for Agent Skills"
@@ -83,52 +51,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
-      "full_name": "vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "stars": 22314,
-      "stars_delta": 352,
-      "forks": 1657,
-      "forks_delta": 23,
-      "html_url": "https://github.com/vercel-labs/agent-desktop",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Computer use CLI for AI agents",
-        "en": "Computer use CLI for AI agents"
-      },
-      "strengths": {
-        "zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-        "en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…"
-      },
-      "innovations": {
-        "zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-        "en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…"
-      },
-      "purpose_zh": "Computer use CLI for AI agents",
-      "purpose_en": "Computer use CLI for AI agents",
-      "strengths_zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-      "strengths_en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
-      "innovations_zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-      "innovations_en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "full_name": "milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
@@ -145,12 +68,12 @@
         "self-hosted",
         "typescript"
       ],
-      "stars": 21399,
-      "stars_delta": 228,
-      "forks": 2988,
-      "forks_delta": 35,
+      "stars": 21669,
+      "stars_delta": 270,
+      "forks": 3016,
+      "forks_delta": 28,
       "html_url": "https://github.com/milind-soni/OpenMausBot",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
@@ -172,17 +95,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "full_name": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "topics": [],
-      "stars": 50056,
-      "stars_delta": 285,
-      "forks": 3492,
-      "forks_delta": 11,
+      "stars": 50279,
+      "stars_delta": 223,
+      "forks": 3501,
+      "forks_delta": 9,
       "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "Browser automation CLI for AI agents",
         "en": "Browser automation CLI for AI agents"
@@ -204,17 +127,49 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "full_name": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "topics": [],
+      "stars": 12187,
+      "stars_delta": 189,
+      "forks": 1006,
+      "forks_delta": 22,
+      "html_url": "https://github.com/NVIDIA/auto-ontology",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
+      "purpose": {
+        "zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+      },
+      "strengths": {
+        "zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+        "en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…"
+      },
+      "innovations": {
+        "zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+        "en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…"
+      },
+      "purpose_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "purpose_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "strengths_zh": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+      "strengths_en": "Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where…",
+      "innovations_zh": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+      "innovations_en": "…enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness through MCP, CLI, and API. It complements the semantic models customers already own. It enables developers to: - Discover: generate en…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
       "full_name": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 70563,
-      "stars_delta": 390,
-      "forks": 4682,
-      "forks_delta": 32,
+      "stars": 71064,
+      "stars_delta": 501,
+      "forks": 4723,
+      "forks_delta": 41,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -236,17 +191,62 @@
       "insights_source": "readme-excerpt"
     },
     {
+      "rank": 6,
+      "full_name": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "stars": 22636,
+      "stars_delta": 322,
+      "forks": 1678,
+      "forks_delta": 21,
+      "html_url": "https://github.com/vercel-labs/agent-desktop",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
+      "purpose": {
+        "zh": "Computer use CLI for AI agents",
+        "en": "Computer use CLI for AI agents"
+      },
+      "strengths": {
+        "zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+        "en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…"
+      },
+      "innovations": {
+        "zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+        "en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…"
+      },
+      "purpose_zh": "Computer use CLI for AI agents",
+      "purpose_en": "Computer use CLI for AI agents",
+      "strengths_zh": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+      "strengths_en": "agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. agent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads th…",
+      "innovations_zh": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+      "innovations_en": "…check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library. Snapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private d…",
+      "insights_source": "readme-excerpt"
+    },
+    {
       "rank": 7,
       "full_name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 322298,
-      "stars_delta": 440,
-      "forks": 27030,
-      "forks_delta": 48,
+      "stars": 322900,
+      "stars_delta": 602,
+      "forks": 27076,
+      "forks_delta": 46,
       "html_url": "https://github.com/mattpocock/skills",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "Skills for Real Engineers. Straight from my .agents directory.",
         "en": "Skills for Real Engineers. Straight from my .agents directory."
@@ -269,6 +269,115 @@
     },
     {
       "rank": 8,
+      "full_name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "stars": 94821,
+      "stars_delta": 70,
+      "forks": 11658,
+      "forks_delta": 24,
+      "html_url": "https://github.com/zed-industries/zed",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
+      "purpose": {
+        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+      },
+      "strengths": {
+        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
+      },
+      "innovations": {
+        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
+      },
+      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
+      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "stars": 17749,
+      "stars_delta": 58,
+      "forks": 2180,
+      "forks_delta": 6,
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
+      "purpose": {
+        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      },
+      "strengths": {
+        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
+      },
+      "innovations": {
+        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
+      },
+      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
+      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "stars": 24047,
+      "stars_delta": 67,
+      "forks": 2003,
+      "forks_delta": 5,
+      "html_url": "https://github.com/google/skills",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
+      "purpose": {
+        "zh": "Agent Skills for Google products and technologies",
+        "en": "Agent Skills for Google products and technologies"
+      },
+      "strengths": {
+        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
+      },
+      "innovations": {
+        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
+      },
+      "purpose_zh": "Agent Skills for Google products and technologies",
+      "purpose_en": "Agent Skills for Google products and technologies",
+      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
+      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
@@ -294,12 +403,12 @@
         "webscraping",
         "xpath"
       ],
-      "stars": 101795,
-      "stars_delta": 214,
-      "forks": 10603,
-      "forks_delta": 15,
+      "stars": 102061,
+      "stars_delta": 266,
+      "forks": 10622,
+      "forks_delta": 19,
       "html_url": "https://github.com/D4Vinci/Scrapling",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
+      "snapshot_at": "2026-11-12T20:06:25.336Z",
       "purpose": {
         "zh": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
         "en": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
@@ -318,211 +427,6 @@
       "strengths_en": "Effortless Web Scraping for the Modern Web Selection methods &middot; Fetchers &middot; Spiders &middot; Proxy Rotation &middot; CLI &middot; MCP Scrapling is a Python Web Scraping framework that brings fast HTTP requests, stealth…",
       "innovations_zh": "…behind them. Build crawlers with reusable sessions, proxy rotation, automatic retries, pause/resume, and built-in data exports. Use it from Python, the terminal, or your AI agent through its MCP server and Agent Skill. From extra…",
       "innovations_en": "…behind them. Build crawlers with reusable sessions, proxy rotation, automatic retries, pause/resume, and built-in data exports. Use it from Python, the terminal, or your AI agent through its MCP server and Agent Skill. From extra…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
-      "full_name": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "topics": [
-        "gpui",
-        "rust-lang",
-        "text-editor",
-        "zed"
-      ],
-      "stars": 94751,
-      "stars_delta": 57,
-      "forks": 11634,
-      "forks_delta": 7,
-      "html_url": "https://github.com/zed-industries/zed",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
-      },
-      "strengths": {
-        "zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-        "en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…"
-      },
-      "innovations": {
-        "zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-        "en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…"
-      },
-      "purpose_zh": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "purpose_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "strengths_zh": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "strengths_en": "Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. --- Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager (…",
-      "innovations_zh": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-      "innovations_en": "…or Windows Contributing See CONTRIBUTING.md for ways you can contribute to Zed. Also... we're hiring! Check out our jobs page for open roles. Licensing Zed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 10,
-      "full_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "topics": [
-        "ai-agents",
-        "ai-assisted-development",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "game-design",
-        "game-development",
-        "gamedev",
-        "godot",
-        "indie-game-dev",
-        "unity",
-        "unreal-engine"
-      ],
-      "stars": 38583,
-      "stars_delta": 178,
-      "forks": 5016,
-      "forks_delta": 17,
-      "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
-      },
-      "strengths": {
-        "zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-        "en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…"
-      },
-      "innovations": {
-        "zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-        "en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…"
-      },
-      "purpose_zh": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "purpose_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "strengths_zh": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "strengths_en": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. --- Why This Exists Building a game solo with AI is powerful — but a single chat sessio…",
-      "innovations_zh": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "innovations_en": "…does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a stu…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "topics": [
-        "google",
-        "googlecloud",
-        "skills"
-      ],
-      "stars": 23980,
-      "stars_delta": 68,
-      "forks": 1998,
-      "forks_delta": 4,
-      "html_url": "https://github.com/google/skills",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Agent Skills for Google products and technologies",
-        "en": "Agent Skills for Google products and technologies"
-      },
-      "strengths": {
-        "zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-        "en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…"
-      },
-      "innovations": {
-        "zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-        "en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…"
-      },
-      "purpose_zh": "Agent Skills for Google products and technologies",
-      "purpose_en": "Agent Skills for Google products and technologies",
-      "strengths_zh": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "strengths_en": "Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation When prompted, select specific skills or all skills, the target agents to configure, and the installatio…",
-      "innovations_zh": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "innovations_en": "…ls to the latest versions, run the following command. This command gives you an option to also remove obsolete skills. Available Skills - Getting started with Google Cloud - Authenticating and Authorizing to Google Cloud (IAM) - G…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
-      "full_name": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "topics": [
-        "mujoco",
-        "physics",
-        "robotics"
-      ],
-      "stars": 17691,
-      "stars_delta": 72,
-      "forks": 2174,
-      "forks_delta": 8,
-      "html_url": "https://github.com/google-deepmind/mujoco",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-      },
-      "strengths": {
-        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
-      },
-      "innovations": {
-        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
-      },
-      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 13,
-      "full_name": "herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "topics": [
-        "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "devtools",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-multiplexer",
-        "terminal-ui",
-        "tmux",
-        "tui",
-        "workspace-manager"
-      ],
-      "stars": 50428,
-      "stars_delta": 157,
-      "forks": 4068,
-      "forks_delta": 6,
-      "html_url": "https://github.com/herdrdev/herdr",
-      "snapshot_at": "2026-11-12T07:24:12.008Z",
-      "purpose": {
-        "zh": "the runtime your coding agents live on",
-        "en": "the runtime your coding agents live on"
-      },
-      "strengths": {
-        "zh": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
-        "en": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…"
-      },
-      "innovations": {
-        "zh": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
-        "en": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…"
-      },
-      "purpose_zh": "the runtime your coding agents live on",
-      "purpose_en": "the runtime your coding agents live on",
-      "strengths_zh": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
-      "strengths_en": "herdr herdr.dev · install · quick start · docs English · 简体中文 --- https://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267 the runtime your coding agents live on. - detach without stopping work — herdr keeps…",
-      "innovations_zh": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
-      "innovations_en": "…n resume supported agent sessions; the original processes do not survive. session state → - several machines, one window — keep local work and saved ssh machines together, with a combined agent list and independent reconnects. rem…",
       "insights_source": "readme-excerpt"
     }
   ]
