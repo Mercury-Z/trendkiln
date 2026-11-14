@@ -26,6 +26,129 @@
       "saved": false
     },
     {
+      "id": "1519",
+      "title": {
+        "zh": "0.171.0-alpha.5",
+        "en": "0.171.0-alpha.5"
+      },
+      "summary": {
+        "zh": "Release 0.171.0-alpha.5",
+        "en": "Release 0.171.0-alpha.5"
+      },
+      "title_zh": "0.171.0-alpha.5",
+      "title_en": "0.171.0-alpha.5",
+      "summary_zh": "Release 0.171.0-alpha.5",
+      "summary_en": "Release 0.171.0-alpha.5",
+      "title_text": "0.171.0-alpha.5",
+      "summary_text": "Release 0.171.0-alpha.5",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5",
+      "published_at": "2026-11-14T01:25:03.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1520",
+      "title": {
+        "zh": "datasette-cluster-map 0.19",
+        "en": "datasette-cluster-map 0.19"
+      },
+      "summary": {
+        "zh": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonst…",
+        "en": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonst…"
+      },
+      "title_zh": "datasette-cluster-map 0.19",
+      "title_en": "datasette-cluster-map 0.19",
+      "summary_zh": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonst…",
+      "summary_en": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonst…",
+      "title_text": "datasette-cluster-map 0.19",
+      "summary_text": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonst…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "published_at": "2026-11-13T23:02:45.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1521",
+      "title": {
+        "zh": "datasette-leaflet 0.3",
+        "en": "datasette-leaflet 0.3"
+      },
+      "summary": {
+        "zh": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…",
+        "en": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…"
+      },
+      "title_zh": "datasette-leaflet 0.3",
+      "title_en": "datasette-leaflet 0.3",
+      "summary_zh": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…",
+      "summary_en": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…",
+      "title_text": "datasette-leaflet 0.3",
+      "summary_text": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "published_at": "2026-11-13T22:30:54.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1522",
+      "title": {
+        "zh": "Daemons can now send traces to Vercel Tracing",
+        "en": "Daemons can now send traces to Vercel Tracing"
+      },
+      "summary": {
+        "zh": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Up…",
+        "en": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Up…"
+      },
+      "title_zh": "Daemons can now send traces to Vercel Tracing",
+      "title_en": "Daemons can now send traces to Vercel Tracing",
+      "summary_zh": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Up…",
+      "summary_en": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Up…",
+      "title_text": "Daemons can now send traces to Vercel Tracing",
+      "summary_text": "Vercel Daemons can now send OpenTelemetry traces to Vercel Tracing , allowing you and your agents to inspect background worker operations alongside the rest of your project's traces. Vercel provides each daemon with a Unix socket for receiving OTLP/HTTP traces and sets the socket's path in VERCEL_OTEL_SOCKET_PATH . Up…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+      "published_at": "2026-11-13T22:24:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1523",
+      "title": {
+        "zh": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "en": "Upcoming deprecation of selected GitHub Copilot models in December"
+      },
+      "summary": {
+        "zh": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+        "en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog ."
+      },
+      "title_zh": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "summary_zh": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+      "summary_en": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+      "title_text": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "summary_text": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+      "source_id": "4",
+      "source_name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "published_at": "2026-11-13T20:40:05.000Z",
+      "tags": [
+        "Retired",
+        "copilot"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1504",
       "title": {
         "zh": "0.171.0-alpha.4",
@@ -45,6 +168,30 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4",
       "published_at": "2026-11-13T19:02:32.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1524",
+      "title": {
+        "zh": "Token Pass now includes $150 in tokens for $30/month",
+        "en": "Token Pass now includes $150 in tokens for $30/month"
+      },
+      "summary": {
+        "zh": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover.…",
+        "en": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover.…"
+      },
+      "title_zh": "Token Pass now includes $150 in tokens for $30/month",
+      "title_en": "Token Pass now includes $150 in tokens for $30/month",
+      "summary_zh": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover.…",
+      "summary_en": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover.…",
+      "title_text": "Token Pass now includes $150 in tokens for $30/month",
+      "summary_text": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing period with no rollover.…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+      "published_at": "2026-11-13T18:42:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -298,6 +445,30 @@
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.2",
       "published_at": "2026-11-13T08:04:06.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1525",
+      "title": {
+        "zh": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "en": "Shield helps technicians hand off legacy portal work with OpenAI"
+      },
+      "summary": {
+        "zh": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      },
+      "title_zh": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_zh": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "summary_en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "title_text": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_text": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published_at": "2026-11-13T08:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -598,6 +769,30 @@
       "saved": false
     },
     {
+      "id": "1526",
+      "title": {
+        "zh": "Kimi K3.1 Pro is now available in Token Pass",
+        "en": "Kimi K3.1 Pro is now available in Token Pass"
+      },
+      "summary": {
+        "zh": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 p…",
+        "en": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 p…"
+      },
+      "title_zh": "Kimi K3.1 Pro is now available in Token Pass",
+      "title_en": "Kimi K3.1 Pro is now available in Token Pass",
+      "summary_zh": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 p…",
+      "summary_en": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 p…",
+      "title_text": "Kimi K3.1 Pro is now available in Token Pass",
+      "summary_text": "Token Pass now includes Kimi K3.1 Pro , Moonshot AI’s most capable model for coding and agentic workflows, with vision, tool use, and a 1M context window. Token Pass is an Early Access subscription for Pro teams that includes Kimi K3, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash, with more models to come. For $30 p…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
+      "published_at": "2026-11-12T20:56:38.253Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1501",
       "title": {
         "zh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -876,6 +1071,30 @@
       "saved": false
     },
     {
+      "id": "1527",
+      "title": {
+        "zh": "Vercel Sandbox now supports managed npm credentials",
+        "en": "Vercel Sandbox now supports managed npm credentials"
+      },
+      "summary": {
+        "zh": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials.…",
+        "en": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials.…"
+      },
+      "title_zh": "Vercel Sandbox now supports managed npm credentials",
+      "title_en": "Vercel Sandbox now supports managed npm credentials",
+      "summary_zh": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials.…",
+      "summary_en": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials.…",
+      "title_text": "Vercel Sandbox now supports managed npm credentials",
+      "summary_text": "Vercel Sandbox can now install your team's private npm packages using credentials stored in team Shared Environment Variables . Custom registries such as GitHub Packages and JFrog Artifactory are also supported. Pass credentials: { npm: true } when creating a sandbox to let it use your team's existing npm credentials.…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
+      "published_at": "2026-11-12T01:56:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1475",
       "title": {
         "zh": "0.170.0-alpha.2",
@@ -1089,30 +1308,6 @@
       "source_name": "Simon Willison",
       "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
       "published_at": "2026-11-11T21:18:30.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1464",
-      "title": {
-        "zh": "0.170.0-alpha.1",
-        "en": "0.170.0-alpha.1"
-      },
-      "summary": {
-        "zh": "Release 0.170.0-alpha.1",
-        "en": "Release 0.170.0-alpha.1"
-      },
-      "title_zh": "0.170.0-alpha.1",
-      "title_en": "0.170.0-alpha.1",
-      "summary_zh": "Release 0.170.0-alpha.1",
-      "summary_en": "Release 0.170.0-alpha.1",
-      "title_text": "0.170.0-alpha.1",
-      "summary_text": "Release 0.170.0-alpha.1",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
-      "published_at": "2026-11-11T20:09:52.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1651,33 +1846,6 @@
       "saved": false
     },
     {
-      "id": "1433",
-      "title": {
-        "zh": "C++ language server now auto-configures MSBuild builds",
-        "en": "C++ language server now auto-configures MSBuild builds"
-      },
-      "summary": {
-        "zh": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .",
-        "en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog ."
-      },
-      "title_zh": "C++ language server now auto-configures MSBuild builds",
-      "title_en": "C++ language server now auto-configures MSBuild builds",
-      "summary_zh": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .",
-      "summary_en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .",
-      "title_text": "C++ language server now auto-configures MSBuild builds",
-      "summary_text": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "published_at": "2026-11-10T17:04:10.000Z",
-      "tags": [
-        "Improvement",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1436",
       "title": {
         "zh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -1831,180 +1999,6 @@
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/singapore-airlines-travel-work",
       "published_at": "2026-11-10T08:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1420",
-      "title": {
-        "zh": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-        "en": "Introducing Our Smallest, Most Efficient Model: Muse Ember"
-      },
-      "summary": {
-        "zh": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, r…",
-        "en": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, r…"
-      },
-      "title_zh": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "title_en": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary_zh": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, r…",
-      "summary_en": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, r…",
-      "title_text": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary_text": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, r…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "published_at": "2026-11-10T07:28:21.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1441",
-      "title": {
-        "zh": "Work at the Frontier: AI’s effect on freelance work",
-        "en": "Work at the Frontier: AI’s effect on freelance work"
-      },
-      "summary": {
-        "zh": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-        "en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-      },
-      "title_zh": "Work at the Frontier: AI’s effect on freelance work",
-      "title_en": "Work at the Frontier: AI’s effect on freelance work",
-      "summary_zh": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "summary_en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "title_text": "Work at the Frontier: AI’s effect on freelance work",
-      "summary_text": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published_at": "2026-11-10T07:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1421",
-      "title": {
-        "zh": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-        "en": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins"
-      },
-      "summary": {
-        "zh": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-        "en": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?"
-      },
-      "title_zh": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "title_en": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "summary_zh": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "summary_en": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "title_text": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "summary_text": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "published_at": "2026-11-10T06:34:44.000Z",
-      "tags": [
-        "ainews: weekday roundups"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1422",
-      "title": {
-        "zh": "Quoting Prompting Claude Fable 5.2",
-        "en": "Quoting Prompting Claude Fable 5.2"
-      },
-      "summary": {
-        "zh": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
-        "en": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…"
-      },
-      "title_zh": "Quoting Prompting Claude Fable 5.2",
-      "title_en": "Quoting Prompting Claude Fable 5.2",
-      "summary_zh": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
-      "summary_en": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
-      "title_text": "Quoting Prompting Claude Fable 5.2",
-      "summary_text": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt sai…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "published_at": "2026-11-10T05:34:14.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1423",
-      "title": {
-        "zh": "Yonkers Rises",
-        "en": "Yonkers Rises"
-      },
-      "summary": {
-        "zh": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mec…",
-        "en": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mec…"
-      },
-      "title_zh": "Yonkers Rises",
-      "title_en": "Yonkers Rises",
-      "summary_zh": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mec…",
-      "summary_en": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mec…",
-      "title_text": "Yonkers Rises",
-      "summary_text": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mec…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-      "published_at": "2026-11-10T03:53:04.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1457",
-      "title": {
-        "zh": "Cogent and OpenAI build cyber defense factories for enterprises",
-        "en": "Cogent and OpenAI build cyber defense factories for enterprises"
-      },
-      "summary": {
-        "zh": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-        "en": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
-      },
-      "title_zh": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "title_en": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary_zh": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "summary_en": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "title_text": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary_text": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/cogent-security",
-      "published_at": "2026-11-10T00:00:00.000Z",
-      "tags": [
-        "Startup"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1458",
-      "title": {
-        "zh": "MiniMax H3 Image and Highspeed now available on AI Gateway",
-        "en": "MiniMax H3 Image and Highspeed now available on AI Gateway"
-      },
-      "summary": {
-        "zh": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illu…",
-        "en": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illu…"
-      },
-      "title_zh": "MiniMax H3 Image and Highspeed now available on AI Gateway",
-      "title_en": "MiniMax H3 Image and Highspeed now available on AI Gateway",
-      "summary_zh": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illu…",
-      "summary_en": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illu…",
-      "title_text": "MiniMax H3 Image and Highspeed now available on AI Gateway",
-      "summary_text": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illu…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
-      "published_at": "2026-11-10T00:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
