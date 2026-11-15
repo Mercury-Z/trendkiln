@@ -26,6 +26,54 @@
       "saved": false
     },
     {
+      "id": "1529",
+      "title": {
+        "zh": "datasette-llm 0.1a11",
+        "en": "datasette-llm 0.1a11"
+      },
+      "summary": {
+        "zh": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web pro…",
+        "en": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web pro…"
+      },
+      "title_zh": "datasette-llm 0.1a11",
+      "title_en": "datasette-llm 0.1a11",
+      "summary_zh": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web pro…",
+      "summary_en": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web pro…",
+      "title_text": "datasette-llm 0.1a11",
+      "summary_text": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web pro…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "published_at": "2026-11-14T23:59:28.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1530",
+      "title": {
+        "zh": "datasette-vega 0.7",
+        "en": "datasette-vega 0.7"
+      },
+      "summary": {
+        "zh": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better…",
+        "en": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better…"
+      },
+      "title_zh": "datasette-vega 0.7",
+      "title_en": "datasette-vega 0.7",
+      "summary_zh": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better…",
+      "summary_en": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better…",
+      "title_text": "datasette-vega 0.7",
+      "summary_text": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "published_at": "2026-11-14T17:09:09.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1528",
       "title": {
         "zh": "[AINews] The No AI Slop Manifesto",
@@ -1947,58 +1995,6 @@
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "published_at": "2026-11-10T12:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1439",
-      "title": {
-        "zh": "Introducing Businesses in ChatGPT",
-        "en": "Introducing Businesses in ChatGPT"
-      },
-      "summary": {
-        "zh": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-        "en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-      },
-      "title_zh": "Introducing Businesses in ChatGPT",
-      "title_en": "Introducing Businesses in ChatGPT",
-      "summary_zh": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "summary_en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "title_text": "Introducing Businesses in ChatGPT",
-      "summary_text": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published_at": "2026-11-10T10:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1440",
-      "title": {
-        "zh": "Closing the AI guidance gap in education",
-        "en": "Closing the AI guidance gap in education"
-      },
-      "summary": {
-        "zh": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-        "en": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-      },
-      "title_zh": "Closing the AI guidance gap in education",
-      "title_en": "Closing the AI guidance gap in education",
-      "summary_zh": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "summary_en": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "title_text": "Closing the AI guidance gap in education",
-      "summary_text": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published_at": "2026-11-10T09:00:00.000Z",
       "tags": [
         "Company"
       ],
