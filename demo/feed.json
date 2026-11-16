@@ -26,25 +26,245 @@
       "saved": false
     },
     {
+      "id": "1532",
+      "title": {
+        "zh": "datasette-maplibre 0.1a0",
+        "en": "datasette-maplibre 0.1a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Loo…",
+        "en": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Loo…"
+      },
+      "title_zh": "datasette-maplibre 0.1a0",
+      "title_en": "datasette-maplibre 0.1a0",
+      "summary_zh": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Loo…",
+      "summary_en": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Loo…",
+      "title_text": "datasette-maplibre 0.1a0",
+      "summary_text": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Loo…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "published_at": "2026-11-15T23:58:36.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1533",
+      "title": {
+        "zh": "datasette 1.0a43",
+        "en": "datasette 1.0a43"
+      },
+      "summary": {
+        "zh": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register thems…",
+        "en": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register thems…"
+      },
+      "title_zh": "datasette 1.0a43",
+      "title_en": "datasette 1.0a43",
+      "summary_zh": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register thems…",
+      "summary_en": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register thems…",
+      "title_text": "datasette 1.0a43",
+      "summary_text": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register thems…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "published_at": "2026-11-15T23:20:27.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1534",
+      "title": {
+        "zh": "0.171.0-alpha.7",
+        "en": "0.171.0-alpha.7"
+      },
+      "summary": {
+        "zh": "Release 0.171.0-alpha.7",
+        "en": "Release 0.171.0-alpha.7"
+      },
+      "title_zh": "0.171.0-alpha.7",
+      "title_en": "0.171.0-alpha.7",
+      "summary_zh": "Release 0.171.0-alpha.7",
+      "summary_en": "Release 0.171.0-alpha.7",
+      "title_text": "0.171.0-alpha.7",
+      "summary_text": "Release 0.171.0-alpha.7",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.7",
+      "published_at": "2026-11-15T23:18:44.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1535",
+      "title": {
+        "zh": "datasette 0.65.6",
+        "en": "datasette 0.65.6"
+      },
+      "summary": {
+        "zh": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+        "en": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette"
+      },
+      "title_zh": "datasette 0.65.6",
+      "title_en": "datasette 0.65.6",
+      "summary_zh": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+      "summary_en": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+      "title_text": "datasette 0.65.6",
+      "summary_text": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "published_at": "2026-11-15T23:18:17.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1536",
+      "title": {
+        "zh": "A step toward defining the Standard Model on a lattice",
+        "en": "A step toward defining the Standard Model on a lattice"
+      },
+      "summary": {
+        "zh": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      },
+      "title_zh": "A step toward defining the Standard Model on a lattice",
+      "title_en": "A step toward defining the Standard Model on a lattice",
+      "summary_zh": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "summary_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "title_text": "A step toward defining the Standard Model on a lattice",
+      "summary_text": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_at": "2026-11-15T22:00:01.000Z",
+      "tags": [
+        "Science"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1537",
+      "title": {
+        "zh": "Our new blog for science",
+        "en": "Our new blog for science"
+      },
+      "summary": {
+        "zh": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      },
+      "title_zh": "Our new blog for science",
+      "title_en": "Our new blog for science",
+      "summary_zh": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "summary_en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "title_text": "Our new blog for science",
+      "summary_text": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published_at": "2026-11-15T22:00:00.000Z",
+      "tags": [
+        "Science"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1538",
+      "title": {
+        "zh": "Qwen4-Max now available on AI Gateway",
+        "en": "Qwen4-Max now available on AI Gateway"
+      },
+      "summary": {
+        "zh": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blen…",
+        "en": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blen…"
+      },
+      "title_zh": "Qwen4-Max now available on AI Gateway",
+      "title_en": "Qwen4-Max now available on AI Gateway",
+      "summary_zh": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blen…",
+      "summary_en": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blen…",
+      "title_text": "Qwen4-Max now available on AI Gateway",
+      "summary_text": "Qwen4-Max from Alibaba is now available on AI Gateway. It is the first model in the Qwen4 series: a reasoning model with native vision and a 1M-token context window, built for coding, professional work, and long-running agent tasks. Qwen4-Max is better at working with professional tools. It can build 3D scenes in Blen…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+      "published_at": "2026-11-15T20:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1531",
       "title": {
-        "zh": "rust-v0.171.0-alpha.6",
-        "en": "rust-v0.171.0-alpha.6"
+        "zh": "0.171.0-alpha.6",
+        "en": "0.171.0-alpha.6"
       },
       "summary": {
         "zh": "Release 0.171.0-alpha.6",
         "en": "Release 0.171.0-alpha.6"
       },
-      "title_zh": "rust-v0.171.0-alpha.6",
-      "title_en": "rust-v0.171.0-alpha.6",
+      "title_zh": "0.171.0-alpha.6",
+      "title_en": "0.171.0-alpha.6",
       "summary_zh": "Release 0.171.0-alpha.6",
       "summary_en": "Release 0.171.0-alpha.6",
-      "title_text": "rust-v0.171.0-alpha.6",
+      "title_text": "0.171.0-alpha.6",
       "summary_text": "Release 0.171.0-alpha.6",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.6",
-      "published_at": "2026-11-15T16:30:44.000Z",
+      "published_at": "2026-11-15T19:03:37.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1539",
+      "title": {
+        "zh": "datasette-apps 0.4a0",
+        "en": "datasette-apps 0.4a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plu…",
+        "en": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plu…"
+      },
+      "title_zh": "datasette-apps 0.4a0",
+      "title_en": "datasette-apps 0.4a0",
+      "summary_zh": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plu…",
+      "summary_en": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plu…",
+      "title_text": "datasette-apps 0.4a0",
+      "summary_text": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plu…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "published_at": "2026-11-15T04:02:45.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1540",
+      "title": {
+        "zh": "datasette-agent 0.6a0",
+        "en": "datasette-agent 0.6a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datase…",
+        "en": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datase…"
+      },
+      "title_zh": "datasette-agent 0.6a0",
+      "title_en": "datasette-agent 0.6a0",
+      "summary_zh": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datase…",
+      "summary_en": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datase…",
+      "title_text": "datasette-agent 0.6a0",
+      "summary_text": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datase…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "published_at": "2026-11-15T03:49:47.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1169,30 +1389,6 @@
       "saved": false
     },
     {
-      "id": "1475",
-      "title": {
-        "zh": "0.170.0-alpha.2",
-        "en": "0.170.0-alpha.2"
-      },
-      "summary": {
-        "zh": "Release 0.170.0-alpha.2",
-        "en": "Release 0.170.0-alpha.2"
-      },
-      "title_zh": "0.170.0-alpha.2",
-      "title_en": "0.170.0-alpha.2",
-      "summary_zh": "Release 0.170.0-alpha.2",
-      "summary_en": "Release 0.170.0-alpha.2",
-      "title_text": "0.170.0-alpha.2",
-      "summary_text": "Release 0.170.0-alpha.2",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2",
-      "published_at": "2026-11-12T01:34:33.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1489",
       "title": {
         "zh": "Supporting research on AI and children’s safety",
@@ -1788,216 +1984,6 @@
       "url": "https://huggingface.co/blog/token-pooling",
       "published_at": "2026-11-11T00:00:00.000Z",
       "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1452",
-      "title": {
-        "zh": "llm-gemini 0.36",
-        "en": "llm-gemini 0.36"
-      },
-      "summary": {
-        "zh": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in p…",
-        "en": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in p…"
-      },
-      "title_zh": "llm-gemini 0.36",
-      "title_en": "llm-gemini 0.36",
-      "summary_zh": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in p…",
-      "summary_en": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in p…",
-      "title_text": "llm-gemini 0.36",
-      "summary_text": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in p…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "published_at": "2026-11-10T20:09:44.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1453",
-      "title": {
-        "zh": "Designing for Agents — Zeno Rocha, Resend",
-        "en": "Designing for Agents — Zeno Rocha, Resend"
-      },
-      "summary": {
-        "zh": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-        "en": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send."
-      },
-      "title_zh": "Designing for Agents — Zeno Rocha, Resend",
-      "title_en": "Designing for Agents — Zeno Rocha, Resend",
-      "summary_zh": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "summary_en": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "title_text": "Designing for Agents — Zeno Rocha, Resend",
-      "summary_text": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/resend/",
-      "published_at": "2026-11-10T20:05:17.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1454",
-      "title": {
-        "zh": "Gemini 4 Carbon in GitHub Copilot",
-        "en": "Gemini 4 Carbon in GitHub Copilot"
-      },
-      "summary": {
-        "zh": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
-        "en": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog ."
-      },
-      "title_zh": "Gemini 4 Carbon in GitHub Copilot",
-      "title_en": "Gemini 4 Carbon in GitHub Copilot",
-      "summary_zh": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
-      "summary_en": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
-      "title_text": "Gemini 4 Carbon in GitHub Copilot",
-      "summary_text": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
-      "source_id": "4",
-      "source_name": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "published_at": "2026-11-10T19:26:51.000Z",
-      "tags": [
-        "Release",
-        "copilot"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1430",
-      "title": {
-        "zh": "Gemini Intelligence: New features, on more devices",
-        "en": "Gemini Intelligence: New features, on more devices"
-      },
-      "summary": {
-        "zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-        "en": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
-      },
-      "title_zh": "Gemini Intelligence: New features, on more devices",
-      "title_en": "Gemini Intelligence: New features, on more devices",
-      "summary_zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "summary_en": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "title_text": "Gemini Intelligence: New features, on more devices",
-      "summary_text": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published_at": "2026-11-10T19:00:00.000Z",
-      "tags": [
-        "Gemini App",
-        "Android",
-        "Gemini Notebook",
-        "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1431",
-      "title": {
-        "zh": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-        "en": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?"
-      },
-      "summary": {
-        "zh": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-        "en": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek."
-      },
-      "title_zh": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "title_en": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "summary_zh": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-      "summary_en": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-      "title_text": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "summary_text": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/naiveai/",
-      "published_at": "2026-11-10T18:56:32.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1436",
-      "title": {
-        "zh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
-      },
-      "summary": {
-        "zh": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-        "en": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
-      },
-      "title_zh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary_zh": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "summary_en": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "title_text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary_text": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "tags": [
-        "Google DeepMind",
-        "Company announcements (DEPRECATED)",
-        "Google Workspace",
-        "Google Cloud"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1437",
-      "title": {
-        "zh": "Google Cloud launches Gemini for healthcare.",
-        "en": "Google Cloud launches Gemini for healthcare."
-      },
-      "summary": {
-        "zh": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-        "en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
-      },
-      "title_zh": "Google Cloud launches Gemini for healthcare.",
-      "title_en": "Google Cloud launches Gemini for healthcare.",
-      "summary_zh": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "summary_en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "title_text": "Google Cloud launches Gemini for healthcare.",
-      "summary_text": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "source_id": "9",
-      "source_name": "Google AI Blog",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published_at": "2026-11-10T13:00:00.000Z",
-      "tags": [
-        "Google Cloud",
-        "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1438",
-      "title": {
-        "zh": "Helping caregivers use AI in everyday life",
-        "en": "Helping caregivers use AI in everyday life"
-      },
-      "summary": {
-        "zh": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-        "en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-      },
-      "title_zh": "Helping caregivers use AI in everyday life",
-      "title_en": "Helping caregivers use AI in everyday life",
-      "summary_zh": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "summary_en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "title_text": "Helping caregivers use AI in everyday life",
-      "summary_text": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published_at": "2026-11-10T12:00:00.000Z",
-      "tags": [
-        "Company"
-      ],
       "read_at": null,
       "saved": false
     }
