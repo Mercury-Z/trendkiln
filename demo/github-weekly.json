@@ -22,12 +22,12 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "topics": [],
-      "stars": 8159,
-      "stars_delta": 213,
-      "forks": 708,
+      "stars": 8387,
+      "stars_delta": 228,
+      "forks": 723,
       "forks_delta": 15,
       "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -50,38 +50,6 @@
     },
     {
       "rank": 2,
-      "full_name": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 29821,
-      "stars_delta": 293,
-      "forks": 2323,
-      "forks_delta": 18,
-      "html_url": "https://github.com/meta/astryx",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
-      "purpose": {
-        "zh": "An open source design system that's fully customizable and agent ready",
-        "en": "An open source design system that's fully customizable and agent ready"
-      },
-      "strengths": {
-        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
-      },
-      "innovations": {
-        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
-      },
-      "purpose_zh": "An open source design system that's fully customizable and agent ready",
-      "purpose_en": "An open source design system that's fully customizable and agent ready",
-      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
-      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 3,
       "full_name": "backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
       "language": "TypeScript",
@@ -96,12 +64,12 @@
         "plan-mode",
         "skills"
       ],
-      "stars": 12805,
-      "stars_delta": 310,
-      "forks": 1272,
-      "forks_delta": 48,
+      "stars": 13016,
+      "stars_delta": 211,
+      "forks": 1312,
+      "forks_delta": 40,
       "html_url": "https://github.com/backnotprop/plannotator",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
         "en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. "
@@ -123,83 +91,49 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "topics": [
-        "agent-skills"
-      ],
-      "stars": 196277,
-      "stars_delta": 281,
-      "forks": 23035,
-      "forks_delta": 25,
-      "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
-      "purpose": {
-        "zh": "Public repository for Agent Skills",
-        "en": "Public repository for Agent Skills"
-      },
-      "strengths": {
-        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
-      },
-      "innovations": {
-        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
-      },
-      "purpose_zh": "Public repository for Agent Skills",
-      "purpose_en": "Public repository for Agent Skills",
-      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
-      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
+      "rank": 3,
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
       "topics": [],
-      "stars": 52166,
-      "stars_delta": 178,
-      "forks": 3648,
-      "forks_delta": 19,
-      "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "stars": 30088,
+      "stars_delta": 267,
+      "forks": 2351,
+      "forks_delta": 28,
+      "html_url": "https://github.com/meta/astryx",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
-        "zh": "Browser automation CLI for AI agents",
-        "en": "Browser automation CLI for AI agents"
+        "zh": "An open source design system that's fully customizable and agent ready",
+        "en": "An open source design system that's fully customizable and agent ready"
       },
       "strengths": {
-        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
+        "zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+        "en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…"
       },
       "innovations": {
-        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
+        "zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+        "en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…"
       },
-      "purpose_zh": "Browser automation CLI for AI agents",
-      "purpose_en": "Browser automation CLI for AI agents",
-      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
-      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
-      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "purpose_zh": "An open source design system that's fully customizable and agent ready",
+      "purpose_en": "An open source design system that's fully customizable and agent ready",
+      "strengths_zh": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "strengths_en": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contribu…",
+      "innovations_zh": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
+      "innovations_en": "…the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "full_name": "we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "topics": [],
-      "stars": 16092,
-      "stars_delta": 111,
-      "forks": 1398,
-      "forks_delta": 6,
+      "stars": 16244,
+      "stars_delta": 152,
+      "forks": 1418,
+      "forks_delta": 20,
       "html_url": "https://github.com/we-promise/sure",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "The personal finance app for everyone (by everyone)",
         "en": "The personal finance app for everyone (by everyone)"
@@ -221,7 +155,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
@@ -234,12 +168,12 @@
         "quantitative-finance",
         "quantitative-trading"
       ],
-      "stars": 72930,
-      "stars_delta": 143,
-      "forks": 57712,
-      "forks_delta": 45,
+      "stars": 73059,
+      "stars_delta": 129,
+      "forks": 57777,
+      "forks_delta": 65,
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
         "en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
@@ -261,141 +195,90 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 8,
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "rank": 6,
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
-        "cli",
-        "cti",
-        "cybersecurity",
-        "forensics",
-        "hacktoberfest",
-        "information-gathering",
-        "infosec",
-        "linux",
-        "osint",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "sherlock",
-        "tools"
+        "agent-skills"
       ],
-      "stars": 113386,
-      "stars_delta": 256,
-      "forks": 13057,
-      "forks_delta": 23,
-      "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "stars": 196655,
+      "stars_delta": 378,
+      "forks": 23060,
+      "forks_delta": 25,
+      "html_url": "https://github.com/anthropics/skills",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
-        "zh": "Hunt down social media accounts by username across social networks",
-        "en": "Hunt down social media accounts by username across social networks"
+        "zh": "Public repository for Agent Skills",
+        "en": "Public repository for Agent Skills"
       },
       "strengths": {
-        "zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-        "en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…"
+        "zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+        "en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…"
       },
       "innovations": {
-        "zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-        "en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…"
+        "zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+        "en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…"
       },
-      "purpose_zh": "Hunt down social media accounts by username across social networks",
-      "purpose_en": "Hunt down social media accounts by username across social networks",
-      "strengths_zh": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "strengths_en": "Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation &#8202;&#8202; [!WARNING] Packages fo…",
-      "innovations_zh": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
-      "innovations_en": "…sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (= 13), Ubuntu (= 22.10), Homebrew, Kali, and Black…",
+      "purpose_zh": "Public repository for Agent Skills",
+      "purpose_en": "Public repository for Agent Skills",
+      "strengths_zh": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "strengths_en": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loa…",
+      "innovations_zh": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
+      "innovations_en": "…your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: - What are skills? - Using skills in Claude - How to create custom skill…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
-      "full_name": "google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
+      "rank": 7,
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
+        "ai-security",
+        "anthropic",
+        "application-security",
+        "bug-bounty",
+        "bugbounty",
+        "bugcrowd",
+        "claude",
         "claude-code",
-        "claude-code-plugin",
         "claude-skills",
-        "codex",
-        "codex-plugin",
-        "coding-agents",
-        "context-engineering",
-        "developer-tools",
-        "gemini",
-        "llm",
-        "multi-agent",
-        "prompt-engineering",
-        "spec-driven-development"
+        "ethical-hacking",
+        "hackerone",
+        "offensive-security",
+        "pentesting",
+        "red-team",
+        "security-tools",
+        "web-security"
       ],
-      "stars": 20519,
-      "stars_delta": 189,
-      "forks": 1520,
-      "forks_delta": 15,
-      "html_url": "https://github.com/google/elephant-goldfish-model",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "stars": 8996,
+      "stars_delta": 1747,
+      "forks": 1344,
+      "forks_delta": 0,
+      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
-        "zh": "Open-source plugin for designing and reviewing software with agents",
-        "en": "Open-source plugin for designing and reviewing software with agents"
+        "zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
       },
       "strengths": {
-        "zh": "Design with an elephant. Review with a goldfish. Install &ensp;·&ensp; Quickstart &ensp;·&ensp; Documentation &ensp;·&ensp; Website Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for…",
-        "en": "Design with an elephant. Review with a goldfish. Install &ensp;·&ensp; Quickstart &ensp;·&ensp; Documentation &ensp;·&ensp; Website Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for…"
+        "zh": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+        "en": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…"
       },
       "innovations": {
-        "zh": "…onversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing. The built-in draft and design-review workflow targets software specificatio…",
-        "en": "…onversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing. The built-in draft and design-review workflow targets software specificatio…"
+        "zh": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
+        "en": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…"
       },
-      "purpose_zh": "Open-source plugin for designing and reviewing software with agents",
-      "purpose_en": "Open-source plugin for designing and reviewing software with agents",
-      "strengths_zh": "Design with an elephant. Review with a goldfish. Install &ensp;·&ensp; Quickstart &ensp;·&ensp; Documentation &ensp;·&ensp; Website Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for…",
-      "strengths_en": "Design with an elephant. Review with a goldfish. Install &ensp;·&ensp; Quickstart &ensp;·&ensp; Documentation &ensp;·&ensp; Website Develop ideas with context and review documents with fresh eyes. EGM is an open-source plugin for…",
-      "innovations_zh": "…onversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing. The built-in draft and design-review workflow targets software specificatio…",
-      "innovations_en": "…onversation, helping expose unstated assumptions and blind spots. You make the architectural trade-offs and approve the specification before implementing. The built-in draft and design-review workflow targets software specificatio…",
+      "purpose_zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "purpose_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "strengths_zh": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+      "strengths_en": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+      "innovations_zh": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
+      "innovations_en": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "topics": [
-        "mujoco",
-        "physics",
-        "robotics"
-      ],
-      "stars": 18216,
-      "stars_delta": 41,
-      "forks": 2208,
-      "forks_delta": 2,
-      "html_url": "https://github.com/google-deepmind/mujoco",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
-      "purpose": {
-        "zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "en": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-      },
-      "strengths": {
-        "zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-        "en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…"
-      },
-      "innovations": {
-        "zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-        "en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…"
-      },
-      "purpose_zh": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "purpose_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "strengths_zh": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "strengths_en": "MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas whic…",
-      "innovations_zh": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "innovations_en": "…nd is intended for researchers and developers. The runtime simulation module is tuned to maximize performance and operates on low-level data structures that are preallocated by the built-in XML compiler. The library includes inter…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "full_name": "alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
@@ -407,12 +290,12 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 53221,
-      "stars_delta": 331,
-      "forks": 4360,
+      "stars": 53649,
+      "stars_delta": 428,
+      "forks": 4427,
       "forks_delta": 67,
       "html_url": "https://github.com/alibaba/open-code-review",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
@@ -434,42 +317,140 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 12,
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "stars": 118443,
-      "stars_delta": 135,
-      "forks": 12360,
-      "forks_delta": 3,
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "rank": 9,
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "topics": [],
+      "stars": 52333,
+      "stars_delta": 167,
+      "forks": 3660,
+      "forks_delta": 12,
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
-        "zh": "Production-grade engineering skills for AI coding agents.",
-        "en": "Production-grade engineering skills for AI coding agents."
+        "zh": "Browser automation CLI for AI agents",
+        "en": "Browser automation CLI for AI agents"
       },
       "strengths": {
-        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
+        "zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+        "en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…"
       },
       "innovations": {
-        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
+        "zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+        "en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…"
       },
-      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
-      "purpose_en": "Production-grade engineering skills for AI coding agents.",
-      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
-      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
-      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "purpose_zh": "Browser automation CLI for AI agents",
+      "purpose_en": "Browser automation CLI for AI agents",
+      "strengths_zh": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "strengths_en": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a…",
+      "innovations_zh": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "innovations_en": "…he browser stays open between commands, so each step is one short shell call. Install - Homebrew: brew install agent-browser, then agent-browser install. - Linux: agent-browser install --with-deps also installs the browser's syste…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "stars": 58010,
+      "stars_delta": 2593,
+      "forks": 4868,
+      "forks_delta": 0,
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
+      "purpose": {
+        "zh": "Chrome DevTools for coding agents",
+        "en": "Chrome DevTools for coding agents"
+      },
+      "strengths": {
+        "zh": "Chrome DevTools for agents Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Prot…",
+        "en": "Chrome DevTools for agents Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Prot…"
+      },
+      "innovations": {
+        "zh": "…formance analysis. [Tool reference][tool-reference] [CLI][cli] [Skills][skills] [Changelog][changelog] [Contributing][contributing] [Troubleshooting][troubleshooting] [Design Principles][design-principles] Key features - Get perfo…",
+        "en": "…formance analysis. [Tool reference][tool-reference] [CLI][cli] [Skills][skills] [Changelog][changelog] [Contributing][contributing] [Troubleshooting][troubleshooting] [Design Principles][design-principles] Key features - Get perfo…"
+      },
+      "purpose_zh": "Chrome DevTools for coding agents",
+      "purpose_en": "Chrome DevTools for coding agents",
+      "strengths_zh": "Chrome DevTools for agents Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Prot…",
+      "strengths_en": "Chrome DevTools for agents Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Prot…",
+      "innovations_zh": "…formance analysis. [Tool reference][tool-reference] [CLI][cli] [Skills][skills] [Changelog][changelog] [Contributing][contributing] [Troubleshooting][troubleshooting] [Design Principles][design-principles] Key features - Get perfo…",
+      "innovations_en": "…formance analysis. [Tool reference][tool-reference] [CLI][cli] [Skills][skills] [Changelog][changelog] [Contributing][contributing] [Troubleshooting][troubleshooting] [Design Principles][design-principles] Key features - Get perfo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
+      "full_name": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "topics": [],
+      "stars": 6830,
+      "stars_delta": 2407,
+      "forks": 1403,
+      "forks_delta": 0,
+      "html_url": "https://github.com/tradermonty/claude-trading-skills",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
+      "purpose": {
+        "zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+      },
+      "strengths": {
+        "zh": "Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investo…",
+        "en": "Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investo…"
+      },
+      "innovations": {
+        "zh": "…market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the…",
+        "en": "…market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the…"
+      },
+      "purpose_zh": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "purpose_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "strengths_zh": "Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investo…",
+      "strengths_en": "Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investo…",
+      "innovations_zh": "…market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the…",
+      "innovations_en": "…market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 12,
+      "full_name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 10045,
+      "stars_delta": 943,
+      "forks": 1326,
+      "forks_delta": 0,
+      "html_url": "https://github.com/google-labs-code/stitch-skills",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
+      "purpose": {
+        "zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+      },
+      "strengths": {
+        "zh": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (ma…",
+        "en": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (ma…"
+      },
+      "innovations": {
+        "zh": "…install the plugins you need. Via CLI (recommended) [!TIP] The --sparse flags are optional — they limit the checkout to only the listed paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate…",
+        "en": "…install the plugins you need. Via CLI (recommended) [!TIP] The --sparse flags are optional — they limit the checkout to only the listed paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate…"
+      },
+      "purpose_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "purpose_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "strengths_zh": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (ma…",
+      "strengths_en": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (ma…",
+      "innovations_zh": "…install the plugins you need. Via CLI (recommended) [!TIP] The --sparse flags are optional — they limit the checkout to only the listed paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate…",
+      "innovations_en": "…install the plugins you need. Via CLI (recommended) [!TIP] The --sparse flags are optional — they limit the checkout to only the listed paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate…",
       "insights_source": "readme-excerpt"
     },
     {
@@ -494,12 +475,12 @@
         "typescript",
         "vulnerability-scanning"
       ],
-      "stars": 13835,
-      "stars_delta": 87,
-      "forks": 1085,
-      "forks_delta": 12,
+      "stars": 13940,
+      "stars_delta": 105,
+      "forks": 1093,
+      "forks_delta": 8,
       "html_url": "https://github.com/openai/codex-security",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
         "zh": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
@@ -522,47 +503,41 @@
     },
     {
       "rank": 14,
-      "full_name": "QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "language": "TypeScript",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
       "topics": [
-        "agentic",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "coding-agent",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "qwen",
-        "terminal",
-        "typescript"
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
       ],
-      "stars": 30691,
-      "stars_delta": 61,
-      "forks": 3554,
-      "forks_delta": 8,
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "snapshot_at": "2026-11-17T08:07:07.672Z",
+      "stars": 118631,
+      "stars_delta": 188,
+      "forks": 12372,
+      "forks_delta": 12,
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "snapshot_at": "2026-11-17T21:04:20.398Z",
       "purpose": {
-        "zh": "An open-source AI coding agent that lives in your terminal.",
-        "en": "An open-source AI coding agent that lives in your terminal."
+        "zh": "Production-grade engineering skills for AI coding agents.",
+        "en": "Production-grade engineering skills for AI coding agents."
       },
       "strengths": {
-        "zh": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
-        "en": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…"
+        "zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+        "en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…"
       },
       "innovations": {
-        "zh": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
-        "en": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…"
+        "zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+        "en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…"
       },
-      "purpose_zh": "An open-source AI coding agent that lives in your terminal.",
-      "purpose_en": "An open-source AI coding agent that lives in your terminal.",
-      "strengths_zh": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
-      "strengths_en": "The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 Deutsch français 日本語 Русский Português (Brasil) 한국어 Qwen Code 1.0 Preview :-----------------------------------------------------------------…",
-      "innovations_zh": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
-      "innovations_en": "…------------------------------------------------------------------------------------------------------------------------------------------ Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code…",
+      "purpose_zh": "Production-grade engineering skills for AI coding agents.",
+      "purpose_en": "Production-grade engineering skills for AI coding agents.",
+      "strengths_zh": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "strengths_en": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow th…",
+      "innovations_zh": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
+      "innovations_en": "…What you're doing Command Key principle ------------------------------------------- Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove i…",
       "insights_source": "readme-excerpt"
     }
   ]
