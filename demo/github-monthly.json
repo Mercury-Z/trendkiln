@@ -22,12 +22,12 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "topics": [],
-      "stars": 57121,
-      "stars_delta": 317,
-      "forks": 3092,
-      "forks_delta": 26,
+      "stars": 57469,
+      "stars_delta": 348,
+      "forks": 3114,
+      "forks_delta": 22,
       "html_url": "https://github.com/Nutlope/hallmark",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
@@ -54,12 +54,12 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "topics": [],
-      "stars": 74995,
-      "stars_delta": 298,
-      "forks": 5034,
-      "forks_delta": 31,
+      "stars": 75307,
+      "stars_delta": 312,
+      "forks": 5056,
+      "forks_delta": 22,
       "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
@@ -95,12 +95,12 @@
         "code",
         "vibe-coding"
       ],
-      "stars": 64490,
-      "stars_delta": 504,
-      "forks": 11343,
-      "forks_delta": 56,
+      "stars": 65116,
+      "stars_delta": 626,
+      "forks": 11417,
+      "forks_delta": 74,
       "html_url": "https://github.com/pingdotgg/t3code",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "",
         "en": ""
@@ -123,18 +123,94 @@
     },
     {
       "rank": 4,
+      "full_name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "topics": [],
+      "stars": 41805,
+      "stars_delta": 1447,
+      "forks": 8575,
+      "forks_delta": 0,
+      "html_url": "https://github.com/php/php-src",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
+      "purpose": {
+        "zh": "The PHP Interpreter",
+        "en": "The PHP Interpreter"
+      },
+      "strengths": {
+        "zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+        "en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…"
+      },
+      "innovations": {
+        "zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+        "en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…"
+      },
+      "purpose_zh": "The PHP Interpreter",
+      "purpose_en": "The PHP Interpreter",
+      "strengths_zh": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "strengths_en": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PH…",
+      "innovations_zh": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "innovations_en": "…packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net. After extracting the archive the .exe files are ready to use…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "stars": 25323,
+      "stars_delta": 20211,
+      "forks": 3578,
+      "forks_delta": 0,
+      "html_url": "https://github.com/milind-soni/OpenMausBot",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
+      "purpose": {
+        "zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "en": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+      },
+      "strengths": {
+        "zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+        "en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…"
+      },
+      "innovations": {
+        "zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+        "en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…"
+      },
+      "purpose_zh": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "purpose_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "strengths_zh": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "strengths_en": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alte…",
+      "innovations_zh": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "innovations_en": "…he models you already have. Also known as MausBot; formerly OpenGrokBot. Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own pers…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
-      "stars": 196905,
-      "stars_delta": 250,
-      "forks": 23072,
-      "forks_delta": 12,
+      "stars": 197148,
+      "stars_delta": 243,
+      "forks": 23094,
+      "forks_delta": 22,
       "html_url": "https://github.com/anthropics/skills",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Public repository for Agent Skills",
         "en": "Public repository for Agent Skills"
@@ -156,7 +232,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "full_name": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
@@ -182,12 +258,12 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 118072,
-      "stars_delta": 108,
-      "forks": 10258,
-      "forks_delta": 9,
+      "stars": 118205,
+      "stars_delta": 133,
+      "forks": 10275,
+      "forks_delta": 17,
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
@@ -209,7 +285,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "full_name": "pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
@@ -220,12 +296,12 @@
         "design",
         "slop"
       ],
-      "stars": 112436,
-      "stars_delta": 338,
-      "forks": 6700,
-      "forks_delta": 13,
+      "stars": 112837,
+      "stars_delta": 401,
+      "forks": 6720,
+      "forks_delta": 20,
       "html_url": "https://github.com/pbakaus/impeccable",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "The design language that makes your AI harness better at design.",
         "en": "The design language that makes your AI harness better at design."
@@ -247,49 +323,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 7,
-      "full_name": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "clawbot",
-        "cli-tool",
-        "deepresearch",
-        "interactive-learning",
-        "learning",
-        "multi-agent-systems",
-        "rag"
-      ],
-      "stars": 60210,
-      "stars_delta": 178,
-      "forks": 7288,
-      "forks_delta": 16,
-      "html_url": "https://github.com/HKUDS/DeepTutor",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
-      "purpose": {
-        "zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
-      },
-      "strengths": {
-        "zh": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
-        "en": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…"
-      },
-      "innovations": {
-        "zh": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
-        "en": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…"
-      },
-      "purpose_zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "purpose_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "strengths_zh": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
-      "strengths_en": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
-      "innovations_zh": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
-      "innovations_en": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "full_name": "backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
       "language": "TypeScript",
@@ -304,12 +338,12 @@
         "plan-mode",
         "skills"
       ],
-      "stars": 13196,
-      "stars_delta": 180,
-      "forks": 1320,
-      "forks_delta": 8,
+      "stars": 13393,
+      "stars_delta": 197,
+      "forks": 1346,
+      "forks_delta": 26,
       "html_url": "https://github.com/backnotprop/plannotator",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
         "en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. "
@@ -331,7 +365,49 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "full_name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "stars": 60444,
+      "stars_delta": 234,
+      "forks": 7319,
+      "forks_delta": 31,
+      "html_url": "https://github.com/HKUDS/DeepTutor",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
+      "purpose": {
+        "zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+      },
+      "strengths": {
+        "zh": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
+        "en": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…"
+      },
+      "innovations": {
+        "zh": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
+        "en": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…"
+      },
+      "purpose_zh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "purpose_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "strengths_zh": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
+      "strengths_en": "DeepTutor: Lifelong Personalized Tutoring &#32; &#32; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community --- 🤝 We're ac…",
+      "innovations_zh": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
+      "innovations_en": "…ted-text speech, easier model setup, Korean interface preview, NVIDIA NIM embeddings, and more reliable mastery, retrieval, and updates. [2026.11.1] v1.7.1 — Desktop previews, broader localization, password changes, checked video…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 11,
       "full_name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
@@ -353,12 +429,12 @@
         "sherlock",
         "tools"
       ],
-      "stars": 113918,
-      "stars_delta": 203,
-      "forks": 13106,
-      "forks_delta": 13,
+      "stars": 114147,
+      "stars_delta": 229,
+      "forks": 13126,
+      "forks_delta": 20,
       "html_url": "https://github.com/sherlock-project/sherlock",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Hunt down social media accounts by username across social networks",
         "en": "Hunt down social media accounts by username across social networks"
@@ -380,9 +456,9 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -401,12 +477,12 @@
         "typescript",
         "video-editor"
       ],
-      "stars": 86154,
-      "stars_delta": 240,
-      "forks": 7982,
-      "forks_delta": 20,
+      "stars": 86477,
+      "stars_delta": 323,
+      "forks": 8025,
+      "forks_delta": 43,
       "html_url": "https://github.com/heygen-com/hyperframes",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Write HTML. Render video. Built for agents.",
         "en": "Write HTML. Render video. Built for agents."
@@ -428,51 +504,7 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 11,
-      "full_name": "Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "anti-slop",
-        "claude-code",
-        "codex",
-        "cursor",
-        "design-system",
-        "frontend",
-        "landing-page",
-        "ui-design",
-        "web-design"
-      ],
-      "stars": 117978,
-      "stars_delta": 333,
-      "forks": 7892,
-      "forks_delta": 21,
-      "html_url": "https://github.com/Leonxlnx/taste-skill",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
-      "purpose": {
-        "zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-        "en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
-      },
-      "strengths": {
-        "zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-        "en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…"
-      },
-      "innovations": {
-        "zh": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
-        "en": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…"
-      },
-      "purpose_zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "purpose_en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "strengths_zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-      "strengths_en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
-      "innovations_zh": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
-      "innovations_en": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "full_name": "AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
@@ -485,12 +517,12 @@
         "open-source",
         "seo"
       ],
-      "stars": 30479,
-      "stars_delta": 125,
-      "forks": 3803,
-      "forks_delta": 6,
+      "stars": 30636,
+      "stars_delta": 157,
+      "forks": 3823,
+      "forks_delta": 20,
       "html_url": "https://github.com/AgriciDaniel/claude-seo",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
@@ -512,17 +544,61 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design-system",
+        "frontend",
+        "landing-page",
+        "ui-design",
+        "web-design"
+      ],
+      "stars": 118354,
+      "stars_delta": 376,
+      "forks": 7918,
+      "forks_delta": 26,
+      "html_url": "https://github.com/Leonxlnx/taste-skill",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
+      "purpose": {
+        "zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+      },
+      "strengths": {
+        "zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+        "en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…"
+      },
+      "innovations": {
+        "zh": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
+        "en": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…"
+      },
+      "purpose_zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "purpose_en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "strengths_zh": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+      "strengths_en": "&nbsp; &nbsp; &nbsp; Sponsors interfaces.dev · A design engineering magazine by Jakub Krehel React Bits · animated React components for creative interfaces IMG.LY · CreativeEditor SDK Sent.dm · messaging APIs for SMS, WhatsApp, an…",
+      "innovations_zh": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
+      "innovations_en": "…ad of assembling a generic landing page. Every build uses plain copy, one design system, one section per screen, equal left and right edges, real photographs (licensed stand-ins when the client has none), real brand icons and real…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 15,
       "full_name": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "topics": [],
-      "stars": 52467,
-      "stars_delta": 134,
-      "forks": 3669,
-      "forks_delta": 9,
+      "stars": 52621,
+      "stars_delta": 154,
+      "forks": 3682,
+      "forks_delta": 13,
       "html_url": "https://github.com/vercel-labs/agent-browser",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
         "zh": "Browser automation CLI for AI agents",
         "en": "Browser automation CLI for AI agents"
@@ -544,35 +620,50 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 14,
-      "full_name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "topics": [],
-      "stars": 36473,
-      "stars_delta": 58,
-      "forks": 4023,
-      "forks_delta": 1,
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "snapshot_at": "2026-11-18T07:41:55.810Z",
+      "rank": 16,
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ],
+      "stars": 21257,
+      "stars_delta": 8794,
+      "forks": 1959,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "snapshot_at": "2026-11-18T20:41:42.899Z",
       "purpose": {
-        "zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+        "zh": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+        "en": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export."
       },
       "strengths": {
-        "zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-        "en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…"
+        "zh": "video-shotcraft English 中文 繁體中文 日本語 Русский ▶ Browse all 150 shots in the Gallery · 🎬 Watch the Showcase What it does Tell Claude Code or Codex \"make a promo for my product\". The agent captures your real pages, picks shots from a…",
+        "en": "video-shotcraft English 中文 繁體中文 日本語 Русский ▶ Browse all 150 shots in the Gallery · 🎬 Watch the Showcase What it does Tell Claude Code or Codex \"make a promo for my product\". The agent captures your real pages, picks shots from a…"
       },
       "innovations": {
-        "zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-        "en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…"
+        "zh": "…you can keep editing. It is not a video generator. Every frame is drawn by code from your own screenshots and copy, so the result is sharp, on-brand and fully editable. How it works What's new [!IMPORTANT] ### 🎬 2026-10 · Shot l…",
+        "en": "…you can keep editing. It is not a video generator. Every frame is drawn by code from your own screenshots and copy, so the result is sharp, on-brand and fully editable. How it works What's new [!IMPORTANT] ### 🎬 2026-10 · Shot l…"
       },
-      "purpose_zh": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "purpose_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "strengths_zh": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "strengths_en": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins Cowork lets you set the goal and Claude delivers finished,…",
-      "innovations_zh": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
-      "innovations_en": "…mands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting po…",
+      "purpose_zh": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "purpose_en": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "strengths_zh": "video-shotcraft English 中文 繁體中文 日本語 Русский ▶ Browse all 150 shots in the Gallery · 🎬 Watch the Showcase What it does Tell Claude Code or Codex \"make a promo for my product\". The agent captures your real pages, picks shots from a…",
+      "strengths_en": "video-shotcraft English 中文 繁體中文 日本語 Русский ▶ Browse all 150 shots in the Gallery · 🎬 Watch the Showcase What it does Tell Claude Code or Codex \"make a promo for my product\". The agent captures your real pages, picks shots from a…",
+      "innovations_zh": "…you can keep editing. It is not a video generator. Every frame is drawn by code from your own screenshots and copy, so the result is sharp, on-brand and fully editable. How it works What's new [!IMPORTANT] ### 🎬 2026-10 · Shot l…",
+      "innovations_en": "…you can keep editing. It is not a video generator. Every frame is drawn by code from your own screenshots and copy, so the result is sharp, on-brand and fully editable. How it works What's new [!IMPORTANT] ### 🎬 2026-10 · Shot l…",
       "insights_source": "readme-excerpt"
     }
   ]
