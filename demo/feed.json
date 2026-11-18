@@ -26,6 +26,150 @@
       "saved": false
     },
     {
+      "id": "1601",
+      "title": {
+        "zh": "0.171.0-alpha.13",
+        "en": "0.171.0-alpha.13"
+      },
+      "summary": {
+        "zh": "Release 0.171.0-alpha.13",
+        "en": "Release 0.171.0-alpha.13"
+      },
+      "title_zh": "0.171.0-alpha.13",
+      "title_en": "0.171.0-alpha.13",
+      "summary_zh": "Release 0.171.0-alpha.13",
+      "summary_en": "Release 0.171.0-alpha.13",
+      "title_text": "0.171.0-alpha.13",
+      "summary_text": "Release 0.171.0-alpha.13",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13",
+      "published_at": "2026-11-18T05:52:48.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1602",
+      "title": {
+        "zh": "0.170.0",
+        "en": "0.170.0"
+      },
+      "summary": {
+        "zh": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket reques…",
+        "en": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket reques…"
+      },
+      "title_zh": "0.170.0",
+      "title_en": "0.170.0",
+      "summary_zh": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket reques…",
+      "summary_en": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket reques…",
+      "title_text": "0.170.0",
+      "summary_text": "New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket reques…",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0",
+      "published_at": "2026-11-18T03:45:39.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1603",
+      "title": {
+        "zh": "0.170.0-alpha.4.2",
+        "en": "0.170.0-alpha.4.2"
+      },
+      "summary": {
+        "zh": "Release 0.170.0-alpha.4.2",
+        "en": "Release 0.170.0-alpha.4.2"
+      },
+      "title_zh": "0.170.0-alpha.4.2",
+      "title_en": "0.170.0-alpha.4.2",
+      "summary_zh": "Release 0.170.0-alpha.4.2",
+      "summary_en": "Release 0.170.0-alpha.4.2",
+      "title_text": "0.170.0-alpha.4.2",
+      "summary_text": "Release 0.170.0-alpha.4.2",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.2",
+      "published_at": "2026-11-18T02:02:46.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1604",
+      "title": {
+        "zh": "External sandboxes for coding agents",
+        "en": "External sandboxes for coding agents"
+      },
+      "summary": {
+        "zh": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Ra…",
+        "en": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Ra…"
+      },
+      "title_zh": "External sandboxes for coding agents",
+      "title_en": "External sandboxes for coding agents",
+      "summary_zh": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Ra…",
+      "summary_en": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Ra…",
+      "title_text": "External sandboxes for coding agents",
+      "summary_text": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Ra…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "published_at": "2026-11-17T22:52:29.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1605",
+      "title": {
+        "zh": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+        "en": "GPT‑6.2 Astra and GPT‑6.2 Sol"
+      },
+      "summary": {
+        "zh": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80…",
+        "en": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80…"
+      },
+      "title_zh": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "title_en": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "summary_zh": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80…",
+      "summary_en": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80…",
+      "title_text": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "summary_text": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "published_at": "2026-11-17T22:38:52.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1606",
+      "title": {
+        "zh": "0.169.1",
+        "en": "0.169.1"
+      },
+      "summary": {
+        "zh": "Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1",
+        "en": "Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1"
+      },
+      "title_zh": "0.169.1",
+      "title_en": "0.169.1",
+      "summary_zh": "Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1",
+      "summary_en": "Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1",
+      "title_text": "0.169.1",
+      "summary_text": "Chores No verified release highlights available. Changelog Full Changelog: rust-v0.169.0...rust-v0.169.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.1",
+      "published_at": "2026-11-17T22:22:49.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1575",
       "title": {
         "zh": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
@@ -397,6 +541,7 @@
       "tags": [
         "Gemini App",
         "Google Labs",
+        "Google Pay",
         "AI"
       ],
       "read_at": null,
@@ -475,6 +620,30 @@
       "saved": false
     },
     {
+      "id": "1607",
+      "title": {
+        "zh": "Speed Insights now measures soft navigations",
+        "en": "Speed Insights now measures soft navigations"
+      },
+      "summary": {
+        "zh": "Speed Insights now measures soft navigations: client-side route changes that update page content without a full reload. This means you can now track performance as users move through your app, not just on full-page loads. Speed Insights captures LCP, FCP, INP, and CLS for soft navigations and includes these measuremen…",
+        "en": "Speed Insights now measures soft navigations: client-side route changes that update page content without a full reload. This means you can now track performance as users move through your app, not just on full-page loads. Speed Insights captures LCP, FCP, INP, and CLS for soft navigations and includes these measuremen…"
+      },
+      "title_zh": "Speed Insights now measures soft navigations",
+      "title_en": "Speed Insights now measures soft navigations",
+      "summary_zh": "Speed Insights now measures soft navigations: client-side route changes that update page content without a full reload. This means you can now track performance as users move through your app, not just on full-page loads. Speed Insights captures LCP, FCP, INP, and CLS for soft navigations and includes these measuremen…",
+      "summary_en": "Speed Insights now measures soft navigations: client-side route changes that update page content without a full reload. This means you can now track performance as users move through your app, not just on full-page loads. Speed Insights captures LCP, FCP, INP, and CLS for soft navigations and includes these measuremen…",
+      "title_text": "Speed Insights now measures soft navigations",
+      "summary_text": "Speed Insights now measures soft navigations: client-side route changes that update page content without a full reload. This means you can now track performance as users move through your app, not just on full-page loads. Speed Insights captures LCP, FCP, INP, and CLS for soft navigations and includes these measuremen…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/speed-insights-now-measures-soft-navigations",
+      "published_at": "2026-11-17T12:40:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1592",
       "title": {
         "zh": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
@@ -496,6 +665,32 @@
       "published_at": "2026-11-17T09:24:56.000Z",
       "tags": [
         "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1608",
+      "title": {
+        "zh": "Introducing ChatGPT for Sales",
+        "en": "Introducing ChatGPT for Sales"
+      },
+      "summary": {
+        "zh": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+      },
+      "title_zh": "Introducing ChatGPT for Sales",
+      "title_en": "Introducing ChatGPT for Sales",
+      "summary_zh": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "summary_en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "title_text": "Introducing ChatGPT for Sales",
+      "summary_text": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published_at": "2026-11-17T08:00:00.000Z",
+      "tags": [
+        "Product"
       ],
       "read_at": null,
       "saved": false
@@ -623,32 +818,6 @@
       "saved": false
     },
     {
-      "id": "1594",
-      "title": {
-        "zh": "Introducing OpenAI for Chile",
-        "en": "Introducing OpenAI for Chile"
-      },
-      "summary": {
-        "zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-        "en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-      },
-      "title_zh": "Introducing OpenAI for Chile",
-      "title_en": "Introducing OpenAI for Chile",
-      "summary_zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "summary_en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "title_text": "Introducing OpenAI for Chile",
-      "summary_text": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "published_at": "2026-11-17T00:00:00.000Z",
-      "tags": [
-        "Global Affairs"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1595",
       "title": {
         "zh": "Astra for Law leads in legal intelligence",
@@ -670,6 +839,32 @@
       "published_at": "2026-11-17T00:00:00.000Z",
       "tags": [
         "Company"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1594",
+      "title": {
+        "zh": "Introducing OpenAI for Chile",
+        "en": "Introducing OpenAI for Chile"
+      },
+      "summary": {
+        "zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+      },
+      "title_zh": "Introducing OpenAI for Chile",
+      "title_en": "Introducing OpenAI for Chile",
+      "summary_zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "summary_en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title_text": "Introducing OpenAI for Chile",
+      "summary_text": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "tags": [
+        "Global Affairs"
       ],
       "read_at": null,
       "saved": false
@@ -1121,32 +1316,6 @@
       "saved": false
     },
     {
-      "id": "1558",
-      "title": {
-        "zh": "Advancing computer-use agents for healthcare teams",
-        "en": "Advancing computer-use agents for healthcare teams"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Advancing computer-use agents for healthcare teams",
-      "title_en": "Advancing computer-use agents for healthcare teams",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Advancing computer-use agents for healthcare teams",
-      "summary_text": "",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "published_at": "2026-11-16T06:00:00.000Z",
-      "tags": [
-        "Product"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1559",
       "title": {
         "zh": "More ways to move care forward with ChatGPT for Healthcare",
@@ -1165,6 +1334,32 @@
       "source_id": "3",
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "published_at": "2026-11-16T06:00:00.000Z",
+      "tags": [
+        "Product"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1558",
+      "title": {
+        "zh": "Advancing computer-use agents for healthcare teams",
+        "en": "Advancing computer-use agents for healthcare teams"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "title_zh": "Advancing computer-use agents for healthcare teams",
+      "title_en": "Advancing computer-use agents for healthcare teams",
+      "summary_zh": "",
+      "summary_en": "",
+      "title_text": "Advancing computer-use agents for healthcare teams",
+      "summary_text": "",
+      "source_id": "3",
+      "source_name": "OpenAI Blog",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "published_at": "2026-11-16T06:00:00.000Z",
       "tags": [
         "Product"
@@ -1241,6 +1436,30 @@
       "source_id": "3",
       "source_name": "OpenAI Blog",
       "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "published_at": "2026-11-16T00:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1609",
+      "title": {
+        "zh": "Single-second static deployments now support more assets",
+        "en": "Single-second static deployments now support more assets"
+      },
+      "summary": {
+        "zh": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST A…",
+        "en": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST A…"
+      },
+      "title_zh": "Single-second static deployments now support more assets",
+      "title_en": "Single-second static deployments now support more assets",
+      "summary_zh": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST A…",
+      "summary_en": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST A…",
+      "title_text": "Single-second static deployments now support more assets",
+      "summary_text": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST A…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
       "published_at": "2026-11-16T00:00:00.000Z",
       "tags": [],
       "read_at": null,
@@ -1391,30 +1610,6 @@
       "saved": false
     },
     {
-      "id": "1534",
-      "title": {
-        "zh": "0.171.0-alpha.7",
-        "en": "0.171.0-alpha.7"
-      },
-      "summary": {
-        "zh": "Release 0.171.0-alpha.7",
-        "en": "Release 0.171.0-alpha.7"
-      },
-      "title_zh": "0.171.0-alpha.7",
-      "title_en": "0.171.0-alpha.7",
-      "summary_zh": "Release 0.171.0-alpha.7",
-      "summary_en": "Release 0.171.0-alpha.7",
-      "title_text": "0.171.0-alpha.7",
-      "summary_text": "Release 0.171.0-alpha.7",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.7",
-      "published_at": "2026-11-15T23:18:44.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1535",
       "title": {
         "zh": "datasette 0.65.6",
@@ -1510,30 +1705,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
       "published_at": "2026-11-15T20:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1531",
-      "title": {
-        "zh": "0.171.0-alpha.6",
-        "en": "0.171.0-alpha.6"
-      },
-      "summary": {
-        "zh": "Release 0.171.0-alpha.6",
-        "en": "Release 0.171.0-alpha.6"
-      },
-      "title_zh": "0.171.0-alpha.6",
-      "title_en": "0.171.0-alpha.6",
-      "summary_zh": "Release 0.171.0-alpha.6",
-      "summary_en": "Release 0.171.0-alpha.6",
-      "title_text": "0.171.0-alpha.6",
-      "summary_text": "Release 0.171.0-alpha.6",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.6",
-      "published_at": "2026-11-15T19:03:37.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1661,30 +1832,6 @@
       "saved": false
     },
     {
-      "id": "1519",
-      "title": {
-        "zh": "0.171.0-alpha.5",
-        "en": "0.171.0-alpha.5"
-      },
-      "summary": {
-        "zh": "Release 0.171.0-alpha.5",
-        "en": "Release 0.171.0-alpha.5"
-      },
-      "title_zh": "0.171.0-alpha.5",
-      "title_en": "0.171.0-alpha.5",
-      "summary_zh": "Release 0.171.0-alpha.5",
-      "summary_en": "Release 0.171.0-alpha.5",
-      "title_text": "0.171.0-alpha.5",
-      "summary_text": "Release 0.171.0-alpha.5",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5",
-      "published_at": "2026-11-14T01:25:03.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
       "id": "1520",
       "title": {
         "zh": "datasette-cluster-map 0.19",
@@ -1752,30 +1899,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
       "published_at": "2026-11-13T22:24:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1504",
-      "title": {
-        "zh": "0.171.0-alpha.4",
-        "en": "0.171.0-alpha.4"
-      },
-      "summary": {
-        "zh": "Release 0.171.0-alpha.4",
-        "en": "Release 0.171.0-alpha.4"
-      },
-      "title_zh": "0.171.0-alpha.4",
-      "title_en": "0.171.0-alpha.4",
-      "summary_zh": "Release 0.171.0-alpha.4",
-      "summary_en": "Release 0.171.0-alpha.4",
-      "title_text": "0.171.0-alpha.4",
-      "summary_text": "Release 0.171.0-alpha.4",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4",
-      "published_at": "2026-11-13T19:02:32.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1875,128 +1998,6 @@
       "tags": [
         "Product"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1510",
-      "title": {
-        "zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "published_at": "2026-11-13T14:05:22.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1512",
-      "title": {
-        "zh": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-        "en": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA"
-      },
-      "summary": {
-        "zh": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-        "en": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?"
-      },
-      "title_zh": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "title_en": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "summary_zh": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "summary_en": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "title_text": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "summary_text": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "published_at": "2026-11-13T09:04:13.000Z",
-      "tags": [
-        "ainews: weekday roundups"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1525",
-      "title": {
-        "zh": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "en": "Shield helps technicians hand off legacy portal work with OpenAI"
-      },
-      "summary": {
-        "zh": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-        "en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-      },
-      "title_zh": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary_zh": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "summary_en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "title_text": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary_text": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "published_at": "2026-11-13T08:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1496",
-      "title": {
-        "zh": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-        "en": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\""
-      },
-      "summary": {
-        "zh": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-        "en": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!"
-      },
-      "title_zh": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "title_en": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "summary_zh": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "summary_en": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "title_text": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "summary_text": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/artcraft/",
-      "published_at": "2026-11-13T04:17:25.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1513",
-      "title": {
-        "zh": "Vercel Security Review no longer requires a linked Vercel project",
-        "en": "Vercel Security Review no longer requires a linked Vercel project"
-      },
-      "summary": {
-        "zh": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connect…",
-        "en": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connect…"
-      },
-      "title_zh": "Vercel Security Review no longer requires a linked Vercel project",
-      "title_en": "Vercel Security Review no longer requires a linked Vercel project",
-      "summary_zh": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connect…",
-      "summary_en": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connect…",
-      "title_text": "Vercel Security Review no longer requires a linked Vercel project",
-      "summary_text": "You can now scan code changes for vulnerabilities with Vercel Security Review in GitHub repositories that have not yet been linked to a Vercel project. By default, Security Review covers all unlinked repositories the Vercel GitHub App can access in a connected GitHub account. You can limit coverage to selected connect…",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
-      "published_at": "2026-11-13T00:00:00.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     }
