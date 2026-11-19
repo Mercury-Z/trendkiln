@@ -18,48 +18,106 @@
   "items": [
     {
       "rank": 1,
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 17338,
-      "stars_delta": 183,
-      "forks": 1914,
-      "forks_delta": 23,
-      "html_url": "https://github.com/cursor/plugins",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "topics": [
+        "ai-security",
+        "anthropic",
+        "application-security",
+        "bug-bounty",
+        "bugbounty",
+        "bugcrowd",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "ethical-hacking",
+        "hackerone",
+        "offensive-security",
+        "pentesting",
+        "red-team",
+        "security-tools",
+        "web-security"
+      ],
+      "stars": 12320,
+      "stars_delta": 1353,
+      "forks": 1579,
+      "forks_delta": 0,
+      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "Cursor plugin specification and official plugins",
-        "en": "Cursor plugin specification and official plugins"
+        "zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
       },
       "strengths": {
-        "zh": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
-        "en": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…"
+        "zh": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+        "en": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…"
       },
       "innovations": {
-        "zh": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
-        "en": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…"
+        "zh": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
+        "en": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…"
       },
-      "purpose_zh": "Cursor plugin specification and official plugins",
-      "purpose_en": "Cursor plugin specification and official plugins",
-      "strengths_zh": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
-      "strengths_en": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
-      "innovations_zh": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
-      "innovations_en": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
+      "purpose_zh": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "purpose_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "strengths_zh": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+      "strengths_en": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability…",
+      "innovations_zh": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
+      "innovations_en": "…hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY &nbsp;&nbsp;&nbsp;&nbsp; --- What is this?…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 2,
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 321977,
+      "stars_delta": 465,
+      "forks": 28621,
+      "forks_delta": 43,
+      "html_url": "https://github.com/obra/superpowers",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "An agentic skills framework & software development methodology that works.",
+        "en": "An agentic skills framework & software development methodology that works."
+      },
+      "strengths": {
+        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+      },
+      "innovations": {
+        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+      },
+      "purpose_zh": "An agentic skills framework & software development methodology that works.",
+      "purpose_en": "An agentic skills framework & software development methodology that works.",
+      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
+      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 3,
       "full_name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "topics": [],
-      "stars": 60038,
-      "stars_delta": 429,
-      "forks": 5453,
-      "forks_delta": 42,
+      "stars": 60453,
+      "stars_delta": 415,
+      "forks": 5486,
+      "forks_delta": 33,
       "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
         "zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
@@ -81,7 +139,267 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "full_name": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "stars": 66792,
+      "stars_delta": 301,
+      "forks": 8778,
+      "forks_delta": 0,
+      "html_url": "https://github.com/jingyaogong/minimind",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+      },
+      "strengths": {
+        "zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+        "en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…"
+      },
+      "innovations": {
+        "zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+        "en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…"
+      },
+      "purpose_zh": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "purpose_en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "strengths_zh": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+      "strengths_en": "\"大道至简\" 中文 English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLH…",
+      "innovations_zh": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+      "innovations_en": "…见 Discussion。 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。 这不仅是一个大语言模型全阶段开源复现项目，也是一套面向 LLM 入门与实践的教程。 希望此项目能为更多人提供一个可复现、可理解、可扩展的起点，一起感受创造的乐趣，并推动更广泛 AI 社区的进步。 注：本项目基于 Apache 2.0 协议开源，完全免费。“2 小时” 指 SFT 阶段在单张 NVIDIA 3090 上跑完 1 epo…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 5,
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 17515,
+      "stars_delta": 177,
+      "forks": 1928,
+      "forks_delta": 14,
+      "html_url": "https://github.com/cursor/plugins",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "Cursor plugin specification and official plugins",
+        "en": "Cursor plugin specification and official plugins"
+      },
+      "strengths": {
+        "zh": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
+        "en": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…"
+      },
+      "innovations": {
+        "zh": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
+        "en": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…"
+      },
+      "purpose_zh": "Cursor plugin specification and official plugins",
+      "purpose_en": "Cursor plugin specification and official plugins",
+      "strengths_zh": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
+      "strengths_en": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin…",
+      "innovations_zh": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
+      "innovations_en": "…practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit C…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 6,
+      "full_name": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
+      ],
+      "stars": 204036,
+      "stars_delta": 795,
+      "forks": 10694,
+      "forks_delta": 0,
+      "html_url": "https://github.com/firecrawl/firecrawl",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+        "en": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API."
+      },
+      "strengths": {
+        "zh": "--- 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. - Firec…",
+        "en": "--- 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. - Firec…"
+      },
+      "innovations": {
+        "zh": "…I on localhost. - Firecrawl Cloud. Use the hosted service at firecrawl.dev for everything Local does at scale with nothing to run, plus search and the 550+ data providers in Firecrawl Alexandria for far more knowledge than scrapin…",
+        "en": "…I on localhost. - Firecrawl Cloud. Use the hosted service at firecrawl.dev for everything Local does at scale with nothing to run, plus search and the 550+ data providers in Firecrawl Alexandria for far more knowledge than scrapin…"
+      },
+      "purpose_zh": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "purpose_en": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "strengths_zh": "--- 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. - Firec…",
+      "strengths_en": "--- 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. - Firec…",
+      "innovations_zh": "…I on localhost. - Firecrawl Cloud. Use the hosted service at firecrawl.dev for everything Local does at scale with nothing to run, plus search and the 550+ data providers in Firecrawl Alexandria for far more knowledge than scrapin…",
+      "innovations_en": "…I on localhost. - Firecrawl Cloud. Use the hosted service at firecrawl.dev for everything Local does at scale with nothing to run, plus search and the 550+ data providers in Firecrawl Alexandria for far more knowledge than scrapin…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 7,
+      "full_name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "topics": [
+        "content-cache",
+        "http",
+        "http2",
+        "http3",
+        "https",
+        "load-balancer",
+        "mail-proxy-server",
+        "nginx",
+        "quic",
+        "reverse-proxy",
+        "security",
+        "tcp-proxy-server",
+        "tls",
+        "udp-proxy-server",
+        "web-server"
+      ],
+      "stars": 32293,
+      "stars_delta": 66,
+      "forks": 8411,
+      "forks_delta": 0,
+      "html_url": "https://github.com/nginx/nginx",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "The official NGINX Open Source repository.",
+        "en": "The official NGINX Open Source repository."
+      },
+      "strengths": {
+        "zh": "NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the term…",
+        "en": "NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the term…"
+      },
+      "innovations": {
+        "zh": "…to provide a basic, structured introduction to NGINX for novice users. Please refer to the full NGINX documentation for detailed information on installing, building, configuring, debugging, and more. These documentation pages als…",
+        "en": "…to provide a basic, structured introduction to NGINX for novice users. Please refer to the full NGINX documentation for detailed information on installing, building, configuring, debugging, and more. These documentation pages als…"
+      },
+      "purpose_zh": "The official NGINX Open Source repository.",
+      "purpose_en": "The official NGINX Open Source repository.",
+      "strengths_zh": "NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the term…",
+      "strengths_en": "NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the term…",
+      "innovations_zh": "…to provide a basic, structured introduction to NGINX for novice users. Please refer to the full NGINX documentation for detailed information on installing, building, configuring, debugging, and more. These documentation pages als…",
+      "innovations_en": "…to provide a basic, structured introduction to NGINX for novice users. Please refer to the full NGINX documentation for detailed information on installing, building, configuring, debugging, and more. These documentation pages als…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 8,
+      "full_name": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "topics": [
+        "ai",
+        "computer-vision",
+        "deep-learning",
+        "deploy-ai",
+        "diffusion-models",
+        "generative-ai",
+        "good-first-issue",
+        "inference",
+        "llm-inference",
+        "natural-language-processing",
+        "nlp",
+        "openvino",
+        "optimize-ai",
+        "performance-boost",
+        "recommendation-system",
+        "speech-recognition",
+        "stable-diffusion",
+        "transformers",
+        "yolo"
+      ],
+      "stars": 11529,
+      "stars_delta": 118,
+      "forks": 3619,
+      "forks_delta": 10,
+      "html_url": "https://github.com/openvinotoolkit/openvino",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+      },
+      "strengths": {
+        "zh": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
+        "en": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…"
+      },
+      "innovations": {
+        "zh": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
+        "en": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…"
+      },
+      "purpose_zh": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "purpose_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "strengths_zh": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
+      "strengths_en": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
+      "innovations_zh": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
+      "innovations_en": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 9,
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "stars": 68551,
+      "stars_delta": 332,
+      "forks": 4610,
+      "forks_delta": 0,
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
+      "purpose": {
+        "zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+      },
+      "strengths": {
+        "zh": "An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 51 diagram types. No shadows. No Mermaid slop. Website · Gallery · Changelog Install · What it makes · Quickstart · Match your brand · Import…",
+        "en": "An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 51 diagram types. No shadows. No Mermaid slop. Website · Gallery · Changelog Install · What it makes · Quickstart · Match your brand · Import…"
+      },
+      "innovations": {
+        "zh": "…ase, Redis cache.\" - \"I need a quadrant showing Q2 projects by impact vs effort.\" - \"Give me a sequence of a bearer call with token refresh on 401.\" - \"Onboard diagram-design to https://yoursite.com\" (pulls your palette and fonts…",
+        "en": "…ase, Redis cache.\" - \"I need a quadrant showing Q2 projects by impact vs effort.\" - \"Give me a sequence of a bearer call with token refresh on 401.\" - \"Onboard diagram-design to https://yoursite.com\" (pulls your palette and fonts…"
+      },
+      "purpose_zh": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "purpose_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "strengths_zh": "An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 51 diagram types. No shadows. No Mermaid slop. Website · Gallery · Changelog Install · What it makes · Quickstart · Match your brand · Import…",
+      "strengths_en": "An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 51 diagram types. No shadows. No Mermaid slop. Website · Gallery · Changelog Install · What it makes · Quickstart · Match your brand · Import…",
+      "innovations_zh": "…ase, Redis cache.\" - \"I need a quadrant showing Q2 projects by impact vs effort.\" - \"Give me a sequence of a bearer call with token refresh on 401.\" - \"Onboard diagram-design to https://yoursite.com\" (pulls your palette and fonts…",
+      "innovations_en": "…ase, Redis cache.\" - \"I need a quadrant showing Q2 projects by impact vs effort.\" - \"Give me a sequence of a bearer call with token refresh on 401.\" - \"Onboard diagram-design to https://yoursite.com\" (pulls your palette and fonts…",
+      "insights_source": "readme-excerpt"
+    },
+    {
+      "rank": 10,
       "full_name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
@@ -107,12 +425,12 @@
         "web-search",
         "youtube"
       ],
-      "stars": 70300,
-      "stars_delta": 413,
-      "forks": 6262,
-      "forks_delta": 25,
+      "stars": 70712,
+      "stars_delta": 412,
+      "forks": 6299,
+      "forks_delta": 37,
       "html_url": "https://github.com/mvanhorn/last30days-skill",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
         "zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
@@ -134,232 +452,17 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 4,
-      "full_name": "getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "language": "Go",
-      "topics": [
-        "compose",
-        "container-management",
-        "containers",
-        "docker",
-        "docker-compose",
-        "docker-management",
-        "go",
-        "self-hosted",
-        "sveltekit",
-        "typescript",
-        "web-ui"
-      ],
-      "stars": 9966,
-      "stars_delta": 213,
-      "forks": 570,
-      "forks_delta": 12,
-      "html_url": "https://github.com/getarcaneapp/arcane",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "Modern Docker Management, Designed for Everyone",
-        "en": "Modern Docker Management, Designed for Everyone"
-      },
-      "strengths": {
-        "zh": "[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only…",
-        "en": "[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only…"
-      },
-      "innovations": {
-        "zh": "…etails, and development guides, visit the official documentation site. Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.…",
-        "en": "…etails, and development guides, visit the official documentation site. Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.…"
-      },
-      "purpose_zh": "Modern Docker Management, Designed for Everyone",
-      "purpose_en": "Modern Docker Management, Designed for Everyone",
-      "strengths_zh": "[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only…",
-      "strengths_en": "[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only…",
-      "innovations_zh": "…etails, and development guides, visit the official documentation site. Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.…",
-      "innovations_en": "…etails, and development guides, visit the official documentation site. Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 5,
-      "full_name": "NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
-      "language": "Python",
-      "topics": [
-        "agent-evaluation",
-        "agent-plugins",
-        "agent-security",
-        "agent-skills",
-        "agentic-ai",
-        "benchmark",
-        "ci-templates",
-        "claude-code",
-        "codex",
-        "evaluate",
-        "evaluation",
-        "harness",
-        "plugin",
-        "plugin-evaluation",
-        "security-scanner",
-        "skill-eval",
-        "skill-evaluation",
-        "skill-evaluator",
-        "skill-gap-analysis",
-        "skills"
-      ],
-      "stars": 3903,
-      "stars_delta": 252,
-      "forks": 531,
-      "forks_delta": 21,
-      "html_url": "https://github.com/NVIDIA/SkillEvaluator",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-        "en": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
-      },
-      "strengths": {
-        "zh": "Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and plugins,…",
-        "en": "Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and plugins,…"
-      },
-      "innovations": {
-        "zh": "…tory to SkillEvaluator with a CI template for automated quality and security gates, without building or maintaining evaluation code. Agent skills are folders of instructions and supporting files defined by the Agent Skills specifi…",
-        "en": "…tory to SkillEvaluator with a CI template for automated quality and security gates, without building or maintaining evaluation code. Agent skills are folders of instructions and supporting files defined by the Agent Skills specifi…"
-      },
-      "purpose_zh": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "purpose_en": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "strengths_zh": "Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and plugins,…",
-      "strengths_en": "Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and plugins,…",
-      "innovations_zh": "…tory to SkillEvaluator with a CI template for automated quality and security gates, without building or maintaining evaluation code. Agent skills are folders of instructions and supporting files defined by the Agent Skills specifi…",
-      "innovations_en": "…tory to SkillEvaluator with a CI template for automated quality and security gates, without building or maintaining evaluation code. Agent skills are folders of instructions and supporting files defined by the Agent Skills specifi…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 6,
-      "full_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "language": "Shell",
-      "topics": [
-        "bash",
-        "install",
-        "lts",
-        "node",
-        "node-js",
-        "nodejs",
-        "nvm",
-        "nvmrc",
-        "posix",
-        "posix-compliant",
-        "shell",
-        "version-manager",
-        "zsh"
-      ],
-      "stars": 96195,
-      "stars_delta": 53,
-      "forks": 10791,
-      "forks_delta": 10,
-      "html_url": "https://github.com/nvm-sh/nvm",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-        "en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
-      },
-      "strengths": {
-        "zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
-        "en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…"
-      },
-      "innovations": {
-        "zh": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
-        "en": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…"
-      },
-      "purpose_zh": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "purpose_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "strengths_zh": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
-      "strengths_en": "Node Version Manager [ ][3] [ ][4] Table of Contents - Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - T…",
-      "innovations_zh": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
-      "innovations_en": "…- Migrating Global Packages While Installing - Migrating Global Packages Between Installed Versions - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions - Sett…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 7,
-      "full_name": "astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
-      "language": "Rust",
-      "topics": [
-        "packaging",
-        "python",
-        "resolver",
-        "uv"
-      ],
-      "stars": 92329,
-      "stars_delta": 134,
-      "forks": 3928,
-      "forks_delta": 7,
-      "html_url": "https://github.com/astral-sh/uv",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "An extremely fast Python package and project manager, written in Rust.",
-        "en": "An extremely fast Python package and project manager, written in Rust."
-      },
-      "strengths": {
-        "zh": "uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights - A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more. -…",
-        "en": "uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights - A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more. -…"
-      },
-      "innovations": {
-        "zh": "…and manages Python versions. - Runs and installs tools published as Python packages. - Includes a pip-compatible interface for a performance boost with a familiar CLI. - Supports Cargo-style workspaces for scalable projects. - Dis…",
-        "en": "…and manages Python versions. - Runs and installs tools published as Python packages. - Includes a pip-compatible interface for a performance boost with a familiar CLI. - Supports Cargo-style workspaces for scalable projects. - Dis…"
-      },
-      "purpose_zh": "An extremely fast Python package and project manager, written in Rust.",
-      "purpose_en": "An extremely fast Python package and project manager, written in Rust.",
-      "strengths_zh": "uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights - A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more. -…",
-      "strengths_en": "uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights - A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more. -…",
-      "innovations_zh": "…and manages Python versions. - Runs and installs tools published as Python packages. - Includes a pip-compatible interface for a performance boost with a familiar CLI. - Supports Cargo-style workspaces for scalable projects. - Dis…",
-      "innovations_en": "…and manages Python versions. - Runs and installs tools published as Python packages. - Includes a pip-compatible interface for a performance boost with a familiar CLI. - Supports Cargo-style workspaces for scalable projects. - Dis…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 8,
-      "full_name": "google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "language": "Python",
-      "topics": [
-        "ai-research-assistant",
-        "multi-agent-systems"
-      ],
-      "stars": 4600,
-      "stars_delta": 448,
-      "forks": 568,
-      "forks_delta": 48,
-      "html_url": "https://github.com/google-research/paper-orchestra",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-        "en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
-      },
-      "strengths": {
-        "zh": "🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automate…",
-        "en": "🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automate…"
-      },
-      "innovations": {
-        "zh": "…omprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. Acting like an orchestrated team of specialized agents, it handles outline generation, literature review, section writing, content ref…",
-        "en": "…omprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. Acting like an orchestrated team of specialized agents, it handles outline generation, literature review, section writing, content ref…"
-      },
-      "purpose_zh": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "purpose_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "strengths_zh": "🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automate…",
-      "strengths_en": "🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automate…",
-      "innovations_zh": "…omprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. Acting like an orchestrated team of specialized agents, it handles outline generation, literature review, section writing, content ref…",
-      "innovations_en": "…omprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. Acting like an orchestrated team of specialized agents, it handles outline generation, literature review, section writing, content ref…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 9,
+      "rank": 11,
       "full_name": "google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 10513,
-      "stars_delta": 145,
-      "forks": 1372,
-      "forks_delta": 7,
+      "stars": 10665,
+      "stars_delta": 152,
+      "forks": 1383,
+      "forks_delta": 11,
       "html_url": "https://github.com/google-labs-code/stitch-skills",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
         "zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
         "en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
@@ -381,432 +484,255 @@
       "insights_source": "readme-excerpt"
     },
     {
-      "rank": 10,
-      "full_name": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "topics": [
-        "compiler",
-        "template",
-        "ui"
-      ],
-      "stars": 89707,
-      "stars_delta": 0,
-      "forks": 6221,
-      "forks_delta": 6,
-      "html_url": "https://github.com/sveltejs/svelte",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "web development for the rest of us",
-        "en": "web development for the rest of us"
-      },
-      "strengths": {
-        "zh": "What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website, o…",
-        "en": "What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website, o…"
-      },
-      "innovations": {
-        "zh": "…s. If you'd like to support their efforts, please consider: - Becoming a backer on Open Collective. Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If…",
-        "en": "…s. If you'd like to support their efforts, please consider: - Becoming a backer on Open Collective. Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If…"
-      },
-      "purpose_zh": "web development for the rest of us",
-      "purpose_en": "web development for the rest of us",
-      "strengths_zh": "What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website, o…",
-      "strengths_en": "What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website, o…",
-      "innovations_zh": "…s. If you'd like to support their efforts, please consider: - Becoming a backer on Open Collective. Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If…",
-      "innovations_en": "…s. If you'd like to support their efforts, please consider: - Becoming a backer on Open Collective. Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 11,
-      "full_name": "jquery/jquery",
-      "description": "jQuery JavaScript Library",
-      "language": "JavaScript",
-      "topics": [
-        "jquery"
-      ],
-      "stars": 60068,
-      "stars_delta": 68,
-      "forks": 20713,
-      "forks_delta": 0,
-      "html_url": "https://github.com/jquery/jquery",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "jQuery JavaScript Library",
-        "en": "jQuery JavaScript Library"
-      },
-      "strengths": {
-        "zh": "jQuery — New Wave JavaScript Meetings are currently held on the matrix.org platform. Meeting minutes can be found at meetings.jquery.org. The latest version of jQuery is available at https://jquery.com/download/. Version support V…",
-        "en": "jQuery — New Wave JavaScript Meetings are currently held on the matrix.org platform. Meeting minutes can be found at meetings.jquery.org. The latest version of jQuery is available at https://jquery.com/download/. Version support V…"
-      },
-      "innovations": {
-        "zh": "…The 3.x branch will now only receive critical updates. The 2.x and 1.x branches are no longer supported. We recommend that all users upgrade to the latest version of jQuery to ensure that they have the best performance, security,…",
-        "en": "…The 3.x branch will now only receive critical updates. The 2.x and 1.x branches are no longer supported. We recommend that all users upgrade to the latest version of jQuery to ensure that they have the best performance, security,…"
-      },
-      "purpose_zh": "jQuery JavaScript Library",
-      "purpose_en": "jQuery JavaScript Library",
-      "strengths_zh": "jQuery — New Wave JavaScript Meetings are currently held on the matrix.org platform. Meeting minutes can be found at meetings.jquery.org. The latest version of jQuery is available at https://jquery.com/download/. Version support V…",
-      "strengths_en": "jQuery — New Wave JavaScript Meetings are currently held on the matrix.org platform. Meeting minutes can be found at meetings.jquery.org. The latest version of jQuery is available at https://jquery.com/download/. Version support V…",
-      "innovations_zh": "…The 3.x branch will now only receive critical updates. The 2.x and 1.x branches are no longer supported. We recommend that all users upgrade to the latest version of jQuery to ensure that they have the best performance, security,…",
-      "innovations_en": "…The 3.x branch will now only receive critical updates. The 2.x and 1.x branches are no longer supported. We recommend that all users upgrade to the latest version of jQuery to ensure that they have the best performance, security,…",
-      "insights_source": "readme-excerpt"
-    },
-    {
       "rank": 12,
-      "full_name": "appwrite/appwrite",
-      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "language": "TypeScript",
+      "full_name": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
       "topics": [
+        "accessibility",
+        "ai-agents",
         "android",
-        "appwrite",
-        "backend",
-        "backend-as-a-service",
-        "docker",
-        "firebase",
-        "firewall",
-        "flutter",
-        "hosting",
+        "app-review-guidelines",
+        "app-store",
+        "app-store-connect",
+        "app-store-rejection",
+        "app-store-review",
+        "claude-code",
+        "coppa",
+        "data-safety",
+        "eu-ai-act",
+        "gdpr",
+        "google-play",
+        "google-play-policy",
         "ios",
-        "javascript",
-        "nextjs",
-        "react",
-        "react-native",
-        "reactnative",
-        "self-hosted",
-        "selfhosted",
-        "supabase",
-        "swift",
-        "web"
+        "mobile-compliance",
+        "play-console",
+        "pre-submission-checklist",
+        "privacy-manifest"
       ],
-      "stars": 58320,
-      "stars_delta": 125,
-      "forks": 5889,
-      "forks_delta": 1,
-      "html_url": "https://github.com/appwrite/appwrite",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "stars": 1737,
+      "stars_delta": 542,
+      "forks": 123,
+      "forks_delta": 0,
+      "html_url": "https://github.com/mjmirza/app-store-compliance",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-        "en": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more"
+        "zh": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "en": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
       },
       "strengths": {
-        "zh": "Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in on…",
-        "en": "Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in on…"
+        "zh": "&nbsp;&nbsp;&nbsp; App Store Compliance Playbook Stop getting your iOS and Android apps rejected. The enterprise reference and automated guard that turns App Store and Google Play rejection into a designed out failure mode. Read i…",
+        "en": "&nbsp;&nbsp;&nbsp; App Store Compliance Playbook Stop getting your iOS and Android apps rejected. The enterprise reference and automated guard that turns App Store and Google Play rejection into a designed out failure mode. Read i…"
       },
       "innovations": {
-        "zh": "…rite project. Appwrite is available as a managed cloud platform and can also be self-hosted on infrastructure you control. It is designed for the AI agents in your workflow as well as for developers. Connect Cursor, Claude Code, C…",
-        "en": "…rite project. Appwrite is available as a managed cloud platform and can also be self-hosted on infrastructure you control. It is designed for the AI agents in your workflow as well as for developers. Connect Cursor, Claude Code, C…"
+        "zh": "…repo &nbsp;&nbsp; Fork it &nbsp;&nbsp; Follow on GitHub &nbsp;&nbsp; Follow on X &nbsp;&nbsp; next8n.com Start here Pick one row. The time shown is for that first step. You are Do this first Time --------- About to submit, and you…",
+        "en": "…repo &nbsp;&nbsp; Fork it &nbsp;&nbsp; Follow on GitHub &nbsp;&nbsp; Follow on X &nbsp;&nbsp; next8n.com Start here Pick one row. The time shown is for that first step. You are Do this first Time --------- About to submit, and you…"
       },
-      "purpose_zh": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "purpose_en": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "strengths_zh": "Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in on…",
-      "strengths_en": "Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in on…",
-      "innovations_zh": "…rite project. Appwrite is available as a managed cloud platform and can also be self-hosted on infrastructure you control. It is designed for the AI agents in your workflow as well as for developers. Connect Cursor, Claude Code, C…",
-      "innovations_en": "…rite project. Appwrite is available as a managed cloud platform and can also be self-hosted on infrastructure you control. It is designed for the AI agents in your workflow as well as for developers. Connect Cursor, Claude Code, C…",
+      "purpose_zh": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "purpose_en": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "strengths_zh": "&nbsp;&nbsp;&nbsp; App Store Compliance Playbook Stop getting your iOS and Android apps rejected. The enterprise reference and automated guard that turns App Store and Google Play rejection into a designed out failure mode. Read i…",
+      "strengths_en": "&nbsp;&nbsp;&nbsp; App Store Compliance Playbook Stop getting your iOS and Android apps rejected. The enterprise reference and automated guard that turns App Store and Google Play rejection into a designed out failure mode. Read i…",
+      "innovations_zh": "…repo &nbsp;&nbsp; Fork it &nbsp;&nbsp; Follow on GitHub &nbsp;&nbsp; Follow on X &nbsp;&nbsp; next8n.com Start here Pick one row. The time shown is for that first step. You are Do this first Time --------- About to submit, and you…",
+      "innovations_en": "…repo &nbsp;&nbsp; Fork it &nbsp;&nbsp; Follow on GitHub &nbsp;&nbsp; Follow on X &nbsp;&nbsp; next8n.com Start here Pick one row. The time shown is for that first step. You are Do this first Time --------- About to submit, and you…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 13,
-      "full_name": "openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "language": "C++",
+      "full_name": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
       "topics": [
-        "ai",
-        "computer-vision",
-        "deep-learning",
-        "deploy-ai",
-        "diffusion-models",
-        "generative-ai",
-        "good-first-issue",
-        "inference",
-        "llm-inference",
-        "natural-language-processing",
-        "nlp",
-        "openvino",
-        "optimize-ai",
-        "performance-boost",
-        "recommendation-system",
-        "speech-recognition",
-        "stable-diffusion",
-        "transformers",
-        "yolo"
+        "alerting",
+        "ci-cd",
+        "cli",
+        "datadog",
+        "devops",
+        "gitlab-ci",
+        "grafana",
+        "incident-management",
+        "llm",
+        "observability",
+        "ollama",
+        "remediation",
+        "root-cause-analysis",
+        "site-reliability-engineering",
+        "slack"
       ],
-      "stars": 11411,
-      "stars_delta": 115,
-      "forks": 3609,
-      "forks_delta": 9,
-      "html_url": "https://github.com/openvinotoolkit/openvino",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "stars": 13057,
+      "stars_delta": 25,
+      "forks": 1901,
+      "forks_delta": 0,
+      "html_url": "https://github.com/Tracer-Cloud/opensre",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+        "zh": "The open-source agent for CI/CD reliability.",
+        "en": "The open-source agent for CI/CD reliability."
       },
       "strengths": {
-        "zh": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
-        "en": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…"
+        "zh": "OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, wit…",
+        "en": "OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, wit…"
       },
       "innovations": {
-        "zh": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
-        "en": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…"
+        "zh": "…active development, and APIs and integrations may evolve. --- Before you begin Make sure you have: - A terminal open in a code project - A Git repository (recommended for the full workflow demonstration) Step 1: Install and start…",
+        "en": "…active development, and APIs and integrations may evolve. --- Before you begin Make sure you have: - A terminal open in a code project - A Git repository (recommended for the full workflow demonstration) Step 1: Install and start…"
       },
-      "purpose_zh": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "purpose_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "strengths_zh": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
-      "strengths_en": "Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI - Inference Optimization: Boost deep learning performance…",
-      "innovations_zh": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
-      "innovations_en": "…Model Support: Use models trained with popular frameworks such as PyTorch, TensorFlow, ONNX, Keras, PaddlePaddle, and JAX/Flax. Directly integrate models built with transformers and diffusers from the Hugging Face Hub using Optim…",
+      "purpose_zh": "The open-source agent for CI/CD reliability.",
+      "purpose_en": "The open-source agent for CI/CD reliability.",
+      "strengths_zh": "OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, wit…",
+      "strengths_en": "OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, wit…",
+      "innovations_zh": "…active development, and APIs and integrations may evolve. --- Before you begin Make sure you have: - A terminal open in a code project - A Git repository (recommended for the full workflow demonstration) Step 1: Install and start…",
+      "innovations_en": "…active development, and APIs and integrations may evolve. --- Before you begin Make sure you have: - A terminal open in a code project - A Git repository (recommended for the full workflow demonstration) Step 1: Install and start…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 14,
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
+      "full_name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
       "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
+        "app",
+        "crdt",
+        "editor",
+        "electron",
+        "knowledge-base",
+        "markdown",
+        "miro",
+        "notes",
+        "notion",
+        "notion-alternative",
+        "rust",
+        "rust-lang",
+        "rust-language",
+        "table",
+        "tableview",
+        "whiteboard",
+        "wiki",
+        "workspace"
       ],
-      "stars": 321512,
-      "stars_delta": 1570,
-      "forks": 28578,
-      "forks_delta": 33,
-      "html_url": "https://github.com/obra/superpowers",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "stars": 75065,
+      "stars_delta": 170,
+      "forks": 5557,
+      "forks_delta": 0,
+      "html_url": "https://github.com/toeverything/AFFiNE",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "An agentic skills framework & software development methodology that works.",
-        "en": "An agentic skills framework & software development methodology that works."
+        "zh": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+        "en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. "
       },
       "strengths": {
-        "zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-        "en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…"
+        "zh": "AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. Home Page Discord Live Demo Blog Document…",
+        "en": "AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. Home Page Discord Live Demo Blog Document…"
       },
       "innovations": {
-        "zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-        "en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…"
+        "zh": "…with AFFiNE - just like the word affine (əˈfʌɪn a-fine). Getting started & staying tuned with us. Star us, and you will receive all release notifications from GitHub without any delay! What is AFFiNE AFFiNE is an open-source, all-…",
+        "en": "…with AFFiNE - just like the word affine (əˈfʌɪn a-fine). Getting started & staying tuned with us. Star us, and you will receive all release notifications from GitHub without any delay! What is AFFiNE AFFiNE is an open-source, all-…"
       },
-      "purpose_zh": "An agentic skills framework & software development methodology that works.",
-      "purpose_en": "An agentic skills framework & software development methodology that works.",
-      "strengths_zh": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "strengths_en": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents - How i…",
-      "innovations_zh": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
-      "innovations_en": "…- Grok Build CLI - Kimi Code - OpenCode - Pi - Qwen Code - Hermes Agent - Muse - The Basic Workflow - When Something Goes Wrong - Community - What's Inside - Philosophy - Contributing - Updating - License - Visual companion telem…",
+      "purpose_zh": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "purpose_en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "strengths_zh": "AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. Home Page Discord Live Demo Blog Document…",
+      "strengths_en": "AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds. Home Page Discord Live Demo Blog Document…",
+      "innovations_zh": "…with AFFiNE - just like the word affine (əˈfʌɪn a-fine). Getting started & staying tuned with us. Star us, and you will receive all release notifications from GitHub without any delay! What is AFFiNE AFFiNE is an open-source, all-…",
+      "innovations_en": "…with AFFiNE - just like the word affine (əˈfʌɪn a-fine). Getting started & staying tuned with us. Star us, and you will receive all release notifications from GitHub without any delay! What is AFFiNE AFFiNE is an open-source, all-…",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 15,
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
       "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
+        "async",
+        "asyncio",
+        "bittorent",
+        "bt",
+        "cross-platform",
+        "download-manager",
+        "downloader",
+        "fluent-design",
+        "ftp",
+        "http3",
+        "magnet",
+        "pyqt",
+        "pyside6",
+        "python",
+        "qt",
+        "quic",
+        "react",
+        "software",
+        "streaming"
       ],
-      "stars": 306784,
-      "stars_delta": 394,
-      "forks": 45159,
-      "forks_delta": 52,
-      "html_url": "https://github.com/affaan-m/ECC",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "stars": 12581,
+      "stars_delta": 449,
+      "forks": 785,
+      "forks_delta": 0,
+      "html_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+        "zh": "The only downloader you need. 下载器的集大成者。",
+        "en": "The only downloader you need. 下载器的集大成者。"
       },
       "strengths": {
-        "zh": "Language: English العربية Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська Polski বাংলা Italiano [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub re…",
-        "en": "Language: English العربية Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська Polski বাংলা Italiano [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub re…"
+        "zh": "简体中文 English [!NOTE] Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network con…",
+        "en": "简体中文 English [!NOTE] Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network con…"
       },
       "innovations": {
-        "zh": "…rty re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one…",
-        "en": "…rty re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one…"
+        "zh": "…g, and browser automation. Free testing available, with 10% off using code PROXY90. The only downloader you need [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] […",
+        "en": "…g, and browser automation. Free testing available, with 10% off using code PROXY90. The only downloader you need [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] […"
       },
-      "purpose_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "purpose_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "strengths_zh": "Language: English العربية Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська Polski বাংলা Italiano [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub re…",
-      "strengths_en": "Language: English العربية Português (Brasil) 简体中文 繁體中文 日本語 한국어 Türkçe Русский Tiếng Việt ไทย Deutsch Español Українська Polski বাংলা Italiano [!WARNING] Official sources only. Install ECC only from verified channels: the GitHub re…",
-      "innovations_zh": "…rty re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one…",
-      "innovations_en": "…rty re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Use the guided setup or native plugin commands. Both install the same ecc@ecc plugin. Choose one…",
+      "purpose_zh": "The only downloader you need. 下载器的集大成者。",
+      "purpose_en": "The only downloader you need. 下载器的集大成者。",
+      "strengths_zh": "简体中文 English [!NOTE] Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network con…",
+      "strengths_en": "简体中文 English [!NOTE] Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network con…",
+      "innovations_zh": "…g, and browser automation. Free testing available, with 10% off using code PROXY90. The only downloader you need [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] […",
+      "innovations_en": "…g, and browser automation. Free testing available, with 10% off using code PROXY90. The only downloader you need [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] […",
       "insights_source": "readme-excerpt"
     },
     {
       "rank": 16,
-      "full_name": "DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "language": "JavaScript",
+      "full_name": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
       "topics": [
-        "ancient-china",
-        "cartography",
-        "china-map",
-        "chinese-history",
-        "classical-chinese-poetry",
-        "digital-humanities",
-        "gis",
-        "historical-atlas",
-        "historical-map",
-        "interactive-map"
-      ],
-      "stars": 8246,
-      "stars_delta": 345,
-      "forks": 1010,
-      "forks_delta": 44,
-      "html_url": "https://github.com/DeanChensj/jiangshan-map",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-        "en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
-      },
-      "strengths": {
-        "zh": "Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Ci…",
-        "en": "Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Ci…"
-      },
-      "innovations": {
-        "zh": "…o 1k GitHub stars --- Why It's Fun to Explore Have you ever wondered while reading Chinese history or classical poetry: - \"Where exactly on today's map are Jiankang (the Six Dynasties capital), Huangzhou (where Su Dongpo composed…",
-        "en": "…o 1k GitHub stars --- Why It's Fun to Explore Have you ever wondered while reading Chinese history or classical poetry: - \"Where exactly on today's map are Jiankang (the Six Dynasties capital), Huangzhou (where Su Dongpo composed…"
-      },
-      "purpose_zh": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "purpose_en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "strengths_zh": "Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Ci…",
-      "strengths_en": "Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Ci…",
-      "innovations_zh": "…o 1k GitHub stars --- Why It's Fun to Explore Have you ever wondered while reading Chinese history or classical poetry: - \"Where exactly on today's map are Jiankang (the Six Dynasties capital), Huangzhou (where Su Dongpo composed…",
-      "innovations_en": "…o 1k GitHub stars --- Why It's Fun to Explore Have you ever wondered while reading Chinese history or classical poetry: - \"Where exactly on today's map are Jiankang (the Six Dynasties capital), Huangzhou (where Su Dongpo composed…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 17,
-      "full_name": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "apis",
-        "automation",
-        "cli",
-        "data-flow",
-        "development",
-        "integration-framework",
-        "integrations",
-        "ipaas",
-        "low-code",
-        "low-code-platform",
+        "ai-agent",
+        "ai-video-editor",
+        "content-repurposing",
+        "desktop-app",
+        "douyin",
+        "instagram-reels",
         "mcp",
-        "mcp-client",
-        "mcp-server",
-        "n8n",
-        "no-code",
-        "self-hosted",
-        "typescript",
-        "workflow",
-        "workflow-automation"
+        "open-source",
+        "podcast",
+        "subtitles",
+        "tiktok",
+        "video-clipping",
+        "video-editing-software",
+        "xiaohongshu",
+        "youtube-shorts"
       ],
-      "stars": 211264,
-      "stars_delta": 263,
-      "forks": 61579,
-      "forks_delta": 14,
-      "html_url": "https://github.com/n8n-io/n8n",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
+      "stars": 11138,
+      "stars_delta": 110,
+      "forks": 1934,
+      "forks_delta": 0,
+      "html_url": "https://github.com/zhouxiaoka/autoclip",
+      "snapshot_at": "2026-11-19T20:47:32.628Z",
       "purpose": {
-        "zh": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+        "zh": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+        "en": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
       },
       "strengths": {
-        "zh": "n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integratio…",
-        "en": "n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integratio…"
+        "zh": "AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English · 日本語 · 한국어 · Español · Português ·…",
+        "en": "AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English · 日本語 · 한국어 · Español · Português ·…"
       },
       "innovations": {
-        "zh": "…multi-step agents using your own data, models, and tools - Model Flexibility, No Lock-In: Connect to OpenAI, Anthropic, Google, or open-source models and switch providers without changing your architecture - From Prototype to Prod…",
-        "en": "…multi-step agents using your own data, models, and tools - Model Flexibility, No Lock-In: Connect to OpenAI, Anthropic, Google, or open-source models and switch providers without changing your architecture - From Prototype to Prod…"
+        "zh": "…开可看另外 10 条。 竖版 · 访谈式与满屏播客式 Bill Gates 访谈式 · 抖音 · 中文 ▶ 播放 1:01 · 原片 AI Experts Debate 访谈式 · Shorts · 英文 ▶ 播放 1:25 · 原片 Tony Robbins 满屏播客 · 抖音 · 中文 ▶ 播放 1:45 · 原片 Andrew Garfield × Amy Poehler 满屏播客 · Shorts · 英文 ▶ 播放 1:01 · 原片 横版 ·…",
+        "en": "…开可看另外 10 条。 竖版 · 访谈式与满屏播客式 Bill Gates 访谈式 · 抖音 · 中文 ▶ 播放 1:01 · 原片 AI Experts Debate 访谈式 · Shorts · 英文 ▶ 播放 1:25 · 原片 Tony Robbins 满屏播客 · 抖音 · 中文 ▶ 播放 1:45 · 原片 Andrew Garfield × Amy Poehler 满屏播客 · Shorts · 英文 ▶ 播放 1:01 · 原片 横版 ·…"
       },
-      "purpose_zh": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "purpose_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "strengths_zh": "n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integratio…",
-      "strengths_en": "n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integratio…",
-      "innovations_zh": "…multi-step agents using your own data, models, and tools - Model Flexibility, No Lock-In: Connect to OpenAI, Anthropic, Google, or open-source models and switch providers without changing your architecture - From Prototype to Prod…",
-      "innovations_en": "…multi-step agents using your own data, models, and tools - Model Flexibility, No Lock-In: Connect to OpenAI, Anthropic, Google, or open-source models and switch providers without changing your architecture - From Prototype to Prod…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 18,
-      "full_name": "solidjs/solid",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "TypeScript",
-      "topics": [
-        "declarative",
-        "fine-grained",
-        "javascript",
-        "jsx",
-        "performance",
-        "proxies",
-        "reactive",
-        "solid"
-      ],
-      "stars": 36695,
-      "stars_delta": 171,
-      "forks": 1190,
-      "forks_delta": 11,
-      "html_url": "https://github.com/solidjs/solid",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-        "en": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
-      },
-      "strengths": {
-        "zh": "Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivi…",
-        "en": "Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivi…"
-      },
-      "innovations": {
-        "zh": "…lain this! Solid compiles your JSX to real DOM operations at build time. The component function runs once on mount; reactivity is per-expression, not per-render. The {doubled()} expression compiles to a tracked update that only to…",
-        "en": "…lain this! Solid compiles your JSX to real DOM operations at build time. The component function runs once on mount; reactivity is per-expression, not per-render. The {doubled()} expression compiles to a tracked update that only to…"
-      },
-      "purpose_zh": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "purpose_en": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "strengths_zh": "Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivi…",
-      "strengths_en": "Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivi…",
-      "innovations_zh": "…lain this! Solid compiles your JSX to real DOM operations at build time. The component function runs once on mount; reactivity is per-expression, not per-render. The {doubled()} expression compiles to a tracked update that only to…",
-      "innovations_en": "…lain this! Solid compiles your JSX to real DOM operations at build time. The component function runs once on mount; reactivity is per-expression, not per-render. The {doubled()} expression compiles to a tracked update that only to…",
-      "insights_source": "readme-excerpt"
-    },
-    {
-      "rank": 19,
-      "full_name": "punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "topics": [
-        "ai",
-        "mcp"
-      ],
-      "stars": 98156,
-      "stars_delta": 171,
-      "forks": 20379,
-      "forks_delta": 41,
-      "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "snapshot_at": "2026-11-19T07:38:50.258Z",
-      "purpose": {
-        "zh": "A collection of MCP servers.",
-        "en": "A collection of MCP servers."
-      },
-      "strengths": {
-        "zh": "Awesome MCP Servers [!IMPORTANT] ray.run – from idea to a production-grade MCP server in under a minute! 🦜 Ad A curated list of awesome Model Context Protocol (MCP) servers. What is MCP? Clients Remote Servers Tutorials Community…",
-        "en": "Awesome MCP Servers [!IMPORTANT] ray.run – from idea to a production-grade MCP server in under a minute! 🦜 Ad A curated list of awesome Model Context Protocol (MCP) servers. What is MCP? Clients Remote Servers Tutorials Community…"
-      },
-      "innovations": {
-        "zh": "…hrough standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.…",
-        "en": "…hrough standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.…"
-      },
-      "purpose_zh": "A collection of MCP servers.",
-      "purpose_en": "A collection of MCP servers.",
-      "strengths_zh": "Awesome MCP Servers [!IMPORTANT] ray.run – from idea to a production-grade MCP server in under a minute! 🦜 Ad A curated list of awesome Model Context Protocol (MCP) servers. What is MCP? Clients Remote Servers Tutorials Community…",
-      "strengths_en": "Awesome MCP Servers [!IMPORTANT] ray.run – from idea to a production-grade MCP server in under a minute! 🦜 Ad A curated list of awesome Model Context Protocol (MCP) servers. What is MCP? Clients Remote Servers Tutorials Community…",
-      "innovations_zh": "…hrough standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.…",
-      "innovations_en": "…hrough standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.…",
+      "purpose_zh": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "purpose_en": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "strengths_zh": "AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English · 日本語 · 한국어 · Español · Português ·…",
+      "strengths_en": "AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English · 日本語 · 한국어 · Español · Português ·…",
+      "innovations_zh": "…开可看另外 10 条。 竖版 · 访谈式与满屏播客式 Bill Gates 访谈式 · 抖音 · 中文 ▶ 播放 1:01 · 原片 AI Experts Debate 访谈式 · Shorts · 英文 ▶ 播放 1:25 · 原片 Tony Robbins 满屏播客 · 抖音 · 中文 ▶ 播放 1:45 · 原片 Andrew Garfield × Amy Poehler 满屏播客 · Shorts · 英文 ▶ 播放 1:01 · 原片 横版 ·…",
+      "innovations_en": "…开可看另外 10 条。 竖版 · 访谈式与满屏播客式 Bill Gates 访谈式 · 抖音 · 中文 ▶ 播放 1:01 · 原片 AI Experts Debate 访谈式 · Shorts · 英文 ▶ 播放 1:25 · 原片 Tony Robbins 满屏播客 · 抖音 · 中文 ▶ 播放 1:45 · 原片 Andrew Garfield × Amy Poehler 满屏播客 · Shorts · 英文 ▶ 播放 1:01 · 原片 横版 ·…",
       "insights_source": "readme-excerpt"
     }
   ]
