@@ -374,6 +374,30 @@
       "saved": false
     },
     {
+      "id": "1685",
+      "title": {
+        "zh": "llm-gemini 0.38.1",
+        "en": "llm-gemini 0.38.1"
+      },
+      "summary": {
+        "zh": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a sign…",
+        "en": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a sign…"
+      },
+      "title_zh": "llm-gemini 0.38.1",
+      "title_en": "llm-gemini 0.38.1",
+      "summary_zh": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a sign…",
+      "summary_en": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a sign…",
+      "title_text": "llm-gemini 0.38.1",
+      "summary_text": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a sign…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "published_at": "2026-11-20T03:01:57.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
       "id": "1654",
       "title": {
         "zh": "0.173.0-alpha.1",
@@ -1965,30 +1989,6 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
       "published_at": "2026-11-17T20:00:00.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1586",
-      "title": {
-        "zh": "Vercel Blob now supports TTLs for automatic deletion",
-        "en": "Vercel Blob now supports TTLs for automatic deletion"
-      },
-      "summary": {
-        "zh": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays …",
-        "en": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays …"
-      },
-      "title_zh": "Vercel Blob now supports TTLs for automatic deletion",
-      "title_en": "Vercel Blob now supports TTLs for automatic deletion",
-      "summary_zh": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays …",
-      "summary_en": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays …",
-      "title_text": "Vercel Blob now supports TTLs for automatic deletion",
-      "summary_text": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays …",
-      "source_id": "7",
-      "source_name": "Vercel Blog",
-      "url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
-      "published_at": "2026-11-17T18:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
