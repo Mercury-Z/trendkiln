@@ -28,23 +28,121 @@
     {
       "id": "1689",
       "title": {
-        "zh": "rust-v0.173.0-alpha.5",
-        "en": "rust-v0.173.0-alpha.5"
+        "zh": "0.173.0-alpha.5",
+        "en": "0.173.0-alpha.5"
       },
       "summary": {
         "zh": "Release 0.173.0-alpha.5",
         "en": "Release 0.173.0-alpha.5"
       },
-      "title_zh": "rust-v0.173.0-alpha.5",
-      "title_en": "rust-v0.173.0-alpha.5",
+      "title_zh": "0.173.0-alpha.5",
+      "title_en": "0.173.0-alpha.5",
       "summary_zh": "Release 0.173.0-alpha.5",
       "summary_en": "Release 0.173.0-alpha.5",
-      "title_text": "rust-v0.173.0-alpha.5",
+      "title_text": "0.173.0-alpha.5",
       "summary_text": "Release 0.173.0-alpha.5",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5",
-      "published_at": "2026-11-23T23:10:34.000Z",
+      "published_at": "2026-11-24T06:48:20.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1712",
+      "title": {
+        "zh": "datasette-charts 0.2a0",
+        "en": "datasette-charts 0.2a0"
+      },
+      "summary": {
+        "zh": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent…",
+        "en": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent…"
+      },
+      "title_zh": "datasette-charts 0.2a0",
+      "title_en": "datasette-charts 0.2a0",
+      "summary_zh": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent…",
+      "summary_en": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent…",
+      "title_text": "datasette-charts 0.2a0",
+      "summary_text": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "published_at": "2026-11-24T04:24:29.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1713",
+      "title": {
+        "zh": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+        "en": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft"
+      },
+      "summary": {
+        "zh": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+        "en": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit."
+      },
+      "title_zh": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "title_en": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "summary_zh": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "summary_en": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "title_text": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "summary_text": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "source_id": "6",
+      "source_name": "Latent Space",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "published_at": "2026-11-24T04:14:16.000Z",
+      "tags": [
+        "ainews: weekday roundups"
+      ],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1714",
+      "title": {
+        "zh": "datasette-agent 0.7a1",
+        "en": "datasette-agent 0.7a1"
+      },
+      "summary": {
+        "zh": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user in…",
+        "en": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user in…"
+      },
+      "title_zh": "datasette-agent 0.7a1",
+      "title_en": "datasette-agent 0.7a1",
+      "summary_zh": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user in…",
+      "summary_en": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user in…",
+      "title_text": "datasette-agent 0.7a1",
+      "summary_text": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user in…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "published_at": "2026-11-24T03:45:57.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1715",
+      "title": {
+        "zh": "0.174.0-alpha.1",
+        "en": "0.174.0-alpha.1"
+      },
+      "summary": {
+        "zh": "Release 0.174.0-alpha.1",
+        "en": "Release 0.174.0-alpha.1"
+      },
+      "title_zh": "0.174.0-alpha.1",
+      "title_en": "0.174.0-alpha.1",
+      "summary_zh": "Release 0.174.0-alpha.1",
+      "summary_en": "Release 0.174.0-alpha.1",
+      "title_text": "0.174.0-alpha.1",
+      "summary_text": "Release 0.174.0-alpha.1",
+      "source_id": "10",
+      "source_name": "openai/codex releases",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1",
+      "published_at": "2026-11-24T01:51:10.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -52,23 +150,47 @@
     {
       "id": "1690",
       "title": {
-        "zh": "rust-v0.172.0",
-        "en": "rust-v0.172.0"
+        "zh": "0.172.0",
+        "en": "0.172.0"
       },
       "summary": {
-        "zh": "Release 0.172.0",
-        "en": "Release 0.172.0"
+        "zh": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center wit…",
+        "en": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center wit…"
       },
-      "title_zh": "rust-v0.172.0",
-      "title_en": "rust-v0.172.0",
-      "summary_zh": "Release 0.172.0",
-      "summary_en": "Release 0.172.0",
-      "title_text": "rust-v0.172.0",
-      "summary_text": "Release 0.172.0",
+      "title_zh": "0.172.0",
+      "title_en": "0.172.0",
+      "summary_zh": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center wit…",
+      "summary_en": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center wit…",
+      "title_text": "0.172.0",
+      "summary_text": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center wit…",
       "source_id": "10",
       "source_name": "openai/codex releases",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
-      "published_at": "2026-11-23T22:48:38.000Z",
+      "published_at": "2026-11-24T00:06:41.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1716",
+      "title": {
+        "zh": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+      },
+      "summary": {
+        "zh": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weigh…",
+        "en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weigh…"
+      },
+      "title_zh": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "title_en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "summary_zh": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weigh…",
+      "summary_en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weigh…",
+      "title_text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "summary_text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weigh…",
+      "source_id": "2",
+      "source_name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "published_at": "2026-11-23T23:40:49.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -405,6 +527,54 @@
       "source_name": "Vercel Blog",
       "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
       "published_at": "2026-11-23T06:19:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1717",
+      "title": {
+        "zh": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+        "en": "Kazunari Hanao joins Vercel as Country Manager, Japan"
+      },
+      "summary": {
+        "zh": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in…",
+        "en": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in…"
+      },
+      "title_zh": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+      "title_en": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+      "summary_zh": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in…",
+      "summary_en": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in…",
+      "title_text": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+      "summary_text": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+      "published_at": "2026-11-23T05:00:00.000Z",
+      "tags": [],
+      "read_at": null,
+      "saved": false
+    },
+    {
+      "id": "1718",
+      "title": {
+        "zh": "Vercel日本法人の代表に花尾和成が就任いたしました",
+        "en": "Vercel日本法人の代表に花尾和成が就任いたしました"
+      },
+      "summary": {
+        "zh": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。…",
+        "en": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。…"
+      },
+      "title_zh": "Vercel日本法人の代表に花尾和成が就任いたしました",
+      "title_en": "Vercel日本法人の代表に花尾和成が就任いたしました",
+      "summary_zh": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。…",
+      "summary_en": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。…",
+      "title_text": "Vercel日本法人の代表に花尾和成が就任いたしました",
+      "summary_text": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。…",
+      "source_id": "7",
+      "source_name": "Vercel Blog",
+      "url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+      "published_at": "2026-11-23T05:00:00.000Z",
       "tags": [],
       "read_at": null,
       "saved": false
@@ -1095,30 +1265,6 @@
         "Improvement",
         "client apps"
       ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1656",
-      "title": {
-        "zh": "0.171.0",
-        "en": "0.171.0"
-      },
-      "summary": {
-        "zh": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added confi…",
-        "en": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added confi…"
-      },
-      "title_zh": "0.171.0",
-      "title_en": "0.171.0",
-      "summary_zh": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added confi…",
-      "summary_en": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added confi…",
-      "title_text": "0.171.0",
-      "summary_text": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added confi…",
-      "source_id": "10",
-      "source_name": "openai/codex releases",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
-      "published_at": "2026-11-20T00:47:14.000Z",
-      "tags": [],
       "read_at": null,
       "saved": false
     },
@@ -1843,156 +1989,6 @@
         "Gemini App",
         "Android",
         "AI"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1617",
-      "title": {
-        "zh": "Quoting Daniel Stenberg",
-        "en": "Quoting Daniel Stenberg"
-      },
-      "summary": {
-        "zh": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites ha…",
-        "en": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites ha…"
-      },
-      "title_zh": "Quoting Daniel Stenberg",
-      "title_en": "Quoting Daniel Stenberg",
-      "summary_zh": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites ha…",
-      "summary_en": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites ha…",
-      "title_text": "Quoting Daniel Stenberg",
-      "summary_text": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites ha…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "published_at": "2026-11-18T15:58:27.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1618",
-      "title": {
-        "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
-      },
-      "summary": {
-        "zh": "",
-        "en": ""
-      },
-      "title_zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary_zh": "",
-      "summary_en": "",
-      "title_text": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary_text": "",
-      "source_id": "8",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "published_at": "2026-11-18T15:00:23.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1619",
-      "title": {
-        "zh": "The PSF end-of-year fundraiser",
-        "en": "The PSF end-of-year fundraiser"
-      },
-      "summary": {
-        "zh": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the…",
-        "en": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the…"
-      },
-      "title_zh": "The PSF end-of-year fundraiser",
-      "title_en": "The PSF end-of-year fundraiser",
-      "summary_zh": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the…",
-      "summary_en": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the…",
-      "title_text": "The PSF end-of-year fundraiser",
-      "summary_text": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the…",
-      "source_id": "2",
-      "source_name": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "published_at": "2026-11-18T14:44:48.000Z",
-      "tags": [],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1620",
-      "title": {
-        "zh": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-        "en": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse"
-      },
-      "summary": {
-        "zh": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-        "en": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with."
-      },
-      "title_zh": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "title_en": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "summary_zh": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "summary_en": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "title_text": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "summary_text": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "source_id": "6",
-      "source_name": "Latent Space",
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "published_at": "2026-11-18T10:19:04.000Z",
-      "tags": [
-        "ainews: weekday roundups"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1627",
-      "title": {
-        "zh": "The Silent Consensus",
-        "en": "The Silent Consensus"
-      },
-      "summary": {
-        "zh": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-        "en": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
-      },
-      "title_zh": "The Silent Consensus",
-      "title_en": "The Silent Consensus",
-      "summary_zh": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "summary_en": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "title_text": "The Silent Consensus",
-      "summary_text": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "published_at": "2026-11-18T10:00:00.000Z",
-      "tags": [
-        "Intelligence Age"
-      ],
-      "read_at": null,
-      "saved": false
-    },
-    {
-      "id": "1638",
-      "title": {
-        "zh": "Research acceleration: The jagged frontier",
-        "en": "Research acceleration: The jagged frontier"
-      },
-      "summary": {
-        "zh": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-        "en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-      },
-      "title_zh": "Research acceleration: The jagged frontier",
-      "title_en": "Research acceleration: The jagged frontier",
-      "summary_zh": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "title_text": "Research acceleration: The jagged frontier",
-      "summary_text": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "source_id": "3",
-      "source_name": "OpenAI Blog",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published_at": "2026-11-18T08:00:00.000Z",
-      "tags": [
-        "Research"
       ],
       "read_at": null,
       "saved": false
